@@ -99,7 +99,6 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8882#%F0%9F%87%AB%F0%9F
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@195.154.200.150:443#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.200.150-5366
 ss://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=&encryption=none&headerType=none&type=tcp#FR🇫🇷
 ss://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&encryption=none&headerType=none&type=tcp#FR🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40NamiraConfigs%20%5B49%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
@@ -209,7 +208,6 @@ vless://94f51128-b5eb-4eb6-8010-12b7c55e559b@141.95.52.109:80?path=%2Fvless%2F&s
 vless://9e6be4b8-2724-405b-83e7-5de5d220e79c@199.232.170.133:443/?type=ws&encryption=none&host=UNLIMITEDDEV.zr.ir&path=%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D8880&security=tls&sni=live.wkrq.com&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7France
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=&encryption=none&headerType=none&type=tcp#FR🇫🇷
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&encryption=none&headerType=none&type=tcp#FR🇫🇷
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40NamiraConfigs%20%5B49%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AFR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=&encryption=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
