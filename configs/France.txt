@@ -118,6 +118,7 @@ ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.239:443?path=%2F&security=tls
 ss://aa670e7b-3738-46b6-b9e6-903c297775de@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fhlrgobws&security=tls&encryption=none&host=638919346453552455.esfahan-prx-dnraaby.info&type=ws&sni=638919346453552455.esfahan-prx-dnraaby.info#%3E%3E%40FreakConfig%3A%3AFR
 ss://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=&encryption=none&headerType=none&type=tcp#FR🇫🇷
 ss://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&encryption=none&headerType=none&type=tcp#FR🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40satellitenewspersian%20%5B19%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesskhodam%20%5B11%5D
@@ -254,6 +255,7 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.239:443?path=%2F&security=
 vless://aa670e7b-3738-46b6-b9e6-903c297775de@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fhlrgobws&security=tls&encryption=none&host=638919346453552455.esfahan-prx-dnraaby.info&type=ws&sni=638919346453552455.esfahan-prx-dnraaby.info#%3E%3E%40FreakConfig%3A%3AFR
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=&encryption=none&headerType=none&type=tcp#FR🇫🇷
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&encryption=none&headerType=none&type=tcp#FR🇫🇷
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40satellitenewspersian%20%5B19%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AFR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=&encryption=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesskhodam%20%5B11%5D

@@ -4482,6 +4482,8 @@ trojan://a7c7bbf0-48a1-11f0-b880-1239d0255272@uk1.test3.net:443?security=tls&hea
 trojan://a7c9c017-db10-4d15-b01b-0634db498b57@104.21.13.36:443?security=tls&sni=🔒
 trojan://a96cb093-b164-4bc6-bd27-deb0e385de07@104.21.42.93:443?security=tls&sni=🔒
 trojan://a96cb093-b164-4bc6-bd27-deb0e385de07@172.67.160.119:443?security=tls&sni=🔒
+trojan://aOg7TTTnWC@193.111.76.108:443?security=none&headerType=&type=tcp
+trojan://aOg7TTTnWC@193.111.76.108:443?security=none&headerType=&type=tcp#🚀
 trojan://aP&%7B)UBD%40qDGS9b%3B@172.66.44.109:2053/?type=tcp&security=tls&sni=🔒
 trojan://aTArbZ2F0E@172.66.168.209:443/?type=ws&path=%2Flinkvkws&security=tls&sni=uSa-vp-27.bLAzECLOUD.SITE#%F0%9F%8F%81RELAY-172.66.168.209-0900
 trojan://aTArbZ2F0E@172.66.168.209:443/?type=ws&path=🔒
@@ -6407,6 +6409,7 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/telegram-
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path==Join---Viturey---Viturey---Viturey---Viturey---Viturey---Viturey---&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#👉
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=🔒
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8```
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&host=vpn.stupidworld.web.id&path=/Tel-@ShadowProxy66#Telegram:@config_proxy
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&type=ws&path=%2F%40Hddify---%40Hddify---%40Hddify---%40Hddify---%40Hddify---%40Hddify&Host=vpn.stupidworld.web.id#%F0%9F%8F%81RELAY-172.67.181.173-1043
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&type=ws&path=%2FChannel--Telegram--%40Hddify--%40Hddify--%40Hddify&Host=vpn.stupidworld.web.id#%F0%9F%8F%81RELAY-172.67.181.173-1046
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&type=ws&path=%2FTel-%40ShadowProxy66&Host=vpn.stupidworld.web.id#%F0%9F%8F%81RELAY-172.67.181.173-1052
@@ -6791,7 +6794,6 @@ trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingn
 trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%B8%F0%9F%87%AASE-13.49.224.224-8657
 trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=🔒
 trojan://telegram-id-directvpn@15.188.153.82:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
-trojan://telegram-id-directvpn@15.188.237.53:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-directvpn@15.188.237.53:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-directvpn@15.188.70.236:22222?security=tls&sni=🔒
 trojan://telegram-id-directvpn@15.222.9.61:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayngconfig%20%5B44%5D
@@ -7621,6 +7623,8 @@ trojan://ttfang@45.131.211.216:2096?security=tls&sni=🔒
 trojan://ttfang@45.131.4.194:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ttfang.fange.me#%F0%9F%8F%81RELAY-45.131.4.194-0613
 trojan://ttfang@45.131.4.216:2096/?type=ws&host=ttfang.fange.me&path=%2FTelegram&security=tls&sni=ttfang.fange.me&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 trojan://ttfang@45.131.4.216:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ttfang.fange.me#%F0%9F%8F%81RELAY-45.131.4.216-0614
+trojan://ttfang@45.131.4.216:2096?path=/Telegram&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#Channel
+trojan://ttfang@45.131.4.216:2096?path=🔒
 trojan://ttfang@45.131.4.216:2096?security=tls&sni=🔒
 trojan://ttfang@45.131.5.194:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ttfang.fange.me#%F0%9F%8F%81RELAY-45.131.5.194-0614
 trojan://ttfang@45.131.5.216:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ttfang.fange.me#%F0%9F%8F%81RELAY-45.131.5.216-0615
@@ -8124,7 +8128,6 @@ trojan://xxoo@3.34.6.217:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.6.217-
 trojan://xxoo@us.blazeppn.info:443/?type=tcp&security=tls&sni=us.blazeppn.info#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-0377
 trojan://xxoo@us.blazeppn.info:443/?type=tcp&security=tls&sni=🔒
 trojan://xxoo@us.blazeppn.info:443?security=tls
-trojan://xxoo@us.blazeppn.info:443?security=tls&headerType=none&type=tcp&sni=us.blazeppn.info#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40outlinev2rayng%20%5B11%5D
 trojan://xxoo@us.blazeppn.info:443?security=tls&headerType=none&type=tcp&sni=us.blazeppn.info#🇺🇲@FreakConfig
 trojan://xxoo@us.blazeppn.info:443?security=tls&headerType=none&type=tcp&sni=🔒
 trojan://xxoo@us.blazeppn.info:443?security=tls&sni=us.blazeppn.info#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-0206
