@@ -61,6 +61,7 @@ hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400/?sni=YAPC-1.afs
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%E2%8F%B045%40oneclickvpnkeys
 hy2://a52663f7-bd8e-4553-a5de-ff6403a0ccfc@192.9.165.40:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#🇦🇺澳大利亚
 hy2://a914681a-8dda-4c98-8468-c313f5539b14@sg3.eyucdn.xyz:2056/?insecure=1&sni=sg3.eyucdn.xyz#新加坡
+hy2://ac09066f-0ec5-45cf-b5d2-50ab44440eec@45.136.245.177:80/?insecure=1&obfs=salamander&obfs-password=OGU1NTEyMGE2ZDhkODdhOQ==#Telegram:@config_proxy
 hy2://b57bbf70-8958-4ae5-b6fd-bcf39b81900c@ovo.5188666.xyz:63518/?insecure=1#🇭🇰香港
 hy2://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443/?mport=55000-56000&insecure=1&sni=www.bing.com#🇯🇵日本东京
 hy2://b866d83a-d301-4270-b699-40f322bf52fb@89.185.27.133:443/?mport=55000-56000&insecure=1&sni=www.bing.com#🇭🇰香港2
@@ -79,6 +80,7 @@ hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=🔒
 hy2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com```
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3AFR
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#Channel
+hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#Telegram:@config_proxy
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=🔒
 hy2://e10ea0d5-4244-4aec-9ba0-cafe77cc6d90@aws-linkhy10.liangxin1.xyz:443/?mport=30000-50000&insecure=1&sni=www.teslaautomation.de#🇸🇬新加坡
 hy2://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@asg.pagate.top:10086/#未知节点
@@ -110,6 +112,8 @@ hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@172.252.236.213:56704/?sni=dxob
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:49382?sni=real.getafreenode.sbs#qol_144
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:49720/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@23.132.228.217:45860/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+hysteria2://1f84e51f-c290-4426-9468-3060af826425@45.149.92.111:10000?sni=hk.gzcloud.shop&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1#Telegram:@config_proxy
+hysteria2://1f84e51f-c290-4426-9468-3060af826425@gzddns.776577.xyz:52000?sni=gzddns.776577.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1#Telegram:@config_proxy
 hysteria2://22f2c759db51b3d0@109.120.135.123:12122?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=de8287cd33b05fa3#%40V2rayNG3%20%232
 hysteria2://22f2c759db51b3d0@109.120.135.123:12122?security=tls&obfs=salamander&obfs-password=de8287cd33b05fa3&insecure=1&sni=www.google.com#@V2rayNG3
 hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
@@ -145,6 +149,7 @@ hysteria2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193/?insecure=1&sni=bing.
 hysteria2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193/?insecure=1&sni=bing.com#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%B8%F0%9F%87%AC
 hysteria2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193?security=tls&insecure=1&sni=bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B8%F0%9F%87%AChttps://t.me/+yK-vvb1ufABlMDlk
 hysteria2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193?sni=bing.com&insecure=1#SG
+hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2604:abc0:50::10:505b]:51458?sni=Ab.ac&obfs=salamander&obfs-password=mCywdi7xWEeKsMFK&insecure=1#Telegram:@config_proxy
 hysteria2://7992f244-8c2c-4a1a-923f-2e116e90149b@198.23.130.211:443/?mport=26666-29999&insecure=1&sni=file-oss-ccs-02.dafei.de#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8hysteria://208.87.243.187:15823/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8hysteria://108.181.24.77:37872/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://7992f244-8c2c-4a1a-923f-2e116e90149b@198.23.130.211:443/?mport=26666-29999&insecure=1&sni=file-oss-ccs-02.dafei.de#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%BA%F0%9F%87%B8hysteria://208.87.243.187:15823/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%BA%F0%9F%87%B8hysteria://108.181.24.77:37872/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://7992f244-8c2c-4a1a-923f-2e116e90149b@198.23.130.211:443?insecure=1&sni=file-oss-ccs-02.dafei.de#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%BA%F0%9F%87%B8%20%231
