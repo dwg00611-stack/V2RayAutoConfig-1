@@ -1,7 +1,5 @@
 hysteria2://0a93714f-7944-4cb1-a955-c602db605e85@teq.dport.top:33658?sni=teq.dport.top&insecure=1&obfs=salamander#TR
-ss://2375819c-b701-4cee-9a68-9db1b79c7d84@193.151.130.152:8080?path=/&security=none&encryption=none&type=ws#🇹🇷+Turkey
 ss://5e7be0f8-af63-45ff-8339-511a47a8243d@tiny-srv1.privacypath.org.tr:860/?encryption=none&host=zula.ir&type=tcp&headerType=http#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40tiny_vpn_official%20%5B2%5D
-ss://7babd487-be4a-4392-b28e-0bbed53c82cd@188.121.121.89:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🇹🇷+Turkey
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OQ==@tur.fastsoonlink.com:40019#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+tur.fastsoonlink.com-40019+%7C+478.94ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZFZMYWNjR0JxRng=@62.60.233.21:443#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:59.06ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFpMSFRQOGJ6TWc2S2VJV2NwZXo3@62.133.63.21:65262#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+62.133.63.21-65262+%7C+183.48ms
@@ -36,7 +34,6 @@ ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@45.89.52.66:9040#%F0%9F%87%B9%F0%9F%
 ss://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#%3E%3E%40V2RAY_VMESS_free%3A%3ATR
 ss://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#%F0%9F%87%B9%F0%9F%87%B7%5B%40ProxyVPN11%5D%20vless-TR%20%F0%9F%94%92
 ss://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#REALITY|TR🇹🇷
-ss://e6b6d832-5993-4348-84d2-8a5645ea04c7@188.121.121.89:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🇹🇷+Turkey
 ss://ea76de66-aa2b-ad79-d2f9-e21e361962c7@213.232.120.2:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA#%F0%9F%87%B9%F0%9F%87%B7%20TR-01%20%28u1047973s3759784p69%29%20%5Bvless%20-%20tcp%5D
 ss://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B8%5D
 ss://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088/?type=tcp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40drvpn_net%20%5B3%5D
@@ -47,13 +44,10 @@ ss://id7396444759@103.231.75.115:443/?type=tcp&encryption=none&flow=xtls-rprx-vi
 ss://id7890941744@s5.nodu10.ru:443?security=reality&encryption=none&pbk=oncHA5R446UW_VbO6t2jRllAI4iLFbpvOvi1ndZ-Mys&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=trendyol.com&sid=d7f1beae#REALITY|TR🇹🇷
 ss://tr0JXYME5xdoqpxCUAQKbN@193.57.136.223:443?security=reality&encryption=none&pbk=yRZ-w03XW9KvvqdG2UpZJQ0Pt3ZSI9bgPOmEaUjqSRU&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=8ed73883bc0eb6a8#🇹🇷@vpnserverrr-TR-vless
 trojan://tunnel-astrovpn_official-tr@tr-1.stunnel.cc:8441/?type=tcp&security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.monster.JoinTelegram-------------AstroVPN_Official----------Join.ir#%F0%9F%87%B9%F0%9F%87%B7TR-193.124.46.134-1018
-vless://2375819c-b701-4cee-9a68-9db1b79c7d84@193.151.130.152:8080?path=/&security=none&encryption=none&type=ws#🇹🇷+Turkey
 vless://5e7be0f8-af63-45ff-8339-511a47a8243d@tiny-srv1.privacypath.org.tr:860/?encryption=none&host=zula.ir&type=tcp&headerType=http#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40tiny_vpn_official%20%5B2%5D
-vless://7babd487-be4a-4392-b28e-0bbed53c82cd@188.121.121.89:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🇹🇷+Turkey
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#%3E%3E%40V2RAY_VMESS_free%3A%3ATR
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#%F0%9F%87%B9%F0%9F%87%B7%5B%40ProxyVPN11%5D%20vless-TR%20%F0%9F%94%92
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#REALITY|TR🇹🇷
-vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@188.121.121.89:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🇹🇷+Turkey
 vless://ea76de66-aa2b-ad79-d2f9-e21e361962c7@213.232.120.2:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA#%F0%9F%87%B9%F0%9F%87%B7%20TR-01%20%28u1047973s3759784p69%29%20%5Bvless%20-%20tcp%5D
 vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B8%5D
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088/?type=tcp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40drvpn_net%20%5B3%5D

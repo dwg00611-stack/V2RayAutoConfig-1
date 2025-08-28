@@ -4,7 +4,6 @@ ss://03c9f240-0bad-4f71-93f2-f5d272dada97@104.16.74.35:80?encryption=none&securi
 ss://03c9f240-0bad-4f71-93f2-f5d272dada97@104.24.184.113:80?encryption=none&security=none&type=ws&host=sparkling-limit-ppal03.yibijow194.workers.dev&path=/?ed=2560#🦆Ch:
 ss://03e4d6fe-f461-499f-b9c6-35c60f192e1a@104.24.147.64:80?encryption=none&security=none&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=/?ed=2560#🗝Ch:
 ss://03e4d6fe-f461-499f-b9c6-35c60f192e1a@172.64.148.32:80?encryption=none&security=none&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=/?ed=2560#🗝Ch:
-ss://19d597c4-b031-4d44-8a37-44fbe6620a19@195.15.243.23:443?mode=gun&security=reality&encryption=none&pbk=QQRq8pNyb-7woX7mXDuhB2lHiIeUPN7fCruufvoYil8&fp=chrome&spx=/&type=grpc&sni=www.speedtest.net&sid=c43431c287c0#🇨🇭+Switzerland
 ss://1ae17c7d-6074-41e2-894b-478c9fcf5715@104.16.54.161:80?encryption=none&security=none&type=ws&host=rough-hill-2959-ppal03.fawik58803.workers.dev&path=/?ed=2560#🎶Ch:
 ss://1ae17c7d-6074-41e2-894b-478c9fcf5715@172.64.157.124:80?encryption=none&security=none&type=ws&host=rough-hill-2959-ppal03.fawik58803.workers.dev&path=/?ed=2560#🎶Ch:
 ss://2370f4d8-6694-4e51-8c72-b2782ae96a59@104.24.248.204:80?encryption=none&security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=/?ed=2560#😟Ch:
@@ -127,7 +126,6 @@ vless://03c9f240-0bad-4f71-93f2-f5d272dada97@104.16.74.35:80?encryption=none&sec
 vless://03c9f240-0bad-4f71-93f2-f5d272dada97@104.24.184.113:80?encryption=none&security=none&type=ws&host=sparkling-limit-ppal03.yibijow194.workers.dev&path=/?ed=2560#🦆Ch:
 vless://03e4d6fe-f461-499f-b9c6-35c60f192e1a@104.24.147.64:80?encryption=none&security=none&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=/?ed=2560#🗝Ch:
 vless://03e4d6fe-f461-499f-b9c6-35c60f192e1a@172.64.148.32:80?encryption=none&security=none&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=/?ed=2560#🗝Ch:
-vless://19d597c4-b031-4d44-8a37-44fbe6620a19@195.15.243.23:443?mode=gun&security=reality&encryption=none&pbk=QQRq8pNyb-7woX7mXDuhB2lHiIeUPN7fCruufvoYil8&fp=chrome&spx=/&type=grpc&sni=www.speedtest.net&sid=c43431c287c0#🇨🇭+Switzerland
 vless://1ae17c7d-6074-41e2-894b-478c9fcf5715@104.16.54.161:80?encryption=none&security=none&type=ws&host=rough-hill-2959-ppal03.fawik58803.workers.dev&path=/?ed=2560#🎶Ch:
 vless://1ae17c7d-6074-41e2-894b-478c9fcf5715@172.64.157.124:80?encryption=none&security=none&type=ws&host=rough-hill-2959-ppal03.fawik58803.workers.dev&path=/?ed=2560#🎶Ch:
 vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@104.24.248.204:80?encryption=none&security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=/?ed=2560#😟Ch:
