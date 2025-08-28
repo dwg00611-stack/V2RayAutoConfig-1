@@ -309,7 +309,6 @@ trojan://TestingServer@@@94.102.53.19:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1N
 trojan://c378f9c9-733c-4a28-af47-cfa8b063a7f6@nl2-full.privateip.net:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-134.209.90.171-5032
 trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443/?type=tcp&security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-8180
 trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-7996
-trojan://ttfang@45.131.210.216:2096?allowInsecure=0&sni=ttfang.fange.me&ws=1&wspath=%2FTelegram#%F0%9F%87%B3%F0%9F%87%B1%20NL%E8%8D%B7%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://ttfang@45.131.210.216:2096?sni=ttfang.fange.me#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B02
 vless://08e01198-74c4-4bbc-a75f-146a48080167@zs9.topsekan.site:13058?security=reality&encryption=none&pbk=xBCYH9SE8Przpjidy0yi3-dD2IcTZjEzhfq9iixLAkA&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=e3c8fb7e#REALITY|NL🇳🇱
 vless://18d2a94a-7c1a-468e-a15b-5411ba5c59a9@shirehtoot.salamatmarel.ir:2087?type=tcp&headerType=http&path=%2F&security=reality&fp=chrome&sni=researchgate.net&pbk=b27Qni_E7X2t3m_utxJPaLkyYTjeb2tUXGcAs4P5tQY&sid=d583&spx=%2FjReax34WueGTMLJ#REALITY|NL🇳🇱
