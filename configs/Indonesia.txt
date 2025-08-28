@@ -133,7 +133,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encrypti
 ss://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#Channel%20id%3A%20%40zeshtobad%20%F0%9F%87%B9%F0%9F%87%B7
 ss://e3b665fd-0329-47dc-bc05-3474b14bcaf6@ipe3.alighan.ir:8443/?type=ws&encryption=none&host=s.alighan.ir&path=%2F%3Fed&security=tls&sni=ipe4.alighan.ir&alpn=http%2F1.1&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20
-ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=F50o1EkIeI.lIrA9xC7.iNfO&fp=chrome&type=ws&sni=F50o1EkIeI.lIrA9xC7.iNfO#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%BA%F0%9F%87%B8
 ss://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws&sni=pq-japan3.09vpn.com#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%AF%F0%9F%87%B5
 ss://ee2bb495-2632-445b-b1f8-3c476a50b78b@104.16.185.66:443/?type=ws&encryption=none&path=%2F&security=tls&sni=dl1-de-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 ss://ee2bb495-2632-445b-b1f8-3c476a50b78b@104.17.163.219:443/?type=ws&encryption=none&path=%2F&security=tls&sni=dl1-de-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
@@ -398,7 +397,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encry
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#Channel%20id%3A%20%40zeshtobad%20%F0%9F%87%B9%F0%9F%87%B7
 vless://e3b665fd-0329-47dc-bc05-3474b14bcaf6@ipe3.alighan.ir:8443/?type=ws&encryption=none&host=s.alighan.ir&path=%2F%3Fed&security=tls&sni=ipe4.alighan.ir&alpn=http%2F1.1&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=F50o1EkIeI.lIrA9xC7.iNfO&fp=chrome&type=ws&sni=F50o1EkIeI.lIrA9xC7.iNfO#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%BA%F0%9F%87%B8
 vless://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws&sni=pq-japan3.09vpn.com#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%AF%F0%9F%87%B5
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@104.16.185.66:443/?type=ws&encryption=none&path=%2F&security=tls&sni=dl1-de-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@104.17.163.219:443/?type=ws&encryption=none&path=%2F&security=tls&sni=dl1-de-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
