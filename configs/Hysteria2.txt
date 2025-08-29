@@ -24,6 +24,17 @@ hy2://5OiuCsPmULZ0lJwts89fegLJE@54.169.224.169:17193/?insecure=1&sni=bing.com#�
 hy2://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443/?mport=55000-56000&insecure=1&sni=www.bing.com#🇯🇵日本东京2
 hy2://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@89.185.27.133:443/?mport=55000-56000&insecure=1&sni=www.bing.com#🇭🇰香港2
 hy2://5eaa121d-4362-444d-8219-29b02c35303a@185.126.255.78:43429/?sni=🔒
+hy2://66975a45-dd40-4854-ba7b-80157a38dd64@dg.dimoyun.top:40001/?insecure=1&sni=dg.dimoyun.top#德国
+hy2://66975a45-dd40-4854-ba7b-80157a38dd64@els1.dimoyun.top:40001/?insecure=1&sni=els1.dimoyun.top#俄罗斯1
+hy2://66975a45-dd40-4854-ba7b-80157a38dd64@els2.dimoyun.top:40001/?insecure=1&sni=els1.dimoyun.top#俄罗斯2
+hy2://66975a45-dd40-4854-ba7b-80157a38dd64@mg.dimoyun.top:40001/?insecure=1&sni=mg.dimoyun.top#美国
+hy2://66975a45-dd40-4854-ba7b-80157a38dd64@rb.dimoyun.top:40001/?insecure=1&sni=rb.dimoyun.top#日本
+hy2://66975a45-dd40-4854-ba7b-80157a38dd64@xg.dimoyun.top:40001/?insecure=1&sni=xg.dimoyun.top#剩余流量：120
+hy2://66975a45-dd40-4854-ba7b-80157a38dd64@xg.dimoyun.top:40001/?insecure=1&sni=xg.dimoyun.top#套餐到期：2025-09-25
+hy2://66975a45-dd40-4854-ba7b-80157a38dd64@xg.dimoyun.top:40001/?insecure=1&sni=xg.dimoyun.top#距离下次重置剩余：6
+hy2://66975a45-dd40-4854-ba7b-80157a38dd64@xg.dimoyun.top:40001/?insecure=1&sni=xg.dimoyun.top#香港
+hy2://66975a45-dd40-4854-ba7b-80157a38dd64@xg2.dimoyun.top:40001/?insecure=1&sni=xg2.dimoyun.top#香港2@vlees_v2rayng
+hy2://66975a45-dd40-4854-ba7b-80157a38dd64@xjp.dimoyun.top:40001/?insecure=1&sni=xjp.dimoyun.top#新加坡
 hy2://7992f244-8c2c-4a1a-923f-2e116e90149b@198.23.130.211:443/?mport=26666-29999&insecure=1&sni=file-oss-ccs-02.dafei.de#Channel
 hy2://7992f244-8c2c-4a1a-923f-2e116e90149b@198.23.130.211:443/?mport=26666-29999&insecure=1&sni=🔒
 hy2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3ADE
@@ -151,6 +162,7 @@ hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?sni=www.bi
 hysteria2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820/?insecure=1&sni=bing.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 hysteria2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820/?insecure=1&sni=bing.com#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AC%F0%9F%87%A7
 hysteria2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820?sni=bing.com&insecure=1#GB
+hysteria2://7f1ad19e-2cc1-4eec-a583-d61f63165dea@dehub.xg-hub.icu:25784?security=tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=dehub.xg-hub.icu#Telegram:@config_proxy
 hysteria2://8418fb71-419d-4fc3-8b29-d7fee8de76c7@104.168.34.109:443?sni=www.bing.com&insecure=1#US
 hysteria2://8b583292-c936-4723-a8c7-8adb8ecf5044@hsxjp.huasuan666.top:22154?insecure=1#%40vmessprotocol%20%20%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86برای
 hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:43429?sni=real.getafreenode.sbs&insecure=0#UA
