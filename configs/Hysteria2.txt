@@ -61,7 +61,6 @@ hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400/?sni=YAPC-1.afs
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%E2%8F%B045%40oneclickvpnkeys
 hy2://a52663f7-bd8e-4553-a5de-ff6403a0ccfc@192.9.165.40:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#🇦🇺澳大利亚
 hy2://a914681a-8dda-4c98-8468-c313f5539b14@sg3.eyucdn.xyz:2056/?insecure=1&sni=sg3.eyucdn.xyz#新加坡
-hy2://ac09066f-0ec5-45cf-b5d2-50ab44440eec@45.136.245.177:80/?insecure=1&obfs=salamander&obfs-password=OGU1NTEyMGE2ZDhkODdhOQ==#Telegram:@config_proxy
 hy2://b57bbf70-8958-4ae5-b6fd-bcf39b81900c@ovo.5188666.xyz:63518/?insecure=1#🇭🇰香港
 hy2://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443/?mport=55000-56000&insecure=1&sni=www.bing.com#🇯🇵日本东京
 hy2://b866d83a-d301-4270-b699-40f322bf52fb@89.185.27.133:443/?mport=55000-56000&insecure=1&sni=www.bing.com#🇭🇰香港2
@@ -80,7 +79,6 @@ hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=🔒
 hy2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com```
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3AFR
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#Channel
-hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#Telegram:@config_proxy
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=🔒
 hy2://e10ea0d5-4244-4aec-9ba0-cafe77cc6d90@aws-linkhy10.liangxin1.xyz:443/?mport=30000-50000&insecure=1&sni=www.teslaautomation.de#🇸🇬新加坡
 hy2://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@asg.pagate.top:10086/#未知节点
@@ -134,6 +132,7 @@ hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@23.132.228.217:45860/?sni=dxobg
 hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?security=tls&insecure=1&sni=de.eyucdn.xyz#%DA%86%D9%86%D9%84%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%40v2ra_config
 hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?security=tls&insecure=1&sni=de.eyucdn.xyz#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig🤯
 hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?security=tls&insecure=1&sni=de.eyucdn.xyz#All--%F0%9F%9A%80%40proxy_Shadowsocks%F0%9F%9A%80لایکو
+hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?security=tls&insecure=1&sni=de.eyucdn.xyz#Telegram:@config_proxy
 hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?sni=de.eyucdn.xyz&insecure=1#DE
 hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@185.126.255.78:49720/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
@@ -225,6 +224,7 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#%40Daily_Configs
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#@Daily_Configs
 hysteria2://a16d62f6-048d-11f0-af5a-f23c93136cb3@b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk:1743?sni=b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk&insecure=0#US
+hysteria2://ac09066f-0ec5-45cf-b5d2-50ab44440eec@45.136.245.177:80?insecure=1&obfs=salamander&obfs-password=OGU1NTEyMGE2ZDhkODdhOQ==#Telegram%3A%40config_proxy%20%F0%9F%98%8D
 hysteria2://be81e21d-02d8-4a60-a07e-c2202a50a549@yjjdhl.yunjijd.xyz:26923?sni=yjjdhl.yunjijd.xyz&insecure=1#NL
 hysteria2://c8631767-f45c-4f48-bf19-5405e6d18679@45.136.245.177:33079/?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://c8631767-f45c-4f48-bf19-5405e6d18679@45.136.245.177:33079/?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%BA%F0%9F%87%B8
