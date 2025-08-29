@@ -193,7 +193,7 @@ ss://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encr
 ss://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v_2rayng0%20%7C%202
 ss://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40vaynora%20%7C%2014
 ss://76ed13e5-b315-4055-971a-7accddae57a5@svir1.craftedsmp.ir:443?security=none&encryption=none&host=anten.ir&headerType=none&type=tcp#IR🇮🇷
-ss://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=&encryption=none&host=fast.com&headerType=http&type=tcp&promo1=#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40fastfreeconfig%20%5B59%5D
+ss://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=&encryption=none&host=fast.com&headerType=http&type=tcp&promo1=#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40lombo_channel%20%5B3%5D
 ss://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40xsv2ray%20%5B6%5D
 ss://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@mainserver2.tarighi.info:16520?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 ss://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
@@ -791,7 +791,7 @@ vless://712e7715-0f22-4a5e-a986-a39427853fa3@cumhuriyet.com.tr:80?path=/@vmessor
 vless://716afcbb-e1d3-49d5-bdd1-4a0826eb8fd5@www.speedtest.net:80?path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048&security=none&encryption=none&host=Www.speedtest.net.developsp.ir.joinbedeh.xyz.&type=ws#SvnTeam-WIFI-irancell
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ra_ng_iran%20%5B17%5D
 vless://76ed13e5-b315-4055-971a-7accddae57a5@svir1.craftedsmp.ir:443?security=none&encryption=none&host=anten.ir&headerType=none&type=tcp#IR🇮🇷
-vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=&encryption=none&host=fast.com&headerType=http&type=tcp&promo1=#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40fastfreeconfig%20%5B59%5D
+vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=&encryption=none&host=fast.com&headerType=http&type=tcp&promo1=#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40lombo_channel%20%5B3%5D
 vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40xsv2ray%20%5B6%5D
 vless://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@mainserver2.tarighi.info:16520?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
