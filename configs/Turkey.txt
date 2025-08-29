@@ -1,5 +1,4 @@
 hysteria2://0a93714f-7944-4cb1-a955-c602db605e85@teq.dport.top:33658?sni=teq.dport.top&insecure=1&obfs=salamander#TR
-ss://5d167c53-11ad-4c7c-a7ed-f8325c5d4a79@193.111.76.108:3039?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxy_mtproto_vpns_free%20%5B10%5D
 ss://5e7be0f8-af63-45ff-8339-511a47a8243d@tiny-srv1.privacypath.org.tr:860/?encryption=none&host=zula.ir&type=tcp&headerType=http#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40tiny_vpn_official%20%5B2%5D
 ss://5ee84bff-f49f-4336-9bb5-0e1cdacf235d@tir.rskhi.ir:101?type=tcp&security=reality&pbk=LjRg8KMesM5oryRgOJ4x7w-dWVB6-5n7-puTriuj8hY&fp=chrome&sni=ftp.debian.org&sid=51ec&spx=/#tr-rxnm15b8
 ss://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?note=---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN&path=%2Flkjdasws&security=tls&encryption=none&type=ws#TR🇹🇷
@@ -52,7 +51,6 @@ ss://id7890941744@s5.nodu10.ru:443?security=reality&encryption=none&pbk=oncHA5R4
 ss://tr0JXYME5xdoqpxCUAQKbN@193.57.136.223:443?security=reality&encryption=none&pbk=yRZ-w03XW9KvvqdG2UpZJQ0Pt3ZSI9bgPOmEaUjqSRU&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=8ed73883bc0eb6a8#🇹🇷@vpnserverrr-TR-vless
 ss://tr0JXYME5xdoqpxCUAQKbN@193.57.136.223:443?type=tcp&security=reality&pbk=yRZ-w03XW9KvvqdG2UpZJQ0Pt3ZSI9bgPOmEaUjqSRU&fp=chrome&sni=ya.ru&sid=8ed73883bc0eb6a8&spx=%2F&flow=xtls-rprx-vision#REALITY|TR🇹🇷
 trojan://tunnel-astrovpn_official-tr@tr-1.stunnel.cc:8441/?type=tcp&security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.monster.JoinTelegram-------------AstroVPN_Official----------Join.ir#%F0%9F%87%B9%F0%9F%87%B7TR-193.124.46.134-1018
-vless://5d167c53-11ad-4c7c-a7ed-f8325c5d4a79@193.111.76.108:3039?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxy_mtproto_vpns_free%20%5B10%5D
 vless://5e7be0f8-af63-45ff-8339-511a47a8243d@tiny-srv1.privacypath.org.tr:860/?encryption=none&host=zula.ir&type=tcp&headerType=http#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40tiny_vpn_official%20%5B2%5D
 vless://5ee84bff-f49f-4336-9bb5-0e1cdacf235d@tir.rskhi.ir:101?type=tcp&security=reality&pbk=LjRg8KMesM5oryRgOJ4x7w-dWVB6-5n7-puTriuj8hY&fp=chrome&sni=ftp.debian.org&sid=51ec&spx=/#tr-rxnm15b8
 vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?note=---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN&path=%2Flkjdasws&security=tls&encryption=none&type=ws#TR🇹🇷
