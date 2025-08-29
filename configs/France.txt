@@ -158,7 +158,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?encryption=none&s
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v222ray%20%5B10%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?encryption=none&security=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v222ray%20%5B9%5D
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40NamiraConfigs%20%5B70%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AFR
@@ -292,7 +291,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?encryption=non
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v222ray%20%5B10%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?encryption=none&security=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v222ray%20%5B9%5D
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40NamiraConfigs%20%5B70%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AFR
