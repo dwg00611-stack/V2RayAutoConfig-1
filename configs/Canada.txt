@@ -12,6 +12,7 @@ ss://74d03a21-f000-4b08-9dd8-440f0e4d6622@148.113.207.224:443?security=tls&sni=z
 ss://9ad6196e-9332-4ba8-a60f-efd3bba1f37b@n2vpn-helper.projectis.ir:443/?type=ws&encryption=none&host=n2vpn.projectis.ir&path=%2F%40n2vpn&security=tls&sni=n2vpn.projectis.ir&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40n2vpn%20%5B9%5D
 ss://9ad6196e-9332-4ba8-a60f-efd3bba1f37b@n2vpn-helper.projectis.ir:443?path=%2F%40n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40n2vpn%20%5B9%5D
 ss://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.121.27:8080/?type=ws&encryption=none&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@166.88.130.112:808#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40orange_vpns%20%5B14%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dU1xa0dJeDZJYTA=@138.197.174.245:56443#%F0%9F%87%A8%F0%9F%87%A6CA-138.197.174.245-1087
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.143:805#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.143-5693
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:804#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-5695
