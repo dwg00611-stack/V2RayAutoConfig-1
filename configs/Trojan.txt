@@ -3950,8 +3950,6 @@ trojan://NISHIKUITAN111@172.67.123.169:443/?type=tcp&security=tls&allowInsecure=
 trojan://NISHIKUITAN111@172.67.127.202:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@172.67.145.193:443/?type=tcp&security=tls&allowInsecure=1
 trojan://NISHIKUITAN111@172.67.145.193:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN111@172.67.145.193:443?allowInsecure=1
-trojan://NISHIKUITAN111@172.67.145.193:443?allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 trojan://NISHIKUITAN111@172.67.181.95:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@172.67.185.81:443/?type=tcp&security=tls
 trojan://NISHIKUITAN111@172.67.199.141:443/?type=tcp&security=tls&allowInsecure=1
@@ -5763,7 +5761,6 @@ trojan://bpb-trojan@104.16.149.244:2053/?type=tcp&security=tls&sni=g1-21N.paGeS.
 trojan://bpb-trojan@104.16.150.188:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@104.16.150.188:443/?type=tcp&security=tls&sni=🔒
 trojan://bpb-trojan@104.16.171.51:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@104.16.171.51:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 trojan://bpb-trojan@104.16.171.51:443/?type=tcp&security=tls&sni=🔒
 trojan://bpb-trojan@104.16.193.133:443/?type=tcp&security=tls&sni=bpb.my79801.com#%40Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@104.16.193.133:443/?type=tcp&security=tls&sni=🔒
@@ -6626,7 +6623,6 @@ trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880/?type=ws&host=
 trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?security=none&type=ws&path=%2FTelegram%40Linkvws%3Fed%3D2560&host=late-tooth.granzinhannah.workers.dev#RELAY🚩
 trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.20.71.132:8880?security=none&type=ws&path=%2FTelegram%40Linkvws%3Fed%3D2560&host=late-tooth.granzinhannah.workers.dev#RELAY🚩
 trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.20.71.132:8880?security=none&type=ws&path=/Telegram@Linkvws?ed=2560&host=late-tooth.granzinhannah.workers.dev#@Hope_Net-join-us-on-Telegram
-trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.20.71.132:8880?security=none&type=ws&path=/Telegram@Linkvws?ed=2560&host=late-tooth.granzinhannah.workers.dev#[🇨🇦]t.me/ConfigsHub
 trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.20.71.132:8880?security=none&type=ws&path=🔒
 trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.224:2052/?type=tcp&security=tls
 trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.224:2052/?type=ws&host=late-tooth.granzinhannah.worke...&path=%2F%3Fed%3D2560
@@ -7430,6 +7426,7 @@ trojan://telegram-id-privatevpns@35.157.236.123:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@35.159.254.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.159.254.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@35.159.60.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@35.159.60.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.159.60.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@35.177.137.88:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-35.177.137.88-1440
 trojan://telegram-id-privatevpns@35.177.137.88:22222?security=tls&sni=🔒
@@ -7619,7 +7616,6 @@ trojan://tg-fq521free@45.67.215.95:443?security=tls&sni=🔒
 trojan://tg-fq521free@45.67.215.95:443?type=ws&sni=🔒
 trojan://trojan@104.18.12.229:8443/?type=tcp&security=tls&sni=mav2fly...&allowInsecure=1
 trojan://trojan@104.18.13.229:8443/?type=ws&host=pangpi.pages.dev&path=🔒
-trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=chrome&type=ws&host=pangpi.pages.dev&path=/?ed=2560#[🇨🇦]t.me/ConfigsHub
 trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=random&type=ws&host=pangpi.pages.dev&path=%2F%3Fed%3D2560#%40v2ray_configs_pool
 trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=random&type=ws&host=pangpi.pages.dev&path=%2F%3Fed%3D2560#RELAY🚩
 trojan://trojan@104.18.13.229:8443?security=tls&sni=🔒
