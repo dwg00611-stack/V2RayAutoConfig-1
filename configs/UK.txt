@@ -198,7 +198,6 @@ ss://d8e1cfdc-7899-4c71-8d11-058933210c55@143.110.169.61:52189?type=tcp&security
 ss://dc00f1f805b24bc0b851d4dfe5089329Og==@217.163.76.117:2052#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+217.163.76.117-2052+%7C+5.36ms
 ss://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nv137.momdping.com#GB🇬🇧
 ss://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_vpn%20%5B18%5D
-ss://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=none&encryption=none&headerType=none&type=tcp#GB🇬🇧
 ss://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.118.81:2087/?type=grpc&encryption=none&security=tls&sni=gp.mrclothshop.fun#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40fati_ffx%20%5B6%5D
 ss://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.118.88:2087/?type=grpc&encryption=none&security=tls&sni=gp.mrclothshop.fun#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40fati_ffx%20%5B5%5D
 ss://f48ce62c-85cb-422f-9478-7d049b781ac7@uk.momasvps.ir:8085?security=reality&encryption=none&pbk=cBiruUOymQvzSQnjAD7aaFXgZ45EDbVAEaxf3zxbg1o&headerType=none&fp=firefox&type=tcp&sni=www.journalofbigdata.springeropen.com&sid=fd7cbbe42ad29796#REALITY|GB🇬🇧
@@ -286,7 +285,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.85.118.16:2095?security=&type=ws
 vless://d8e1cfdc-7899-4c71-8d11-058933210c55@143.110.169.61:52189?type=tcp&security=reality&pbk=3mC2lH0qsBuTTzNSC3GtzcJlli2959J4yqZl08G4FCg&fp=firefox&sni=%2A.sourceforge.net&sid=593f3efe&spx=%2F#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40jokerv2ray%20%5B16%5D
 vless://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nv137.momdping.com#GB🇬🇧
 vless://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_vpn%20%5B18%5D
-vless://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=none&encryption=none&headerType=none&type=tcp#GB🇬🇧
 vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.118.81:2087/?type=grpc&encryption=none&security=tls&sni=gp.mrclothshop.fun#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40fati_ffx%20%5B6%5D
 vless://f26122cc-07bb-4cc8-e854-d9cae451baaa@45.85.118.88:2087/?type=grpc&encryption=none&security=tls&sni=gp.mrclothshop.fun#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40fati_ffx%20%5B5%5D
 vless://f48ce62c-85cb-422f-9478-7d049b781ac7@uk.momasvps.ir:8085?security=reality&encryption=none&pbk=cBiruUOymQvzSQnjAD7aaFXgZ45EDbVAEaxf3zxbg1o&headerType=none&fp=firefox&type=tcp&sni=www.journalofbigdata.springeropen.com&sid=fd7cbbe42ad29796#REALITY|GB🇬🇧
