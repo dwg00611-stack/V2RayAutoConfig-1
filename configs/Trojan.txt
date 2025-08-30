@@ -2354,6 +2354,8 @@ trojan://Aimer@103.116.7.67:2083/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.o
 trojan://Aimer@103.116.7.67:2083/?type=tcp&security=tls&sni=🔒
 trojan://Aimer@103.116.7.67:2083?allowInsecure=1&sni=🔒
 trojan://Aimer@103.116.7.67:2083?security=tls&sni=🔒
+trojan://Aimer@103.137.63.3:443?allowInsecure=0&sni=ngepy.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHub
+trojan://Aimer@103.137.63.3:443?allowInsecure=0&sni=🔒
 trojan://Aimer@103.30.76.210:444/?type=tcp&security=tls&sni=ngepo.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@103.30.76.210:444/?type=tcp&security=tls&sni=🔒
 trojan://Aimer@103.76.85.178:30002/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%8C%B097%40oneclickvpnkeys
@@ -3412,7 +3414,6 @@ trojan://DC&&buj17.%23donz*@45.80.108.1:2096/?type=ws&host=sue-support.pages.dev
 trojan://DC&&buj17.%23donz*@45.80.108.1:2096/?type=ws&host=sue-support.pages.dev&path=🔒
 trojan://DHvwod7oq7@104.21.80.1:2083/?type=ws&host=esna.twn24.ir&path=%2Fmehdi&security=tls&sni=esna.twn24.ir#%40Hope_Net-join-us-on-Telegram
 trojan://DHvwod7oq7@104.21.80.1:2083/?type=ws&host=esna.twn24.ir&path=🔒
-trojan://Daily_Configs@104.17.91.181:2053?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
 trojan://Daily_Configs@104.17.91.181:2053?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir#@Hope_Net-join-us-on-Telegram
 trojan://Daily_Configs@104.17.91.181:2053?security=tls&sni=🔒
 trojan://Daily_Configs@104.18.37.146:443?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#@Hope_Net-join-us-on-Telegram
@@ -4425,8 +4426,15 @@ trojan://V+%40iFj2PAdz.%7D_Hq@172.66.47.183:8443/?type=ws&host=joinmahdiserver-6
 trojan://V+%40iFj2PAdz.%7D_Hq@172.66.47.183:8443/?type=ws&host=joinmahdiserver-62e.pages.dev&security=tls&sni=🔒
 trojan://VGZ0nM9KY3Qz@172.67.175.40:2096/?type=tcp&security=tls&sni=🔒
 trojan://VPNCUSTOMIZE@104.17.234.12:443?allowInsecure=1&sni=🔒
+trojan://VPNCUSTOMIZE@www.speedtest.net:80?path=%2Ftr----VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE&security=none%3D-%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann&host=join-vpncustomize.ip-ddns.com&type=ws#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40ghalagyann%20%5B17%5D
+trojan://VPNCUSTOMIZE@www.speedtest.net:80?path=%2Ftr----VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE&security=none%3D--%40ghalagyann2--%40ghalagyann2---%40ghalagyann2---%40ghalagyann2---%40ghalagyann2---%40ghalagyann2---%40ghalagyann2---%40ghalagyann2---%40ghalagyann2---%40ghalagyann2---%40ghalagyann2---%40ghalagyann2---%40ghalagyann2---%40ghalagyann2---%40ghalagyann2---%40ghalagyann2&host=join-vpncustomize.ip-ddns.com&type=ws#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40ghalagyann2%20%5B7%5D
+trojan://VPNCUSTOMIZE@www.speedtest.net:80?path=%2Ftr----VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE&security=none&host=join-vpncustomize.ip-ddns.com&type=ws#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40v2raych%20%5B20%5D
 trojan://VPNCUSTOMIZE@www.speedtest.net:80?path=%2Ftr----VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE&security=none&host=join-vpncustomize.ip-ddns.com&type=ws#NL%20%F0%9F%87%B3%F0%9F%87%B1%20V2ray%20%F0%9F%92%A5
 trojan://VPNCUSTOMIZE@www.speedtest.net:80?path=%2Ftr----VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE&security=none&host=join-vpncustomize.ip…
+trojan://VPNCUSTOMIZE@www.speedtest.net:80?path=/tr----VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE&security=none&host=join-vpncustomize.ip-ddns.com&type=ws#NL
+trojan://VPNCUSTOMIZE@www.speedtest.net:80?path=/tr----VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE&security=none=--@ghalagyann2--@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2&host=join-vpncustomize.ip-ddns.com&type=ws#WS-🇩🇪@ghalagyann2
+trojan://VPNCUSTOMIZE@www.speedtest.net:80?path=/tr----VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE&security=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=join-vpncustomize.ip-ddns.com&type=ws#WS-🇩🇪@ghalagyann
+trojan://VPNCUSTOMIZE@www.speedtest.net:80?path=🔒
 trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?security=none&headerType=http&type=tcp
 trojan://VpRuqFDCJo@138.2.234.225:45555?security=tls&sni=🔒
 trojan://VtEmSN3CPs@172.67.175.40:2096/?type=ws&host=iran.farsonline24.ir&path=%2F%F0%9F%86%94%40M3HDIO1&security=tls&sni=iran.farsonline24.ir&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome#%40Hope_Net-join-us-on-Telegram
@@ -4788,7 +4796,7 @@ trojan://auto@104.20.22.218:443/?type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&
 trojan://auto@104.20.22.241:443/?type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=🔒
 trojan://auto@104.20.22.241:443?security=tls&type=ws&sni=🔒
 trojan://auto@104.20.22.244:443/?type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev#%40Hope_Net-join-us-on-Telegram
-trojan://auto@104.20.22.250:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&host=b96ef9ae.trojanfree-76s.pages.dev#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
+trojan://auto@104.20.22.250:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&host=b96ef9ae.trojanfree-76s.pages.dev#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B18%5D
 trojan://auto@104.20.22.250:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://auto@104.20.22.250:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#t.me/entryNET/config=1841864019626560
 trojan://auto@104.20.22.250:443?security=tls&type=ws&sni=🔒
@@ -6809,7 +6817,6 @@ trojan://fc2e30d6-474a-42a4-8de2-32720698c97f@v02.gutingting.com:30038/?type=tcp
 trojan://fc2e30d6-474a-42a4-8de2-32720698c97f@v02.gutingting.com:30038?security=tls&sni=v2hgc02.fuqiangren.com#%F0%9F%87%AD%F0%9F%87%B0HK-5.83.221.31-1371
 trojan://fc2e30d6-474a-42a4-8de2-32720698c97f@v02.gutingting.com:30038?security=tls&sni=🔒
 trojan://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?security=tls&type=ws&sni=sB-1u6.Pages.DEV&path=/Telegram@V2ray_Alpha/?ed=2560&host=sB-1u6.Pages.DEV#@Hope_Net-join-us-on-Telegram
-trojan://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?security=tls&type=ws&sni=sB-1u6.Pages.DEV&path=/Telegram@V2ray_Alpha/?ed=2560&host=sB-1u6.Pages.DEV#t.me/entryNET/config=1841833940065122
 trojan://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?security=tls&type=ws&sni=🔒
 trojan://fddd2348-b67b-49aa-aaca-085d32f3f6fb@217.79.181.82:443?security=tls&sni=🔒
 trojan://fe6p503m-scjw-x3wk-wfw1-2z396l6zljyi@127.0.0.1:4080?security=tls&type=tcp#「
