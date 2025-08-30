@@ -777,7 +777,6 @@ trojan://2fec7227-9abe-46f2-af18-78302b836c45@104.21.30.167:443?security=tls&sni
 trojan://30761083-5dcd-49d6-85b5-33756ef1f7ed@uk2-full.privateip.net:443?security=tls
 trojan://3123deb0-4684-11f0-8fc7-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp
 trojan://3123deb0-4684-11f0-8fc7-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💗
-trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?path=🔒
 trojan://3240d72a-1373-4566-9c6c-68524e4b13fc@es-full.privateip.net:443?security=tls
 trojan://3240d72a-1373-4566-9c6c-68524e4b13fc@es-full.privateip.net:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-139.59.209.171-4977
 trojan://3454b8f0-aa56-11ef-b61b-1239d0255272@104.17.147.22:443?sni=sg-4.test3.net&type=ws&host=sg-4.test3.net&path=%2Fhowdy#SG🇸🇬
@@ -5449,6 +5448,7 @@ trojan://blue2024@104.24.67.234:443/?type=tcp&security=tls&sni=🔒
 trojan://blue2024@104.24.67.234:443?allowInsecure=1&sni=🔒
 trojan://blue2024@104.24.7.196:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.24.92.234:443?security=tls&type=ws&sni=td.promote.icu&path=/?ed=2560&host=td.promote.icu#[🇨🇦]t.me/ConfigsHub
+trojan://blue2024@104.24.92.234:443?security=tls&type=ws&sni=🔒
 trojan://blue2024@104.25.171.193:443/?type=tcp&security=tls&sni=🔒
 trojan://blue2024@104.25.171.3:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.25.171.3:443/?type=tcp&security=tls&sni=🔒
@@ -7117,7 +7117,6 @@ trojan://telegram-id-directvpn@13.36.139.6:22223?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@13.36.223.77:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-directvpn@13.36.247.35:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-directvpn@13.37.160.116:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
-trojan://telegram-id-directvpn@13.37.54.205:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-directvpn@13.38.147.171:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.112.204-8660
 trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=🔒
