@@ -510,6 +510,7 @@ ss://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443/?type=ws&encryp
 ss://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=none&encryption=none&headerType=none&type=tcp#All-@IRAN_V2RAY1
 ss://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=none&encryption=none&headerType=none&type=tcp#All_@IRAN_V2RAY1
 ss://e3101dd0-3dbf-5493-9d80-6787195e96a0@41.216.182.162:443?path=/vless&security=tls&encryption=none&host=41.216.182.162&fp=chrome&type=ws&sni=zula.ir#@IRAN_V2RAY1
+ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&type=grpc#All--%40IRAN_V2RAY1
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&type=grpc#All--@IRAN_V2RAY1
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#All_@IRAN_V2RAY1
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN
@@ -1002,6 +1003,7 @@ vless://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443/?type=ws&enc
 vless://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=none&encryption=none&headerType=none&type=tcp#All-@IRAN_V2RAY1
 vless://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=none&encryption=none&headerType=none&type=tcp#All_@IRAN_V2RAY1
 vless://e3101dd0-3dbf-5493-9d80-6787195e96a0@41.216.182.162:443?path=/vless&security=tls&encryption=none&host=41.216.182.162&fp=chrome&type=ws&sni=zula.ir#@IRAN_V2RAY1
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&type=grpc#All--%40IRAN_V2RAY1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&type=grpc#All--@IRAN_V2RAY1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#All_@IRAN_V2RAY1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN
