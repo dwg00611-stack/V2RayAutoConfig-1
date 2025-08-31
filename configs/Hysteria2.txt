@@ -101,6 +101,7 @@ hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@172.252.236.213:56704/?sni=dxob
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:49382?sni=real.getafreenode.sbs#qol_144
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:49720/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@23.132.228.217:45860/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+hysteria2://10822856-7452-43ec-b35b-6f24ea33530f@chervhill.hajalii.com:29662?insecure=0&sni=chervhill.hajalii.com&obfs=salamander&obfs-password=xFGh9dsyreJV9sMs1RUnFbwRdon#%40Mr_Config_Group%E2%9C%8C%EF%B8%8F
 hysteria2://10822856-7452-43ec-b35b-6f24ea33530f@chervhill.hajalii.com:29662?obfs=salamander&obfs-password=xFGh9dsyreJV9sMs1RUnFbwRdon&sni=chervhill.hajalii.com&insecure=0#@Mr_Config_Group✌️
 hysteria2://22f2c759db51b3d0@109.120.135.123:12122?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=de8287cd33b05fa3#%40V2rayNG3%20%232
 hysteria2://22f2c759db51b3d0@109.120.135.123:12122?security=tls&obfs=salamander&obfs-password=de8287cd33b05fa3&insecure=1&sni=www.google.com#@V2rayNG3
@@ -218,6 +219,7 @@ hysteria2://a16d62f6-048d-11f0-af5a-f23c93136cb3@b9c3912b-t07z40-t1l1nh-d6ar.la.
 hysteria2://a59be66d-1e59-40ea-b378-ceecd80c3337@45.11.1.62:443/?mport=50000-55000&insecure=1&sni=www.microsoft.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AF%F0%9F%87%B5
 hysteria2://a59be66d-1e59-40ea-b378-ceecd80c3337@45.11.1.62:443/?mport=50000-55000&insecure=1&sni=www.microsoft.com#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AF%F0%9F%87%B5
 hysteria2://a59be66d-1e59-40ea-b378-ceecd80c3337@45.11.1.62:443?sni=www.microsoft.com&insecure=1#JP
+hysteria2://aa517d88689b1b650345d07018329624@putin.fizikade.ir:44666?insecure=0&sni=putin.fizikade.ir&obfs=salamander&obfs-password=jahhahyy7766HTft6tH655#Telegram%3A%40config_proxy%20%F0%9F%98%8D%20%2315
 hysteria2://aa517d88689b1b650345d07018329624@putin.fizikade.ir:44666?security=tls&obfs=salamander&obfs-password=jahhahyy7766HTft6tH655&insecure=0&sni=putin.fizikade.ir#%F0%9F%87%B7%F0%9F%87%BA%20%F0%9D%91%B9%F0%9D%92%96%F0%9D%92%94%F0%9D%92%94%F0%9D%92%8A%F0%9D%92%82-%20%E2%9A%A1
 hysteria2://aa517d88689b1b650345d07018329624@putin.fizikade.ir:44666?sni=putin.fizikade.ir&obfs=salamander&obfs-password=jahhahyy7766HTft6tH655&insecure=0#Telegram:@config_proxy
 hysteria2://be81e21d-02d8-4a60-a07e-c2202a50a549@yjjdhl.yunjijd.xyz:26923?sni=yjjdhl.yunjijd.xyz&insecure=1#NL
