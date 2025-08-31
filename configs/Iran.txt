@@ -26,7 +26,6 @@ ss://10aca91a-6e44-46cb-a890-ea246400c0a7@185.236.37.23:443?security=tls&encrypt
 ss://10aca91a-6e44-46cb-a890-ea246400c0a7@cdn2.azkhaktakhane.ir:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cdn2.azkhaktakhane.ir&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B66%5D
 ss://12f591ba-d695-4396-9190-f2f3aaa9ea47@162.159.137.3:443?path=%2FXYXY0721&security=tls&encryption=none&host=at.xiejiang.dpdns.org&fp=chrome&type=ws&sni=at.xiejiang.dpdns.org#IRAN%20695%20%28%40Outline_Vpn%29%20free
 ss://12f591ba-d695-4396-9190-f2f3aaa9ea47@162.159.137.3:443?path=/XYXY0721&security=tls&encryption=none&host=at.xiejiang.dpdns.org&fp=chrome&type=ws&sni=at.xiejiang.dpdns.org#IRAN
-ss://1722b819-77a6-4db0-998f-2e23e888fa56@178.239.144.145:34740?security=none&type=grpc&serviceName=%D9%86%DA%AF%D8%A7%D9%87+%D9%86%DA%A9%D9%86+%D9%86%DB%8C%DA%AF%D8%A7#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40hope_net%20%5B18%5D
 ss://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 ss://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#@Iran_V2RAY1
 ss://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?path=/panika&security=none&encryption=none&type=ws#@IRAN_V2RAY1
@@ -632,7 +631,6 @@ vless://10aca91a-6e44-46cb-a890-ea246400c0a7@185.236.37.23:443?security=tls&encr
 vless://10aca91a-6e44-46cb-a890-ea246400c0a7@cdn2.azkhaktakhane.ir:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cdn2.azkhaktakhane.ir&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B66%5D
 vless://12f591ba-d695-4396-9190-f2f3aaa9ea47@162.159.137.3:443?path=%2FXYXY0721&security=tls&encryption=none&host=at.xiejiang.dpdns.org&fp=chrome&type=ws&sni=at.xiejiang.dpdns.org#IRAN%20695%20%28%40Outline_Vpn%29%20free
 vless://12f591ba-d695-4396-9190-f2f3aaa9ea47@162.159.137.3:443?path=/XYXY0721&security=tls&encryption=none&host=at.xiejiang.dpdns.org&fp=chrome&type=ws&sni=at.xiejiang.dpdns.org#IRAN
-vless://1722b819-77a6-4db0-998f-2e23e888fa56@178.239.144.145:34740?security=none&type=grpc&serviceName=%D9%86%DA%AF%D8%A7%D9%87+%D9%86%DA%A9%D9%86+%D9%86%DB%8C%DA%AF%D8%A7#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40hope_net%20%5B18%5D
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#@Iran_V2RAY1
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?path=/panika&security=none&encryption=none&type=ws#@IRAN_V2RAY1
