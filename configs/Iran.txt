@@ -231,6 +231,7 @@ ss://8a059bef-4395-4fdd-973e-fbe626cff94f@104.31.16.104:2053?path=/&security=tls
 ss://8a059bef-4395-4fdd-973e-fbe626cff94f@Www.speedtest.net:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=ftp.arsalak.ir&fp=chrome&type=ws&sni=ftp.arsalak.ir#All_@IRAN_V2RAY1
 ss://8a6bbf50-6440-4bab-92a1-5def72326ff9@107.170.77.232:17478?type=grpc&serviceName=@Silver_v2ray@Silver_v2ray@UCIRANIR@UCIRANIR&authority=&security=none#@Silver_v2ray@UCIRANIR
 ss://8b4bb431-21bf-46c9-a4bf-4deac75613f9@nwarne.fast.hosting-ip.com:80?path=%2Fde%3Fed%3D1048&security=none&encryption=none&host=Afkarnews.com&type=ws#IR🇮🇷
+ss://8c17092b-4d89-44e3-9dcb-a00c2bf28827@172.66.40.99:80?path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=barayeiranmahsang.bahareh.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.bahareh.dpdns.org#@MARAMBASHI
 ss://8c17092b-4d89-44e3-9dcb-a00c2bf28827@172.66.40.99:80?path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=barayeiranmahsang.bahareh.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.bahareh.dpdns.org#@meli_proxyy
 ss://8dbb26f8-8832-46bc-bc0c-a2f17d8d200f@15.204.236.64:24820?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 ss://8dbb26f8-8832-46bc-bc0c-a2f17d8d200f@15.204.236.64:24820?security=none&encryption=none&headerType=none&type=tcp#@Iran_V2RAY1
@@ -813,6 +814,7 @@ vless://8a059bef-4395-4fdd-973e-fbe626cff94f@104.31.16.104:2053?path=/&security=
 vless://8a059bef-4395-4fdd-973e-fbe626cff94f@Www.speedtest.net:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=ftp.arsalak.ir&fp=chrome&type=ws&sni=ftp.arsalak.ir#All_@IRAN_V2RAY1
 vless://8a6bbf50-6440-4bab-92a1-5def72326ff9@107.170.77.232:17478?type=grpc&serviceName=@Silver_v2ray@Silver_v2ray@UCIRANIR@UCIRANIR&authority=&security=none#@Silver_v2ray@UCIRANIR
 vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@nwarne.fast.hosting-ip.com:80?path=%2Fde%3Fed%3D1048&security=none&encryption=none&host=Afkarnews.com&type=ws#IR🇮🇷
+vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@172.66.40.99:80?path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=barayeiranmahsang.bahareh.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.bahareh.dpdns.org#@MARAMBASHI
 vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@172.66.40.99:80?path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=barayeiranmahsang.bahareh.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.bahareh.dpdns.org#@meli_proxyy
 vless://8dbb26f8-8832-46bc-bc0c-a2f17d8d200f@15.204.236.64:24820?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 vless://8dbb26f8-8832-46bc-bc0c-a2f17d8d200f@15.204.236.64:24820?security=none&encryption=none&headerType=none&type=tcp#@Iran_V2RAY1
