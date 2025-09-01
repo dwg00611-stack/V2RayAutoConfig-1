@@ -29,7 +29,6 @@ ss://12f591ba-d695-4396-9190-f2f3aaa9ea47@162.159.137.3:443?path=%2FXYXY0721&sec
 ss://12f591ba-d695-4396-9190-f2f3aaa9ea47@162.159.137.3:443?path=/XYXY0721&security=tls&encryption=none&host=at.xiejiang.dpdns.org&fp=chrome&type=ws&sni=at.xiejiang.dpdns.org#IRAN
 ss://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 ss://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#@Iran_V2RAY1
-ss://19520834-ea72-480c-b55f-2b14ca19b4c2@almas2.alireza031.shop:29108?encryption=none&security=none&type=ws&host=sSPR2.divarcdn.com%2CRFT0N.snappfood.ir%2CENlKX.yjc.ir%2CstJEU.digikala.com%2Cemp4W.tic.ir&path=%2FAlmas2#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxy_mtproto_vpns_free%20%5B11%5D
 ss://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?path=/panika&security=none&encryption=none&type=ws#@IRAN_V2RAY1
 ss://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?path=/panika&security=none&encryption=none&type=ws#IR-@IRAN_V2RAY1
 ss://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#@IRAN_V2RAY1
@@ -637,7 +636,6 @@ vless://12f591ba-d695-4396-9190-f2f3aaa9ea47@162.159.137.3:443?path=%2FXYXY0721&
 vless://12f591ba-d695-4396-9190-f2f3aaa9ea47@162.159.137.3:443?path=/XYXY0721&security=tls&encryption=none&host=at.xiejiang.dpdns.org&fp=chrome&type=ws&sni=at.xiejiang.dpdns.org#IRAN
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#@Iran_V2RAY1
-vless://19520834-ea72-480c-b55f-2b14ca19b4c2@almas2.alireza031.shop:29108?encryption=none&security=none&type=ws&host=sSPR2.divarcdn.com%2CRFT0N.snappfood.ir%2CENlKX.yjc.ir%2CstJEU.digikala.com%2Cemp4W.tic.ir&path=%2FAlmas2#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxy_mtproto_vpns_free%20%5B11%5D
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?path=/panika&security=none&encryption=none&type=ws#@IRAN_V2RAY1
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?path=/panika&security=none&encryption=none&type=ws#IR-@IRAN_V2RAY1
 vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#@IRAN_V2RAY1
