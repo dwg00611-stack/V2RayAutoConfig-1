@@ -444,7 +444,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encrypti
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
-ss://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#Channel%20id%3A%20%40zeshtobad%20%F0%9F%87%B9%F0%9F%87%B7
 ss://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443/?type=ws&encryption=none&flow=&path=%2Fcdfighws&security=tls#Channel%20id%3A%20%40ShadowProxy66%20
 ss://e3b665fd-0329-47dc-bc05-3474b14bcaf6@ipe3.alighan.ir:8443/?type=ws&encryption=none&host=s.alighan.ir&path=%2F%3Fed&security=tls&sni=ipe4.alighan.ir&alpn=http%2F1.1&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
@@ -973,7 +972,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encry
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
-vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#Channel%20id%3A%20%40zeshtobad%20%F0%9F%87%B9%F0%9F%87%B7
 vless://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443/?type=ws&encryption=none&flow=&path=%2Fcdfighws&security=tls#Channel%20id%3A%20%40ShadowProxy66%20
 vless://e3b665fd-0329-47dc-bc05-3474b14bcaf6@ipe3.alighan.ir:8443/?type=ws&encryption=none&host=s.alighan.ir&path=%2F%3Fed&security=tls&sni=ipe4.alighan.ir&alpn=http%2F1.1&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
