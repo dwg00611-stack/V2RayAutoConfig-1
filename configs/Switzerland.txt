@@ -64,7 +64,6 @@ ss://9f0eae34-97c1-4c07-8a55-438379981334@104.24.148.115:80?encryption=none&secu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#%F0%9F%87%A8%F0%9F%87%ADCH-204.136.10.115-0297
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#%F0%9F%87%A8%F0%9F%87%ADCH-204.136.10.115-0317
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#%F0%9F%87%A8%F0%9F%87%ADCH-204.136.10.115-0320
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Zurich🅿️ping:6.72ms
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-3999
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-4010
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.161-0301
@@ -93,6 +92,7 @@ ss://bf73e6e5-0336-40d5-995c-283de50646d2@104.16.116.22:80?encryption=none&secur
 ss://bf73e6e5-0336-40d5-995c-283de50646d2@104.24.158.124:80?encryption=none&security=none&type=ws&host=divine-limit-e9df-ppal03.jorekon645.workers.dev&path=/?ed=2560#📀Ch:
 ss://c09d51b8-25c5-4eaf-98bc-ef40c807de84@104.16.65.193:80?encryption=none&security=none&type=ws&host=dawn-mountain-d79f-ppal03.doniji1519.workers.dev&path=/?ed=2560#⏺️Ch:
 ss://c09d51b8-25c5-4eaf-98bc-ef40c807de84@104.24.157.37:80?encryption=none&security=none&type=ws&host=dawn-mountain-d79f-ppal03.doniji1519.workers.dev&path=/?ed=2560#⏺️Ch:
+ss://c15ad33c-c0d3-469f-9530-0723265d31c6@dl1.tehran-park.com:1001?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Zurich🅿️ping:10.96ms
 ss://c1659206-d827-41f6-9f73-f18ca30102d3@103.21.244.73:80?encryption=none&security=none&type=ws&host=still-forest-e3e8-ppal03.mekah93880.workers.dev&path=/?ed=2560#🎵Ch:
 ss://c1659206-d827-41f6-9f73-f18ca30102d3@104.16.53.48:80?encryption=none&security=none&type=ws&host=still-forest-e3e8-ppal03.mekah93880.workers.dev&path=/?ed=2560#🎵Ch:
 ss://ca68a029-971c-4ea4-8c1d-411cb7adc474@104.16.164.195:80?encryption=none&security=none&type=ws&host=patient-sunset-f000-ppal03.cijej53213.workers.dev&path=/?ed=2560#👡Ch:
@@ -190,6 +190,7 @@ vless://bf73e6e5-0336-40d5-995c-283de50646d2@104.16.116.22:80?encryption=none&se
 vless://bf73e6e5-0336-40d5-995c-283de50646d2@104.24.158.124:80?encryption=none&security=none&type=ws&host=divine-limit-e9df-ppal03.jorekon645.workers.dev&path=/?ed=2560#📀Ch:
 vless://c09d51b8-25c5-4eaf-98bc-ef40c807de84@104.16.65.193:80?encryption=none&security=none&type=ws&host=dawn-mountain-d79f-ppal03.doniji1519.workers.dev&path=/?ed=2560#⏺️Ch:
 vless://c09d51b8-25c5-4eaf-98bc-ef40c807de84@104.24.157.37:80?encryption=none&security=none&type=ws&host=dawn-mountain-d79f-ppal03.doniji1519.workers.dev&path=/?ed=2560#⏺️Ch:
+vless://c15ad33c-c0d3-469f-9530-0723265d31c6@dl1.tehran-park.com:1001?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Zurich🅿️ping:10.96ms
 vless://c1659206-d827-41f6-9f73-f18ca30102d3@103.21.244.73:80?encryption=none&security=none&type=ws&host=still-forest-e3e8-ppal03.mekah93880.workers.dev&path=/?ed=2560#🎵Ch:
 vless://c1659206-d827-41f6-9f73-f18ca30102d3@104.16.53.48:80?encryption=none&security=none&type=ws&host=still-forest-e3e8-ppal03.mekah93880.workers.dev&path=/?ed=2560#🎵Ch:
 vless://ca68a029-971c-4ea4-8c1d-411cb7adc474@104.16.164.195:80?encryption=none&security=none&type=ws&host=patient-sunset-f000-ppal03.cijej53213.workers.dev&path=/?ed=2560#👡Ch:
