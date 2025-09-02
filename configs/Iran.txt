@@ -256,7 +256,6 @@ ss://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=non
 ss://9e3915d4-e76b-40bf-a64c-0a7060f71cb5@85.133.132.30:55903?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.21.56.208:2087?path=/&security=tls&encryption=none&host=smart.v2plusify.org&type=ws&sni=smart.v2plusify.org#IRAN
 ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@172.66.162.135:2087?path=/&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#IRAN
-ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@172.67.91.177:2087?path=/&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#IRAN
 ss://9e7b3b9f-ab4b-4f2c-9529-2fc61840db40@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-fg-4.abar-farz.filegear-sg.me&type=ws&sni=rayan-fg-4.abar-farz.filegear-sg.me#MCI-@IRAN_V2RAY1
 ss://9f69c514-7aba-4cb2-88d2-1be504c97061@89.58.1.98:44807?security=reality&encryption=none&pbk=CKRx3TijRUQqqRcEOVF07CfvekiUlPbr0twB3wrpfiQ&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6d78523a82d71956#@IRAN_V2RAY1
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WFYrdW1jWkhSdVNwZnJpZ3JJYk9sb1JaWjdyTUZaVEFTb3NUN0ZyYnFDWT0=@xxx.90908585.ir:8080#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+xxx.90908585.ir-8080+%7C+340.32ms
@@ -828,7 +827,6 @@ vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=
 vless://9e3915d4-e76b-40bf-a64c-0a7060f71cb5@85.133.132.30:55903?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.21.56.208:2087?path=/&security=tls&encryption=none&host=smart.v2plusify.org&type=ws&sni=smart.v2plusify.org#IRAN
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@172.66.162.135:2087?path=/&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#IRAN
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@172.67.91.177:2087?path=/&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#IRAN
 vless://9e7b3b9f-ab4b-4f2c-9529-2fc61840db40@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-fg-4.abar-farz.filegear-sg.me&type=ws&sni=rayan-fg-4.abar-farz.filegear-sg.me#MCI-@IRAN_V2RAY1
 vless://9f69c514-7aba-4cb2-88d2-1be504c97061@89.58.1.98:44807?security=reality&encryption=none&pbk=CKRx3TijRUQqqRcEOVF07CfvekiUlPbr0twB3wrpfiQ&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6d78523a82d71956#@IRAN_V2RAY1
 vless://Parsashonam-302@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#All-@IRAN_V2RAY1
