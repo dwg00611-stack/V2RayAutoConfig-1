@@ -421,7 +421,6 @@ trojan://1ce1df7962f71c6f@51.195.255.103:8443?security=tls&headerType=none&type=
 trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&headerType=none&type=tcp&sni=uk-03.allhubb.info#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40free4allvpn%20%5B16%5D
 trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&headerType=none&type=tcp&sni=uk-03.allhubb.info#United%20Kingdom%20OVH
 trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&headerType=none&type=tcp&sni=🔒
-trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&sni=uk-03.allhubb.info#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.255.103-0261
 trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&sni=🔒
 trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443?security=tls&sni=ba24.ir#%F0%9F%87%BA%F0%9F%87%B8US-206.168.190.219-8229
 trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443?security=tls&sni=🔒
@@ -494,7 +493,6 @@ trojan://253bc477d4e43c209f2d427272968280@219.77.131.1:443?allowInsecure=1&sni=2
 trojan://253bc477d4e43c209f2d427272968280@219.77.131.1:443?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40stairnode
 trojan://253bc477d4e43c209f2d427272968280@219.77.131.1:443?allowInsecure=1&sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@219.77.131.1:443?sni=23.45.86.28#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-trojan://253bc477d4e43c209f2d427272968280@219.77.131.1:443?sni=23.45.86.28#🇭🇰[openproxylist.com]
 trojan://253bc477d4e43c209f2d427272968280@219.77.131.1:443?sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.141:22006/?type=tcp&security=tls&sni=v1-dy.ixigua.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.141-0710
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.141:3171/?type=tcp&security=tls&sni=v1-dy.ixigua.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.141-0703
@@ -725,7 +723,6 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443/?type=tcp&secu
 trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443/?type=tcp&security=tls&sni=hk.freeguard.org&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK-103.252.116.138-0352
 trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443/?type=tcp&security=tls&sni=🔒
 trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443?allowInsecure=0&sni=🔒
-trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443?security=tls&sni=hk.freeguard.org#%F0%9F%87%AD%F0%9F%87%B0HK-103.252.116.138-0338
 trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443?security=tls&sni=hk.freeguard.org#%F0%9F%87%AD%F0%9F%87%B0HK-103.252.116.138-5043
 trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443?security=tls&sni=🔒
 trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443?sni=🔒
@@ -733,7 +730,6 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@185.208.207.217:443/?type=tcp&secu
 trojan://2ee85121-31de-4581-a492-eb00f606e392@185.208.207.217:443/?type=tcp&security=tls&sni=dus.freeguard.org&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE-185.208.207.217-4922
 trojan://2ee85121-31de-4581-a492-eb00f606e392@185.208.207.217:443/?type=tcp&security=tls&sni=🔒
 trojan://2ee85121-31de-4581-a492-eb00f606e392@185.208.207.217:443?security=tls&headerType=none&type=tcp&sni=dus.freeguard.org#Germany%20Relayed
-trojan://2ee85121-31de-4581-a492-eb00f606e392@185.208.207.217:443?security=tls&sni=dus.freeguard.org#%F0%9F%87%A9%F0%9F%87%AADE-185.208.207.217-0335
 trojan://2ee85121-31de-4581-a492-eb00f606e392@185.208.207.217:443?security=tls&sni=dus.freeguard.org#%F0%9F%87%A9%F0%9F%87%AADE-185.208.207.217-5068
 trojan://2ee85121-31de-4581-a492-eb00f606e392@185.208.207.217:443?security=tls&sni=🔒
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443/?type=tcp&security=tls&sni=rc8.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-192.3.107.252-5087
@@ -743,7 +739,6 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&hea
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&headerType=none&type=tcp&sni=rc8.freeguard.org#%40VMESSIR4N%20%D8%AC%D9%87%D8%AA%20%D8%AE%D8%B1%DB%8C%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&headerType=none&type=tcp&sni=rc8.freeguard.org#United%20States%20Colocrossing
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&headerType=none&type=tcp&sni=🔒
-trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-192.3.107.252-0342
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-192.3.107.252-0355
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org#US🇺🇸
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=🔒
@@ -754,13 +749,11 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sn
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=🔒
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443/?type=tcp&security=tls&sni=sj3.freeguard.org#20%F0%9F%8E%A1%40oneclickvpnkeys
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443/?type=tcp&security=tls&sni=🔒
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443?security=tls&sni=sj3.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-198.46.152.83-0332
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443?security=tls&sni=sj3.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-198.46.152.83-5070
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443?security=tls&sni=🔒
 trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443/?type=tcp&security=tls&sni=sto.freeguard.org#%F0%9F%8C%B012%40oneclickvpnkeys
 trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443/?type=tcp&security=tls&sni=sto.freeguard.org&allowInsecure=1#%F0%9F%8C%B012%40oneclickvpnkeys
 trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443/?type=tcp&security=tls&sni=🔒
-trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&sni=sto.freeguard.org#%F0%9F%87%B8%F0%9F%87%AASE-45.91.171.116-0339
 trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&sni=sto.freeguard.org#%F0%9F%87%B8%F0%9F%87%AASE-45.91.171.116-0352
 trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&sni=🔒
 trojan://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@104.17.148.22:80/?type=httpupgrade&host=1i5.diginoshops10.ir&path=%2F#%40Hope_Net-j...
@@ -6431,6 +6424,7 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.nolimit.dpdns.org:443?sni=🔒
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443/?type=ws&host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&sni=aio.zipzap.biz.id#%F0%9F%AB%9123%40oneclickvpnkeys
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443/?type=ws&host=aio.zipzap.biz.id&path=🔒
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?allowInsecure=0&sni=aio.zipzap.biz.id&ws=1&wspath=%2Faioproxybot%2F129.150.49.58-18650#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?allowInsecure=0&sni=🔒
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#RELAY🚩
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?path=🔒
 trojan://f282b878-8711-45a1-8c69-5564172123c1@aio.zipzap.biz.id:443?security=tls&sni=aio.zipzap.biz.id&type=ws&path=%2Faioproxybot%2F129.150.49.58-18650&Host=aio.zipzap.biz.id#%F0%9F%8F%81RELAY-104.21.42.42-0983
@@ -7936,7 +7930,6 @@ trojan://xxoo@us.blazeppn.info:443/?type=tcp&security=tls&sni=🔒
 trojan://xxoo@us.blazeppn.info:443?security=tls
 trojan://xxoo@us.blazeppn.info:443?security=tls&headerType=none&type=tcp&sni=us.blazeppn.info#@meli_proxyy
 trojan://xxoo@us.blazeppn.info:443?security=tls&headerType=none&type=tcp&sni=🔒
-trojan://xxoo@us.blazeppn.info:443?security=tls&sni=us.blazeppn.info#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-0165
 trojan://xxoo@us.blazeppn.info:443?security=tls&sni=us.blazeppn.info#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-0372
 trojan://xxoo@us.blazeppn.info:443?security=tls&sni=🔒
 trojan://yAcqvPOj@sgb.mdfg.tk:443?security=tls&sni=🔒
