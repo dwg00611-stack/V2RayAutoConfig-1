@@ -160,6 +160,8 @@ hysteria2://a59be66d-1e59-40ea-b378-ceecd80c3337@45.11.1.62:443?sni=www.microsof
 hysteria2://be81e21d-02d8-4a60-a07e-c2202a50a549@yjjdhl.yunjijd.xyz:26923?sni=yjjdhl.yunjijd.xyz&insecure=1#NL
 hysteria2://ce26fc79-0a57-46ed-a67a-149fcf523cb1@shy40.zqjc.cloud:55215?sni=shy40.zqjc.cloud&insecure=1#IT
 hysteria2://d5488371-4d89-4699-890f-7abeb28c4076@hsmg.huasuan666.top:22151?sni=hsmg.huasuan666.top&insecure=1#US
+hysteria2://dailyconfigs%3AWLsA6GGydzT5GzMBAVpJVlG6LLXXFbLr@176.124.204.248:443?sni=slack.com&insecure=1&obfs=salamander#DE
+hysteria2://dailyconfigs%3AWLsA6GGydzT5GzMBAVpJVlG6LLXXFbLr@2a0b:4140:b6c4::2:443?sni=slack.com&insecure=1&obfs=salamander#NL
 hysteria2://dailyconfigs:WLsA6GGydzT5GzMBAVpJVlG6LLXXFbLr@176.124.204.248:443?sni=slack.com&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1#@Daily_Configs
 hysteria2://dailyconfigs:WLsA6GGydzT5GzMBAVpJVlG6LLXXFbLr@[2a0b:4140:b6c4::2]:443?sni=slack.com&alpn=h3&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1#@Daily_Configs
 hysteria2://de8854c7-fa17-4266-ae18-50a9732a0c4e@it1.1010991.xyz:3001?sni=it1.1010991.xyz&insecure=1#US
