@@ -112,7 +112,6 @@ ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@103.172.116.5:9084#%F0%9F%87%B8%F0
 ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@103.172.116.5:9008#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.5-6824
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@139.99.68.21:6379#%F0%9F%87%B8%F0%9F%87%ACSG-139.99.68.21-5466
 ss://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443/?type=tcp&encryption=none&security=tls&sni=android.googleapis.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40prrofile_purple%20%5B134%5D
-ss://c3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2TURFM01qRmxORE10TlRNNE9TMDBaamszTFdJeU1XTXRPVEF3WVdKaU1tSmtZVGxs@awes35lesl.blhao0o.dpdns.org:12020#%E6%96%B0%E5%8A%A0%E5%9D%A14%7C%40ripaojiedian
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@27.50.48.29:8880#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+27.50.48.29-8880+%7C+1.65ms
 trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.177.105-5477
 trojan://0c6a3341e8d5ab17@103.172.116.196:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.196-2174
@@ -122,11 +121,11 @@ trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=g
 trojan://176196e4-7cf7-4561-87a9-21a1b4e344be@de.liangyuandian.top:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-52.220.109.207-3912
 trojan://253bc477d4e43c209f2d427272968280@165.22.55.206:443/?type=tcp&security=tls&sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG-165.22.55.206-0995
 trojan://253bc477d4e43c209f2d427272968280@165.22.55.206:443?security=tls&sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG-165.22.55.206-5042
+trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:1523?allowInsecure=1&sni=23.45.86.28#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:3043?allowInsecure=1&sni=23.45.86.28#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:3043?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:3043?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:3043?sni=23.45.86.28#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:3957?allowInsecure=1&sni=23.45.86.28#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:3957?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:3957?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:3957?sni=23.45.86.28#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
