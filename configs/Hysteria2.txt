@@ -57,7 +57,6 @@ hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:43429?sni=real.g
 hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:49720/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@23.132.228.217:45860/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 hysteria2://3QlSMKyqLp@android.yas-nowin.ir:443?sni=android.yas-nowin.ir&insecure=0#XX
-hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.217.4:22509?sni=bing.com&insecure=1#SG
 hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.224.62:22509?sni=bing.com&insecure=1#SG
 hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@185.126.255.78:49720/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
@@ -70,7 +69,6 @@ hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@172.252.236.213:56704/?sni=dxob
 hysteria2://4ca871ae-542e-4405-aa57-1d4a285bf613@fq-de.mxtn.net:11091?security=tls&insecure=0&mport=11001-11099#telegram%20%E2%98%9C%DB%9E%E2%98%9E%20v2xro```
 hysteria2://4eba7d4d-8460-4f9f-9718-9f06886b5489@hsdg.huasuan666.top:22155?sni=hsdg.huasuan666.top&insecure=1#DE
 hysteria2://5CBqBh6MeDq6GajcilBiDg%3D%3D@192.227.152.86:61001?sni=192-227-152-86.nip.io&insecure=1#US
-hysteria2://5OiuCsPmULZ0lJwts89fegLJE@47.129.100.149:17193?sni=bing.com&insecure=1#SG
 hysteria2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193?sni=bing.com&insecure=1#SG
 hysteria2://5fbe139f-c1e0-4b92-bb3c-7f68035962c3@hl.dport.top:33659?insecure=1&sni=hl.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#WI-FI--%40IRAN_V2RAY1
 hysteria2://5fbe139f-c1e0-4b92-bb3c-7f68035962c3@hl.dport.top:33659?security=tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1&sni=hl.dport.top#WI-FI--@IRAN_V2RAY1
@@ -158,13 +156,11 @@ hysteria2://dongtaiwang.com@45.129.2.108:50850?insecure=1#RU
 hysteria2://dongtaiwang.com@51.158.54.46:44550?sni=bing.com&insecure=1#FR
 hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1#FR
 hysteria2://f6e4b19a3110d19d@66.135.28.59:443?sni=www.apple.com&insecure=1&obfs=salamander#US
-hysteria2://fabd2b79-693a-4a37-827c-6d299e8813b1@133.18.163.202:443?sni=www.microsoft.com&insecure=1#JP
 hysteria2://joindailyconfigs:EXxpthn9kvpRUlvJBg5uOLNCBU0ZMbdS@176.124.204.248:443?obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1&sni=slack.com#%40Rayan_Config%2068
 hysteria2://joindailyconfigs:EXxpthn9kvpRUlvJBg5uOLNCBU0ZMbdS@176.124.204.248:443?security=tls&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1&pinSHA256=F6:BE:95:A9:65:CC:24:1D:54:51:7A:F3:49:AA:47:EF:B5:2C:5D:A4:D2:CF:12:87:1D:B3:AC:9F:19:47:C8:29&sni=slack.com#@Daily_Configs
 hysteria2://joindailyconfigs:EXxpthn9kvpRUlvJBg5uOLNCBU0ZMbdS@[2a0b:4140:b6c4::2]:443?obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1&sni=slack.com#%40Rayan_Config%2069
 hysteria2://joindailyconfigs:EXxpthn9kvpRUlvJBg5uOLNCBU0ZMbdS@[2a0b:4140:b6c4::2]:443?security=tls&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1&pinSHA256=F6:BE:95:A9:65:CC:24:1D:54:51:7A:F3:49:AA:47:EF:B5:2C:5D:A4:D2:CF:12:87:1D:B3:AC:9F:19:47:C8:29&sni=slack.com#@Daily_Configs
 hysteria2://joindailyconfigs@176.124.204.248:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN#%40Daily_Configs%20%3C%3D%3D%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7...%20%232
-hysteria2://qq4Wc9UakExypzw4Jd00fWqrDTY@8.209.223.212:22712?sni=bing.com&insecure=1#JP
 hysteria2://wieZ9G0FbEecGx2kXaZLchtt@147.45.154.150:443?alpn=h3&fastopen=1&obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&sni=anymath.ir#@Change_IP1-HYS
 hysteria2://wieZ9G0FbEecGx2kXaZLchtt@147.45.154.150:443?alpn=h3&sni=anymath.ir&obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q#%40Change_IP1-HYS%20%234
 hysteria2://y0qochAspE+u-HLfrip-@45.32.234.211:443?sni=Google.com&insecure=1&obfs=salamander#NL
