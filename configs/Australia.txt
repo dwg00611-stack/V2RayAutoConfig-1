@@ -2,7 +2,7 @@ ss://0132166f-e702-48ed-a9e7-b07af768faf8@103.169.142.251:8880?security=&sni=Tel
 ss://5a1fb9b8-0671-4662-a3ca-83de5f1f44ac@au-sep3rd.wimax.cc:443/?type=ws&encryption=none&host=au-sep3rd.wimax.cc&path=%2Fapi%2Fv1%2Fupdates&security=tls&sni=au-sep3rd.wimax.cc&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%A6%F0%9F%87%BA%20AU%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40free4allvpn%20%5B17%5D
 ss://5a1fb9b8-0671-4662-a3ca-83de5f1f44ac@au-sep3rd.wimax.cc:443?path=%2Fapi%2Fv1%2Fupdates&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=au-sep3rd.wimax.cc&fp=chrome&type=ws&sni=au-sep3rd.wimax.cc#%3E%3E%40free4allVPN%3A%3AAU
 ss://5a1fb9b8-0671-4662-a3ca-83de5f1f44ac@au-sep3rd.wimax.cc:443?path=%2Fapi%2Fv1%2Fupdates&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=au-sep3rd.wimax.cc&fp=chrome&type=ws&sni=au-sep3rd.wimax.cc#Australia%20AWS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg=@52.64.250.96:9898#%F0%9F%87%A6%F0%9F%87%BA%20AU%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40v2ray_free_conf%20%5B20%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg=@52.64.250.96:9898#%F0%9F%87%A6%F0%9F%87%BA%20AU%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40v2ray_free_conf%20%5B18%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVVdYNkNPTFpZbWFIbFVHaUt3RGFO@45.79.238.129:443#%F0%9F%87%A6%F0%9F%87%BAAU-45.79.238.129-8128
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVVdYNkNPTFpZbWFIbFVHaUt3RGFO@45.79.238.129:443#%F0%9F%87%A6%F0%9F%87%BAAU-45.79.238.129-8238
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#%F0%9F%87%A6%F0%9F%87%BA%20SS-%E5%BE%B7%E5%9B%BD-NF%E8%A7%A3%E9%94%81%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-TikTok-185.177.229.245%3A1866

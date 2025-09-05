@@ -40,7 +40,6 @@ ss://3638ee37-de5b-4a01-9c06-4e34ab96a094@64.226.117.34:46970?path=%2F%40ShadowP
 ss://3638ee37-de5b-4a01-9c06-4e34ab96a094@64.226.117.34:46970?path=%2F%40ShadowProxy66_Channel&security=&encryption=none&type=ws#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 ss://3691b39b-4aa7-4f68-8304-902e4734e2f4@45.128.232.102:16798?security=reality&encryption=none&pbk=UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=229b2a94#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 ss://38fb3d80-682a-42ea-902a-015b58e202ad@[2606:4700:9ad4:7cca:cad1:6680:5c0:43a]:443?path=%2Faioproxybot%2F47.236.119.190-51342&security=tls&encryption=none&host=aio.loophole.Biz.iD&fp=randomized&type=ws&sni=aio.loophole.Biz.iD#Channel%20id%3A%20%40ShadowProxy66%20
-ss://38fb3d80-682a-42ea-902a-015b58e202ad@[2606:4700:9ad4:7cca:cad1:6680:5c0:43a]:443?path=%2Faioproxybot%2F47.236.119.190-51342&security=tls&encryption=none&host=aio.loophole.Biz.iD&fp=randomized&type=ws&sni=aio.loophole.Biz.iD#Channel%20id%3A%20%40proxy_kafee%20
 ss://3f277f78-ef7c-4fab-982c-0ae1b0c0cf67@51.75.161.60:80/?type=ws&encryption=none&host=ShadowProxy66&path=%2Fvless%2F#Channel%20id%3A%20%40ShadowProxy66%20
 ss://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#Channel%20id%3A%20%40ShadowProxy66%20
 ss://401374e6-df77-41fb-f638-dad8184f175b@104.16.80.73:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh29v1.hiddendom.shop#Channel%20id%3A%20%40ShadowProxy66%20
@@ -411,6 +410,7 @@ trojan://slch2024@185.148.105.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7S
 trojan://slch2024@185.148.105.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%B7%F0%9F%87%BA
 trojan://slch2024@185.148.107.195:2096?path=%2FTelegram%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://slch2024@185.148.107.195:2096?path=%2FTelegram%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1MCI
+trojan://slch2024@185.148.107.195:2096?path=%2FTelegram%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://slch2024@185.148.107.195:2096?path=%2FTelegram%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%B3%F0%9F%87%B1👆
 trojan://slch2024@185.148.107.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://slch2024@185.148.107.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%B3%F0%9F%87%B1
@@ -424,6 +424,7 @@ trojan://slch2024@209.94.90.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7%40
 trojan://slch2024@209.94.90.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%BA%F0%9F%87%B8
 trojan://slch2024@209.94.90.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 trojan://slch2024@209.94.90.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8MTN
+trojan://slch2024@209.94.90.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%BA%F0%9F%87%B8
 trojan://slch2024@209.94.90.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%BA%F0%9F%87%B8👆
 trojan://vvip-periantara@38.9.140.66:443/?type=tcp&security=tls&sni=id3tr.jagoan.vip#%F0%9F%87%AE%F0%9F%87%A9ID-38.9.140.66-4675
 trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#%F0%9F%87%AE%F0%9F%87%A9ID-38.9.140.66-4075
@@ -466,7 +467,6 @@ vless://3638ee37-de5b-4a01-9c06-4e34ab96a094@64.226.117.34:46970?path=%2F%40Shad
 vless://3638ee37-de5b-4a01-9c06-4e34ab96a094@64.226.117.34:46970?path=%2F%40ShadowProxy66_Channel&security=&encryption=none&type=ws#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%A9%F0%9F%87%AA
 vless://3691b39b-4aa7-4f68-8304-902e4734e2f4@45.128.232.102:16798?security=reality&encryption=none&pbk=UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=229b2a94#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 vless://38fb3d80-682a-42ea-902a-015b58e202ad@[2606:4700:9ad4:7cca:cad1:6680:5c0:43a]:443?path=%2Faioproxybot%2F47.236.119.190-51342&security=tls&encryption=none&host=aio.loophole.Biz.iD&fp=randomized&type=ws&sni=aio.loophole.Biz.iD#Channel%20id%3A%20%40ShadowProxy66%20
-vless://38fb3d80-682a-42ea-902a-015b58e202ad@[2606:4700:9ad4:7cca:cad1:6680:5c0:43a]:443?path=%2Faioproxybot%2F47.236.119.190-51342&security=tls&encryption=none&host=aio.loophole.Biz.iD&fp=randomized&type=ws&sni=aio.loophole.Biz.iD#Channel%20id%3A%20%40proxy_kafee%20
 vless://3f277f78-ef7c-4fab-982c-0ae1b0c0cf67@51.75.161.60:80/?type=ws&encryption=none&host=ShadowProxy66&path=%2Fvless%2F#Channel%20id%3A%20%40ShadowProxy66%20
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#Channel%20id%3A%20%40ShadowProxy66%20
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.16.80.73:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh29v1.hiddendom.shop#Channel%20id%3A%20%40ShadowProxy66%20
