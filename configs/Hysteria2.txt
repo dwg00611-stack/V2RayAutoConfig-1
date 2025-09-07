@@ -78,6 +78,7 @@ hysteria2://8da7bd17-70ab-472d-a925-cc827857dc35@de.youyacloud.me:443?insecure=1
 hysteria2://8da7bd17-70ab-472d-a925-cc827857dc35@de.youyacloud.me:443?security=tls&obfs=salamander&obfs-password=qBbeISsJ8AK48fZW&insecure=1&mport=30101-30199&sni=de.youyacloud.me#All-@IRAN_V2RAY1
 hysteria2://8da7bd17-70ab-472d-a925-cc827857dc35@de.youyacloud.me:443?security=tls&obfs=salamander&obfs-password=qBbeISsJ8AK48fZW&insecure=1&mport=30101-30199&sni=de.youyacloud.me#⚡Telegram
 hysteria2://9363eedf-00e9-4b14-8d66-e596b02538bc@195.133.5.41:33079?insecure=1&obfs=salamander#RU
+hysteria2://9363eedf-00e9-4b14-8d66-e596b02538bc@195.133.5.41:33079?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ==#Channel%20id%3A%20%40singbox1%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-us.legeth.xyz:11683?insecure=1#XX
 hysteria2://9TItIjHPMopRBvBQpeTKTNJf2k@54.166.221.95:26533?insecure=1#US
 hysteria2://9f73c619627d6a5d@66.245.192.15:443?sni=www.apple.com&insecure=1&obfs=salamander#US
@@ -172,6 +173,7 @@ hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=
 hysteria2://eb75320e-a6d0-4b34-a6b6-2bcfc96a9099@203.174.82.145:43057?insecure=1&sni=www.bing.com#138
 hysteria2://f599eb06-508a-4e24-9d59-4c50bf0332b8@91.98.79.239:29111/?insecure=1&sni=plaza.ir&obfs=salamander&obfs-password=zVwQtP96XEO8ylpQ#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://f599eb06-508a-4e24-9d59-4c50bf0332b8@91.98.79.239:29111/?insecure=1&sni=plaza.ir&obfs=salamander&obfs-password=zVwQtP96XEO8ylpQ#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://f599eb06-508a-4e24-9d59-4c50bf0332b8@91.98.79.239:29111?insecure=1&sni=plaza.ir&obfs=salamander&obfs-password=zVwQtP96XEO8ylpQ#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://f6e4b19a3110d19d@66.135.28.59:443?sni=www.apple.com&insecure=1&obfs=salamander#US
 hysteria2://joindailyconfigs:EXxpthn9kvpRUlvJBg5uOLNCBU0ZMbdS@176.124.204.248:443?security=tls&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1&pinSHA256=F6:BE:95:A9:65:CC:24:1D:54:51:7A:F3:49:AA:47:EF:B5:2C:5D:A4:D2:CF:12:87:1D:B3:AC:9F:19:47:C8:29&sni=slack.com#@Daily_Configs
 hysteria2://joindailyconfigs:EXxpthn9kvpRUlvJBg5uOLNCBU0ZMbdS@[2a0b:4140:b6c4::2]:443?security=tls&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1&pinSHA256=F6:BE:95:A9:65:CC:24:1D:54:51:7A:F3:49:AA:47:EF:B5:2C:5D:A4:D2:CF:12:87:1D:B3:AC:9F:19:47:C8:29&sni=slack.com#@Daily_Configs
