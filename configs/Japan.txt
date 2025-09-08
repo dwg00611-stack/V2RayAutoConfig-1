@@ -88,6 +88,7 @@ trojan://0c6a3341e8d5ab17@f5465c4.pg.gladns.com:3389?security=tls#%F0%9F%87%AF%F
 trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443/?type=tcp&security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.125.148.41-4245
 trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.125.148.41-4241
 trojan://1b5eff5a-f36b-4149-8001-7c8c0c4ed2eb@43.206.67.76:36306?security=tls&sni=sunmoon02.abzoones.xyz#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.67.76-4528
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls&type=tcp&headerType=none&fp=chrome&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40ip_cf_config%20%5B15%5D
 trojan://253bc477d4e43c209f2d427272968280@157.120.32.122:443/?type=tcp&security=tls&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP-157.120.32.122-0990
 trojan://253bc477d4e43c209f2d427272968280@157.120.32.122:443?security=tls&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP-157.120.32.122-5191
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:13345?security=tls&sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5JP-57.180.25.142-0690
