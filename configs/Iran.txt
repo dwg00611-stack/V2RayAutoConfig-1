@@ -15,7 +15,6 @@ ss://024f9b24-42c3-4c32-ba0a-3d7b5a6de162@172.66.40.99:80?path=/Join-ZEDMODEON-Z
 ss://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?path=/kcknkyws&security=tls&encryption=none&type=ws#@IRAN_V2RAY1
 ss://041f929a-63f6-4af1-a492-8cbff5797b8a@avval.ir:2096/?type=ws&encryption=none&host=telegram-falcunargo-emiratess.falcunar.asso.eu.org&path=%2F&security=tls&sni=telegram-falcunargo-emiratess.falcunar.asso.eu.org&fp=random#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayngc%20%5B19%5D
 ss://041f929a-63f6-4af1-a492-8cbff5797b8a@avval.ir:2096?encryption=none&security=tls&sni=telegram-falcunargo-emiratess.falcunar.asso.eu.org&fp=random&type=ws&host=telegram-falcunargo-emiratess.falcunar.asso.eu.org&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayngc%20%5B19%5D
-ss://042eb842-b5a3-40d8-88d9-490226a96097@ipv4-all.beraghsa.sbs:1313?type=tcp&headerType=none&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B42%5D
 ss://0518ca46-4313-45ce-df4d-5268c1b30cf2@104.21.112.1:8080?path=/olem/ws?ed=1024&security=none&encryption=none&host=shad.ir.fin.test.digicyber.click.&type=ws#All-@IRAN_V2RAY1
 ss://07b804cf-beaf-4f8b-b664-5dc675636a78@217.114.40.8:6100?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@UCIRANIR
 ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#MCI-@IRAN_V2RAY1
@@ -475,7 +474,6 @@ vless://024f9b24-42c3-4c32-ba0a-3d7b5a6de162@172.66.40.99:80?path=/Join-ZEDMODEO
 vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?path=/kcknkyws&security=tls&encryption=none&type=ws#@IRAN_V2RAY1
 vless://041f929a-63f6-4af1-a492-8cbff5797b8a@avval.ir:2096/?type=ws&encryption=none&host=telegram-falcunargo-emiratess.falcunar.asso.eu.org&path=%2F&security=tls&sni=telegram-falcunargo-emiratess.falcunar.asso.eu.org&fp=random#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayngc%20%5B19%5D
 vless://041f929a-63f6-4af1-a492-8cbff5797b8a@avval.ir:2096?encryption=none&security=tls&sni=telegram-falcunargo-emiratess.falcunar.asso.eu.org&fp=random&type=ws&host=telegram-falcunargo-emiratess.falcunar.asso.eu.org&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayngc%20%5B19%5D
-vless://042eb842-b5a3-40d8-88d9-490226a96097@ipv4-all.beraghsa.sbs:1313?type=tcp&headerType=none&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B42%5D
 vless://0518ca46-4313-45ce-df4d-5268c1b30cf2@104.21.112.1:8080?path=/olem/ws?ed=1024&security=none&encryption=none&host=shad.ir.fin.test.digicyber.click.&type=ws#All-@IRAN_V2RAY1
 vless://07b804cf-beaf-4f8b-b664-5dc675636a78@217.114.40.8:6100?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@UCIRANIR
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#MCI-@IRAN_V2RAY1
