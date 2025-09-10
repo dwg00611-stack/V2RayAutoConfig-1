@@ -66,7 +66,6 @@ hysteria2://871f919b-dda1-46e6-89b8-c4243a7e572f@xjp.foldjc.top:37012?sni=xjp.fo
 hysteria2://871f919b-dda1-46e6-89b8-c4243a7e572f@yd.foldjc.top:37014?sni=yd.foldjc.top&insecure=1#RU
 hysteria2://8da7bd17-70ab-472d-a925-cc827857dc35@de.youyacloud.me:443?insecure=1&sni=de.youyacloud.me&obfs=salamander&obfs-password=qBbeISsJ8AK48fZW#All-%40IRAN_V2RAY1%20%231
 hysteria2://8da7bd17-70ab-472d-a925-cc827857dc35@de.youyacloud.me:443?security=tls&obfs=salamander&obfs-password=qBbeISsJ8AK48fZW&insecure=1&mport=30101-30199&sni=de.youyacloud.me#All-@IRAN_V2RAY1
-hysteria2://8da7bd17-70ab-472d-a925-cc827857dc35@de.youyacloud.me:443?sni=de.youyacloud.me&insecure=1&obfs=salamander#DE
 hysteria2://9363eedf-00e9-4b14-8d66-e596b02538bc@195.133.5.41:33079?insecure=1&obfs=salamander#RU
 hysteria2://9363eedf-00e9-4b14-8d66-e596b02538bc@195.133.5.41:33079?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ==#Channel%20id%3A%20%40singbox1%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-us.legeth.xyz:11683?insecure=1#XX
@@ -125,7 +124,9 @@ hysteria2://a59be66d-1e59-40ea-b378-ceecd80c3337@45.11.1.62:443?sni=www.microsof
 hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?security=tls&insecure=1&sni=hk1.shiyuandian.shop#hamedp71%20-%20%F0%9F%87%AD%F0%9F%87%B0با
 hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?sni=hk1.shiyuandian.shop&insecure=1#HK
 hysteria2://be81e21d-02d8-4a60-a07e-c2202a50a549@yjjdhl.yunjijd.xyz:26923?sni=yjjdhl.yunjijd.xyz&insecure=1#NL
+hysteria2://channel_dailyconfigs%3Aff0rY2oVM47dzLrxdYtnA46xDvfa8qde@2a0b:4140:b17f::2:443?insecure=1&obfs=salamander#NL
 hysteria2://channel_dailyconfigs%3Aff0rY2oVM47dzLrxdYtnA46xDvfa8qde@95.181.174.31:443?security=tls&obfs=salamander&obfs-password=tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs&insecure=1&pinSHA256=EC%3A41%3A2A%3AC8%3ADC%3A21%3A90%3A84%3AD2%3AFA%3A57%3AE2%3AE3%3A78%3A2F%3A3F%3AE2%3A88%3A4F%3AF1%3ADE%3A14%3ABE%3A91%3A5D%3A14%3A9F%3AA4%3AFC%3AB2%3A45%3AD2&sni=slack.com#%40Daily_Configs
+hysteria2://channel_dailyconfigs%3Aff0rY2oVM47dzLrxdYtnA46xDvfa8qde@95.181.174.31:443?sni=slack.com&insecure=1&obfs=salamander#DE
 hysteria2://channel_dailyconfigs:ff0rY2oVM47dzLrxdYtnA46xDvfa8qde@95.181.174.31:443?security=tls&obfs=salamander&obfs-password=tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs&insecure=1&pinSHA256=EC:41:2A:C8:DC:21:90:84:D2:FA:57:E2:E3:78:2F:3F:E2:88:4F:F1:DE:14:BE:91:5D:14:9F:A4:FC:B2:45:D2&sni=slack.com#@Daily_Configs
 hysteria2://channel_dailyconfigs:ff0rY2oVM47dzLrxdYtnA46xDvfa8qde@[2a0b:4140:b17f::2]:443?security=tls&obfs=salamander&obfs-password=tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs&insecure=1&pinSHA256=EC:41:2A:C8:DC:21:90:84:D2:FA:57:E2:E3:78:2F:3F:E2:88:4F:F1:DE:14:BE:91:5D:14:9F:A4:FC:B2:45:D2&sni=slack.com#@Daily_Configs
 hysteria2://channel_dailyconfigs:ydiCRB4ch1MJWYvIErVQIhsC6itILilU@176.124.204.248:443?security=tls&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1&pinSHA256=43:71:51:ED:9A:02:15:79:BF:1E:FF:BE:BB:73:AC:7B:21:0C:5D:4A:D1:E4:3E:2F:67:E9:5B:49:54:C3:5B:2E&sni=ubuntu
@@ -167,7 +168,6 @@ hysteria2://dongtaiwang.com@45.129.2.108:50850?insecure=1#RU
 hysteria2://dongtaiwang.com@51.158.54.46:44550?sni=bing.com&insecure=1#FR
 hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1#FR
 hysteria2://e09a0f8c-372e-4547-84e8-ed4807283649@hsxg.huasuan666.top:22153?sni=hsxg.huasuan666.top&insecure=1#HK
-hysteria2://f64b52e4-c41f-4ee0-b8bc-1893202d3489@rb.dport.top:33657?sni=rb.dport.top&insecure=1&obfs=salamander#JP
 hysteria2://f6e4b19a3110d19d@66.135.28.59:443?sni=www.apple.com&insecure=1&obfs=salamander#US
 hysteria2://joindailyconfigs:EXxpthn9kvpRUlvJBg5uOLNCBU0ZMbdS@176.124.204.248:443?security=tls&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1&pinSHA256=F6:BE:95:A9:65:CC:24:1D:54:51:7A:F3:49:AA:47:EF:B5:2C:5D:A4:D2:CF:12:87:1D:B3:AC:9F:19:47:C8:29&sni=slack.com#@Daily_Configs
 hysteria2://joindailyconfigs:EXxpthn9kvpRUlvJBg5uOLNCBU0ZMbdS@[2a0b:4140:b6c4::2]:443?security=tls&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1&pinSHA256=F6:BE:95:A9:65:CC:24:1D:54:51:7A:F3:49:AA:47:EF:B5:2C:5D:A4:D2:CF:12:87:1D:B3:AC:9F:19:47:C8:29&sni=slack.com#@Daily_Configs
