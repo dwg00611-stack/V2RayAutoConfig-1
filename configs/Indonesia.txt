@@ -108,6 +108,7 @@ ss://6fae85ca-395a-4f27-9eb2-75123befc475@ru.sfasti.ru:443?encryption=none&flow=
 ss://7244a576-0680-ee46-acd8-55809ee12479@103.175.79.2:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&sid=#Channel%20id%3A%20%40ShadowProxy66%20
 ss://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?path=%2Fteqalfws&security=tls&encryption=none&fp=chrome&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443/?type=ws&encryption=none&flow=&path=%2F&security=tls#Channel%20id%3A%20%40ShadowProxy66%20
+ss://7a3d2e42-3823-4b00-9818-293f7c6742ca@91.99.129.105:33667/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=store.steampowered.com&fp=firefox&security=reality&pbk=urkddCRB1-01SWciigBk31sfccR6KZr4wX_BInUHu3o&sid=382874842551202c#Channel%20id%3A%20%40v2rayng_021
 ss://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir%2F%3FBIA_TELEGRAM%40ShadowProxy66&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 ss://7c63f43f-f526-49bb-b5c8-2be26e11ef00@109.120.138.47:443?mode=stream-one&path=%2Fstatue%2F%3F%3Fed&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 ss://7d645ab8-e8e5-4810-ae5f-4bd6659ac42c@ir.fxgoldensignals.com:8081/?encryption=none&flow=&host=zula.ir&type=tcp&headerType=http#Channel%20id%3A%20%40v2rayng_021
@@ -226,6 +227,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?security=&encrypt
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?encryption=none&security=none&type=grpc#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638929259959016671.dezful-drc-tusabq.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
@@ -585,6 +587,7 @@ vless://6fae85ca-395a-4f27-9eb2-75123befc475@ru.sfasti.ru:443?encryption=none&fl
 vless://7244a576-0680-ee46-acd8-55809ee12479@103.175.79.2:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&sid=#Channel%20id%3A%20%40ShadowProxy66%20
 vless://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?path=%2Fteqalfws&security=tls&encryption=none&fp=chrome&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443/?type=ws&encryption=none&flow=&path=%2F&security=tls#Channel%20id%3A%20%40ShadowProxy66%20
+vless://7a3d2e42-3823-4b00-9818-293f7c6742ca@91.99.129.105:33667/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=store.steampowered.com&fp=firefox&security=reality&pbk=urkddCRB1-01SWciigBk31sfccR6KZr4wX_BInUHu3o&sid=382874842551202c#Channel%20id%3A%20%40v2rayng_021
 vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir%2F%3FBIA_TELEGRAM%40ShadowProxy66&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@109.120.138.47:443?mode=stream-one&path=%2Fstatue%2F%3F%3Fed&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 vless://7d645ab8-e8e5-4810-ae5f-4bd6659ac42c@ir.fxgoldensignals.com:8081/?encryption=none&flow=&host=zula.ir&type=tcp&headerType=http#Channel%20id%3A%20%40v2rayng_021
@@ -627,6 +630,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?security=&encr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?encryption=none&security=none&type=grpc#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929259959016671.dezful-drc-tusabq.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20
