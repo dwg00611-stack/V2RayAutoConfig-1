@@ -467,18 +467,17 @@ trojan://253bc477d4e43c209f2d427272968280@218.103.249.91:443?allowInsecure=1&sni
 trojan://253bc477d4e43c209f2d427272968280@218.103.249.91:443?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40stairnode
 trojan://253bc477d4e43c209f2d427272968280@218.103.249.91:443?allowInsecure=1&sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@218.103.249.91:443?security=tls&sni=23.45.86.28#%F0%9F%87%AD%F0%9F%87%B0HK-218.103.249.91-0748
-trojan://253bc477d4e43c209f2d427272968280@218.103.249.91:443?security=tls&sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@218.103.249.91:443?sni=23.45.86.28#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF3
 trojan://253bc477d4e43c209f2d427272968280@218.103.249.91:443?sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.188:1546/?type=tcp&security=tls&sni=🔒
-trojan://253bc477d4e43c209f2d427272968280@36.150.215.188:1546?security=tls
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.188:1546?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.188-2101
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:3043?security=tls
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:3043?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.203-2106
-trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:3270?security=tls
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:3270?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.203-2110
+trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:40950?security=tls
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:40950?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.203-2103
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:4397?security=tls&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.203-2102
+trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:4397?security=tls&sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:4801?security=tls&sni=36.156.102.116#%F0%9F%87%A8%F0%9F%87%B3CN-36.150.215.203-2107
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:4801?security=tls&sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:7177?security=tls
@@ -516,7 +515,6 @@ trojan://253bc477d4e43c209f2d427272968280@36.156.102.77:1924?allowInsecure=1&sni
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.77:1924?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4%7C%40stairnode
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.77:1924?allowInsecure=1&sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.77:1924?security=tls&sni=23.45.86.28#%F0%9F%87%A8%F0%9F%87%B3CN-36.156.102.77-0757
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.77:1924?security=tls&sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.77:1924?sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.77:1924?sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.77:9160?allowInsecure=1&sni=23.45.86.28#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
@@ -548,11 +546,9 @@ trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:2966?allowInsecu
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:2966?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40stairnode
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:2966?allowInsecure=1&sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:2966?security=tls&sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.59.234-0672
-trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:2966?security=tls&sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:2966?sni=23.45.86.28#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:2966?sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:3043?security=tls&sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.59.234-0675
-trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:3043?security=tls&sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:316?allowInsecure=1&sni=23.45.86.28#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:316?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:316?allowInsecure=1&sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
@@ -574,6 +570,7 @@ trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:4317?security=tl
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:46943?security=tls&sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.59.234-0674
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:46943?security=tls&sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:4801?security=tls&sni=23.45.86.28#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.59.234-0637
+trojan://253bc477d4e43c209f2d427272968280@xingxing.jiasu123.org:4801?security=tls&sni=🔒
 trojan://2543a880-48a1-11f0-8578-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp
 trojan://255a0a50-3f10-11f0-b0d6-1239d0255272@51.38.65.155:443/?type=tcp&security=tls
 trojan://255a0a50-3f10-11f0-b0d6-1239d0255272@51.38.65.155:443?security=tls
@@ -1092,14 +1089,14 @@ trojan://52171d41-9367-429f-baa6-43660a6c84e4@103.81.85.238:443?security=tls#%F0
 trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-hk.04z3susick.download:5601?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.141.40.28-2118
 trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-hk.04z3susick.download:5601?security=tls&sni=🔒
 trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-hk.04z3susick.download:5602?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.141.40.36-2144
+trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-hk.04z3susick.download:5602?security=tls&sni=🔒
 trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-hk.04z3susick.download:5603?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.97.119-2145
 trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-hk.04z3susick.download:5603?security=tls&sni=🔒
 trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-hk.04z3susick.download:5606?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.97.119-2140
+trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-hk.04z3susick.download:5606?security=tls&sni=🔒
 trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-hk.04z3susick.download:5607?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.141.40.28-2156
-trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-hk.04z3susick.download:5607?security=tls&sni=🔒
 trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-jp.04z3susick.download:5617?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.97.119-2131
 trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-jp.04z3susick.download:5620?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.141.40.28-2122
-trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-jp.04z3susick.download:5620?security=tls&sni=🔒
 trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-sg.04z3susick.download:5609?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.97.119-2111
 trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-sg.04z3susick.download:5609?security=tls&sni=🔒
 trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-sg.04z3susick.download:5610?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.141.40.28-2109
@@ -1111,6 +1108,7 @@ trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-sg.04z3susick.download:5612?s
 trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-sg.04z3susick.download:5613?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.141.40.36-2112
 trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-sg.04z3susick.download:5613?security=tls&sni=🔒
 trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-sg.04z3susick.download:5614?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.97.119-2105
+trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-sg.04z3susick.download:5614?security=tls&sni=🔒
 trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-tw.04z3susick.download:5623?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.97.119-5001
 trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-tw.04z3susick.download:5623?security=tls&sni=🔒
 trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-tw.04z3susick.download:5624?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.141.40.28-2146
@@ -1118,6 +1116,7 @@ trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-tw.04z3susick.download:5624?s
 trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-tw.04z3susick.download:5625?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.141.40.36-2157
 trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-tw.04z3susick.download:5625?security=tls&sni=🔒
 trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-us.04z3susick.download:5627?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.97.119-2167
+trojan://52396679-53eb-4d6f-ba2e-a08746e300ad@sdv2-us.04z3susick.download:5627?security=tls&sni=🔒
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443/?type=tcp&security=tls&sni=hdfyc1.achaemenidempireofpersia.uk#%40Hope_Net-join-us...
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443/?type=tcp&security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&allowInsecure=1#%40Hope_Net-join-us...
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443/?type=tcp&security=tls&sni=🔒
@@ -1612,8 +1611,10 @@ trojan://71409d3e488548e8bb076d229778f008@38.99.82.225:443/?type=tcp&security=tl
 trojan://71409d3e488548e8bb076d229778f008@jobsfortheworldtoday.com:443/?type=tcp&security=tls&allowInsecure=1
 trojan://7166e17c-286a-4aca-8383-250506f47166e17c-286a-4aca-8383-250506f4e1d3@bauhinia01.abzoones.xyz:36116?security=tls
 trojan://7166e17c-286a-4aca-8383-250506f47166e17c-286a-4aca-8383-250506f4e1d3@bauhinia01.abzoones.xyz:36116?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-199.59.243.228-5641
+trojan://7166e17c-286a-4aca-8383-250506f4e1d3@bauhinia01.abzoones.xyz:36206?security=tls
 trojan://7166e17c-286a-4aca-8383-250506f4e1d3@bauhinia01.abzoones.xyz:36206?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-199.59.243.228-5632
 trojan://7166e17c-286a-4aca-8383-250506f4e1d3@bauhinia01.abzoones.xyz:36501/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US-199.59.243.228-5274
+trojan://7166e17c-286a-4aca-8383-250506f4e1d3@bauhinia01.abzoones.xyz:36501?security=tls
 trojan://7166e17c-286a-4aca-8383-250506f4e1d3@bauhinia01.abzoones.xyz:36501?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-199.59.243.228-5572
 trojan://7166e17c-286a-4aca-8383-250506f4e1d3@bauhinia01.abzoones.xyz:36701/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US-199.59.243.228-5275
 trojan://7166e17c-286a-4aca-8383-250506f4e1d3@bauhinia01.abzoones.xyz:36701?security=tls
@@ -2219,6 +2220,7 @@ trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@167.234.220.143:443/?type=tcp&secu
 trojan://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443/?type=tcp&security=tls&sni=🔒
 trojan://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443/?type=ws&host=pardazeshvpn-tg48.pages.dev&security=tls&sni=pardazeshvpn-tg48.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?security=tls&type=ws&sni=🔒
+trojan://9d846d39-2f5e-3fae-8ad7-239cedc56048@hl.jiashumao.net:45519?security=tls
 trojan://9d846d39-2f5e-3fae-8ad7-239cedc56048@hl.jiashumao.net:45519?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-162.209.175.122-0086
 trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@172.67.220.93:443/?type=tcp&security=tls&sni=m2rrrty.777219.xyz#%F0%9F%8F%81RELAY-172.67.220.93-1510
 trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@172.67.220.93:443/?type=tcp&security=tls&sni=🔒
@@ -4404,6 +4406,7 @@ trojan://a1bec5fe-74b4-4ef7-859b-ca4b27f9cb5c@high.vb.defehaita.xyz:21703/?type=
 trojan://a1e12464-9208-4583-bd21-ab6889fdd242@139.177.189.122:443?security=tls&sni=cdn.qchwnd.moe#%F0%9F%87%B8%F0%9F%87%ACSG-139.177.189.122-0059
 trojan://a1e12464-9208-4583-bd21-ab6889fdd242@139.177.189.122:443?security=tls&sni=🔒
 trojan://a1e12464-9208-4583-bd21-ab6889fdd242@45.33.109.70:443?security=tls&sni=cdn.qchwnd.moe#%F0%9F%87%BA%F0%9F%87%B8US-45.33.109.70-0100
+trojan://a1e12464-9208-4583-bd21-ab6889fdd242@45.33.109.70:443?security=tls&sni=🔒
 trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@176.31.71.16:443?security=tls&sni=🔒
 trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@54.37.220.201:443?security=tls&sni=🔒
 trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@upload.soft98.download:443?security=tls&sni=upload.soft98.download#%F0%9F%87%AB%F0%9F%87%B7FR-54.37.220.201-1053
@@ -4449,6 +4452,7 @@ trojan://a7b22c05-27fd-4a76-8896-2aebaf4cf3a1@172.67.173.64:443/?type=ws&host=tt
 trojan://a7b22c05-27fd-4a76-8896-2aebaf4cf3a1@172.67.173.64:443/?type=ws&host=ttttttyu.2032.pp.ua&path=🔒
 trojan://a7c7bbf0-48a1-11f0-b880-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp
 trojan://a7c9c017-db10-4d15-b01b-0634db498b57@104.21.13.36:443?security=tls&sni=🔒
+trojan://a906625d-446c-468f-9e26-1d15981fa0e9@nl-full.privateip.net:443?security=tls
 trojan://a906625d-446c-468f-9e26-1d15981fa0e9@nl-full.privateip.net:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-128.199.56.167-5321
 trojan://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443/?type=ws&host=5c53ca21.vpn-aryoo.pages.dev&security=tls&sni=5c53ca21.vpn-aryoo.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://a96cb093-b164-4bc6-bd27-deb0e385de07@104.21.42.93:443?security=tls&sni=🔒
@@ -4845,6 +4849,7 @@ trojan://b977b966-2e65-3ee5-acde-ee3409ad3597@scloud58.jafiyun.world:22058?type=
 trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36106/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US-199.59.243.228-5289
 trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36106?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-199.59.243.228-5587
 trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36116/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US-199.59.243.228-5293
+trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36116?security=tls
 trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36116?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-199.59.243.228-5591
 trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36201/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US-199.59.243.228-5286
 trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36201?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-199.59.243.228-5584
@@ -4858,7 +4863,6 @@ trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36306/?typ
 trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36306?security=tls
 trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36306?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-199.59.243.228-5585
 trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36401/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US-199.59.243.228-5280
-trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36401?security=tls
 trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36401?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-199.59.243.228-5578
 trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36601/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US-199.59.243.228-5321
 trojan://b9b55277-010a-48de-8ad9-0fa1bb7de676@bauhinia01.abzoones.xyz:36601?security=tls
@@ -6157,7 +6161,6 @@ trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@20-66-19-98.ipv4.rush.ml:8443?
 trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@20-66-19-98.ipv4.rush.ml:8443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-166.117.110.61-2526
 trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-153-30-20.ipv4.rush.ml:8443?security=tls
 trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-153-30-20.ipv4.rush.ml:8443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-166.117.110.61-2415
-trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-153-34-170.ipv4.rush.ml:8443?security=tls
 trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-153-34-170.ipv4.rush.ml:8443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-166.117.110.61-2428
 trojan://cf6c3e40-4213-11f0-bc31-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp
 trojan://cfbabf31-2cf6-40ca-9688-abbb682370aa@cn.speedabc.xyz:32002?security=tls&sni=jp-bgp.speedaccelerate.com#%F0%9F%87%BA%F0%9F%87%B8US-166.117.110.61-2194
@@ -6311,9 +6314,10 @@ trojan://df283334-6f6e-4efb-9a8a-b8ecf3040924@150.66.13.75:443?security=tls&sni=
 trojan://df285431-91b0-3e85-bc0b-6be1f4cabdca@193.123.82.85:16146?security=tls&sni=🔒
 trojan://df9d6880-3f0f-11f0-b00b-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp
 trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s1.hazz.win:12340?security=tls&sni=edge.apple.com#%F0%9F%87%BA%F0%9F%87%B8US-75.2.18.233-4804
-trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s2.hazz.win:12340?security=tls
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s1.hazz.win:12340?security=tls&sni=🔒
 trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s2.hazz.win:12340?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-75.2.18.233-4734
 trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s3.hazz.win:12340/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US-75.2.18.233-4578
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s3.hazz.win:12340?security=tls
 trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s3.hazz.win:12340?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-75.2.18.233-4849
 trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s4.hazz.win:12340?security=tls
 trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s4.hazz.win:12340?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-75.2.18.233-4765
@@ -6619,6 +6623,7 @@ trojan://fa9b326c-ca6f-4bb2-88f5-a163b404fcf8@asia.artunnel57.host:80?security=n
 trojan://fac28a4c-c36c-4014-b7d5-3e5a3e066998@sdv2-hk.04z3susick.download:5604?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.141.40.36-2143
 trojan://fac28a4c-c36c-4014-b7d5-3e5a3e066998@sdv2-hk.04z3susick.download:5604?security=tls&sni=🔒
 trojan://fac28a4c-c36c-4014-b7d5-3e5a3e066998@sdv2-hk.04z3susick.download:5605?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.141.40.36-2154
+trojan://fac28a4c-c36c-4014-b7d5-3e5a3e066998@sdv2-hk.04z3susick.download:5605?security=tls&sni=🔒
 trojan://fac28a4c-c36c-4014-b7d5-3e5a3e066998@sdv2-jp.04z3susick.download:5615?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.141.40.28-2129
 trojan://fac28a4c-c36c-4014-b7d5-3e5a3e066998@sdv2-jp.04z3susick.download:5615?security=tls&sni=🔒
 trojan://fac28a4c-c36c-4014-b7d5-3e5a3e066998@sdv2-jp.04z3susick.download:5616?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.141.40.36-2123
@@ -6634,8 +6639,8 @@ trojan://fac28a4c-c36c-4014-b7d5-3e5a3e066998@sdv2-tw.04z3susick.download:5622?s
 trojan://fac28a4c-c36c-4014-b7d5-3e5a3e066998@sdv2-tw.04z3susick.download:5623?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.141.40.28-2163
 trojan://fac28a4c-c36c-4014-b7d5-3e5a3e066998@sdv2-tw.04z3susick.download:5623?security=tls&sni=🔒
 trojan://fac28a4c-c36c-4014-b7d5-3e5a3e066998@sdv2-tw.04z3susick.download:5624?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.141.40.36-4984
+trojan://fac28a4c-c36c-4014-b7d5-3e5a3e066998@sdv2-tw.04z3susick.download:5624?security=tls&sni=🔒
 trojan://fac28a4c-c36c-4014-b7d5-3e5a3e066998@sdv2-tw.04z3susick.download:5626?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.141.40.36-2149
-trojan://fac28a4c-c36c-4014-b7d5-3e5a3e066998@sdv2-tw.04z3susick.download:5626?security=tls&sni=🔒
 trojan://faf42aa0a9ad4c1e@134.195.101.32:3306?security=tls&sni=🔒
 trojan://fafb4232-9659-4867-886d-e47f4bda283e@149.56.132.41:80?allowInsecure=1&sni=🔒
 trojan://fbd3aa90-3f0f-11f0-b8ff-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp
@@ -6832,7 +6837,6 @@ trojan://slch2024@185.135.9.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87
 trojan://slch2024@185.148.104.195:2096/?type=ws&host=ocost-dy.wmlefl.cc&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 trojan://slch2024@185.148.104.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.148.104.195-0683
 trojan://slch2024@185.148.104.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#US_speednode_0073
-trojan://slch2024@185.148.104.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#🇸🇬[openproxylist.com]
 trojan://slch2024@185.148.104.195:2096?allowInsecure=0&sni=🔒
 trojan://slch2024@185.148.104.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.148.104.195-1200
 trojan://slch2024@185.148.104.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=/Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.148.104.195-0585
@@ -6856,9 +6860,9 @@ trojan://slch2024@185.148.107.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%
 trojan://slch2024@185.148.107.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#RU_speednode_0051
 trojan://slch2024@185.148.107.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram@ShadowProxy66#RU_speednode_0047
 trojan://slch2024@185.148.107.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#RU_speednode_0050
-trojan://slch2024@185.148.107.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#🇸🇬[openproxylist.com]
 trojan://slch2024@185.148.107.195:2096?allowInsecure=0&sni=🔒
 trojan://slch2024@185.148.107.195:2096?allowInsecure=1&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3#RU_speednode_0048
+trojan://slch2024@185.148.107.195:2096?allowInsecure=1&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3#🇸🇬[openproxylist.com]
 trojan://slch2024@185.148.107.195:2096?allowInsecure=1&sni=🔒
 trojan://slch2024@185.148.107.195:2096?path=/Telegram@ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel
 trojan://slch2024@185.148.107.195:2096?path=🔒
@@ -6908,7 +6912,6 @@ trojan://slch2024@185.174.138.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Tele
 trojan://slch2024@185.174.138.195:2096?type=ws&sni=🔒
 trojan://slch2024@185.176.24.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.176.24.195-0669
 trojan://slch2024@185.176.24.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3#RU_speednode_0049
-trojan://slch2024@185.176.24.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3#🇸🇬[openproxylist.com]
 trojan://slch2024@185.176.24.195:2096?allowInsecure=0&sni=🔒
 trojan://slch2024@185.176.24.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.176.24.195-1192
 trojan://slch2024@185.176.24.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.176.24.195-1195
@@ -6956,7 +6959,6 @@ trojan://slch2024@185.251.80.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Teleg
 trojan://slch2024@185.251.80.195:2096?type=ws&sni=🔒
 trojan://slch2024@185.251.81.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.251.81.195-0656
 trojan://slch2024@185.251.81.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#ES_speednode_0020
-trojan://slch2024@185.251.81.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#🇸🇬[openproxylist.com]
 trojan://slch2024@185.251.81.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#ES_speednode_0016
 trojan://slch2024@185.251.81.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&ws=1&wspath=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AA%F0%9F%87%B8%20%E8%A5%BF%E7%8F%AD%E7%89%99%20V2CROSS.COM
 trojan://slch2024@185.251.81.195:2096?allowInsecure=0&sni=🔒
@@ -6996,6 +6998,7 @@ trojan://slch2024@185.59.218.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%8
 trojan://slch2024@185.59.218.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#RU_speednode_0053
 trojan://slch2024@185.59.218.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#RU_speednode_0052
 trojan://slch2024@185.59.218.195:2096?allowInsecure=0&sni=🔒
+trojan://slch2024@185.59.218.195:2096?path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 trojan://slch2024@185.59.218.195:2096?security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.59.218.195-0810
 trojan://slch2024@185.59.218.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=/Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.59.218.195-0572
 trojan://slch2024@185.59.218.195:2096?security=tls&sni=🔒
@@ -7003,8 +7006,8 @@ trojan://slch2024@185.59.218.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Teleg
 trojan://slch2024@185.59.218.195:2096?type=ws&sni=🔒
 trojan://slch2024@185.7.240.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.7.240.195-0690
 trojan://slch2024@185.7.240.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#FR_speednode_0021
-trojan://slch2024@185.7.240.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#🇸🇬[openproxylist.com]
 trojan://slch2024@185.7.240.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#FR_speednode_0022
+trojan://slch2024@185.7.240.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#🇸🇬[openproxylist.com]
 trojan://slch2024@185.7.240.195:2096?allowInsecure=0&sni=🔒
 trojan://slch2024@185.7.240.195:2096?path=%2FTelegram%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://slch2024@185.7.240.195:2096?security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-185.7.240.195-0786
@@ -7017,11 +7020,9 @@ trojan://slch2024@188.164.158.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%
 trojan://slch2024@188.164.158.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3#AM_speednode_0001
 trojan://slch2024@188.164.158.195:2096?allowInsecure=0&sni=🔒
 trojan://slch2024@188.164.158.195:2096?security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.164.158.195-0765
-trojan://slch2024@188.164.158.195:2096?security=tls&sni=🔒
 trojan://slch2024@188.164.158.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A56
 trojan://slch2024@188.164.158.195:2096?type=ws&sni=🔒
 trojan://slch2024@188.164.158.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.164.158.87-0741
-trojan://slch2024@188.164.158.87:2096?security=tls&sni=🔒
 trojan://slch2024@188.164.159.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.164.159.195-0649
 trojan://slch2024@188.164.159.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3#AM_speednode_0002
 trojan://slch2024@188.164.159.195:2096?allowInsecure=0&sni=🔒
@@ -7085,7 +7086,6 @@ trojan://slch2024@188.42.88.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type
 trojan://slch2024@188.42.88.195:2096?allowInsecure=0&sni=🔒
 trojan://slch2024@188.42.88.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.42.88.195-1102
 trojan://slch2024@188.42.88.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=/Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.42.88.195-0569
-trojan://slch2024@188.42.88.195:2096?security=tls&sni=🔒
 trojan://slch2024@188.42.88.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A54
 trojan://slch2024@188.42.88.195:2096?type=ws&sni=🔒
 trojan://slch2024@188.42.89.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-188.42.89.195-0652
@@ -7107,7 +7107,6 @@ trojan://slch2024@190.93.245.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws
 trojan://slch2024@190.93.245.87:2096?security=tls&sni=🔒
 trojan://slch2024@190.93.246.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-190.93.246.195-0644
 trojan://slch2024@190.93.246.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-190.93.246.87-0735
-trojan://slch2024@190.93.246.87:2096?security=tls&sni=🔒
 trojan://slch2024@190.93.247.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-190.93.247.195-0643
 trojan://slch2024@190.93.247.195:2096?path=/Telegram🇨🇳&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#[🇨🇷]
 trojan://slch2024@190.93.247.195:2096?path=🔒
@@ -7128,6 +7127,7 @@ trojan://slch2024@192.0.54.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&p
 trojan://slch2024@192.0.63.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-192.0.63.195-0641
 trojan://slch2024@192.0.63.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#US_speednode_0075
 trojan://slch2024@192.0.63.195:2096?allowInsecure=0&sni=🔒
+trojan://slch2024@192.0.63.195:2096?path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 trojan://slch2024@192.0.63.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-192.0.63.195-1162
 trojan://slch2024@192.0.63.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=/Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-192.0.63.195-0582
 trojan://slch2024@192.0.63.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#US11
@@ -7142,6 +7142,7 @@ trojan://slch2024@192.169.220.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=w
 trojan://slch2024@192.169.220.87:2096?security=tls&sni=🔒
 trojan://slch2024@192.169.221.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-192.169.221.195-0638
 trojan://slch2024@192.169.221.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-192.169.221.87-0729
+trojan://slch2024@192.169.221.87:2096?security=tls&sni=🔒
 trojan://slch2024@192.169.222.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-192.169.222.195-0637
 trojan://slch2024@192.169.222.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-192.169.222.87-0728
 trojan://slch2024@192.169.222.87:2096?security=tls&sni=🔒
@@ -7152,6 +7153,7 @@ trojan://slch2024@192.169.223.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=w
 trojan://slch2024@192.169.223.87:2096?security=tls&sni=🔒
 trojan://slch2024@192.200.160.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-192.200.160.195-0635
 trojan://slch2024@192.200.160.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#US_speednode_0072
+trojan://slch2024@192.200.160.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#🇸🇬[openproxylist.com]
 trojan://slch2024@192.200.160.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&ws=1&wspath=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20V2CROSS.COM
 trojan://slch2024@192.200.160.195:2096?allowInsecure=0&sni=🔒
 trojan://slch2024@192.200.160.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-192.200.160.195-1144
@@ -7163,7 +7165,6 @@ trojan://slch2024@192.200.160.87:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&typ
 trojan://slch2024@192.200.160.87:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&ws=1&wspath=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20V2CROSS.COM
 trojan://slch2024@192.200.160.87:2096?allowInsecure=0&sni=🔒
 trojan://slch2024@192.200.160.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-192.200.160.87-0726
-trojan://slch2024@192.200.160.87:2096?security=tls&sni=🔒
 trojan://slch2024@192.200.160.87:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#US9
 trojan://slch2024@192.200.160.87:2096?type=ws&sni=🔒
 trojan://slch2024@192.65.217.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-192.65.217.195-0640
@@ -7171,7 +7172,6 @@ trojan://slch2024@192.65.217.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=w
 trojan://slch2024@192.65.217.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-192.65.217.195-1139
 trojan://slch2024@192.65.217.195:2096?security=tls&sni=🔒
 trojan://slch2024@192.65.217.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-192.65.217.87-0731
-trojan://slch2024@192.65.217.87:2096?security=tls&sni=🔒
 trojan://slch2024@193.124.18.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-193.124.18.195-0633
 trojan://slch2024@193.124.18.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-193.124.18.87-0724
 trojan://slch2024@193.124.18.87:2096?security=tls&sni=🔒
@@ -7189,9 +7189,9 @@ trojan://slch2024@193.124.224.195:2096?security=tls&sni=🔒
 trojan://slch2024@193.124.224.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#%E6%9C%AA%E7%9F%A518
 trojan://slch2024@193.124.224.195:2096?type=ws&sni=🔒
 trojan://slch2024@193.124.224.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-193.124.224.87-0723
-trojan://slch2024@193.124.224.87:2096?security=tls&sni=🔒
 trojan://slch2024@193.227.99.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-193.227.99.195-0631
 trojan://slch2024@193.227.99.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-193.227.99.87-0722
+trojan://slch2024@193.227.99.87:2096?security=tls&sni=🔒
 trojan://slch2024@193.9.49.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-193.9.49.195-0634
 trojan://slch2024@193.9.49.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-193.9.49.195-1136
 trojan://slch2024@193.9.49.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-193.9.49.195-1182
@@ -7202,6 +7202,7 @@ trojan://slch2024@193.9.49.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&p
 trojan://slch2024@193.9.49.87:2096?security=tls&sni=🔒
 trojan://slch2024@194.152.44.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-194.152.44.195-0624
 trojan://slch2024@194.152.44.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-194.152.44.87-0717
+trojan://slch2024@194.152.44.87:2096?security=tls&sni=🔒
 trojan://slch2024@194.36.55.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-194.36.55.195-0628
 trojan://slch2024@194.36.55.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#GB_speednode_0030
 trojan://slch2024@194.36.55.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#GB_speednode_0028
@@ -7255,19 +7256,18 @@ trojan://slch2024@195.13.45.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws
 trojan://slch2024@195.13.45.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=/Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.13.45.195-0586
 trojan://slch2024@195.13.45.195:2096?security=tls&sni=🔒
 trojan://slch2024@195.13.45.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.13.45.87-0715
-trojan://slch2024@195.13.45.87:2096?security=tls&sni=🔒
 trojan://slch2024@195.13.54.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.13.54.195-0621
 trojan://slch2024@195.13.54.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.13.54.195-1205
 trojan://slch2024@195.13.54.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=/Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.13.54.195-0679
 trojan://slch2024@195.13.54.195:2096?security=tls&sni=🔒
 trojan://slch2024@195.13.54.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.13.54.87-0714
+trojan://slch2024@195.13.54.87:2096?security=tls&sni=🔒
 trojan://slch2024@195.13.55.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.13.55.195-0620
 trojan://slch2024@195.13.55.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.13.55.195-1137
 trojan://slch2024@195.13.55.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.13.55.195-1156
 trojan://slch2024@195.13.55.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=/Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.13.55.195-0681
 trojan://slch2024@195.13.55.195:2096?security=tls&sni=🔒
 trojan://slch2024@195.13.55.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.13.55.87-0713
-trojan://slch2024@195.13.55.87:2096?security=tls&sni=🔒
 trojan://slch2024@195.245.221.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.245.221.195-0616
 trojan://slch2024@195.245.221.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.245.221.87-0709
 trojan://slch2024@195.245.221.87:2096?security=tls&sni=🔒
@@ -7290,14 +7290,15 @@ trojan://slch2024@195.26.229.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws
 trojan://slch2024@195.26.229.87:2096?security=tls&sni=🔒
 trojan://slch2024@195.85.23.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.85.23.195-0618
 trojan://slch2024@195.85.23.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.85.23.87-0711
+trojan://slch2024@195.85.23.87:2096?security=tls&sni=🔒
 trojan://slch2024@195.85.59.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.85.59.195-0617
 trojan://slch2024@195.85.59.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-195.85.59.87-0710
+trojan://slch2024@195.85.59.87:2096?security=tls&sni=🔒
 trojan://slch2024@198.12.144.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-198.12.144.195-0615
 trojan://slch2024@198.12.144.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-198.12.144.87-0708
 trojan://slch2024@198.12.144.87:2096?security=tls&sni=🔒
 trojan://slch2024@198.12.145.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-198.12.145.195-0614
 trojan://slch2024@198.12.145.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-198.12.145.87-0707
-trojan://slch2024@198.12.145.87:2096?security=tls&sni=🔒
 trojan://slch2024@198.177.56.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-198.177.56.195-0606
 trojan://slch2024@198.177.56.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-198.177.56.87-0699
 trojan://slch2024@198.177.56.87:2096?security=tls&sni=🔒
@@ -7309,6 +7310,7 @@ trojan://slch2024@198.202.211.195:2096?path=Telegram@ShadowProxy66&security=tls&
 trojan://slch2024@198.202.211.195:2096?path=Telegram@ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&sni=ocost-dy.wmlefl.cc#@TEHRANARGO
 trojan://slch2024@198.202.211.195:2096?path=🔒
 trojan://slch2024@198.202.211.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-198.202.211.87-0697
+trojan://slch2024@198.202.211.87:2096?security=tls&sni=🔒
 trojan://slch2024@198.62.62.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-198.62.62.195-0613
 trojan://slch2024@198.62.62.195:2096?path=🔒
 trojan://slch2024@198.62.62.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-198.62.62.195-1132
@@ -7317,10 +7319,8 @@ trojan://slch2024@198.62.62.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&
 trojan://slch2024@198.62.62.87:2096?security=tls&sni=🔒
 trojan://slch2024@198.71.188.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-198.71.188.195-0612
 trojan://slch2024@198.71.188.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-198.71.188.87-0705
-trojan://slch2024@198.71.188.87:2096?security=tls&sni=🔒
 trojan://slch2024@198.71.189.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-198.71.189.195-0611
 trojan://slch2024@198.71.189.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-198.71.189.87-0704
-trojan://slch2024@198.71.189.87:2096?security=tls&sni=🔒
 trojan://slch2024@198.71.190.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-198.71.190.195-0610
 trojan://slch2024@198.71.190.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-198.71.190.87-0703
 trojan://slch2024@198.71.190.87:2096?security=tls&sni=🔒
@@ -7332,7 +7332,6 @@ trojan://slch2024@198.71.232.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws
 trojan://slch2024@198.71.232.87:2096?security=tls&sni=🔒
 trojan://slch2024@198.71.233.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-198.71.233.195-0607
 trojan://slch2024@198.71.233.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-198.71.233.87-0700
-trojan://slch2024@198.71.233.87:2096?security=tls&sni=🔒
 trojan://slch2024@199.181.197.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-199.181.197.195-0599
 trojan://slch2024@199.181.197.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-199.181.197.87-0692
 trojan://slch2024@199.181.197.87:2096?security=tls&sni=🔒
@@ -7358,9 +7357,11 @@ trojan://slch2024@199.34.230.195:2096?security=tls&sni=🔒
 trojan://slch2024@199.34.230.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳&host=ocost-dy.wmlefl.cc#US4
 trojan://slch2024@199.34.230.195:2096?type=ws&sni=🔒
 trojan://slch2024@199.34.230.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-199.34.230.87-0694
+trojan://slch2024@199.34.230.87:2096?security=tls&sni=🔒
 trojan://slch2024@199.68.156.195:2096/?type=ws&host=ocost-dy.wmlefl.cc&path=%2F&security=tls&sni=ocost-dy.wmlefl.cc#Channel%20id%3A%20%40ShadowProxy66%20
 trojan://slch2024@199.68.156.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-199.68.156.195-0600
 trojan://slch2024@199.68.156.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/#US_speednode_0059
+trojan://slch2024@199.68.156.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/#🇸🇬[openproxylist.com]
 trojan://slch2024@199.68.156.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#US_speednode_0056
 trojan://slch2024@199.68.156.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇮🇷ShadowProxy66#US_speednode_0055
 trojan://slch2024@199.68.156.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&ws=1&wspath=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7ShadowProxy66#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20V2CROSS.COM
@@ -7373,6 +7374,7 @@ trojan://slch2024@199.68.156.195:2096?path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%
 trojan://slch2024@199.68.156.195:2096?path=🔒
 trojan://slch2024@199.68.156.195:2096?security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-199.68.156.195-0813
 trojan://slch2024@199.68.156.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=/Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-199.68.156.195-0578
+trojan://slch2024@199.68.156.195:2096?security=tls&sni=🔒
 trojan://slch2024@199.68.156.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram🇮🇷ShadowProxy66&host=ocost-dy.wmlefl.cc#US6
 trojan://slch2024@199.68.156.195:2096?type=ws&sni=🔒
 trojan://slch2024@199.68.156.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-199.68.156.87-0693
@@ -7383,15 +7385,15 @@ trojan://slch2024@205.233.181.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%
 trojan://slch2024@205.233.181.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-205.233.181.195-1199
 trojan://slch2024@205.233.181.195:2096?security=tls&sni=🔒
 trojan://slch2024@205.233.181.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-205.233.181.87-0690
-trojan://slch2024@205.233.181.87:2096?security=tls&sni=🔒
 trojan://slch2024@209.46.30.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-209.46.30.195-0596
 trojan://slch2024@209.46.30.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2F%E7%94%B1%E9%9B%B6%E5%BC%80%E5%A7%8B&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-209.46.30.195-1187
 trojan://slch2024@209.46.30.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=%2FTelegram&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-209.46.30.195-1183
+trojan://slch2024@209.46.30.195:2096?security=tls&sni=🔒
 trojan://slch2024@209.46.30.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-209.46.30.87-0689
-trojan://slch2024@209.46.30.87:2096?security=tls&sni=🔒
 trojan://slch2024@209.94.90.195:2096/?type=ws&host=ocost-dy.wmlefl.cc&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#Channel%20id%3A%20%40ShadowProxy66%20
 trojan://slch2024@209.94.90.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-209.94.90.195-0595
 trojan://slch2024@209.94.90.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#US_speednode_0060
+trojan://slch2024@209.94.90.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#🇸🇬[openproxylist.com]
 trojan://slch2024@209.94.90.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#US_speednode_0071
 trojan://slch2024@209.94.90.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇮🇷ShadowProxy66#US_speednode_0063
 trojan://slch2024@209.94.90.195:2096?allowInsecure=0&sni=🔒
@@ -7406,7 +7408,6 @@ trojan://slch2024@209.94.90.195:2096?security=tls&sni=🔒
 trojan://slch2024@209.94.90.195:2096?type=ws&sni=ocost-dy.wmlefl.cc&path=/Telegram&host=ocost-dy.wmlefl.cc#US2
 trojan://slch2024@209.94.90.195:2096?type=ws&sni=🔒
 trojan://slch2024@209.94.90.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-209.94.90.87-0688
-trojan://slch2024@209.94.90.87:2096?security=tls&sni=🔒
 trojan://slch2024@212.183.88.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%A6%F0%9F%87%B9AT-212.183.88.195-0594
 trojan://slch2024@212.183.88.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#AT_speednode_0004
 trojan://slch2024@212.183.88.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#AT_speednode_0003
@@ -7423,7 +7424,6 @@ trojan://slch2024@213.182.199.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=w
 trojan://slch2024@213.182.199.87:2096?security=tls&sni=🔒
 trojan://slch2024@213.241.198.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-213.241.198.195-0591
 trojan://slch2024@213.241.198.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-213.241.198.87-0685
-trojan://slch2024@213.241.198.87:2096?security=tls&sni=🔒
 trojan://slch2024@216.205.52.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8F%81RELAY-216.205.52.195-0589
 trojan://slch2024@216.205.52.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#[🇺🇸]
 trojan://slch2024@216.205.52.195:2096?path=🔒
@@ -7436,7 +7436,6 @@ trojan://slch2024@216.24.57.195:2096?security=tls&sni=🔒
 trojan://slch2024@216.24.57.87:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#[🇺🇸]
 trojan://slch2024@216.24.57.87:2096?path=🔒
 trojan://slch2024@216.24.57.87:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-216.24.57.87-0684
-trojan://slch2024@216.24.57.87:2096?security=tls&sni=🔒
 trojan://slch2024@www.visasoutheasteurope.com:2096/?type=tcp&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8C%B572%40oneclickvpnkeys
 trojan://tXsBdKfoe9@104.25.145.188:2083/?type=tcp&security=tls&sni=🔒
 trojan://tXsBdKfoe9@104.25.145.188:2083/?type=ws&host=cpuhot.boshrachoice.ir.&path=%2FVPNTV20%40_TOP.COM.VPNTV20%40_TOP.COM.VPNTV20%40_TOP.COM%3Fed%3D2048&security=tls&sni=cpuhot.boshrachoice.ir.#33%F0%9F%A7%BF%40oneclickvpnkeys
@@ -7650,7 +7649,6 @@ trojan://telegram-id-privatevpns@15.236.29.84:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@15.236.5.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@15.236.73.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@15.237.12.5:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.12.5-2153
-trojan://telegram-id-privatevpns@15.237.12.5:22222?security=tls&sni=🔒
 trojan://telegram-id-privatevpns@15.237.50.200:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.50.200-8878
 trojan://telegram-id-privatevpns@15.237.50.200:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.50.200-8880
 trojan://telegram-id-privatevpns@15.237.50.200:22222?security=tls&sni=🔒
@@ -7730,7 +7728,6 @@ trojan://telegram-id-privatevpns@3.67.59.182:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@3.68.1.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@3.68.139.230:22222?type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@3.68.140.204:22222/?type=tcp&security=tls&sni=🔒
-trojan://telegram-id-privatevpns@3.69.74.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@3.70.108.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@3.70.33.164:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40mt_proxy%20%5B7%5D
 trojan://telegram-id-privatevpns@3.70.33.164:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒
@@ -7782,6 +7779,7 @@ trojan://telegram-id-privatevpns@51.44.198.145:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@51.44.227.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@51.44.227.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.44.227.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
+trojan://telegram-id-privatevpns@51.44.37.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@51.44.37.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.44.37.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@51.44.49.244:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
