@@ -123,6 +123,8 @@ hysteria2://a59be66d-1e59-40ea-b378-ceecd80c3337@45.11.1.62:443?sni=www.microsof
 hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?security=tls&insecure=1&sni=hk1.shiyuandian.shop#hamedp71%20-%20%F0%9F%87%AD%F0%9F%87%B0با
 hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591?sni=hk1.shiyuandian.shop&insecure=1#HK
 hysteria2://be81e21d-02d8-4a60-a07e-c2202a50a549@yjjdhl.yunjijd.xyz:26923?sni=yjjdhl.yunjijd.xyz&insecure=1#NL
+hysteria2://channel_dailyconfigs:ff0rY2oVM47dzLrxdYtnA46xDvfa8qde@95.181.174.31:443?security=tls&obfs=salamander&obfs-password=tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs&insecure=1&pinSHA256=EC:41:2A:C8:DC:21:90:84:D2:FA:57:E2:E3:78:2F:3F:E2:88:4F:F1:DE:14:BE:91:5D:14:9F:A4:FC:B2:45:D2&sni=slack.com#@Daily_Configs
+hysteria2://channel_dailyconfigs:ff0rY2oVM47dzLrxdYtnA46xDvfa8qde@[2a0b:4140:b17f::2]:443?security=tls&obfs=salamander&obfs-password=tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs&insecure=1&pinSHA256=EC:41:2A:C8:DC:21:90:84:D2:FA:57:E2:E3:78:2F:3F:E2:88:4F:F1:DE:14:BE:91:5D:14:9F:A4:FC:B2:45:D2&sni=slack.com#@Daily_Configs
 hysteria2://channel_dailyconfigs:ydiCRB4ch1MJWYvIErVQIhsC6itILilU@176.124.204.248:443?security=tls&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1&pinSHA256=43:71:51:ED:9A:02:15:79:BF:1E:FF:BE:BB:73:AC:7B:21:0C:5D:4A:D1:E4:3E:2F:67:E9:5B:49:54:C3:5B:2E&sni=ubuntu
 hysteria2://channel_dailyconfigs:ydiCRB4ch1MJWYvIErVQIhsC6itILilU@[2a0b:4140:b6c4::2]:443?security=tls&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1&pinSHA256=43:71:51:ED:9A:02:15:79:BF:1E:FF:BE:BB:73:AC:7B:21:0C:5D:4A:D1:E4:3E:2F:67:E9:5B:49:54:C3:5B:2E&sni=ubuntu
 hysteria2://channel_dailyconfigs@176.124.204.248:443?insecure=1&sni=ubuntu
