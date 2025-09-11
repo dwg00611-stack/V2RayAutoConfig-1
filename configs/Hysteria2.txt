@@ -116,16 +116,6 @@ hysteria2://channel_dailyconfigs:ydiCRB4ch1MJWYvIErVQIhsC6itILilU@[2a0b:4140:b6c
 hysteria2://channel_dailyconfigs@176.124.204.248:443?insecure=1&sni=ubuntu
 hysteria2://channel_dailyconfigs@95.181.174.31:443?insecure=1&sni=slack.com&obfs=salamander&obfs-password=tqfg2P0b7p8fcjCbcRqj4lHleH5jcvBs#%40Daily_Configs%20%234
 hysteria2://d5488371-4d89-4699-890f-7abeb28c4076@hsmg.huasuan666.top:22151?sni=hsmg.huasuan666.top&insecure=1#US
-hysteria2://d6ec241d-09e9-443e-878c-7ef70e6e6140@fq-de.mxtn.net:443?insecure=0#FR
-hysteria2://d6ec241d-09e9-443e-878c-7ef70e6e6140@fq-fr.mxtn.net:443?insecure=0#FR
-hysteria2://d6ec241d-09e9-443e-878c-7ef70e6e6140@fq-hk.mxtn.net:443?insecure=0#HK
-hysteria2://d6ec241d-09e9-443e-878c-7ef70e6e6140@fq-in.mxtn.net:443?insecure=0#IN
-hysteria2://d6ec241d-09e9-443e-878c-7ef70e6e6140@fq-jp.mxtn.net:443?insecure=0#JP
-hysteria2://d6ec241d-09e9-443e-878c-7ef70e6e6140@fq-kr.mxtn.net:443?insecure=0#KR
-hysteria2://d6ec241d-09e9-443e-878c-7ef70e6e6140@fq-nl.mxtn.net:443?insecure=0#RU
-hysteria2://d6ec241d-09e9-443e-878c-7ef70e6e6140@fq-sg.mxtn.net:443?insecure=0#SG
-hysteria2://d6ec241d-09e9-443e-878c-7ef70e6e6140@fq-uk.mxtn.net:443?insecure=0#GB
-hysteria2://d6ec241d-09e9-443e-878c-7ef70e6e6140@fq-us.mxtn.net:443?insecure=0#US
 hysteria2://daily_configs:bypzIVqyeJOSLrTsdo3amy5akEEqUHJE@176.124.204.248:443?security=tls&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1&pinSHA256=43:71:51:ED:9A:02:15:79:BF:1E:FF:BE:BB:73:AC:7B:21:0C:5D:4A:D1:E4:3E:2F:67:E9:5B:49:54:C3:5B:2E&sni=ubuntu
 hysteria2://daily_configs:bypzIVqyeJOSLrTsdo3amy5akEEqUHJE@[2a0b:4140:b6c4::2]:443?security=tls&obfs=salamander&obfs-password=5zcstyddEr2HrwDFUGsF87IdN4eokPcN&insecure=1&pinSHA256=43:71:51:ED:9A:02:15:79:BF:1E:FF:BE:BB:73:AC:7B:21:0C:5D:4A:D1:E4:3E:2F:67:E9:5B:49:54:C3:5B:2E&sni=ubuntu
 hysteria2://daily_configs@176.124.204.248:443?insecure=1&sni=ubuntu
