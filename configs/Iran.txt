@@ -66,6 +66,7 @@ ss://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=/aioproxybot/8.2
 ss://2d29bc24-aaf2-4e48-b0c1-ec6d625f8271@benefits.by:80/?type=httpupgrade&encryption=none&host=dadashi.ir&path=%2Fdabadoo#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40iranbfilter%20%5B7%5D
 ss://2d29bc24-aaf2-4e48-b0c1-ec6d625f8271@benefits.by:80?type=httpupgrade&path=%2Fdabadoo&host=dadashi.ir&security=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40iranbfilter%20%5B7%5D
 ss://2d949dda-1d2e-4b2f-834c-244fac90294c@full.safeambox.ir:48822?path=%2F&security=none&encryption=none&type=ws#IR🇮🇷
+ss://2ecc1c66-0808-174c-e51a-5274c1428b3c@luckypingout.bikofile.com:443?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B56%5D
 ss://2ef737f5-d66a-4788-98b4-6dff2850954d@randomsecretcloud.ferdowsi-rgb.ir:36802?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 ss://2fbf2c57-e1fc-4cf2-b8bd-3954c227b0c6@vip1.zxhost.sbs:80?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 ss://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80/?type=tcp&encryption=none#%40v2rayfree_iran%F0%9F%87%AE%F0%9F%87%B7
@@ -551,6 +552,7 @@ vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=/aioproxybot/
 vless://2d29bc24-aaf2-4e48-b0c1-ec6d625f8271@benefits.by:80/?type=httpupgrade&encryption=none&host=dadashi.ir&path=%2Fdabadoo#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40iranbfilter%20%5B7%5D
 vless://2d29bc24-aaf2-4e48-b0c1-ec6d625f8271@benefits.by:80?type=httpupgrade&path=%2Fdabadoo&host=dadashi.ir&security=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40iranbfilter%20%5B7%5D
 vless://2d949dda-1d2e-4b2f-834c-244fac90294c@full.safeambox.ir:48822?path=%2F&security=none&encryption=none&type=ws#IR🇮🇷
+vless://2ecc1c66-0808-174c-e51a-5274c1428b3c@luckypingout.bikofile.com:443?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B56%5D
 vless://2ef737f5-d66a-4788-98b4-6dff2850954d@randomsecretcloud.ferdowsi-rgb.ir:36802?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 vless://2fbf2c57-e1fc-4cf2-b8bd-3954c227b0c6@vip1.zxhost.sbs:80?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 vless://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80/?type=tcp&encryption=none#%40v2rayfree_iran%F0%9F%87%AE%F0%9F%87%B7
