@@ -3,7 +3,6 @@ hysteria2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193?sni=bing.com&insecure
 hysteria2://Cyi3TPih9FtQRwsZAh8aT6ynGJk@54.169.144.240:2166?insecure=1#SG
 hysteria2://Y5kSCRNcOSz5YQUkjehzVXeT2mk@175.41.154.215:19298?sni=bing.com&insecure=1#SG
 ss://101eb13d-1f71-49c8-a46a-7fea72d96a5d@165.22.240.200:80?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#%3E%3E%40v2ray_configs_pool%3A%3ASG
-ss://35cf6edb-9a23-4b41-a45c-3fe28f0e1491@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 ss://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.16:443/?type=ws&encryption=none&host=sgg1.azurewebsites.net&path=%2F&security=tls&sni=sgg1.azurewebsites.net#%E6%96%B0%E5%8A%A0%E5%9D%A1_Telegram%40kxswa
 ss://6f99505678024a1dbff761678e626c3fOg==@52.187.36.104:443#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+52.187.36.104-443+%7C+203.47ms
 ss://74bcfbf9259642438c0f1042e4725ae7Og==@15.235.186.127:80#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+15.235.186.127-80+%7C+228.11ms
@@ -110,6 +109,7 @@ ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@103.172.116.5:9084#%F0%9F%87%B8%F0
 ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@103.172.116.5:9008#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.5-7196
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@139.99.68.21:6379#%F0%9F%87%B8%F0%9F%87%ACSG-139.99.68.21-5838
 ss://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443/?type=tcp&encryption=none&security=tls&sni=android.googleapis.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40prrofile_purple%20%5B134%5D
+ss://cb56acbd-1347-4442-9b31-a3b5df4b8728@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@27.50.48.29:8880#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+27.50.48.29-8880+%7C+2.7ms
 trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.177.105-5849
 trojan://0c6a3341e8d5ab17@103.172.116.196:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.196-2495
@@ -161,10 +161,10 @@ trojan://oZAugtgF5T@146.190.87.238:443/?type=ws&host=aka.ms&path=%2F&security=tl
 trojan://oZAugtgF5T@146.190.87.238:443?path=%2F&security=tls&host=aka.ms&type=ws&sni=aka.ms#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40mpmehi%20%5B1%5D
 trojan://slch2024@185.18.184.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&ws=1&wspath=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1
 vless://101eb13d-1f71-49c8-a46a-7fea72d96a5d@165.22.240.200:80?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#%3E%3E%40v2ray_configs_pool%3A%3ASG
-vless://35cf6edb-9a23-4b41-a45c-3fe28f0e1491@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.16:443/?type=ws&encryption=none&host=sgg1.azurewebsites.net&path=%2F&security=tls&sni=sgg1.azurewebsites.net#%E6%96%B0%E5%8A%A0%E5%9D%A1_Telegram%40kxswa
 vless://7a63cec4-6ef3-49eb-bf5f-a91eaf7f9f95@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443/?type=tcp&encryption=none&security=tls&sni=android.googleapis.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40prrofile_purple%20%5B134%5D
+vless://cb56acbd-1347-4442-9b31-a3b5df4b8728@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vmess://ewogICAgImFkZCI6ICI0Ny44NC42Mi4xIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJkMmEwYmNkNy1lMzJkLTRiNzEtOTFhOS01ZmQ3MDQzYjcwMjUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjAwODYsCiAgICAicHMiOiAi8J+HuPCfh6xTRy00Ny44NC42Mi4xLTcyNTIiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICI0Ny44NC42Ni43OSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiOWNhYTcxMWMtMjQ5MC00MDQxLTgxMmQtZWRiY2I5OTRmZDE4IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh7jwn4esU0ctNDcuODQuNjYuNzktNzg1MCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICI4LjIxNC4zMy4xNTgiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICI4LjIxNC4zMy4xNTgiLAogICAgImlkIjogImNiODFlNmFiLTFkODMtNGFjMS1mMGFkLWFlNWMyYTdjMjllZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4e48J+HrFNHLTguMjE0LjMzLjE1OC0wMTQwIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
