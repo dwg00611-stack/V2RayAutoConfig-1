@@ -5,6 +5,7 @@ hysteria2://Y5kSCRNcOSz5YQUkjehzVXeT2mk@175.41.154.215:19298?sni=bing.com&insecu
 hysteria2://d6ec241d-09e9-443e-878c-7ef70e6e6140@fq-sg.mxtn.net:443?insecure=0#SG
 ss://033f8ca2-f839-4c11-8dcd-10ee34dd043b@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 ss://101eb13d-1f71-49c8-a46a-7fea72d96a5d@165.22.240.200:80?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#%3E%3E%40v2ray_configs_pool%3A%3ASG
+ss://101eb13d-1f71-49c8-a46a-7fea72d96a5d@165.22.240.200:80?path=%2FFREE+By+Tharuwa+%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ip_cf_config%20%5B16%5D
 ss://35cf6edb-9a23-4b41-a45c-3fe28f0e1491@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 ss://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.16:443/?type=ws&encryption=none&host=sgg1.azurewebsites.net&path=%2F&security=tls&sni=sgg1.azurewebsites.net#%E6%96%B0%E5%8A%A0%E5%9D%A1_Telegram%40kxswa
 ss://6f99505678024a1dbff761678e626c3fOg==@52.187.36.104:443#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+52.187.36.104-443+%7C+203.47ms
@@ -166,6 +167,7 @@ trojan://oZAugtgF5T@146.190.87.238:443/?type=ws&host=aka.ms&path=%2F&security=tl
 trojan://oZAugtgF5T@146.190.87.238:443?path=%2F&security=tls&host=aka.ms&type=ws&sni=aka.ms#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40mpmehi%20%5B1%5D
 vless://033f8ca2-f839-4c11-8dcd-10ee34dd043b@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://101eb13d-1f71-49c8-a46a-7fea72d96a5d@165.22.240.200:80?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#%3E%3E%40v2ray_configs_pool%3A%3ASG
+vless://101eb13d-1f71-49c8-a46a-7fea72d96a5d@165.22.240.200:80?path=%2FFREE+By+Tharuwa+%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ip_cf_config%20%5B16%5D
 vless://35cf6edb-9a23-4b41-a45c-3fe28f0e1491@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.16:443/?type=ws&encryption=none&host=sgg1.azurewebsites.net&path=%2F&security=tls&sni=sgg1.azurewebsites.net#%E6%96%B0%E5%8A%A0%E5%9D%A1_Telegram%40kxswa
 vless://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443/?type=tcp&encryption=none&security=tls&sni=android.googleapis.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40prrofile_purple%20%5B134%5D
