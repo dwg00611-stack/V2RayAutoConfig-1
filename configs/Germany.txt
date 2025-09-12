@@ -1,6 +1,8 @@
 hy2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3ADE
+hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@77.90.52.69:35000?sni=pichondan.com&insecure=0&obfs=salamander#DE
 hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?sni=de.eyucdn.xyz&insecure=1#DE
-hysteria2://daily_configs_daily_configs_daily_configs_daily_configs_daily_configs_daily_configs_daily_configs_daily_configs_daily_configs%3AQeQAkMzbFru7Rw14GGWd9bdwFG9XBcKl@95.181.174.31:443?sni=slack.com&insecure=1&obfs=salamander#DE
+hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?sni=www.bing.com&insecure=1#DE
+hysteria2://channel_dailyconfigs%3Aff0rY2oVM47dzLrxdYtnA46xDvfa8qde@95.181.174.31:443?sni=slack.com&insecure=1&obfs=salamander#DE
 ss://%40Geek_Spot@176.97.210.2:37589?type=tcp&encryption=none&packetEncoding=xudp#DE🇩🇪
 ss://%614253b04-2d%653-41c2-b7f4-3885518%65569d@51.89.118.126:25367?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#%3E%3E%40mehrosaboran%3A%3ADE
 ss://%61f%65%618fb8-1b5b-42bb-%65%6118-22bdc%65f1bc%65%65@162.55.191.57:2053?path=%2Ft%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY%3Fed%3D2560&security=none&encryption=none&host=m%69%72o.com&type=ws#%3E%3E%40mehrosaboran%3A%3ADE
@@ -142,7 +144,6 @@ ss://7c63f43f-f526-49bb-b5c8-2be26e11ef00@109.120.138.47:443?mode=stream-one&pat
 ss://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#DE🇩🇪
 ss://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.98.46.233:443/?type=xhttp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesc%20%5B16%5D
 ss://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.99.114.25:443/?type=xhttp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v222ray%20%5B10%5D
-ss://835607d0-6d60-444e-bc0b-ebc9cd9594ad@143.244.207.133:46217?security=reality&encryption=none&pbk=Qdg7LVP5VmLr7xzv556ry5RNc3QaeAj4TwOUxndA23M&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=e3f89b63#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vipv2rey%20%5B40%5D
 ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=6389113402676776502.rtxiran.info&type=ws&sni=6389113402676776502.rtxiran.info#%3E%3E%40FreakConfig%3A%3ADE
 ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=6389113402676776505.rtxiran.info&type=ws&sni=6389113402676776505.rtxiran.info#%3E%3E%40FreakConfig%3A%3ADE
 ss://8d8c6274-abc7-4354-b33c-4c950822522c@11.ariyanln.com:1/?type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40orange_vpns%20%5B16%5D
@@ -545,7 +546,6 @@ vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@109.120.138.47:443?mode=stream-one&
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#DE🇩🇪
 vless://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.98.46.233:443/?type=xhttp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesc%20%5B16%5D
 vless://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.99.114.25:443/?type=xhttp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v222ray%20%5B10%5D
-vless://835607d0-6d60-444e-bc0b-ebc9cd9594ad@143.244.207.133:46217?security=reality&encryption=none&pbk=Qdg7LVP5VmLr7xzv556ry5RNc3QaeAj4TwOUxndA23M&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=e3f89b63#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vipv2rey%20%5B40%5D
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=6389113402676776502.rtxiran.info&type=ws&sni=6389113402676776502.rtxiran.info#%3E%3E%40FreakConfig%3A%3ADE
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=6389113402676776505.rtxiran.info&type=ws&sni=6389113402676776505.rtxiran.info#%3E%3E%40FreakConfig%3A%3ADE
 vless://8d8c6274-abc7-4354-b33c-4c950822522c@11.ariyanln.com:1/?type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40orange_vpns%20%5B16%5D
