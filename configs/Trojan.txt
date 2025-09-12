@@ -5953,8 +5953,6 @@ trojan://c51d3975-a40c-4a5b-929b-c8595ed87850@15.168.28.231:443?security=tls&sni
 trojan://c51d3975-a40c-4a5b-929b-c8595ed87850@15.168.28.231:443?security=tls&sni=🔒
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@185.231.206.12:443?security=tls&type=tcp&sni=🔒
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@45.67.229.222:443/?type=tcp&security=tls&sni=🔒
-trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@94.131.115.71:443?allowInsecure=1&sni=customer-94-131-115-71.stark-industries.solutions#t.me/entryNET/config=1843000942008037
-trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@94.131.115.71:443?allowInsecure=1&sni=🔒
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@95.164.85.39:443/?type=tcp&security=tls&sni=🔒
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@customer-95-164-38-151.stark-industries.solutions:443?security=tls&headerType=none&type=tcp
 trojan://c60fbf90-4b55-11ed-b935-225401db9d57@51.75.76.22:443?security=tls
