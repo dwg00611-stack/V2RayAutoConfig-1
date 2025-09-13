@@ -4088,6 +4088,8 @@ trojan://NISHIKUITAN222@104.17.37.97:443/?type=tcp&security=tls#%40Hope_Net-join
 trojan://NISHIKUITAN222@104.17.58.219:443/?type=tcp&security=tls
 trojan://NISHIKUITAN222@104.17.58.219:443/?type=tcp&security=tls#%40H...
 trojan://NISHIKUITAN222@104.20.19.100:443/?type=tcp&security=tls
+trojan://NISHIKUITAN222@104.21.108.193:443
+trojan://NISHIKUITAN222@104.21.108.193:443#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
 trojan://NISHIKUITAN222@104.21.108.193:443?#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:28.27ms
 trojan://NISHIKUITAN222@104.21.221.251:443/?type=tcp&security=tls
 trojan://NISHIKUITAN222@104.21.221.251:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
@@ -4710,8 +4712,6 @@ trojan://auto@172.66.47.150:8443/?type=ws&path=%2F&security=tls&sni=e9464f45.tra
 trojan://auto@172.66.47.150:8443/?type=ws&path=🔒
 trojan://auto@172.66.47.150:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=%2F#RELAY🚩
 trojan://auto@172.66.47.170:443/?type=ws&path=%2F&security=tls&sni=trojanfree-76s.pages.dev#%40Hope_Net-join-us-on-Telegram
-trojan://auto@172.66.47.170:443?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=%2F#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B18%5D
-trojan://auto@172.66.47.170:443?security=tls&type=ws&sni=🔒
 trojan://auto@172.67.174.21:443/?type=ws&host=trojanmz.pages.dev&security=tls&sni=trojanmz.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://auto@172.67.174.252:443/?type=tcp&security=tls&sni=🔒
 trojan://auto@172.67.174.252:443/?type=ws&host=esetsecuritylicense1.vowexa5791.workers.dev&path=%2F&security=tls&sni=esetsecuritylicense1.vowexa5791.workers.dev#%40V2rayNGVPN
