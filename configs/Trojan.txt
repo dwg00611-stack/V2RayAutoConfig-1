@@ -334,8 +334,6 @@ trojan://1884f180-94eb-11ee-8c46-1239d0255272@104.16.122.175:443/?type=tcp&secur
 trojan://1884f180-94eb-11ee-8c46-1239d0255272@104.16.122.175:443?security=tls&sni=🔒
 trojan://1884f180-94eb-11ee-8c46-1239d0255272@104.16.123.175:443/?type=tcp&security=tls&sni=🔒
 trojan://1884f180-94eb-11ee-8c46-1239d0255272@104.16.123.175:443?security=tls&sni=🔒
-trojan://189ee014-7856-3625-954c-91fb1a122bc6@gy.58n.net:20278?allowInsecure=1&sni=z278.hongkongnode.top#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B18%5D
-trojan://189ee014-7856-3625-954c-91fb1a122bc6@gy.58n.net:20278?allowInsecure=1&sni=🔒
 trojan://192a5fc9-2baa-4043-8655-d840d370cb86@jp.liangyuandian.top:443?security=tls
 trojan://192a5fc9-2baa-4043-8655-d840d370cb86@jp.liangyuandian.top:443?security=tls#%F0%9F%87%B2%F0%9F%87%BEMY-85.211.179.95-6240
 trojan://1957909a-4f2a-4d9c-99ad-119d45f052c1@v01.gutingting.com:30002/?type=tcp&security=tls&sni=v2tw01.fuqiangren.com#%F0%9F%87%AD%F0%9F%87%B0HK-5.83.221.31-1463
@@ -748,7 +746,6 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-198.23.229.250-0368
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US-198.23.229.250-0368
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=🔒
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2ray_collector%20%5B16%5D
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&type=tcp#@V2ray_Collector
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=🔒
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443/?type=tcp&security=tls&sni=sj3.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-198.46.152.83-5070
