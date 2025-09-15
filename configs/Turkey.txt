@@ -41,7 +41,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.123.101.241:989#%F0%9F%87%B9%F0%
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@45.89.52.66:9040#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-0349
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@45.89.52.66:9040#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-8403
 ss://affe7ad5-8bc5-47c0-94b9-5231452412bb@164.138.202.139:10777/?type=tcp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxycrone%20%5B8%5D
-ss://affe7ad5-8bc5-47c0-94b9-5231452412bb@164.138.202.139:10777?type=tcp&security=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxycrone%20%5B6%5D
+ss://affe7ad5-8bc5-47c0-94b9-5231452412bb@164.138.202.139:10777?type=tcp&security=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxycrone%20%5B5%5D
 ss://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#%3E%3E%40V2RAY_VMESS_free%3A%3ATR
 ss://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B8%5D
 ss://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088/?type=tcp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40drvpn_net%20%5B3%5D
@@ -61,7 +61,7 @@ vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443/?type=ws&encrypti
 vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=%2Flkjdasws&security=tls&encryption=none&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2trayproxy%20%5B20%5D
 vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=%2Flkjdasws&security=tls&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:70.57ms
 vless://affe7ad5-8bc5-47c0-94b9-5231452412bb@164.138.202.139:10777/?type=tcp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxycrone%20%5B8%5D
-vless://affe7ad5-8bc5-47c0-94b9-5231452412bb@164.138.202.139:10777?type=tcp&security=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxycrone%20%5B6%5D
+vless://affe7ad5-8bc5-47c0-94b9-5231452412bb@164.138.202.139:10777?type=tcp&security=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxycrone%20%5B5%5D
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#%3E%3E%40V2RAY_VMESS_free%3A%3ATR
 vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B8%5D
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088/?type=tcp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40drvpn_net%20%5B3%5D
