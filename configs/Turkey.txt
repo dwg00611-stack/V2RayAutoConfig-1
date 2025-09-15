@@ -6,7 +6,7 @@ ss://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=%2Ftqjkmwws&sec
 ss://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443/?type=ws&encryption=none&path=%2Flkjdasws&security=tls#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2trayproxy%20%5B24%5D
 ss://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=%2Flkjdasws&security=tls&encryption=none&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2trayproxy%20%5B20%5D
 ss://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=%2Flkjdasws&security=tls&encryption=none&type=ws#TR🇹🇷
-ss://8f0120f1-ba26-e137-5e06-a99b844741aa@188.132.183.15:2589?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e41865e506628f44#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40netmellianti%20%5B17%5D
+ss://8f0120f1-ba26-e137-5e06-a99b844741aa@188.132.183.15:2589?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e41865e506628f44#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40netmellianti%20%5B16%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NVFnYjlwVEh4dU5nWVdkMjdIWnZx@154.53.180.105:8443#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Umraniye🅿️ping:88.18ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OQ==@tur.fastsoonlink.com:40019#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+tur.fastsoonlink.com-40019+%7C+377.3ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFpMSFRQOGJ6TWc2S2VJV2NwZXo3@62.133.63.21:65262#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+62.133.63.21-65262+%7C+167.9ms
@@ -64,7 +64,7 @@ vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=%2Ftqjkmwws&
 vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443/?type=ws&encryption=none&path=%2Flkjdasws&security=tls#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2trayproxy%20%5B24%5D
 vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=%2Flkjdasws&security=tls&encryption=none&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2trayproxy%20%5B20%5D
 vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=%2Flkjdasws&security=tls&encryption=none&type=ws#TR🇹🇷
-vless://8f0120f1-ba26-e137-5e06-a99b844741aa@188.132.183.15:2589?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e41865e506628f44#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40netmellianti%20%5B17%5D
+vless://8f0120f1-ba26-e137-5e06-a99b844741aa@188.132.183.15:2589?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e41865e506628f44#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40netmellianti%20%5B16%5D
 vless://affe7ad5-8bc5-47c0-94b9-5231452412bb@164.138.202.139:10777/?type=tcp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxycrone%20%5B8%5D
 vless://affe7ad5-8bc5-47c0-94b9-5231452412bb@164.138.202.139:10777?security=&encryption=none&headerType=none&type=tcp#TR🇹🇷
 vless://affe7ad5-8bc5-47c0-94b9-5231452412bb@164.138.202.139:10777?type=tcp&security=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxycrone%20%5B5%5D
