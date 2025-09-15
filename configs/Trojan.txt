@@ -1064,7 +1064,6 @@ trojan://4d706727-996f-4427-930d-60f3bd414cf9@203.23.106.193:443?security=tls&sn
 trojan://4d706727-996f-4427-930d-60f3bd414cf9@203.28.8.28:443?security=tls&sni=🔒
 trojan://4d706727-996f-4427-930d-60f3bd414cf9@cnamemk.ciscocdn1.live:443?type=ws&sni=🔒
 trojan://4db45bb4-dcca-4d37-a639-cb55213ee406@172.67.132.6:2096?type=grpc&sni=🔒
-trojan://4e399fb9-5a4c-49cd-9849-2051512f4c6c@aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27101?allowInsecure=0&sni=🔒
 trojan://4e399fb9-5a4c-49cd-9849-2051512f4c6c@aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27101?security=tls&sni=🔒
 trojan://4e7d3390-4213-11f0-b56b-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@36.156.102.16:46002?#@Hope_Net-join-us-on-Telegram
@@ -3319,6 +3318,7 @@ trojan://CMLiussss@172.67.193.36:443/?type=ws&host=xn--ihqr6fry8avpdn79betc.xn--
 trojan://CXCu72eya8wFeRySSFpDz3CN6jBYac5OIl3q0gSl8xZOADY3EK94pxZanDA3RT@35.77.216.3:443?security=tls&sni=broker.superpokemon.com&allowInsecure=1&type=tcp#@awlix_ir
 trojan://CXCu72eya8wFeRySSFpDz3CN6jBYac5OIl3q0gSl8xZOADY3EK94pxZanDA3RT@35.77.216.3:443?security=tls&sni=🔒
 trojan://ChaNneL-DailY_cOnfIGs@104.17.97.5:2053?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2raych%20%5B19%5D
+trojan://ChaNneL-DailY_cOnfIGs@104.17.97.5:2053?security=tls&sni=🔒
 trojan://CjqK8GFZ),D%3F@104.21.11.178:443/?type=tcp&security=tls&sni=🔒
 trojan://CjqK8GFZ),D%3F@172.67.149.210:443/?type=tcp&security=tls&sni=🔒
 trojan://Cl150MQWlG@209.250.236.93:443/?type=grpc&security=tls&sni=irancell-ir-4.mmdruby13.store#%F0%9F%87%A9%F0%9F%87%AADE-209.250.236.93-8322
@@ -4202,7 +4202,6 @@ trojan://QTKsqSws9Sgc@104.21.80.1:2087/?type=httpupgrade&host=hamshahri.twn24.ir
 trojan://QmxV21qnHf@104.21.71.8:443/?type=tcp&security=tls&sni=🔒
 trojan://QmxV21qnHf@104.21.71.8:443/?type=ws&path=%2F14755%2F%3Fed%3D2048&security=tls&sni=tabnak.ITN24.IR#%40Hope_Net-join-us-on-Telegram
 trojan://QmxV21qnHf@104.21.71.8:443/?type=ws&path=🔒
-trojan://QwwHvrnN@36.151.192.198:36900?allowInsecure=1
 trojan://QwwHvrnN@36.151.192.198:36900?allowInsecure=1&sni=36.151.192.198#@Hope_Net-join-us-on-Telegram⚠️
 trojan://QwwHvrnN@36.151.192.203:18682?allowInsecure=1
 trojan://RK_VPS@79.137.195.203:443?type=ws&path=🔒
