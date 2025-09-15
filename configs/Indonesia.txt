@@ -34,6 +34,7 @@ ss://8df60790-c903-4661-b85d-64c0009378e5@104.19.99.250:443/?type=ws&encryption=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%B8%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.146:8080#Channel%20ID%3A%20%40v2ray_confignet
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc@backup.fleetfoxi.link:44884#Channel%20id%3A%20%40ShadowProxy66%20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%F0%9F%87%AE%F0%9F%87%A9ID-154.205.159.100-0354
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%F0%9F%87%AE%F0%9F%87%A9ID-154.205.159.100-0373
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%F0%9F%87%AE%F0%9F%87%A9ID-154.205.159.100-4945
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#Channel%20id%3A%20%40ShadowProxy66%20
@@ -232,14 +233,14 @@ ss://f8be92b6-b31f-4d8b-ba7d-20781595fa0e@194.87.80.9:8081/?type=tcp&encryption=
 ss://v2rayng_76@bm.boulvarmoein.shop:8080?security=&encryption=none&authority=bm.boulvarmoein.shop&type=grpc&serviceName=bm.boulvarmoein.shop#iD:v2rayng_76
 trojan://1sbtkLK7F3@195.22.157.104:37085?path=%2Fmoshali2plus&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=firefox&type=httpupgrade&sni=joon.arshiacomplus.dpdns.org#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AC%F0%9F%87%A7
 trojan://1sbtkLK7F3@195.22.157.104:55700?path=%2Fmoshali-kirm-to-filterchee-kharkosde2&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=joon.arshiacomplus.dpdns.org#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AC%F0%9F%87%A7
-trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-41.216.177.41-4990
+trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-41.216.177.41-4934
 trojan://XWnVX2ASHl@5.255.103.217:37757?path=%2Fmoshaliplus&security=tls&alpn=http%2F1.1&host=moshali.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=moshali.arshiacomplus.dpdns.org#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%B3%F0%9F%87%B1
 trojan://bb0471a3-7d50-40c5-ad2f-1d452434d0ac@jp.111143.xyz:19528?path=%2Fbb0471a3-7d50-40c5-ad2f-1d452434d0ac&security=tls&host=jp.111143.xyz&type=ws#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AF%F0%9F%87%B5
 trojan://idc117okt@103.176.78.153:443/?type=tcp&security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-4421
-trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-4832
-trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7428
+trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-4776
+trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7367
 trojan://slch2024@104.18.2.108:8443/?type=ws&host=ocost-dy.wmlefl.cc&path=%2F&security=tls&sni=ocost-dy.wmlefl.cc#Channel%20id%3A%20%40ShadowProxy66%20
-trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#%F0%9F%87%AE%F0%9F%87%A9ID-38.9.140.66-4408
+trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#%F0%9F%87%AE%F0%9F%87%A9ID-38.9.140.66-4352
 vless://004ba5d4-d448-4960-a762-e5190ab415f2@www.indyskipass.com:443/?type=ws&encryption=none&host=albedoalbedochan.violetchaan.ip-ddns.com&security=tls&sni=albedoalbedochan.violetchaan.ip-ddns.com&alpn=http%2F1.1&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://0226ff6d-b500-430f-8291-96b56d677660@45.89.107.227:443/?type=ws&encryption=none&path=%2Fhqqprlws&security=tls#Channel%20id%3A%20%40ShadowProxy66%20
 vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443/?type=ws&encryption=none&path=%2Fkcknkyws&security=tls#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
@@ -461,7 +462,7 @@ vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@66.81.247.247:2053/?type=ws&encrypt
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@89.116.250.49:2053/?type=ws&encryption=none&host=dl1-tr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-tr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B9%F0%9F%87%B7
 vless://f8be92b6-b31f-4d8b-ba7d-20781595fa0e@194.87.80.9:8081/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=nID_kfSoZPfWS1XZUT1dZnR2mwaoRtUROtBpmqCWEiQ&sid=d0a3f84aabd21574#Channel%20id%3A%20%40ShadowProxy66%20
 vless://v2rayng_76@bm.boulvarmoein.shop:8080?security=&encryption=none&authority=bm.boulvarmoein.shop&type=grpc&serviceName=bm.boulvarmoein.shop#iD:v2rayng_76
-vmess://ewogICAgImFkZCI6ICJsbXMudWluLWFudGFzYXJpLmFjLmlkIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZXhhLm5leHR2cG4uY2MiLAogICAgImlkIjogIjQ2YmZkYjU5LTgzYzYtNDcxMC04NzdlLWM4MDliNWE5MGRmZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eu8J+HqUlELTEwMy4xODAuOTUuMjktNDk0MSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICJsbXMudWluLWFudGFzYXJpLmFjLmlkIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZXhhLm5leHR2cG4uY2MiLAogICAgImlkIjogIjQ2YmZkYjU5LTgzYzYtNDcxMC04NzdlLWM4MDliNWE5MGRmZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eu8J+HqUlELTEwMy4xODAuOTUuMjktNDg4NSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://eyJhZGQiOiI0Ni4yNTAuMjQzLjU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImE3NWYzZjk1LWFkNGUtNDQ5OC1mYzcyLWRkNzQwZGQwMmJmYyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAzOTQiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IPCfh6zwn4enIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI1MS43OS44Ni4xODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTA5NTdjYTYtZjYxMy00MDE3LWZmM2MtZWZmZDFkYTg4NzFhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MjYxMCIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5Njbwn4eo8J+HpiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI1MS4zOC42NC4yMDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiN2RhNDU3ZGEtZWQwZi00MzdkLWM4MWQtNmMzNTg4NWJiZWEzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDAyMyIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5Njbwn4es8J+HpyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
