@@ -383,6 +383,7 @@ ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security
 ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-17.access.name.ng&fp=chrome&type=ws&sni=lease-17.access.name.ng#@IRAN_V2RAY1
 ss://cde6146f-514f-403f-b36d-7f71514c0890@d1.amo24.top:8443?type=tcp&security=none&headerType=http&path=%2F&host=#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnfree85%20%5B1%5D
 ss://ce32e82a-8115-452b-a2bf-a2b1672f83c4@vaynora.imlast.com:443?type=tcp&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vaynora%20%5B2%5D
+ss://cf7e9d7a-78b4-4c68-ac82-16d7a9119c37@vp1.biseda.net:9090?type=tcp&path=%2F&headerType=http&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2raych%20%5B20%5D
 ss://d115adcd-1b1f-4cf4-b6a4-b9696434967a@ir2.fastnode0.com:2087/?type=ws&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B10%5D
 ss://d115adcd-1b1f-4cf4-b6a4-b9696434967a@ir2.fastnode0.com:2087?security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B9%5D
 ss://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?path=/&security=none&encryption=none&type=ws#All-@IRAN_V2RAY1
@@ -512,7 +513,7 @@ ss://f9a8a2ae-6daa-4437-a383-db49833992d4@8.47.69.4:8080?path=/&security=none&en
 ss://f9f1ed42-9943-4121-9408-8fbe766343ae@m5a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#All-@IRAN_V2RAY1
 ss://fa382bb2-67e2-e3be-5953-60784dc2a5db@i.ownlink.pro:28570?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40megavpn_link%20%5B11%5D
 ss://fbdeee96-6152-42ba-a83c-db80d8ea2651@45.159.148.139:8080?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
-ss://ff19d9af-5e24-47a4-9ad1-53d1ebe9400c@www.ninja-shop.sbs:443?security=none&encryption=none&host=ubuntu.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mowjproxy%20%5B4%5D
+ss://ff19d9af-5e24-47a4-9ad1-53d1ebe9400c@www.ninja-shop.sbs:443?security=none&encryption=none&host=ubuntu.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mowjproxy%20%5B3%5D
 ss://ff3685d5-f031-46d3-88c0-0b6b0d1f1558@64.227.41.160:57996?security=none&encryption=none&headerType=none&type=tcp#WiFi-@IRAN_V2RAY1
 ss://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443/?type=ws&encryption=none&host=www.dns-shop.ir&path=%2F%3Fed%3D2048&security=tls&sni=www.dns-shop.ir&alpn=h2%2Chttp%2F1.1&fp=chrome#Bya%20To%20%3A%20%40Iran_V2ray1
 ss://narcod_ping@85.133.228.198:41546?type=tcp&path=%2F&host=varzesh3.com&headerType=http&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40narco_nett%20%5B18%5D
@@ -813,6 +814,7 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&secur
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-17.access.name.ng&fp=chrome&type=ws&sni=lease-17.access.name.ng#@IRAN_V2RAY1
 vless://cde6146f-514f-403f-b36d-7f71514c0890@d1.amo24.top:8443?type=tcp&security=none&headerType=http&path=%2F&host=#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnfree85%20%5B1%5D
 vless://ce32e82a-8115-452b-a2bf-a2b1672f83c4@vaynora.imlast.com:443?type=tcp&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vaynora%20%5B2%5D
+vless://cf7e9d7a-78b4-4c68-ac82-16d7a9119c37@vp1.biseda.net:9090?type=tcp&path=%2F&headerType=http&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2raych%20%5B20%5D
 vless://d115adcd-1b1f-4cf4-b6a4-b9696434967a@ir2.fastnode0.com:2087/?type=ws&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B10%5D
 vless://d115adcd-1b1f-4cf4-b6a4-b9696434967a@ir2.fastnode0.com:2087?security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B9%5D
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?path=/&security=none&encryption=none&type=ws#All-@IRAN_V2RAY1
@@ -942,7 +944,7 @@ vless://f9a8a2ae-6daa-4437-a383-db49833992d4@8.47.69.4:8080?path=/&security=none
 vless://f9f1ed42-9943-4121-9408-8fbe766343ae@m5a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#All-@IRAN_V2RAY1
 vless://fa382bb2-67e2-e3be-5953-60784dc2a5db@i.ownlink.pro:28570?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40megavpn_link%20%5B11%5D
 vless://fbdeee96-6152-42ba-a83c-db80d8ea2651@45.159.148.139:8080?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
-vless://ff19d9af-5e24-47a4-9ad1-53d1ebe9400c@www.ninja-shop.sbs:443?security=none&encryption=none&host=ubuntu.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mowjproxy%20%5B4%5D
+vless://ff19d9af-5e24-47a4-9ad1-53d1ebe9400c@www.ninja-shop.sbs:443?security=none&encryption=none&host=ubuntu.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mowjproxy%20%5B3%5D
 vless://ff3685d5-f031-46d3-88c0-0b6b0d1f1558@64.227.41.160:57996?security=none&encryption=none&headerType=none&type=tcp#WiFi-@IRAN_V2RAY1
 vless://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443/?type=ws&encryption=none&host=www.dns-shop.ir&path=%2F%3Fed%3D2048&security=tls&sni=www.dns-shop.ir&alpn=h2%2Chttp%2F1.1&fp=chrome#Bya%20To%20%3A%20%40Iran_V2ray1
 vless://narcod_ping@85.133.228.198:41546?type=tcp&path=%2F&host=varzesh3.com&headerType=http&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40narco_nett%20%5B18%5D
