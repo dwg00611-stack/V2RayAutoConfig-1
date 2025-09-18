@@ -61,7 +61,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaUY5OHhCTDJ2MWk=@135.181.114.242:8478#%F0%9
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#%F0%9F%87%AB%F0%9F%87%AEFI-37.143.129.230-0315
 ss://a6a61af5-828f-42af-fc48-a69e386d0f2c@65.109.238.79:2080/?type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B17%5D
 ss://ae21b3e7-1694-4efe-bb21-69497843142f@65.109.182.239:443?type=ws&path=%2F&host=&security=none#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40iranbfilter%20%5B6%5D
-ss://b4a4d764-5a3c-437a-a5e0-1c248831dbf9@135.181.38.189:20128?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayopen%20%5B12%5D
 ss://b5ee8f67-0f25-467b-aca4-01001f00d802@65.109.192.110:55953?security=reality&encryption=none&pbk=RELg-Z1AXhG9945I_8hN884Z5Txd9ZxI92sl4jHzXWU&host=divarcdn.com&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=stackoverflow.com&sid=ec01ceda#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vpn_ocean%20%5B1%5D
 ss://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@turkey.jewelll.ir:3311?mode=gun&security=none&encryption=none&type=grpc#FI🇫🇮
 ss://d36f457f-17a9-4891-a113-322ec6792917@m24a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesskhodam%20%5B13%5D
@@ -114,7 +113,6 @@ vless://ItsLegendaryking@legendaryking.zooboming.com:443?security=reality&encryp
 vless://Parsashonam-Bot-21@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#FI🇫🇮
 vless://a6a61af5-828f-42af-fc48-a69e386d0f2c@65.109.238.79:2080/?type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B17%5D
 vless://ae21b3e7-1694-4efe-bb21-69497843142f@65.109.182.239:443?type=ws&path=%2F&host=&security=none#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40iranbfilter%20%5B6%5D
-vless://b4a4d764-5a3c-437a-a5e0-1c248831dbf9@135.181.38.189:20128?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayopen%20%5B12%5D
 vless://b5ee8f67-0f25-467b-aca4-01001f00d802@65.109.192.110:55953?security=reality&encryption=none&pbk=RELg-Z1AXhG9945I_8hN884Z5Txd9ZxI92sl4jHzXWU&host=divarcdn.com&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=stackoverflow.com&sid=ec01ceda#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vpn_ocean%20%5B1%5D
 vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@turkey.jewelll.ir:3311?mode=gun&security=none&encryption=none&type=grpc#FI🇫🇮
 vless://d36f457f-17a9-4891-a113-322ec6792917@m24a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesskhodam%20%5B13%5D

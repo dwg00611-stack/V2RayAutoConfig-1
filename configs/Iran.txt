@@ -397,7 +397,6 @@ ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security
 ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-12.apple.name.ng&type=ws&sni=hetzner-12.apple.name.ng#All_@IRAN_V2RAY1
 ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-17.access.name.ng&fp=chrome&type=ws&sni=lease-17.access.name.ng#@IRAN_V2RAY1
 ss://cde6146f-514f-403f-b36d-7f71514c0890@d1.amo24.top:8443?type=tcp&security=none&headerType=http&path=%2F&host=#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnfree85%20%5B1%5D
-ss://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:443?path=%2FXRAYVPNHTTPUPGRADE&security=tls&encryption=none&host=tr1.blackismyfavorite.ir&fp=firefox&type=httpupgrade&sni=tr1.blackismyfavorite.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B37%5D
 ss://ce32e82a-8115-452b-a2bf-a2b1672f83c4@vaynora.imlast.com:443?type=tcp&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vaynora%20%5B2%5D
 ss://cf7e9d7a-78b4-4c68-ac82-16d7a9119c37@vp1.biseda.net:9090?type=tcp&path=%2F&headerType=http&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Lāhījān🅿️ping:92.34ms
 ss://cf7e9d7a-78b4-4c68-ac82-16d7a9119c37@vp1.biseda.net:9090?type=tcp&path=%2F&headerType=http&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Lāhījān🅿️ping:93.41ms
@@ -848,7 +847,6 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&secur
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-12.apple.name.ng&type=ws&sni=hetzner-12.apple.name.ng#All_@IRAN_V2RAY1
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-17.access.name.ng&fp=chrome&type=ws&sni=lease-17.access.name.ng#@IRAN_V2RAY1
 vless://cde6146f-514f-403f-b36d-7f71514c0890@d1.amo24.top:8443?type=tcp&security=none&headerType=http&path=%2F&host=#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnfree85%20%5B1%5D
-vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:443?path=%2FXRAYVPNHTTPUPGRADE&security=tls&encryption=none&host=tr1.blackismyfavorite.ir&fp=firefox&type=httpupgrade&sni=tr1.blackismyfavorite.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B37%5D
 vless://ce32e82a-8115-452b-a2bf-a2b1672f83c4@vaynora.imlast.com:443?type=tcp&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vaynora%20%5B2%5D
 vless://cf7e9d7a-78b4-4c68-ac82-16d7a9119c37@vp1.biseda.net:9090?type=tcp&path=%2F&headerType=http&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Lāhījān🅿️ping:92.34ms
 vless://cf7e9d7a-78b4-4c68-ac82-16d7a9119c37@vp1.biseda.net:9090?type=tcp&path=%2F&headerType=http&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Lāhījān🅿️ping:93.41ms
