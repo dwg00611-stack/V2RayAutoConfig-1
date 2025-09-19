@@ -4722,8 +4722,6 @@ trojan://auto@104.20.22.95:443/?type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&p
 trojan://auto@104.21.21.129:443/?type=tcp&security=tls&sni=🔒
 trojan://auto@104.21.21.129:443/?type=ws&host=trojanmz.pages.dev&security=tls&sni=trojanmz.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://auto@104.21.21.129:443/?type=ws&host=trojanmz.pages.dev&security=tls&sni=🔒
-trojan://auto@104.21.21.129:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&host=trojanmz.pages.dev#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
-trojan://auto@104.21.21.129:443?security=tls&type=ws&sni=🔒
 trojan://auto@104.21.31.51:443/?type=tcp&security=tls&sni=🔒
 trojan://auto@104.21.31.51:443/?type=ws&host=esetsecuritylicense1.vowexa5791.workers.dev&path=%2F&security=tls&sni=esetsecuritylicense1.vowexa5791.workers.dev#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
 trojan://auto@104.21.31.51:443/?type=ws&host=esetsecuritylicense1.vowexa5791.workers.dev&path=🔒
@@ -5702,7 +5700,7 @@ trojan://bpb-trojan@104.18.23.235:443/?type=tcp&security=tls&sni=🔒
 trojan://bpb-trojan@104.18.34.21:2053/?type=tcp&security=tls&sni=🔒
 trojan://bpb-trojan@104.18.34.21:2053/?type=ws&path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWNhbGx5Ln...&security=tls&sni=bpB-worKER-paneL1-e4p.pAGes.dEV
 trojan://bpb-trojan@104.18.34.21:2053?path=🔒
-trojan://bpb-trojan@104.18.34.21:2053?security=tls&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV&path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&host=bpb-worker-panel1-e4p.pages.dev#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
+trojan://bpb-trojan@104.18.34.21:2053?security=tls&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV&path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&host=bpb-worker-panel1-e4p.pages.dev#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B18%5D
 trojan://bpb-trojan@104.18.34.21:2053?security=tls&type=ws&sni=🔒
 trojan://bpb-trojan@104.18.37.111:443/?type=tcp&security=tls&sni=🔒
 trojan://bpb-trojan@104.18.37.111:443/?type=ws&host=mindroom-5cz.pages.dev&security=tls&sni=mindrOOm-5cz.pAgEs.dEV#%40Hope_Net-join-us-on-Telegram
@@ -5830,6 +5828,8 @@ trojan://bpb-trojan@162.159.33.147:443/?type=tcp&security=tls&sni=adagio.us.kg&a
 trojan://bpb-trojan@168.138.185.234:443/?type=tcp&security=tls&sni=s...
 trojan://bpb-trojan@172.64.150.145:443/?type=tcp&security=tls&sni=🔒
 trojan://bpb-trojan@172.64.150.145:443/?type=ws&host=mindrOOm-5cz.pAgEs.dEV&path=%2FtrC8BM8bTsAF0AnLYL%3Fed&security=tls&sni=mindrOOm-5cz.pAgEs.dEV#%40Hope_Net-join-us-on-Telegram
+trojan://bpb-trojan@172.64.150.145:443?security=tls&sni=mindrOOm-5cz.pAgEs.dEV&type=ws&host=mindrOOm-5cz.pAgEs.dEV&path=%2FtrC8BM8bTsAF0AnLYL%3Fed#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
+trojan://bpb-trojan@172.64.150.145:443?security=tls&sni=🔒
 trojan://bpb-trojan@172.64.152.215:443/?type=tcp&security=tls&sni=adagio.u...&allowInsecure=1
 trojan://bpb-trojan@172.64.153.235:2053/?type=tcp&security=tls&sni=🔒
 trojan://bpb-trojan@172.64.32.178:443/?type=tcp&security=tls&sni=node.cnwa.eu.org&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
