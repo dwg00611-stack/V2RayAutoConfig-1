@@ -1,8 +1,4 @@
 ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#IN🇮🇳
-ss://895a39fb-6c32-49af-b04d-efecc1f6c5fb@206.189.135.13:41856?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇳®️India©️Bengaluru🅿️ping:280.67ms
-ss://895a39fb-6c32-49af-b04d-efecc1f6c5fb@206.189.135.13:41856?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇳®️India©️Bengaluru🅿️ping:280.99ms
-ss://895a39fb-6c32-49af-b04d-efecc1f6c5fb@206.189.135.13:41856?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇳®️India©️Bengaluru🅿️ping:283.76ms
-ss://895a39fb-6c32-49af-b04d-efecc1f6c5fb@206.189.135.13:41856?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇳®️India©️Bengaluru🅿️ping:284.05ms
 ss://904a7d68-bd97-4158-9069-27cbab888a43@esterviuserd.selenarahmani.blog:2053?security=reality&type=grpc&headerType=&serviceName=t.me%2FentryNET&authority=&mode=gun&sni=aider.chat&fp=ios&pbk=b-17bBrxypH7jYoyReMbsfR2usUAV9FKmFNVBsofhRw&sid=9d50102196b6bf35&spx=%2Fsdccvf450#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B55%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#%F0%9F%87%AE%F0%9F%87%B3IN-103.111.114.29-4863
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#IN%F0%9F%87%AE%F0%9F%87%B3+%7C+103.111.114.29-57456+%7C+265.36ms
@@ -37,10 +33,6 @@ trojan://9e76767d-4bfa-4f04-a800-42e2f63afed2@in.viefast.net:443?security=tls&sn
 trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#%F0%9F%87%AE%F0%9F%87%B3IN-152.67.162.166-2818
 trojan://ttfang@20.235.105.146:443/?type=ws&path=%2F&security=tls&sni=ttfang.fange.me#%F0%9F%87%AE%F0%9F%87%B3IN-20.235.105.146-0711
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#IN🇮🇳
-vless://895a39fb-6c32-49af-b04d-efecc1f6c5fb@206.189.135.13:41856?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇳®️India©️Bengaluru🅿️ping:280.67ms
-vless://895a39fb-6c32-49af-b04d-efecc1f6c5fb@206.189.135.13:41856?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇳®️India©️Bengaluru🅿️ping:280.99ms
-vless://895a39fb-6c32-49af-b04d-efecc1f6c5fb@206.189.135.13:41856?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇳®️India©️Bengaluru🅿️ping:283.76ms
-vless://895a39fb-6c32-49af-b04d-efecc1f6c5fb@206.189.135.13:41856?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇳®️India©️Bengaluru🅿️ping:284.05ms
 vless://904a7d68-bd97-4158-9069-27cbab888a43@esterviuserd.selenarahmani.blog:2053?security=reality&type=grpc&headerType=&serviceName=t.me%2FentryNET&authority=&mode=gun&sni=aider.chat&fp=ios&pbk=b-17bBrxypH7jYoyReMbsfR2usUAV9FKmFNVBsofhRw&sid=9d50102196b6bf35&spx=%2Fsdccvf450#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B55%5D
 vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?security=&type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_collector%20%5B16%5D
 vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxyfull%20%5B13%5D
