@@ -255,6 +255,7 @@ trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@95.164.85.39:443/?type=tcp&securit
 trojan://0ff2ecf0-4684-11f0-b33e-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp
 trojan://0q%2776Evm32qz%40Q%27(@172.66.44.226:2087/?type=tcp&security=tls&sni=🔒
 trojan://0q%2776Evm32qz%40Q%27(@172.66.47.30:2087/?type=tcp&security=tls&sni=🔒
+trojan://0xh0sw5e-j1mo-7e2a-tiij-gddz5oi7rp5g@127.0.0.1:4080?security=tls&type=tcp#「
 trojan://114514@168.138.176.18:443?security=tls&allowInsecure=1&type=tcp
 trojan://114ad614-fe6c-4422-b0af-be6161190d7a@104.21.61.154:443/?type=tcp&security=tls&sni=DDrt.191266.Xyz#%40Hope_Net-join-us-on-Telegram
 trojan://114ad614-fe6c-4422-b0af-be6161190d7a@104.21.61.154:443/?type=tcp&security=tls&sni=🔒
@@ -2278,6 +2279,7 @@ trojan://9kHuEbiX7Bcp@104.21.71.8:2053/?type=ws&path=%2F%F0%9F%86%94%40M3HDIO1&s
 trojan://9kHuEbiX7Bcp@104.21.71.8:2053/?type=ws&path=🔒
 trojan://9kHuEbiX7Bcp@104.21.71.8:2053?security=tls&sni=khabaronline.itn24.ir#%F0%9F%8F%81RELAY-104.21.71.8-4832
 trojan://9kHuEbiX7Bcp@104.21.71.8:2053?security=tls&sni=🔒
+trojan://9rlhw1w5-gxmr-bgs3-tiht-2so8jzxr83rm@127.0.0.1:1080?security=tls&type=tcp#🕒
 trojan://9yu6m5okr@104.21.50.5:443/?type=tcp&security=tls&sni=🔒
 trojan://9yu6m5okr@104.21.50.5:443/?type=ws&host=production.tj.ojan.workers.dev&security=tls&sni=production.tj.ojan.workers.dev#%40Hope_Net-join-us-on-Telegram
 trojan://9yu6m5okr@172.67.198.177:443/?type=tcp&security=tls&sni=🔒
@@ -4775,7 +4777,9 @@ trojan://auto@104.26.13.54:443/?type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz
 trojan://auto@104.26.13.54:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&host=trojanmz.pages.dev#RELAY🚩
 trojan://auto@104.26.3.36:443/?type=ws&security=tls&sni=b96ef9ae...
 trojan://auto@104.26.6.89:443/?type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&sni=trojanmz.pages.dev#%40Hope_Net-join-us-on-Telegram
+trojan://auto@104.26.6.89:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&host=trojanmz.pages.dev#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
 trojan://auto@104.26.6.89:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.37ms
+trojan://auto@104.26.6.89:443?security=tls&type=ws&sni=🔒
 trojan://auto@104.26.9.160:443/?type=tcp&security=tls&sni=🔒
 trojan://auto@104.26.9.160:443/?type=ws&host=trojanmz.pages.dev&security=tls&sni=trojanmz.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://auto@104.27.206.92:443/?type=tcp&security=tls&sni=🔒
@@ -4921,7 +4925,6 @@ trojan://b640d791-ff83-4300-b509-c2a02f97f167@51.38.71.175:80/?type=tcp&security
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@51.38.71.175:80?security=tls&sni=uk1.trojanvh.xyz#%F0%9F%87%AC%F0%9F%87%A7GB-51.38.71.175-8319
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@51.38.71.175:80?security=tls&sni=🔒
 trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80
-trojan://b6alkj6g-yrna-oc5r-xesq-dfj0h5s5xy29@127.0.0.1:8081?security=tls&type=tcp#
 trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443/?type=grpc&serviceName=gr1.grtj.sulindac.top&security=tls&sni=🔒
 trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=gr1.grtj.sulindac.top&sni=🔒
 trojan://b75d3dc0-4213-11f0-bb32-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp
@@ -6514,6 +6517,7 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443/?type=ws&host=ai
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#I%20865%20%28%40Outline_Vpn%29%20free
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#I%20893%20%28%40Outline_Vpn%29%20free
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#I%20930%20%28%40Outline_Vpn%29%20free
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#🇸🇬[openproxylist.com]
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#🌐سرور
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=🔒
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443/?type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053&security=tls&sni=vpn.stupidworld.web.id&fp=chrome#%F0%9F%8E%B513%40oneclickvpnkeys
@@ -6737,6 +6741,7 @@ trojan://idc117okt@103.176.78.153:443?security=tls
 trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-4387
 trojan://idc117okt@103.226.139.201:443?security=tls
 trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7091
+trojan://il31lles-ym8b-vyii-38a9-m5wpvuu836at@127.0.0.1:8080?security=tls&type=tcp#For
 trojan://installshield@38.180.249.177:8443?allowInsecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#NL_speednode_0022
 trojan://installshield@38.180.249.177:8443?allowInsecure=1&sni=🔒
 trojan://installshield@38.180.249.177:8443?security=tls&allowInsecure=1&type=tcp
@@ -6821,7 +6826,6 @@ trojan://nOZqioniPQ@www.zula.ir:8880?type=ws&path=🔒
 trojan://naEX%5Dg*qw%40MT&lFz@104.21.96.1:2087/?type=tcp&security=tls&sni=jOinMAhdIsErvEr-53k.pAGeS.Dev#%40Hope_Net-join-us-on-Telegram
 trojan://naEX%5Dg*qw%40MT&lFz@104.21.96.1:2087/?type=tcp&security=tls&sni=jOinMAhdIsErvEr-53k.pAGeS.Dev&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://naEX%5Dg*qw%40MT&lFz@104.21.96.1:2087/?type=tcp&security=tls&sni=🔒
-trojan://o15gg24s-4s96-0a08-1uuk-7cax5q6psfof@127.0.0.1:2080?security=tls&type=tcp#This
 trojan://o1p2q3r4-5678-9bcd-0abc-1234abcdef56@104.21.25.160:443/?type=tcp&security=tls&sni=🔒
 trojan://oDUmntonm1@www.speedtest.net:8880?type=ws&path=🔒
 trojan://oDUmntonm1@www.zula.ir:8880?type=ws&path=🔒
@@ -6879,6 +6883,7 @@ trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?allowInsecure=1&sni=🔒
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#%F0%9F%8F%81RELAY-172.67.204.84-1899
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=🔒
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?type=grpc&sni=🔒
+trojan://r35lkuam-z7bv-s7my-0ljf-nf8s9ta0g09m@127.0.0.1:2080?security=tls&type=tcp#This
 trojan://rXzh%3B%3FnW1GGKB(K8@104.21.18.192:443/?type=tcp&security=tls&sni=🔒
 trojan://rXzh%3B%3FnW1GGKB(K8@104.21.18.192:443?security=tls&sni=sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV&type=ws&path=/tr4BCdusB84159lWnu&Host=sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV#%F0%9F%8F%81RELAY-104.21.18.192-0627
 trojan://rXzh%3B%3FnW1GGKB(K8@104.21.18.192:443?security=tls&sni=🔒
@@ -7071,7 +7076,6 @@ trojan://slch2024@216.205.52.87:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87
 trojan://slch2024@216.24.57.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-216.24.57.195-0590
 trojan://slch2024@216.24.57.87:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%BA%F0%9F%87%B8US-216.24.57.87-0700
 trojan://slch2024@www.visasoutheasteurope.com:2096/?type=tcp&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8C%B572%40oneclickvpnkeys
-trojan://slr88sn9-fh76-qc4q-jevd-v4wrq4ls9u6d@127.0.0.1:4080?security=tls&type=tcp#「
 trojan://tXsBdKfoe9@104.25.145.188:2083/?type=tcp&security=tls&sni=🔒
 trojan://tXsBdKfoe9@104.25.145.188:2083/?type=ws&host=cpuhot.boshrachoice.ir.&path=%2FVPNTV20%40_TOP.COM.VPNTV20%40_TOP.COM.VPNTV20%40_TOP.COM%3Fed%3D2048&security=tls&sni=cpuhot.boshrachoice.ir.#33%F0%9F%A7%BF%40oneclickvpnkeys
 trojan://tXsBdKfoe9@104.25.145.188:2083/?type=ws&host=cpuhot.boshrachoice.ir.&path=🔒
@@ -8014,7 +8018,7 @@ trojan://your_password@aws-uk-london-1.f1cflinea.com:443?security=tls&sni=🔒
 trojan://your_password@aws-uk-london-1.f1cflineb.com:443?security=tls&sni=🔒
 trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=🔒
 trojan://yu7AvNL9rW@212.33.206.111:80?allowInsecure=0
-trojan://z7n4ysrq-n248-t2lh-34lm-dai7zufu6gop@127.0.0.1:8080?security=tls&type=tcp#For
+trojan://ywlk5432-uv09-5arw-5zpp-9bpa40naj022@127.0.0.1:8081?security=tls&type=tcp#
 trojan://zY0HGcoAcY2v@104.21.16.1:443?security=tls&sni=🔒
 trojan://zY0HGcoAcY2v@104.21.32.1:443?security=tls&sni=🔒
 trojan://zY0HGcoAcY2v@104.21.48.1:443?security=tls&sni=🔒
@@ -8023,7 +8027,6 @@ trojan://zY0HGcoAcY2v@104.21.80.1:443?security=tls&sni=🔒
 trojan://zY0HGcoAcY2v@104.21.96.1:443?security=tls&sni=🔒
 trojan://zY0HGcoAcY2v@schqqn0yhrrs34qn3a2k4i6g9xap1tph.pages.dev:443?security=tls&sni=🔒
 trojan://zY0HGcoAcY2v@www.speedtest.net:443?security=tls&sni=🔒
-trojan://zgcymfk7-kxz5-ycjm-67xf-bh5gnba2skw8@127.0.0.1:1080?security=tls&type=tcp#🕒
 trojan://zmYifK0t9H@79.137.195.203:443?type=ws&path=🔒
 trojan://zsu4Mq3A9J@51.195.254.75:8443?security=tls&sni=uk-02.allhubb.info&type=tcp#FR🇫🇷
 trojan://❤️RK_VPS❤️@79.137.195.203:2053?path=🔒
