@@ -44,7 +44,6 @@ ss://10aca91a-6e44-46cb-a890-ea246400c0a7@185.236.37.23:443?security=tls&encrypt
 ss://11eb8946-107a-4368-ad2c-ca70681b6aea@5.202.6.98:38117/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40netmellianti%20%5B17%5D
 ss://11eb8946-107a-4368-ad2c-ca70681b6aea@5.202.6.98:38117?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40netmellianti%20%5B17%5D
 ss://11eb8946-107a-4368-ad2c-ca70681b6aea@5.202.6.98:38117?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
-ss://14e55fd0-84ad-42e0-93eb-ebac8c6ce6ca@94.183.149.98:6000?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2raych%20%5B20%5D
 ss://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 ss://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?path=/panika&security=none&encryption=none&type=ws#@IRAN_V2RAY1
 ss://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?path=/panika&security=none&encryption=none&type=ws#IR-@IRAN_V2RAY1
@@ -62,7 +61,7 @@ ss://1c7baa26-3890-4f01-bf93-c88ad9ed0495@m65a.vip784.com:33801?security=none&en
 ss://1e3e92fc-c406-4661-9347-79aa0865ed9b@s15.leader21.top:5054/?type=ws&encryption=none&host=s15.leader21.top&path=%2Fhttp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40golf_vpn%20%5B13%5D
 ss://1e3e92fc-c406-4661-9347-79aa0865ed9b@s15.leader21.top:5054?type=ws&encryption=none&security=none&host=s15.leader21.top&path=%2Fhttp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40golf_vpn%20%5B13%5D
 ss://1e67033a-d197-4891-ffa0-f31be082314d@31.14.114.90:58256?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40loatvpn%20%5B6%5D
-ss://1f095b3d-cf26-6c60-8dad-191de3bb7d5a@du1tn.tehrantab.com:2096?encryption=none&type=tcp&headerType=http&host=fast.com&path=%2F%3Fed%3D2056&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnplusee_free%20%5B18%5D
+ss://1f095b3d-cf26-6c60-8dad-191de3bb7d5a@du1tn.tehrantab.com:2096?encryption=none&type=tcp&headerType=http&host=fast.com&path=%2F%3Fed%3D2056&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnplusee_free%20%5B16%5D
 ss://1f095b3d-cf26-6c60-8dad-191de3bb7d5a@du1tn.tehrantab.com:2096?encryption=none&type=tcp&headerType=http&host=fast.com&path=/?ed%3D2056&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:88.0ms
 ss://1f095b3d-cf26-6c60-8dad-191de3bb7d5a@du1tn.tehrantab.com:2096?encryption=none&type=tcp&headerType=http&host=fast.com&path=/?ed%3D2056&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:88.52ms
 ss://1f095b3d-cf26-6c60-8dad-191de3bb7d5a@du1tn.tehrantab.com:2096?encryption=none&type=tcp&headerType=http&host=fast.com&path=/?ed%3D2056&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:88.88ms
@@ -224,7 +223,7 @@ ss://80baf990-a5c9-4755-899b-f7ca88c2def2@5.202.12.211:8097?security=none&encryp
 ss://8106b4c2-d457-4834-9842-e60720bbf359@217.114.40.9:6500?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@UCIRANIR
 ss://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=/?ed=2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#All--@IRAN_V2RAY1
 ss://826f524a-cea1-4e44-9b49-3381d13b7593@www.speedtest.net:443?path=/kDPocrIW3Ice02v4&security=tls&alpn=http/1.1&encryption=none&host=fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev&fp=chrome&type=ws&sni=FK31lnDM4w8UJ0YP1dRWLtdtDKO6Y-cu.pages.dEv#@IRAN_V2RAY1
-ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=none&encryption=none&host=Telewebion.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mowjproxy%20%5B2%5D
+ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=none&encryption=none&host=Telewebion.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mowjproxy%20%5B1%5D
 ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=none&encryption=none&host=Telewebion.com&headerType=http&type=tcp#Allـ@Iran_v2ray1
 ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=none&encryption=none&host=Telewebion.com&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:82.26ms
 ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=none&encryption=none&host=Telewebion.com&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:83.12ms
@@ -599,7 +598,6 @@ vless://10aca91a-6e44-46cb-a890-ea246400c0a7@185.236.37.23:443?security=tls&encr
 vless://11eb8946-107a-4368-ad2c-ca70681b6aea@5.202.6.98:38117/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40netmellianti%20%5B17%5D
 vless://11eb8946-107a-4368-ad2c-ca70681b6aea@5.202.6.98:38117?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40netmellianti%20%5B17%5D
 vless://11eb8946-107a-4368-ad2c-ca70681b6aea@5.202.6.98:38117?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
-vless://14e55fd0-84ad-42e0-93eb-ebac8c6ce6ca@94.183.149.98:6000?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2raych%20%5B20%5D
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?path=/panika&security=none&encryption=none&type=ws#@IRAN_V2RAY1
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?path=/panika&security=none&encryption=none&type=ws#IR-@IRAN_V2RAY1
@@ -617,7 +615,7 @@ vless://1c7baa26-3890-4f01-bf93-c88ad9ed0495@m65a.vip784.com:33801?security=none
 vless://1e3e92fc-c406-4661-9347-79aa0865ed9b@s15.leader21.top:5054/?type=ws&encryption=none&host=s15.leader21.top&path=%2Fhttp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40golf_vpn%20%5B13%5D
 vless://1e3e92fc-c406-4661-9347-79aa0865ed9b@s15.leader21.top:5054?type=ws&encryption=none&security=none&host=s15.leader21.top&path=%2Fhttp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40golf_vpn%20%5B13%5D
 vless://1e67033a-d197-4891-ffa0-f31be082314d@31.14.114.90:58256?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40loatvpn%20%5B6%5D
-vless://1f095b3d-cf26-6c60-8dad-191de3bb7d5a@du1tn.tehrantab.com:2096?encryption=none&type=tcp&headerType=http&host=fast.com&path=%2F%3Fed%3D2056&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnplusee_free%20%5B18%5D
+vless://1f095b3d-cf26-6c60-8dad-191de3bb7d5a@du1tn.tehrantab.com:2096?encryption=none&type=tcp&headerType=http&host=fast.com&path=%2F%3Fed%3D2056&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnplusee_free%20%5B16%5D
 vless://1f095b3d-cf26-6c60-8dad-191de3bb7d5a@du1tn.tehrantab.com:2096?encryption=none&type=tcp&headerType=http&host=fast.com&path=/?ed%3D2056&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:88.0ms
 vless://1f095b3d-cf26-6c60-8dad-191de3bb7d5a@du1tn.tehrantab.com:2096?encryption=none&type=tcp&headerType=http&host=fast.com&path=/?ed%3D2056&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:88.52ms
 vless://1f095b3d-cf26-6c60-8dad-191de3bb7d5a@du1tn.tehrantab.com:2096?encryption=none&type=tcp&headerType=http&host=fast.com&path=/?ed%3D2056&security=none#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:88.88ms
@@ -779,7 +777,7 @@ vless://80baf990-a5c9-4755-899b-f7ca88c2def2@5.202.12.211:8097?security=none&enc
 vless://8106b4c2-d457-4834-9842-e60720bbf359@217.114.40.9:6500?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@UCIRANIR
 vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=/?ed=2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#All--@IRAN_V2RAY1
 vless://826f524a-cea1-4e44-9b49-3381d13b7593@www.speedtest.net:443?path=/kDPocrIW3Ice02v4&security=tls&alpn=http/1.1&encryption=none&host=fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev&fp=chrome&type=ws&sni=FK31lnDM4w8UJ0YP1dRWLtdtDKO6Y-cu.pages.dEv#@IRAN_V2RAY1
-vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=none&encryption=none&host=Telewebion.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mowjproxy%20%5B2%5D
+vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=none&encryption=none&host=Telewebion.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mowjproxy%20%5B1%5D
 vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=none&encryption=none&host=Telewebion.com&headerType=http&type=tcp#Allـ@Iran_v2ray1
 vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=none&encryption=none&host=Telewebion.com&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:82.26ms
 vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=none&encryption=none&host=Telewebion.com&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:83.12ms
