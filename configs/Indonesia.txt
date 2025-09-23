@@ -28,7 +28,6 @@ ss://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443/?type=ws&encryption=n
 ss://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B0%F0%9F%87%BF
 ss://3f277f78-ef7c-4fab-982c-0ae1b0c0cf67@51.75.161.60:80/?type=ws&encryption=none&host=ShadowProxy66&path=%2Fvless%2F#Channel%20id%3A%20%40ShadowProxy66%20
 ss://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa#Channel%20id%3A%20%40ShadowProxy66%20
-ss://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096/?type=ws&encryption=none&flow=&host=d15.alanhiAhO.cOm&path=%2F&security=tls&sni=d15.alanhiAhO.cOm#Channel%20id%3A%20%40v2rayng_021
 ss://5402dc3b-206e-4ae8-a58d-4fd27a59e142@57.128.198.226:80/?type=ws&encryption=none&host=ShadowProxy66&path=%2Fvless%2F#Channel%20id%3A%20%40ShadowProxy66%20
 ss://558393ec-d70d-4a05-b412-e59f2436cc14@104.167.199.95:80/?type=ws&encryption=none&host=---%40ShadowProxy66&path=%2Fvless%2F#Channel%20id%3A%20%40ShadowProxy66%20
 ss://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
@@ -60,13 +59,13 @@ ss://YWVzLTEyOC1nY206MTAwODY%3D@153.121.43.183:10087#Channel%20ID%3A%20%40v2ray_
 ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#Channel%20id%3A%20%40ShadowProxy66%20
 ss://af552d84-cefb-4952-a814-17f284c21080@51.68.189.39:80/?type=ws&encryption=none&host=ShadowProxy66&path=%2Fvless%2F#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 ss://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443/?type=ws&encryption=none&path=%2Fjzmdpvws&security=tls#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
-ss://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443/?type=ws&encryption=none&flow=&host=nijsf.toyota-funder.info&path=%2Fmajara&security=tls&sni=nijsf.toyota-funder.info#Channel%20id%3A%20%40v2rayng_021
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880/?type=grpc&encryption=none&flow=#%F0%9F%87%AB%F0%9F%87%B7Channel%20id%3A%20%40v2rayng_021
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638932384805827291.ahvaz-drc-dcrabj.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638941610778731953.helsinki-drc-tusacaf.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
+ss://e277ac9b-3225-4381-a9fb-3585419f7142@o3.pictour.info:443/?type=ws&encryption=none&flow=&host=o3.pictour.info&path=%2Fcmyklws&security=tls&sni=o3.pictour.info&fp=chrome#Channel%20id%3A%20%40v2rayng_021
 ss://e3b665fd-0329-47dc-bc05-3474b14bcaf6@ipe3.alighan.ir:8443/?type=ws&encryption=none&host=s.alighan.ir&path=%2F%3Fed&security=tls&sni=ipe4.alighan.ir&alpn=http%2F1.1&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20
 ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
@@ -263,7 +262,6 @@ vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443/?type=ws&encryptio
 vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B0%F0%9F%87%BF
 vless://3f277f78-ef7c-4fab-982c-0ae1b0c0cf67@51.75.161.60:80/?type=ws&encryption=none&host=ShadowProxy66&path=%2Fvless%2F#Channel%20id%3A%20%40ShadowProxy66%20
 vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa#Channel%20id%3A%20%40ShadowProxy66%20
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096/?type=ws&encryption=none&flow=&host=d15.alanhiAhO.cOm&path=%2F&security=tls&sni=d15.alanhiAhO.cOm#Channel%20id%3A%20%40v2rayng_021
 vless://5402dc3b-206e-4ae8-a58d-4fd27a59e142@57.128.198.226:80/?type=ws&encryption=none&host=ShadowProxy66&path=%2Fvless%2F#Channel%20id%3A%20%40ShadowProxy66%20
 vless://558393ec-d70d-4a05-b412-e59f2436cc14@104.167.199.95:80/?type=ws&encryption=none&host=---%40ShadowProxy66&path=%2Fvless%2F#Channel%20id%3A%20%40ShadowProxy66%20
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
@@ -276,13 +274,13 @@ vless://80032848-69d9-4faa-8162-5a6b46b5828f@194.4.49.222:443/?type=ws&encryptio
 vless://8df60790-c903-4661-b85d-64c0009378e5@104.19.99.250:443/?type=ws&encryption=none&host=f1.parsa.filegear-sg.me&path=%2F%3Fed&security=tls&sni=F1.paRsa.fiLegEar-Sg.Me#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://af552d84-cefb-4952-a814-17f284c21080@51.68.189.39:80/?type=ws&encryption=none&host=ShadowProxy66&path=%2Fvless%2F#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443/?type=ws&encryption=none&path=%2Fjzmdpvws&security=tls#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
-vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443/?type=ws&encryption=none&flow=&host=nijsf.toyota-funder.info&path=%2Fmajara&security=tls&sni=nijsf.toyota-funder.info#Channel%20id%3A%20%40v2rayng_021
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880/?type=grpc&encryption=none&flow=#%F0%9F%87%AB%F0%9F%87%B7Channel%20id%3A%20%40v2rayng_021
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932384805827291.ahvaz-drc-dcrabj.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610778731953.helsinki-drc-tusacaf.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
+vless://e277ac9b-3225-4381-a9fb-3585419f7142@o3.pictour.info:443/?type=ws&encryption=none&flow=&host=o3.pictour.info&path=%2Fcmyklws&security=tls&sni=o3.pictour.info&fp=chrome#Channel%20id%3A%20%40v2rayng_021
 vless://e3b665fd-0329-47dc-bc05-3474b14bcaf6@ipe3.alighan.ir:8443/?type=ws&encryption=none&host=s.alighan.ir&path=%2F%3Fed&security=tls&sni=ipe4.alighan.ir&alpn=http%2F1.1&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
@@ -497,6 +495,7 @@ vmess://eyJhZGQiOiI2Mi42MC4xODcuMjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vmess://eyJhZGQiOiI5MS4xMzQuOC45MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoieWljaHVlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYg8J+Hq/Cfh7ciLCJzY3kiOiJhdXRvIiwic25pIjoieWljaHVlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI5NC4xMzYuMTg1LjIzMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiMDFjN2VmOS0zM2VjLTQxZjYtYmZiZi03N2RkYzRkMjE2NDkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwNTM0IiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NvCfh67wn4ezIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxMDMuMTI0LjEwNy4xNDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiY2MzMWRkZmMtZDkyZS00ZGFiLWNkMDYtMDBkZmI4NGFmOGFjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyOTgwMCIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYg8J+HuvCfh7giLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMDQuMTguMjYuOTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IkJsYVpFLWdFUi0yNDguQkxhekVjTG9VZG1BaU4uU2lUZSIsImlkIjoiYzIwOGUwYWUtNmY2ZC00NzQ1LTk5ZGEtNDRhNDQ3NDRjNTMwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3c3RydD9lZFx1MDAzZDI1NjAiLCJwb3J0IjoiMjA4MyIsInBzIjoiQ2hhbm5lbCBpZDogQHYycmF5bmdfMDIxIiwic2N5IjoiYXV0byIsInNuaSI6IkJsYVpFLWdFUi0yNDguQkxhekVjTG9VZG1BaU4uU2lUZSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxMzUuMTI1LjE4Mi43NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4MTg1Mjc3MS03NmZiLTRlOTQtZTRmMS00ZTM3YTY5OGE0OWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MjEzIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NvCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxNDEuOTQuMTU1LjIyOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2FtcG9uZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiDwn4er8J+HtyIsInNjeSI6ImF1dG8iLCJzbmkiOiJrYW1wb25nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNDEuOTQuMTU1LjIyOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2FtcG9uZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiDwn4er8J+HtyIsInNjeSI6ImF1dG8iLCJzbmkiOiJrYW1wb25nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
