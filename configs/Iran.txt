@@ -26,7 +26,7 @@ ss://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=/&security=tls&e
 ss://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=/&security=tls&encryption=none&host=cf.vless.sandesh.fr&fp=chrome&type=ws&sni=cf.vless.sandesh.fr#@IRAN_V2RAY1-All
 ss://07b804cf-beaf-4f8b-b664-5dc675636a78@217.114.40.8:6100?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@UCIRANIR
 ss://08604288-670b-4663-854d-fa47ab3fe068@cloud4.leechirankadeh.cloud:2096/?type=tcp&encryption=none#cloud4.leechirankadeh.cloud
-ss://08604288-670b-4663-854d-fa47ab3fe068@cloud4.leechirankadeh.cloud:2096?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B18%5D
+ss://08604288-670b-4663-854d-fa47ab3fe068@cloud4.leechirankadeh.cloud:2096?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B17%5D
 ss://08604288-670b-4663-854d-fa47ab3fe068@cloud4.leechirankadeh.cloud:2096?security=none&encryption=none&headerType=none&type=tcp#All-@IRAN_V2RAY1
 ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#MCI-@IRAN_V2RAY1
 ss://08704c01-7edb-454a-98a2-328ccb9936fa@freevpn.vizzpn.join.channel.vizzfrag.ir:12794/?type=tcp&encryption=none#freevpn.vizzpn.join.channel.vizzfrag.ir
@@ -615,7 +615,7 @@ vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=/&security=tl
 vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=/&security=tls&encryption=none&host=cf.vless.sandesh.fr&fp=chrome&type=ws&sni=cf.vless.sandesh.fr#@IRAN_V2RAY1-All
 vless://07b804cf-beaf-4f8b-b664-5dc675636a78@217.114.40.8:6100?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@UCIRANIR
 vless://08604288-670b-4663-854d-fa47ab3fe068@cloud4.leechirankadeh.cloud:2096/?type=tcp&encryption=none#cloud4.leechirankadeh.cloud
-vless://08604288-670b-4663-854d-fa47ab3fe068@cloud4.leechirankadeh.cloud:2096?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B18%5D
+vless://08604288-670b-4663-854d-fa47ab3fe068@cloud4.leechirankadeh.cloud:2096?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B17%5D
 vless://08604288-670b-4663-854d-fa47ab3fe068@cloud4.leechirankadeh.cloud:2096?security=none&encryption=none&headerType=none&type=tcp#All-@IRAN_V2RAY1
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#MCI-@IRAN_V2RAY1
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@freevpn.vizzpn.join.channel.vizzfrag.ir:12794/?type=tcp&encryption=none#freevpn.vizzpn.join.channel.vizzfrag.ir
