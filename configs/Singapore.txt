@@ -4,7 +4,6 @@ hysteria2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193?sni=bing.com&insecure
 ss://03517ec0-976e-4cac-b84b-146fc4c7b023@199.232.13.32:80?path=%2FTelegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry%3Fed%3D2048&security=&encryption=none&host=Apple-SIB.ir&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40connectshu%20%5B13%5D
 ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?encryption=none&security=none&type=ws&host=Fastapi.Org&path=%2F%3Fed%3D1024#SG🇸🇬
 ss://5f116836-5b66-4124-8276-eb76051901de@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
-ss://6bc72284-8946-4ea6-9f66-123aab8f5c42@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 ss://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.16:443/?type=ws&encryption=none&host=sgg1.azurewebsites.net&path=%2F&security=tls&sni=sgg1.azurewebsites.net#%E6%96%B0%E5%8A%A0%E5%9D%A1_Telegram%40kxswa
 ss://6f995056-7802-4a1d-bff7-61678e626c3f@52.187.36.104:443?security=tls&sni=werrr.azurewebsites.net&type=ws&host=werrr.azurewebsites.net&path=%2F&fp=chrome#SG🇸🇬
 ss://6f99505678024a1dbff761678e626c3fOg==@52.187.36.104:443#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+52.187.36.104-443+%7C+206.37ms
@@ -110,6 +109,7 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.215.49.89:443#%F0%9F%87%B8%F0%9F%87%ACSG
 ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@103.172.116.5:9084#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.5-7220
 ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@103.172.116.5:9008#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.5-7216
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@139.99.68.21:6379#%F0%9F%87%B8%F0%9F%87%ACSG-139.99.68.21-5858
+ss://ba677251-4aaf-4c45-95f5-a15f7f56e6c4@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 ss://d8665d45-8103-46e9-9cb7-8902bb7559b4@hk3.kaipi.link:443?encryption=none&security=tls&sni=hk3.kaipi.link&type=ws&host=hk3.kaipi.link&path=%2Ftexaws#SG🇸🇬
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@27.50.48.29:8880#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+27.50.48.29-8880+%7C+2.47ms
 trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.177.105-5869
@@ -162,10 +162,10 @@ trojan://oZAugtgF5T@146.190.87.238:443/?type=ws&host=aka.ms&path=%2F&security=tl
 vless://03517ec0-976e-4cac-b84b-146fc4c7b023@199.232.13.32:80?path=%2FTelegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry%3Fed%3D2048&security=&encryption=none&host=Apple-SIB.ir&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40connectshu%20%5B13%5D
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?encryption=none&security=none&type=ws&host=Fastapi.Org&path=%2F%3Fed%3D1024#SG🇸🇬
 vless://5f116836-5b66-4124-8276-eb76051901de@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
-vless://6bc72284-8946-4ea6-9f66-123aab8f5c42@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.16:443/?type=ws&encryption=none&host=sgg1.azurewebsites.net&path=%2F&security=tls&sni=sgg1.azurewebsites.net#%E6%96%B0%E5%8A%A0%E5%9D%A1_Telegram%40kxswa
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@52.187.36.104:443?security=tls&sni=werrr.azurewebsites.net&type=ws&host=werrr.azurewebsites.net&path=%2F&fp=chrome#SG🇸🇬
 vless://7ec108c5-5c08-4a9f-ad1b-bf60328792d4@news.zoom.us:2096?encryption=none&security=tls&sni=free-server.techsonic.cloud&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=free-server.techsonic.cloud&path=%2Ffree-server.techsonic.cloud#SG🇸🇬
+vless://ba677251-4aaf-4c45-95f5-a15f7f56e6c4@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://d8665d45-8103-46e9-9cb7-8902bb7559b4@hk3.kaipi.link:443?encryption=none&security=tls&sni=hk3.kaipi.link&type=ws&host=hk3.kaipi.link&path=%2Ftexaws#SG🇸🇬
 vmess://ewogICAgImFkZCI6ICI0Ny44NC42Mi4xIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJkMmEwYmNkNy1lMzJkLTRiNzEtOTFhOS01ZmQ3MDQzYjcwMjUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjAwODYsCiAgICAicHMiOiAi8J+HuPCfh6xTRy00Ny44NC42Mi4xLTczNTciLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICI0Ny44NC42Ni43OSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiOWNhYTcxMWMtMjQ5MC00MDQxLTgxMmQtZWRiY2I5OTRmZDE4IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh7jwn4esU0ctNDcuODQuNjYuNzktNzk0OSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
