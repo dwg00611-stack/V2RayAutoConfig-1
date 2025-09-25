@@ -412,6 +412,7 @@ trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@uk.stablize.top:443/?type=tcp&secu
 trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@uk.stablize.top:443/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US-76.223.54.146-2854
 trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@uk.stablize.top:443?security=tls
 trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@uk.stablize.top:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-103.224.182.210-2870
+trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?
 trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD%2048.0KB%2Fs
 trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?allowInsecure=0
 trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?allowInsecure=0#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%A9%E5%AE%89%E5%85%A8%E9%83%A8
@@ -760,6 +761,7 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443?sni=🔒
 trojan://2ee85121-31de-4581-a492-eb00f606e392@15.204.248.103:443?security=tls&sni=rs3.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-15.204.248.103-5540
 trojan://2ee85121-31de-4581-a492-eb00f606e392@15.204.248.103:443?security=tls&sni=🔒
 trojan://2ee85121-31de-4581-a492-eb00f606e392@15.204.248.103:443?sni=rs3.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
+trojan://2ee85121-31de-4581-a492-eb00f606e392@15.204.248.103:443?sni=🔒
 trojan://2ee85121-31de-4581-a492-eb00f606e392@185.208.207.217:443/?type=tcp&security=tls&sni=dus.freeguard.org#%F0%9F%87%A9%F0%9F%87%AADE-185.208.207.217-4922
 trojan://2ee85121-31de-4581-a492-eb00f606e392@185.208.207.217:443/?type=tcp&security=tls&sni=dus.freeguard.org&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AADE-185.208.207.217-4922
 trojan://2ee85121-31de-4581-a492-eb00f606e392@185.208.207.217:443/?type=tcp&security=tls&sni=🔒
@@ -6060,7 +6062,6 @@ trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@185.244.208.225:17701/?type=tcp&se
 trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@185.244.208.225:17701/?type=tcp&security=tls&sni=🔒
 trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@de1.pptv-tv.store:17755?security=tls&sni=data.52daishu.life#%F0%9F%87%A9%F0%9F%87%AADE-77.90.22.86-0742
 trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@de1.pptv-tv.store:17755?security=tls&sni=🔒
-trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@de1.pptv-tv.store:17755?sni=🔒
 trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@es1.pptv-tv.store:17730?security=tls&sni=data.52daishu.life#%F0%9F%87%AA%F0%9F%87%B8ES-5.134.118.171-0744
 trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@es1.pptv-tv.store:17730?sni=🔒
 trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@in.pptv-tv.store:17728/?type=tcp&security=tls&sni=data.52daishu.life#%40Hope_Net-join-us-on-Telegram
