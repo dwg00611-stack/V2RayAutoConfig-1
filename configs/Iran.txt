@@ -138,7 +138,6 @@ ss://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=none&enc
 ss://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@IRAN_V2RAY1
 ss://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B75%5D
 ss://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
-ss://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesc%20%5B18%5D
 ss://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?type=tcp&encryption=none#IR🇮🇷
 ss://4aae04fa-f390-44bb-9558-a344c8baed36@80.13.135.11:57546?mode=gun&security=reality&encryption=none&pbk=G4WqyBonyjuo6n6pIL_yLN33T9e8BNHIUlrVnqZPpTY&fp=chrome&type=grpc&serviceName=probrain-etl&sni=ratp.fr&sid=e9da#All-@IRAN_V2RAY1
 ss://4b3d1517-204f-423a-8469-2d79444418a9@104.18.26.90:443?path=/wsss&security=tls&encryption=none&type=ws&sni=bLAZE-GErmanY-246.MEtIKaPps.COm#MCI-@IRAN_V2RAY1
@@ -723,7 +722,6 @@ vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=none&
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@IRAN_V2RAY1
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B75%5D
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
-vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesc%20%5B18%5D
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?type=tcp&encryption=none#IR🇮🇷
 vless://4aae04fa-f390-44bb-9558-a344c8baed36@80.13.135.11:57546?mode=gun&security=reality&encryption=none&pbk=G4WqyBonyjuo6n6pIL_yLN33T9e8BNHIUlrVnqZPpTY&fp=chrome&type=grpc&serviceName=probrain-etl&sni=ratp.fr&sid=e9da#All-@IRAN_V2RAY1
 vless://4b3d1517-204f-423a-8469-2d79444418a9@104.18.26.90:443?path=/wsss&security=tls&encryption=none&type=ws&sni=bLAZE-GErmanY-246.MEtIKaPps.COm#MCI-@IRAN_V2RAY1
