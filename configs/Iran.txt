@@ -23,7 +23,6 @@ ss://024f9b24-42c3-4c32-ba0a-3d7b5a6de162@172.66.40.99:80?path=/Join-ZEDMODEON-Z
 ss://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?path=/kcknkyws&security=tls&encryption=none&type=ws#@IRAN_V2RAY1
 ss://041f929a-63f6-4af1-a492-8cbff5797b8a@avval.ir:2096/?type=ws&encryption=none&host=telegram-falcunargo-emiratess.falcunar.asso.eu.org&path=%2F&security=tls&sni=telegram-falcunargo-emiratess.falcunar.asso.eu.org&fp=random#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayngc%20%5B19%5D
 ss://0518ca46-4313-45ce-df4d-5268c1b30cf2@104.21.112.1:8080?path=/olem/ws?ed=1024&security=none&encryption=none&host=shad.ir.fin.test.digicyber.click.&type=ws#All-@IRAN_V2RAY1
-ss://0559a3a8-9102-4cde-91cd-af091bbfb875@sangarshakan.vip-sangar.sbs:49881?security=none&encryption=none&headerType=none&type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40Proxyiranip%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
 ss://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=/&security=tls&encryption=none&host=cf.vless.sandesh.fr&fp=chrome&type=ws&sni=cf.vless.sandesh.fr#@IRAN_V2RAY1
 ss://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=/&security=tls&encryption=none&host=cf.vless.sandesh.fr&fp=chrome&type=ws&sni=cf.vless.sandesh.fr#@IRAN_V2RAY1-All
 ss://08604288-670b-4663-854d-fa47ab3fe068@cloud4.leechirankadeh.cloud:2096?security=none&encryption=none&headerType=none&type=tcp#All-@IRAN_V2RAY1
@@ -220,7 +219,7 @@ ss://7f453ff7-fe7d-4970-ab4b-5f00bbb855ce@chanel.nilmmd.shop:443?security=none&e
 ss://7f453ff7-fe7d-4970-ab4b-5f00bbb855ce@chanel.nilmmd.shop:443?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_iran88%20%5B9%5D
 ss://80baf990-a5c9-4755-899b-f7ca88c2def2@5.202.12.211:8097?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B10%5D
 ss://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=/?ed=2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#All--@IRAN_V2RAY1
-ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40manzariyeh_rasht%20%5B18%5D
+ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40manzariyeh_rasht%20%5B16%5D
 ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=none&encryption=none&host=Telewebion.com&headerType=http&type=tcp#Allـ@Iran_v2ray1
 ss://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=/&security=none&encryption=none&type=ws#All--@IRAN_V2RAY1
 ss://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=/&security=none&encryption=none&type=ws#IR-@IRAN_V2RAY1
@@ -603,7 +602,6 @@ vless://024f9b24-42c3-4c32-ba0a-3d7b5a6de162@172.66.40.99:80?path=/Join-ZEDMODEO
 vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?path=/kcknkyws&security=tls&encryption=none&type=ws#@IRAN_V2RAY1
 vless://041f929a-63f6-4af1-a492-8cbff5797b8a@avval.ir:2096/?type=ws&encryption=none&host=telegram-falcunargo-emiratess.falcunar.asso.eu.org&path=%2F&security=tls&sni=telegram-falcunargo-emiratess.falcunar.asso.eu.org&fp=random#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayngc%20%5B19%5D
 vless://0518ca46-4313-45ce-df4d-5268c1b30cf2@104.21.112.1:8080?path=/olem/ws?ed=1024&security=none&encryption=none&host=shad.ir.fin.test.digicyber.click.&type=ws#All-@IRAN_V2RAY1
-vless://0559a3a8-9102-4cde-91cd-af091bbfb875@sangarshakan.vip-sangar.sbs:49881?security=none&encryption=none&headerType=none&type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40Proxyiranip%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
 vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=/&security=tls&encryption=none&host=cf.vless.sandesh.fr&fp=chrome&type=ws&sni=cf.vless.sandesh.fr#@IRAN_V2RAY1
 vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=/&security=tls&encryption=none&host=cf.vless.sandesh.fr&fp=chrome&type=ws&sni=cf.vless.sandesh.fr#@IRAN_V2RAY1-All
 vless://08604288-670b-4663-854d-fa47ab3fe068@cloud4.leechirankadeh.cloud:2096?security=none&encryption=none&headerType=none&type=tcp#All-@IRAN_V2RAY1
@@ -800,7 +798,7 @@ vless://7f453ff7-fe7d-4970-ab4b-5f00bbb855ce@chanel.nilmmd.shop:443?security=non
 vless://7f453ff7-fe7d-4970-ab4b-5f00bbb855ce@chanel.nilmmd.shop:443?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_iran88%20%5B9%5D
 vless://80baf990-a5c9-4755-899b-f7ca88c2def2@5.202.12.211:8097?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B10%5D
 vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=/?ed=2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#All--@IRAN_V2RAY1
-vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40manzariyeh_rasht%20%5B18%5D
+vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?encryption=none&security=none&type=tcp&headerType=http&host=Telewebion.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40manzariyeh_rasht%20%5B16%5D
 vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=none&encryption=none&host=Telewebion.com&headerType=http&type=tcp#Allـ@Iran_v2ray1
 vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=/&security=none&encryption=none&type=ws#All--@IRAN_V2RAY1
 vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=/&security=none&encryption=none&type=ws#IR-@IRAN_V2RAY1
