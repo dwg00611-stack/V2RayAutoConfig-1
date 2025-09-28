@@ -141,6 +141,7 @@ ss://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&encr
 ss://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B75%5D
 ss://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=&encryption=none&headerType=none&type=tcp#IR🇮🇷
 ss://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
+ss://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:125.02ms
 ss://4aae04fa-f390-44bb-9558-a344c8baed36@80.13.135.11:57546?mode=gun&security=reality&encryption=none&pbk=G4WqyBonyjuo6n6pIL_yLN33T9e8BNHIUlrVnqZPpTY&fp=chrome&type=grpc&serviceName=probrain-etl&sni=ratp.fr&sid=e9da#All-@IRAN_V2RAY1
 ss://4b3d1517-204f-423a-8469-2d79444418a9@104.18.26.90:443?path=/wsss&security=tls&encryption=none&type=ws&sni=bLAZE-GErmanY-246.MEtIKaPps.COm#MCI-@IRAN_V2RAY1
 ss://4bb35928-40bb-4bf3-95f1-9efdc4169147@159.223.209.139:46964?security=none&encryption=none&headerType=none&type=tcp#WiFi-@IRAN_V2RAY1
@@ -417,7 +418,6 @@ ss://cde6146f-514f-403f-b36d-7f71514c0890@d1.amo24.top:8443?type=tcp&security=no
 ss://ce32e82a-8115-452b-a2bf-a2b1672f83c4@vaynora.imlast.com:443?type=tcp&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vaynora%20%5B3%5D
 ss://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
 ss://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?path=/&security=tls&encryption=none&host=check-host.net&type=ws&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
-ss://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?path=/&security=tls&encryption=none&host=check-host.net&type=ws&sni=fl.v2bazzar.ir#🟨Irancell
 ss://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?path=/&security=tls&encryption=none&host=fl.v2bazzar.ir&type=ws&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
 ss://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?path=/&security=tls&encryption=none&type=ws&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
 ss://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:7601?security=reality&encryption=none&pbk=d0MTB2pELj6kUMwYkDZCyf65mA9TbEa45bNJIqgRHTU&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=9f54d072d0c27dc6#All-@IRAN_V2RAY1
@@ -738,6 +738,7 @@ vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&e
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B75%5D
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=&encryption=none&headerType=none&type=tcp#IR🇮🇷
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
+vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:125.02ms
 vless://4aae04fa-f390-44bb-9558-a344c8baed36@80.13.135.11:57546?mode=gun&security=reality&encryption=none&pbk=G4WqyBonyjuo6n6pIL_yLN33T9e8BNHIUlrVnqZPpTY&fp=chrome&type=grpc&serviceName=probrain-etl&sni=ratp.fr&sid=e9da#All-@IRAN_V2RAY1
 vless://4b3d1517-204f-423a-8469-2d79444418a9@104.18.26.90:443?path=/wsss&security=tls&encryption=none&type=ws&sni=bLAZE-GErmanY-246.MEtIKaPps.COm#MCI-@IRAN_V2RAY1
 vless://4bb35928-40bb-4bf3-95f1-9efdc4169147@159.223.209.139:46964?security=none&encryption=none&headerType=none&type=tcp#WiFi-@IRAN_V2RAY1
@@ -920,7 +921,6 @@ vless://cde6146f-514f-403f-b36d-7f71514c0890@d1.amo24.top:8443?type=tcp&security
 vless://ce32e82a-8115-452b-a2bf-a2b1672f83c4@vaynora.imlast.com:443?type=tcp&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vaynora%20%5B3%5D
 vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
 vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?path=/&security=tls&encryption=none&host=check-host.net&type=ws&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
-vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?path=/&security=tls&encryption=none&host=check-host.net&type=ws&sni=fl.v2bazzar.ir#🟨Irancell
 vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?path=/&security=tls&encryption=none&host=fl.v2bazzar.ir&type=ws&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
 vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?path=/&security=tls&encryption=none&type=ws&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
 vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:7601?security=reality&encryption=none&pbk=d0MTB2pELj6kUMwYkDZCyf65mA9TbEa45bNJIqgRHTU&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=9f54d072d0c27dc6#All-@IRAN_V2RAY1
