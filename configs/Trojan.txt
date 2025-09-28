@@ -716,7 +716,7 @@ trojan://2a85cc50-5f55-11ee-b3ab-1239d0255272@104.21.41.21:443?security=tls&sni=
 trojan://2a85cc50-5f55-11ee-b3ab-1239d0255272@172.67.159.13:443?security=tls&sni=🔒
 trojan://2a9ba60d-10ce-4f79-97e7-817334456195@3.85.62.200:54527?security=tls&sni=tr7.tgcunzhang.xyz#%F0%9F%87%BA%F0%9F%87%B8US-3.85.62.200-2361
 trojan://2a9ba60d-10ce-4f79-97e7-817334456195@3.85.62.200:54527?security=tls&sni=🔒
-trojan://2aa1581d-bfc9-4d3a-84f3-742674fb5d3a@13.112.64.47:20230?security=tls&sni=421421.xyz#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
+trojan://2aa1581d-bfc9-4d3a-84f3-742674fb5d3a@13.112.64.47:20230?security=tls&sni=421421.xyz#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B18%5D
 trojan://2aa1581d-bfc9-4d3a-84f3-742674fb5d3a@13.112.64.47:20230?security=tls&sni=🔒
 trojan://2add6241-8fe8-3922-8347-da25e8ced601@209.209.10.231:44445/?type=tcp&security=tls&sni=🔒
 trojan://2add6241-8fe8-3922-8347-da25e8ced601@209.209.11.112:4586/?type=tcp&security=tls&sni=🔒
@@ -1884,8 +1884,6 @@ trojan://85c41c44-e235-4e0c-9c46-987b7233c837@192.142.4.64:40384/?type=tcp&secur
 trojan://85c41c44-e235-4e0c-9c46-987b7233c837@192.142.4.64:40384/?type=tcp&security=tls&sni=🔒
 trojan://860deb50-4945-11f0-97d9-1239d0255272@sg2.6n6.net:443?security=tls&headerType=none&type=tcp
 trojan://8619878a-3677-4c2d-aca5-55dbd765825f@bai-piao-wang-zhe-iplc12.98848.xyz:46956?security=tls&sni=🔒
-trojan://86550b36-9e7b-30fd-9d88-8c8f7903b6c4@gy.58n.net:20307?allowInsecure=1&sni=z307.hongkongnode.top#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B18%5D
-trojan://86550b36-9e7b-30fd-9d88-8c8f7903b6c4@gy.58n.net:20307?allowInsecure=1&sni=🔒
 trojan://86816650-4213-11f0-ba1d-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp
 trojan://8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@185.44.76.188:443/?type=tcp&security=tls
 trojan://8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@185.44.76.188:443/?type=tcp&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-185.44.76.188-4509
@@ -4472,6 +4470,8 @@ trojan://aadebd6c-5714-4e8d-886d-a442eb39950c@36.231.122.107:443?type=tcp&sni=�
 trojan://ab052d70-48a0-11f0-bea4-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp
 trojan://ab33eed0-4684-11f0-8b81-1239d0255272@usa.test3.net:443?security=tls&headerType=none&type=tcp
 trojan://aba831c0-4213-11f0-a2d6-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp
+trojan://abacbca-caba-bcaa-cbda-bcccabcababa@127.0.0.1:1080?security=tls&type=tcp
+trojan://abacbca-caba-bcaa-cbda-bcccabcababa@127.0.0.1:1080?security=tls&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
 trojan://acacbab-abca-baca-cdba-bcbcaaabbcac@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram⚠️
 trojan://acfef609-b3c7-4e52-b292-8921d5fca90d@ca-full.privateip.net:443?security=tls
 trojan://acfef609-b3c7-4e52-b292-8921d5fca90d@ca-full.privateip.net:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-148.113.207.224-4979
