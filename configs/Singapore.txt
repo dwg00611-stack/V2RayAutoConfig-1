@@ -1,7 +1,8 @@
 hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.224.62:22509?sni=bing.com&insecure=1#SG
 hysteria2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193?sni=bing.com&insecure=1#SG
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp2.mangshe.xyz:2060?sni=xjp2.mangshe.xyz&insecure=1#SG
-ss://101cbe23-1334-4357-bc69-d5f479ab328f@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
+ss://019984df-e8d5-10ee-435f-9143d7beb674@47.236.91.181:1443/?type=ws&encryption=none&flow=&host=getsub.saas.classelivre.eu.org&path=%2Fsnippets%3Fip%3DProxyIP.Oracle.cmliussss.net&security=tls&sni=getsub.saas.classelivre.eu.org#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:173.85ms
+ss://019984df-e8d5-10ee-435f-9143d7beb674@47.237.129.86:443/?type=ws&encryption=none&flow=&host=getsub.saas.classelivre.eu.org&path=%2Fsnippets%3Fip%3DProxyIP.Oracle.cmliussss.net&security=tls&sni=getsub.saas.classelivre.eu.org&fp=random#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:175.45ms
 ss://2819211a-b9e4-43a5-a71a-6e65ce8c8e4c@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 ss://346caa60-8fb2-11f0-b237-205c6d5f5d78@asia1.fufo.org:80?path=%2Fvlws&security=none&encryption=none&type=ws#SG🇸🇬
 ss://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.16:443/?type=ws&encryption=none&host=sgg1.azurewebsites.net&path=%2F&security=tls&sni=sgg1.azurewebsites.net#%E6%96%B0%E5%8A%A0%E5%9D%A1_Telegram%40kxswa
@@ -174,7 +175,8 @@ trojan://iyinglong@13.213.69.245:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.
 trojan://iyinglong@18.140.67.76:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.140.67.76-5947
 trojan://iyinglong@18.141.8.87:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.141.8.87-5945
 trojan://oZAugtgF5T@146.190.87.238:443/?type=ws&host=aka.ms&path=%2F&security=tls&sni=aka.ms#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40mpmehi%20%5B1%5D
-vless://101cbe23-1334-4357-bc69-d5f479ab328f@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
+vless://019984df-e8d5-10ee-435f-9143d7beb674@47.236.91.181:1443/?type=ws&encryption=none&flow=&host=getsub.saas.classelivre.eu.org&path=%2Fsnippets%3Fip%3DProxyIP.Oracle.cmliussss.net&security=tls&sni=getsub.saas.classelivre.eu.org#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:173.85ms
+vless://019984df-e8d5-10ee-435f-9143d7beb674@47.237.129.86:443/?type=ws&encryption=none&flow=&host=getsub.saas.classelivre.eu.org&path=%2Fsnippets%3Fip%3DProxyIP.Oracle.cmliussss.net&security=tls&sni=getsub.saas.classelivre.eu.org&fp=random#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:175.45ms
 vless://2819211a-b9e4-43a5-a71a-6e65ce8c8e4c@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://346caa60-8fb2-11f0-b237-205c6d5f5d78@asia1.fufo.org:80?path=%2Fvlws&security=none&encryption=none&type=ws#SG🇸🇬
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.16:443/?type=ws&encryption=none&host=sgg1.azurewebsites.net&path=%2F&security=tls&sni=sgg1.azurewebsites.net#%E6%96%B0%E5%8A%A0%E5%9D%A1_Telegram%40kxswa
