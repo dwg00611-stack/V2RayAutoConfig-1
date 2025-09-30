@@ -4104,6 +4104,8 @@ trojan://NISHIKUITAN222@104.20.25.69:443?allowInsecure=1&ws=1&wspath=%2F#@Hope_N
 trojan://NISHIKUITAN222@104.21.108.193:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN222@104.21.221.251:443/?type=tcp&security=tls
 trojan://NISHIKUITAN222@104.21.221.251:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
+trojan://NISHIKUITAN222@104.21.227.93:443?allowInsecure=1
+trojan://NISHIKUITAN222@104.21.227.93:443?allowInsecure=1#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
 trojan://NISHIKUITAN222@104.21.25.209:443?allowInsecure=1&ws=1&wspath=%2F#RELAY🚩
 trojan://NISHIKUITAN222@104.24.174.190:443?allowInsecure=1&ws=1&wspath=%2F#RELAY🚩
 trojan://NISHIKUITAN222@104.24.177.45:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
@@ -4693,8 +4695,6 @@ trojan://auto@104.20.21.229:443?security=tls&type=ws&sni=🔒
 trojan://auto@104.20.21.251:443/?type=tcp&security=tls&sni=🔒
 trojan://auto@104.20.21.251:443/?type=ws&security=tls&sni=b96e...
 trojan://auto@104.20.21.3:443/?type=ws&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev
-trojan://auto@104.20.21.3:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.85ms
-trojan://auto@104.20.21.3:443?security=tls&type=ws&sni=🔒
 trojan://auto@104.20.21.63:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#t.me/entryNET/config=1844674406671496
 trojan://auto@104.20.21.63:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#t.me/entryNET/config=1844674406685539
 trojan://auto@104.20.21.63:443?security=tls&sni=🔒
@@ -5833,7 +5833,6 @@ trojan://bpb-trojan@172.66.213.38:443/?type=ws&host=bpb-hd.aaronchin.xyz&path=%2
 trojan://bpb-trojan@172.66.213.38:443/?type=ws&host=bpb-hd.aaronchin.xyz&path=🔒
 trojan://bpb-trojan@172.66.44.128:443/?type=tcp&security=tls&sni=cf.090227.xyz#%40Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@172.66.44.128:443/?type=tcp&security=tls&sni=🔒
-trojan://bpb-trojan@172.66.44.139:8443?sni=AZaDneT-Hwt.pAGES.dev#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B18%5D
 trojan://bpb-trojan@172.66.44.139:8443?sni=AZaDneT-Hwt.pAGES.dev#t.me/entryNET/config=1844670507856583
 trojan://bpb-trojan@172.66.44.139:8443?sni=🔒
 trojan://bpb-trojan@172.66.44.156:443/?type=tcp&security=tls&sni=🔒
@@ -7112,8 +7111,6 @@ trojan://telegram-id-directvpn@52.47.180.25:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@52.47.41.227:22222?type=tcp&sni=🔒
 trojan://telegram-id-directvpn@52.51.114.1:22222?security=tls&sni=🔒
 trojan://telegram-id-directvpn@52.58.34.74:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
-trojan://telegram-id-directvpn@52.60.166.12:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
-trojan://telegram-id-directvpn@52.60.166.12:22222?security=tls&sni=🔒
 trojan://telegram-id-directvpn@54.76.45.13:22222?security=tls&sni=🔒
 trojan://telegram-id-directvpn@63.177.117.174:22223/?type=tcp&security=tls&sni=🔒
 trojan://telegram-id-directvpn@63.177.173.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
