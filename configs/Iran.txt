@@ -412,6 +412,7 @@ ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security
 ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-12.apple.name.ng&type=ws&sni=hetzner-12.apple.name.ng#All_@IRAN_V2RAY1
 ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-17.access.name.ng&fp=chrome&type=ws&sni=lease-17.access.name.ng#@IRAN_V2RAY1
 ss://cde6146f-514f-403f-b36d-7f71514c0890@d1.amo24.top:8443?type=tcp&security=none&headerType=http&path=%2F&host=#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnfree85%20%5B1%5D
+ss://ce32e82a-8115-452b-a2bf-a2b1672f83c4@vaynora.shahinstore1.com:443?type=tcp&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vaynora%20%5B4%5D
 ss://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
 ss://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?path=/&security=tls&encryption=none&host=check-host.net&type=ws&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
 ss://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?path=/&security=tls&encryption=none&host=fl.v2bazzar.ir&type=ws&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
@@ -926,6 +927,7 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&secur
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-12.apple.name.ng&type=ws&sni=hetzner-12.apple.name.ng#All_@IRAN_V2RAY1
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-17.access.name.ng&fp=chrome&type=ws&sni=lease-17.access.name.ng#@IRAN_V2RAY1
 vless://cde6146f-514f-403f-b36d-7f71514c0890@d1.amo24.top:8443?type=tcp&security=none&headerType=http&path=%2F&host=#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnfree85%20%5B1%5D
+vless://ce32e82a-8115-452b-a2bf-a2b1672f83c4@vaynora.shahinstore1.com:443?type=tcp&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vaynora%20%5B4%5D
 vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
 vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?path=/&security=tls&encryption=none&host=check-host.net&type=ws&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
 vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:443?path=/&security=tls&encryption=none&host=fl.v2bazzar.ir&type=ws&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
