@@ -38,6 +38,7 @@ trojan://02926f9e-153a-42c8-8ecd-8fade7009ad1@144.22.250.122:443/?type=tcp&secur
 trojan://02926f9e-153a-42c8-8ecd-8fade7009ad1@144.22.250.122:443/?type=tcp&security=tls&sni=🔒
 trojan://02XtoczO7V@creativecommons.org:443/?type=ws&host=mooshali.arshiacomplus.dpdns.org&path=%2Fhishhhh123&security=tls&sni=mooshali.arshiacomplus.dpdns.org&alpn=http%2F1.1&fp=firefox#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2ray_sub%20%5B77%5D
 trojan://02XtoczO7V@creativecommons.org:443/?type=ws&host=mooshali.arshiacomplus.dpdns.org&path=🔒
+trojan://02XtoczO7V@creativecommons.org:443?path=%2Fhishhhh123&security=tls&alpn=http%2F1.1&host=mooshali.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=mooshali.arshiacomplus.dpdns.org#%40ConfigV2RayNG
 trojan://02XtoczO7V@creativecommons.org:443?path=%2Fhishhhh123&security=tls&alpn=http%2F1.1&host=mooshali.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=mooshali.arshiacomplus.dpdns.org#RELAY🚩
 trojan://02XtoczO7V@creativecommons.org:443?path=/hishhhh123&security=tls&alpn=http/1.1&host=mooshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=mooshali.arshiacomplus.dpdns.org#IR-@IRAN_V2RAY1
 trojan://02XtoczO7V@creativecommons.org:443?path=/hishhhh123&security=tls&alpn=http/1.1&host=mooshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=mooshali.arshiacomplus.dpdns.org#🇨🇵@FreakConfig
@@ -404,6 +405,7 @@ trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls
 trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.255.103-0342
 trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&sni=uk-03.allhubb.info#FR🇫🇷
 trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&headerType=none&type=tcp
+trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&headerType=none&type=tcp#%E2%9C%A838%40ConfigV2RayNG
 trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&headerType=none&type=tcp#FR🇫🇷
 trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&headerType=none&type=tcp#🇬🇧@FreakConfig
@@ -4227,6 +4229,7 @@ trojan://QTKsqSws9Sgc@104.21.80.1:2087/?type=httpupgrade&host=hamshahri.twn24.ir
 trojan://QmxV21qnHf@104.21.71.8:443/?type=ws&path=%2F14755%2F%3Fed%3D2048&security=tls&sni=tabnak.ITN24.IR#%40Hope_Net-join-us-on-Telegram
 trojan://QmxV21qnHf@104.21.71.8:443/?type=ws&path=🔒
 trojan://QwwHvrnN@36.151.192.203:18682?allowInsecure=1
+trojan://R3SuZDAZXDO3FYqxwK36l7gpSIBTFCxlzc89a7qg3S9p8BOCeACSFaA8nxeD2ZlT5Nl4O@
 trojan://R3SuZDAZXDO3FYqxwK36l7gpSIBTFCxlzc89a7qg3S9p8BOCeACSFaA8nxeD2ZlT5Nl4O@spevoy.missionsec.us:443/?type=tcp&security=tls
 trojan://R3SuZDAZXDO3FYqxwK36l7gpSIBTFCxlzc89a7qg3S9p8BOCeACSFaA8nxeD2ZlT5Nl4O@spevoy.missionsec.us:443/?type=tcp&security=tls#%E2%9C%A882%40oneclickvpnkeys
 trojan://R3SuZDAZXDO3FYqxwK36l7gpSIBTFCxlzc89a7qg3S9p8BOCeACSFaA8nxeD2ZlT5Nl4O@spevoy.missionsec.us:443/?type=tcp&security=tls&sni=spevoy.missionsec.us#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.160.84-5051
@@ -4394,8 +4397,10 @@ trojan://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.242.43:443?securi
 trojan://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.242.43:443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-2.58.242.43-4515
 trojan://Ys.c7%3FD9qmBLo%5EZ%5D@172.66.44.86:2053/?type=tcp&security=tls&sni=🔒
 trojan://Ys.c7%3FD9qmBLo%5EZ%5D@172.66.47.170:2053/?type=ws&path=%2FtrIFLHqMRiIx9In1rG%3Fed%3D2560...&security=tls&sni=JOInMaHDiSeRVeR-333.pAGEs.DeV
+trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%E2%99%A8%EF%B8%8F61%40ConfigV2RayNG
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#RELAY🚩
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#trojan-ws-tlsکانفیگ
+trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%AA%9E85%40ConfigV2RayNG
 trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🇬🇧@FreakConfig
 trojan://YwuvGJk36B@creativecommons.org:2053?path=🔒
 trojan://Z2P0nBrc5d-54JXKPLQcGg@www.speedtest.net:2087?type=ws&host=jfkgfuiodghlf.ahmadinabaz.ir&path=🔒
@@ -6462,6 +6467,7 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@104.21.72.109:443?path=🔒
 trojan://f282b878-8711-45a1-8c69-5564172123c1@104.21.72.109:443?security=tls&sni=🔒
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443/?type=ws&host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&sni=aio.zipzap.biz.id#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40manzariyeh_rasht%20%5B16%5D
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443/?type=ws&host=aio.zipzap.biz.id&path=🔒
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#%F0%9F%AA%9E16%40ConfigV2RayNG
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#RELAY🚩
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443/?type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053&security=tls&sni=vpn.stupidworld.web.id&fp=chrome#%F0%9F%8E%B513%40oneclickvpnkeys
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443/?type=ws&host=vpn.stupidworld.web.id&path=🔒
