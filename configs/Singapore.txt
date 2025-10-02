@@ -125,14 +125,14 @@ trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=g
 trojan://18304160-03d4-4c55-95c1-586c0a5f3a0a@ap.liangyuandian.top:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.213.235.144-3620
 trojan://21246bde-fab7-424c-9723-d311acce3f34@206.189.34.134:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-206.189.34.134-5106
 trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:1331?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
-trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:1331?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:1331?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:1331?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 trojan://253bc477d4e43c209f2d427272968280@160.16.236.32:449?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
-trojan://253bc477d4e43c209f2d427272968280@160.16.236.32:449?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@160.16.236.32:449?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@160.16.236.32:449?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://253bc477d4e43c209f2d427272968280@160.16.72.33:2173?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@165.22.55.206:443/?type=tcp&security=tls&sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG-165.22.55.206-0995
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:1085?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://58dcd460-65df-47b1-b062-517df30bef29@ca.liangyuandian.top:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.213.235.144-2565
 trojan://58dcd460-65df-47b1-b062-517df30bef29@jp.liangyuandian.top:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.213.235.144-2786
 trojan://58dcd460-65df-47b1-b062-517df30bef29@sg.liangyuandian.top:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.213.235.144-2607
