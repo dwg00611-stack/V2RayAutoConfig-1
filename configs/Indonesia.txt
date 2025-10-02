@@ -104,7 +104,6 @@ ss://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@toyota-funder.info:443/?type=ws&encryp
 ss://d8b42cd5-a149-4356-9e61-30ad83662600@91.107.159.217:443/?type=tcp&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638932384805827291.ahvaz-drc-dcrabj.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638941610778731953.helsinki-drc-tusacaf.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
 ss://e277ac9b-3225-4381-a9fb-3585419f7142@o3.pictour.info:443/?type=ws&encryption=none&flow=&host=o3.pictour.info&path=%2Fcmyklws&security=tls&sni=o3.pictour.info&fp=chrome#Channel%20id%3A%20%40v2rayng_021
 ss://e3b665fd-0329-47dc-bc05-3474b14bcaf6@ipe3.alighan.ir:8443/?type=ws&encryption=none&host=s.alighan.ir&path=%2F%3Fed&security=tls&sni=ipe4.alighan.ir&alpn=http%2F1.1&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20
@@ -322,7 +321,6 @@ vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@toyota-funder.info:443/?type=ws&enc
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@91.107.159.217:443/?type=tcp&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932384805827291.ahvaz-drc-dcrabj.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610778731953.helsinki-drc-tusacaf.info:8880/?type=grpc&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
 vless://e277ac9b-3225-4381-a9fb-3585419f7142@o3.pictour.info:443/?type=ws&encryption=none&flow=&host=o3.pictour.info&path=%2Fcmyklws&security=tls&sni=o3.pictour.info&fp=chrome#Channel%20id%3A%20%40v2rayng_021
 vless://e3b665fd-0329-47dc-bc05-3474b14bcaf6@ipe3.alighan.ir:8443/?type=ws&encryption=none&host=s.alighan.ir&path=%2F%3Fed&security=tls&sni=ipe4.alighan.ir&alpn=http%2F1.1&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20
