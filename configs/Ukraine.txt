@@ -2,10 +2,10 @@ hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@185.126.255.78:50440?sni=real.g
 ss://%40Geek_Spot@176.97.210.2:37589/?type=tcp&encryption=none#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%201```
 ss://12345678-1234-1234-1234-123456789123@89.116.180.54:2096?encryption=none&security=tls&sni=sni.aizrf.com&type=ws&host=sni.aizrf.com&path=%2Fsnippets#👉🆔@v2ray_configs_pool📡🇺🇦®️Ukraine©️Kyiv🅿️ping:27.85ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+176.103.53.105-990+%7C+252.41ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6UA-195.28.182.217-8933
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-8669
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE=@195.28.182.217:51348#%F0%9F%87%BA%F0%9F%87%A6UA-195.28.182.217-8904
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%87%A6UA-5.188.6.8-8640
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@itarmy.com.ua:443/?type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&security=tls&sni=icecream.955850.xyz&alpn=h3&fp=randomized#itarmy.com.ua
 vless://%40Geek_Spot@176.97.210.2:37589/?type=tcp&encryption=none#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%201```
 vless://12345678-1234-1234-1234-123456789123@89.116.180.54:2096?encryption=none&security=tls&sni=sni.aizrf.com&type=ws&host=sni.aizrf.com&path=%2Fsnippets#👉🆔@v2ray_configs_pool📡🇺🇦®️Ukraine©️Kyiv🅿️ping:27.85ms
-vmess://ewogICAgImFkZCI6ICIxNDEuMTEuMjUyLjY0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJiN2IyMzJkMS03OWFlLTRmYjEtOGZkYi02ZjBiZGM4YTQxZWUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYjdiMjMyZDEiLAogICAgInBvcnQiOiAyMDYzMCwKICAgICJwcyI6ICLwn4e68J+HplVBLTE0MS4xMS4yNTIuNjQtNzc2NSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICIxNDEuMTEuMjUyLjY0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJiN2IyMzJkMS03OWFlLTRmYjEtOGZkYi02ZjBiZGM4YTQxZWUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYjdiMjMyZDEiLAogICAgInBvcnQiOiAyMDYzMCwKICAgICJwcyI6ICLwn4e68J+HplVBLTE0MS4xMS4yNTIuNjQtNzczNiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://eyJhZGQiOiIxNzYuOTcuMjEwLjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiQEdlZWtfU3BvdCIsIm5ldCI6InRjcCIsInBhdGgiOiIvQEdlZWtfU3BvdCIsInBvcnQiOiI0NTE0MyIsInBzIjoi8J+HuvCfh6YgVWtyYWluZSAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
