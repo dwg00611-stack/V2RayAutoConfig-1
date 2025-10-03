@@ -3357,8 +3357,6 @@ trojan://DJprIqUa4b@mashti.isvcloud2.ir:1010?security=none&headerType=&type=tcp
 trojan://DJprIqUa4b@mashti.isvcloud2.ir:1010?security=none&headerType=&type=tcp#telegram-@ISVvpn
 trojan://DJprIqUa4b@mashti.isvcloud2.ir:1010?security=none&headerType=none&type=tcp
 trojan://DJprIqUa4b@mashti.isvcloud2.ir:1010?security=none&headerType=none&type=tcp#telegram-@bored_vpn
-trojan://DailyConfigs@104.18.32.47:2087?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/@Daily_Configs,@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#t.me/entryNET/config=1844914802079939
-trojan://DailyConfigs@104.18.32.47:2087?security=tls&type=ws&sni=🔒
 trojan://Daily_Configs@104.17.91.181:2053/?type=ws&host=kanale-daily-configs.bl...&security=tls&sni=kanale-daily-configs.blackoutconnection.ir
 trojan://Daily_Configs@104.18.37.146:443/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&security=tls&sni=kanale-daily-configs.blackoutconnection.ir#%40Hope_Net-join-us-on-Telegram
 trojan://Daily_Configs@162.159.152.2:2053/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&security=tls&sni=kanale-daily-configs.blackoutconnection.ir#%40Hope_Net-join-us-on-Telegram
@@ -4803,8 +4801,6 @@ trojan://auto@104.20.21.112:443/?type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&
 trojan://auto@104.20.21.155:443/?type=ws&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev
 trojan://auto@104.20.21.162:443/?type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://auto@104.20.21.187:443/?type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev#%40Hope_Net-join-us-on-Telegram
-trojan://auto@104.20.21.190:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#t.me/entryNET/config=1844916061108416
-trojan://auto@104.20.21.190:443?security=tls&type=ws&sni=🔒
 trojan://auto@104.20.21.199:443/?type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://auto@104.20.21.205:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#t.me/entryNET/config=1844919961215481
 trojan://auto@104.20.21.205:443?security=tls&sni=🔒
@@ -4952,6 +4948,8 @@ trojan://azadnet-trojan@104.21.36.165:443/?type=tcp&security=tls&sni=🔒
 trojan://azadnet-trojan@104.21.36.165:443/?type=ws&path=%2FtrbRb6rQQHUXO1sk03%3Fed%3D2560&security=tls&sni=XN----PmCnaaC0dKn0Rb71NdA.PagES.DeV
 trojan://b09d2aaa443af97a@211.72.35.155:3389?security=tls
 trojan://b09d2aaa443af97a@211.72.35.155:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.155-2599
+trojan://b0b861c2c85346a389b9e95769c3cba4@198.41.220.16:443?security=tls&type=ws&sni=avianrecruit.com&path=/6b777a91&host=avianrecruit.com#t.me/entryNET/config=1844950349663001
+trojan://b0b861c2c85346a389b9e95769c3cba4@198.41.220.16:443?security=tls&type=ws&sni=🔒
 trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?allowInsecure=1&sni=🔒
 trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?type=ws&sni=🔒
 trojan://b17fe152-2615-4fe1-b80e-3c61b557481d@v02.gutingting.com:30051/?type=tcp&security=tls&sni=v2vn01.fuqiangren.com#%F0%9F%87%AD%F0%9F%87%B0HK-5.83.221.31-1476
@@ -7869,6 +7867,7 @@ trojan://tunnel-astrovpn_official_ee@ee-1.stunnel.cc:8441?path=🔒
 trojan://tunnel-astrovpn_official_gb@gb-1.stunnel.cc:8441?path=🔒
 trojan://tunnel-astrovpn_official_nl@nl-1.stunnel.cc:8441?path=🔒
 trojan://tunnel-astrovpn_official_pl@pl
+trojan://tunnel-astrovpn_official_pl@pl-1.stunnel.cc:8441?security=tls&alpn=http/1.1&host=pl-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#AstroVPN_Official
 trojan://tunnel-astrovpn_official_pl@pl-1.stunnel.cc:8441?security=tls&alpn=http/1.1&host=pl-1.stunnel.cc&headerType=none&type=tcp&sni=🔒
 trojan://tunnel-astrovpn_official_sg@sg-3.stunnel.cc:8441?path=🔒
 trojan://tunnel-astrovpn_official_tr@tr-1.stunnel.cc:8441?path=🔒
