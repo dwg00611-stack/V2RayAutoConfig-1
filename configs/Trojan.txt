@@ -1979,9 +1979,7 @@ trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.155:443/?type=ws&host=Bl
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.155:443/?type=ws&host=Bloom-cHh.PAGEs.DeV&security=tls&sni=🔒
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.155:443?security=tls&type=ws&sni=🔒
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.61:443/?type=tcp&security=tls
-trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.61:443?security=tls&type=ws&sni=23sPT.pAGEs.dEV&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&host=23spt.pages.dev#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.61:443?security=tls&type=ws&sni=23sPT.pAGEs.dEV&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&host=23spt.pages.dev#RELAY🚩
-trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.61:443?security=tls&type=ws&sni=🔒
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.197.231:80/?type=ws&host=aliii.ir&path=%2FkptMTT8pTmxLWsoJ%3Fed%3D2560#%40Hope_...
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.197.231:80/?type=ws&host=aliii.ir&path=🔒
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.197.231:80?security=none&type=ws&path=🔒
@@ -4972,8 +4970,6 @@ trojan://auto@172.67.174.21:443/?type=ws&host=trojanmz.pages.dev&security=tls&sn
 trojan://auto@172.67.174.252:443/?type=tcp&security=tls&sni=🔒
 trojan://auto@172.67.174.252:443/?type=ws&host=esetsecuritylicense1.vowexa5791.workers.dev&path=%2F&security=tls&sni=esetsecuritylicense1.vowexa5791.workers.dev#%40V2rayNGVPN
 trojan://auto@172.67.174.252:443/?type=ws&host=esetsecuritylicense1.vowexa5791.workers.dev&path=🔒
-trojan://auto@172.67.174.252:443?security=tls&type=ws&sni=esetsecuritylicense1.vowexa5791.workers.dev&path=%2F&host=esetsecuritylicense1.vowexa5791.workers.dev#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B18%5D
-trojan://auto@172.67.174.252:443?security=tls&type=ws&sni=🔒
 trojan://auto@172.67.193.36:8443/?type=ws&host=tg.cmliussss.us.kg&path=%2F%40Azarakhsh_Proxy%3Fed%3D2560&security=tls&sni=tg.cmliussss.us.kg&alpn=http%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
 trojan://auto@172.67.198.203:443/?type=tcp&security=tls&sni=🔒
 trojan://auto@172.67.198.203:443/?type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&sni=trojanmz.pages.dev#%40Hope_Net-join-us-on-Telegram
