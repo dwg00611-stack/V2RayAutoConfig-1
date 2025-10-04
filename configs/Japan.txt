@@ -124,6 +124,7 @@ trojan://253bc477d4e43c209f2d427272968280@160.16.236.32:443/?type=tcp&security=t
 trojan://253bc477d4e43c209f2d427272968280@160.16.236.32:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.236.32-0657
 trojan://253bc477d4e43c209f2d427272968280@160.16.236.32:449?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.236.32-0639
 trojan://253bc477d4e43c209f2d427272968280@160.16.57.238:449?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.57.238-0652
+trojan://253bc477d4e43c209f2d427272968280@160.16.63.16:443?allowInsecure=1&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:238.81ms
 trojan://253bc477d4e43c209f2d427272968280@160.16.63.16:443?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#%E6%97%A5%E6%9C%AC%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa0a.xyz%2F%E3%80%9125
 trojan://253bc477d4e43c209f2d427272968280@160.16.63.16:447/?type=tcp&security=tls&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.63.16-0574
 trojan://253bc477d4e43c209f2d427272968280@160.16.63.16:447?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.63.16-0664
