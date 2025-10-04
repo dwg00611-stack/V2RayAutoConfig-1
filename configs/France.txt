@@ -485,7 +485,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?security=&encrypti
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880/?type=grpc&encryption=none&flow=#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:83.35ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&fp=chrome&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:74.86ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:83.35ms
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?type=grpc&encryption=none&flow=#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B53%5D
 ss://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443?path=%2Fcdfighws&security=tls&encryption=none&type=ws#FR🇫🇷
 ss://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443?type=ws&encryption=none&path=%2Fcdfighws&security=tls#FR🇫🇷
 ss://e2e4de5e-bd0a-4f68-a63e-93efb5b933ad@141.227.168.52:33287?security=none&allowInsecure=0&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#FR🇫🇷
@@ -958,7 +957,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?security=&encry
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880/?type=grpc&encryption=none&flow=#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:83.35ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&fp=chrome&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:74.86ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:83.35ms
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?type=grpc&encryption=none&flow=#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B53%5D
 vless://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443?path=%2Fcdfighws&security=tls&encryption=none&type=ws#FR🇫🇷
 vless://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443?type=ws&encryption=none&path=%2Fcdfighws&security=tls#FR🇫🇷
 vless://e2e4de5e-bd0a-4f68-a63e-93efb5b933ad@141.227.168.52:33287?security=none&allowInsecure=0&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#FR🇫🇷
