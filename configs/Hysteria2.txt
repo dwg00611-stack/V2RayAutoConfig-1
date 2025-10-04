@@ -132,8 +132,6 @@ hysteria2://4e5c855b-ce85-4362-9af1-183dfe5c9257@mg1.jjzcloud.top:57238?insecure
 hysteria2://4eba7d4d-8460-4f9f-9718-9f06886b5489@hsdg.huasuan666.top:22155?sni=hsdg.huasuan666.top&insecure=1#DE
 hysteria2://4f37f7c4-9cab-413a-938e-4cd19b0f93b4@45.11.1.62:443/?mport=50000-55000&insecure=1&sni=www.microsoft.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AF%F0%9F%87%B5
 hysteria2://4f37f7c4-9cab-413a-938e-4cd19b0f93b4@45.11.1.62:443?sni=www.microsoft.com&insecure=1#JP
-hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@172.252.236.213:52368/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
-hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:50440?insecure=0&sni=real.getafreenode.sbs#_%F0%9F%87%BA%F0%9F%87%A6_%F0%9F%92%BC_github.com%2FRuk1ng001_3937653035636466
 hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@172.252.236.213:52368/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
