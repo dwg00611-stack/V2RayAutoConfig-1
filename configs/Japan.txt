@@ -84,7 +84,6 @@ trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?security=tls#%F0%9
 trojan://1b5eff5a-f36b-4149-8001-7c8c0c4ed2eb@43.206.67.76:36306?security=tls&sni=sunmoon02.abzoones.xyz#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.67.76-4805
 trojan://253bc477d4e43c209f2d427272968280@126.116.225.149:443/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-126.116.225.149-0525
 trojan://253bc477d4e43c209f2d427272968280@126.116.225.149:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-126.116.225.149-0741
-trojan://253bc477d4e43c209f2d427272968280@153.121.39.240:4234?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#%E6%97%A5%E6%9C%AC%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa0a.xyz%2F%E3%80%9119
 trojan://253bc477d4e43c209f2d427272968280@153.121.45.139:1700?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.45.139-0765
 trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:1331?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.51.29-0744
 trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:1802/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.51.29-0534
@@ -113,7 +112,6 @@ trojan://253bc477d4e43c209f2d427272968280@160.16.138.24:2283?security=tls&sni=ww
 trojan://253bc477d4e43c209f2d427272968280@160.16.144.208:1331?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@160.16.144.208:1331?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@160.16.144.208:1331?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
-trojan://253bc477d4e43c209f2d427272968280@160.16.144.208:1331?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#%E6%97%A5%E6%9C%AC%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa0a.xyz%2F%E3%80%9110
 trojan://253bc477d4e43c209f2d427272968280@160.16.144.208:1331?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 trojan://253bc477d4e43c209f2d427272968280@160.16.196.59:1802?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.196.59-0766
 trojan://253bc477d4e43c209f2d427272968280@160.16.231.103:1331/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.231.103-0320
