@@ -5,9 +5,6 @@ ss://12345678-1234-1234-1234-123456789123@188.164.158.52:2096?&security=tls&fp=c
 ss://12345678-1234-1234-1234-123456789123@188.164.158.52:2096?&security=tls&fp=chrome&sni=saas.git.cloudns.org&type=ws&headerType=none&host=saas.git.cloudns.org&path=%2Fsnippets%26freecodes%20%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%20%2F%3Fed%3D2560#_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A_1
 ss://12345678-1234-1234-1234-123456789123@188.164.159.50:2096?&security=tls&fp=chrome&sni=saas.sosocn.abrdns.com&type=ws&headerType=none&host=saas.sosocn.abrdns.com&path=%2Fsnippets#_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A%202
 ss://12345678-1234-1234-1234-123456789123@188.164.159.52:2096?&security=tls&fp=chrome&sni=saas.git.cloudns.org&type=ws&headerType=none&host=saas.git.cloudns.org&path=%2Fsnippets%26freecodes#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A%20001
-ss://3a0d14e2-02be-49ef-829f-063fd273a89f@92.223.2.119:36136?type=ws&security=none#%F0%9F%87%A6%F0%9F%87%B2%20AM%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayng3%20%5B12%5D
-ss://3a0d14e2-02be-49ef-829f-063fd273a89f@92.223.2.119:36136?type=ws&security=none#👉🆔@v2ray_configs_pool📡🇦🇲®️Armenia©️Yerevan🅿️ping:69.73ms
-ss://3a0d14e2-02be-49ef-829f-063fd273a89f@92.223.2.119:36136?type=ws&security=none#👉🆔@v2ray_configs_pool📡🇦🇲®️Armenia©️Yerevan🅿️ping:71.74ms
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.208:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegramU0001F1E8U0001F1F3#%F0%9F%87%A6%F0%9F%87%B2%20AM%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B7%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWUpkMm9TQzViMVJMS2dJdjc0eld4@2.56.204.171:8443#AM%F0%9F%87%A6%F0%9F%87%B2+%7C+2.56.204.171-8443+%7C+206.94ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@146.185.248.22:989#%F0%9F%87%A6%F0%9F%87%B2AM-146.185.248.22-9261
@@ -18,7 +15,4 @@ vless://12345678-1234-1234-1234-123456789123@188.164.158.52:2096?&security=tls&f
 vless://12345678-1234-1234-1234-123456789123@188.164.158.52:2096?&security=tls&fp=chrome&sni=saas.git.cloudns.org&type=ws&headerType=none&host=saas.git.cloudns.org&path=%2Fsnippets%26freecodes%20%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%20%2F%3Fed%3D2560#_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A_1
 vless://12345678-1234-1234-1234-123456789123@188.164.159.50:2096?&security=tls&fp=chrome&sni=saas.sosocn.abrdns.com&type=ws&headerType=none&host=saas.sosocn.abrdns.com&path=%2Fsnippets#_%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A%202
 vless://12345678-1234-1234-1234-123456789123@188.164.159.52:2096?&security=tls&fp=chrome&sni=saas.git.cloudns.org&type=ws&headerType=none&host=saas.git.cloudns.org&path=%2Fsnippets%26freecodes#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A%20001
-vless://3a0d14e2-02be-49ef-829f-063fd273a89f@92.223.2.119:36136?type=ws&security=none#%F0%9F%87%A6%F0%9F%87%B2%20AM%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayng3%20%5B12%5D
-vless://3a0d14e2-02be-49ef-829f-063fd273a89f@92.223.2.119:36136?type=ws&security=none#👉🆔@v2ray_configs_pool📡🇦🇲®️Armenia©️Yerevan🅿️ping:69.73ms
-vless://3a0d14e2-02be-49ef-829f-063fd273a89f@92.223.2.119:36136?type=ws&security=none#👉🆔@v2ray_configs_pool📡🇦🇲®️Armenia©️Yerevan🅿️ping:71.74ms
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.208:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegramU0001F1E8U0001F1F3#%F0%9F%87%A6%F0%9F%87%B2%20AM%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B7%5D
