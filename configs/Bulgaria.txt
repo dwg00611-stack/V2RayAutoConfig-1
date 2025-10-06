@@ -55,3 +55,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#BG🇧🇬
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=none&encryption=none&type=grpc#BG🇧🇬
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3ABG
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS/neWKoOWIqeS6muOAkOacuuWcuuaOqOiNkO+8mmh0dHBzOi8vYTBhLnh5ei/jgJExNCIsDQogICJhZGQiOiAiMTg1LjI1MC4zOC42MyIsDQogICJwb3J0IjogIjU1MCIsDQogICJpZCI6ICIwYzZhYmI2Ni02NjBlLTRkYjktOWU2NC0zYTI2MjU2MzkyNzgiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
