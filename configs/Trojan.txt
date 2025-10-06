@@ -1877,8 +1877,6 @@ trojan://6e3b4240-38f9-4321-9b3c-bc669a34b848@141.94.76.177:443?security=tls
 trojan://6e3b4240-38f9-4321-9b3c-bc669a34b848@141.94.76.177:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-141.94.76.177-2860
 trojan://6e5925c0-f39e-4449-93e9-2e2e9772b17b@104.21.21.72:443?security=tls&sni=🔒
 trojan://6ea0337d-ee2e-b495-0c0e-48db8524b39c@awsjp.blowm1k.club:443?type=tcp&sni=🔒
-trojan://6et7U7udLe@qige.zaide.tech:22846?security=tls&sni=qige.zaide.tech&type=tcp&headerType=none&path=/#🇯🇵[openproxylist.com]
-trojan://6et7U7udLe@qige.zaide.tech:22846?security=tls&sni=🔒
 trojan://6f0a9d0fa39d65fa@5.44.249.43:3389?security=tls
 trojan://6f0a9d0fa39d65fa@5.44.249.43:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.43-6396
 trojan://6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4@103.173.155.72:28443?security=tls
@@ -7492,6 +7490,7 @@ trojan://installshield@38.180.249.177:8443?security=tls&allowInsecure=1&type=tcp
 trojan://installshield@38.180.249.177:8443?security=tls&sni=38.180.249.177#%F0%9F%87%B8%F0%9F%87%ACSG-38.180.249.177-1114
 trojan://installshield@38.180.249.177:8443?security=tls&sni=🔒
 trojan://installshield@38.180.249.177:8443?sni=38.180.249.177#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD10
+trojan://installshield@38.180.249.177:8443?sni=38.180.249.177#🇸🇬[openproxylist.com]
 trojan://installshield@38.180.249.177:8443?sni=38.180.249.177#🔥Join+Telegram:@Farah_VPN🟣
 trojan://installshield@38.180.249.177:8443?sni=🔒
 trojan://iyinglong@13.213.69.245:443?security=tls
