@@ -22,6 +22,7 @@ ss://6c45503e-f08e-4b72-e04a-89341ba90a6b@62.60.156.107:2083?encryption=none&sec
 ss://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.60.233.30:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tr.eu-ffast.com&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&spx=%2F%40vpnserverrr&type=tcp&headerType=none#TG%3A%40v2ray_sub
 ss://859e3599-42c2-4e7e-8f8e-f96b764db26f@152.228.242.123:27236?mode=gun&security=none&encryption=none&type=grpc&serviceName=%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-bia-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E#TG:@v2ray_sub
 ss://895a39fb-6c32-49af-b04d-efecc1f6c5fb@206.189.135.13:41856?encryption=none&security=none&type=tcp&headerType=none#TG:@v2ray_sub
+ss://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?sni=frAgteSt.JaHANGiRKh.eU.orG&fp=chrome&host=frAgteSt.JaHANGiRKh.eU.orG&type=ws&security=tls&path=%2F&encryption=none#TG:shadoowvpnn🇸🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#TG:@v2ray_sub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Wmg4RW91aElMWjRKWkNRZGFYczBj@195.96.156.9:14847#TG:@v2ray_sub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#TG:@v2ray_sub
@@ -42,6 +43,8 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638929114454179379.warsaw-drc-tusabq.i
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930316257411243.neyshabur-drc-tusabt.info:8880?mode=gun&security=&encryption=none&type=grpc#TG:@v2ray_sub
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930359207602168.dublin-drc-dcrabj.info:8880?mode=gun&security=&encryption=none&type=grpc#TG:@v2ray_sub
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053025132.tabriz-drc-tusabt.info:8880?mode=gun&security=&encryption=none&type=grpc#TG:@v2ray_sub
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127439.yasuj-prx-dnraacp.info:8880?type=grpc&security=&encryption=none#TG:shadoowvpnn🇹🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441853305.malayer-drc-tusacaf.info:8880?type=grpc&security=&encryption=none#TG:shadoowvpnn🇱🇹
 ss://e3847ec6-b2fc-4eb2-b919-174d986f882c@poland20.clearorbitllc.com:443?security=reality&encryption=none&pbk=oNYCpjXjcYAV9qSWBt95N9dDUPhc_QnauJZ3kSJVeSQ&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=poland20.clearorbitllc.com&sid=2a22#TG:@v2ray_sub
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.109:8880?mode=gun&security=&encryption=none&type=grpc#TG:@v2ray_sub
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.109:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#TG:@v2ray_sub
@@ -89,6 +92,7 @@ vless://6c45503e-f08e-4b72-e04a-89341ba90a6b@62.60.156.107:2083?encryption=none&
 vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.60.233.30:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tr.eu-ffast.com&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&spx=%2F%40vpnserverrr&type=tcp&headerType=none#TG%3A%40v2ray_sub
 vless://859e3599-42c2-4e7e-8f8e-f96b764db26f@152.228.242.123:27236?mode=gun&security=none&encryption=none&type=grpc&serviceName=%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-bia-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E#TG:@v2ray_sub
 vless://895a39fb-6c32-49af-b04d-efecc1f6c5fb@206.189.135.13:41856?encryption=none&security=none&type=tcp&headerType=none#TG:@v2ray_sub
+vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?sni=frAgteSt.JaHANGiRKh.eU.orG&fp=chrome&host=frAgteSt.JaHANGiRKh.eU.orG&type=ws&security=tls&path=%2F&encryption=none#TG:shadoowvpnn🇸🇪
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#TG:@v2ray_sub
 vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@kifpool.me:443?encryption=none&security=tls&sni=nkang2replace.airlineshoma.com&fp=chrome&type=ws&host=nkang2replace.airlineshoma.com&path=%2F#TG:@v2ray_sub
 vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@openai.com:443?encryption=none&security=tls&sni=nkang2replace.airlineshoma.com&fp=chrome&type=ws&host=nkang2replace.airlineshoma.com&path=%2F#TG:@v2ray_sub
@@ -103,6 +107,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929114454179379.warsaw-drc-tusab
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930316257411243.neyshabur-drc-tusabt.info:8880?mode=gun&security=&encryption=none&type=grpc#TG:@v2ray_sub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930359207602168.dublin-drc-dcrabj.info:8880?mode=gun&security=&encryption=none&type=grpc#TG:@v2ray_sub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053025132.tabriz-drc-tusabt.info:8880?mode=gun&security=&encryption=none&type=grpc#TG:@v2ray_sub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127439.yasuj-prx-dnraacp.info:8880?type=grpc&security=&encryption=none#TG:shadoowvpnn🇹🇷
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441853305.malayer-drc-tusacaf.info:8880?type=grpc&security=&encryption=none#TG:shadoowvpnn🇱🇹
 vless://e3847ec6-b2fc-4eb2-b919-174d986f882c@poland20.clearorbitllc.com:443?security=reality&encryption=none&pbk=oNYCpjXjcYAV9qSWBt95N9dDUPhc_QnauJZ3kSJVeSQ&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=poland20.clearorbitllc.com&sid=2a22#TG:@v2ray_sub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.109:8880?mode=gun&security=&encryption=none&type=grpc#TG:@v2ray_sub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.109:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#TG:@v2ray_sub
