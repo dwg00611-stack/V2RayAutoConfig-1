@@ -38,6 +38,7 @@ ss://f64bdc57-0f54-4705-bf75-cfd646d98c06@125.130.15.106:20280?&security=tls&fp=
 ss://f64bdc57-0f54-4705-bf75-cfd646d98c06@14.35.29.177:15211?&security=tls&fp=chrome&sni=01.91md.fun&type=ws&headerType=none&host=01.91md.fun&path=%2F%3Fed%3D2048#_%E9%9F%A9%E5%9B%BD%2010
 ss://f64bdc57-0f54-4705-bf75-cfd646d98c06@14.35.29.177:15903?&security=tls&fp=chrome&sni=01.91md.fun&type=ws&headerType=none&host=01.91md.fun&path=%2F%3Fed%3D2048#_%E9%9F%A9%E5%9B%BD%205
 ss://f64bdc57-0f54-4705-bf75-cfd646d98c06@140.238.5.75:13644?&security=tls&fp=chrome&sni=01.91md.fun&type=ws&headerType=none&host=01.91md.fun&path=%2F%3Fed%3D2048#_%E9%9F%A9%E5%9B%BD%207
+trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@ipv4.ip.sb:443?allowInsecure=0&sni=nm.ylka.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD
 trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@138.2.115.240:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-138.2.115.240-2864
 trojan://7118b5f4-0ea4-4c11-be7f-11471cb91e4a@144.24.72.126:443?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.72.126-3080
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443/?type=tcp&security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-203.210.16.78-2381
