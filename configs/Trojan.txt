@@ -979,6 +979,7 @@ trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:1572?sni=www.nintendogam
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:1572?sni=www.nintendogames.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2002
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:1572?sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:1801?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:1801?allowInsecure=0&sni=www.nintendogames.net#%E6%B1%9F%E8%8B%8F%E7%9C%81%E7%9B%90%E5%9F%8E%E5%B8%82+%E7%A7%BB%E5%8A%A8
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:1801?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20%E6%B1%9F%E8%8B%8F%E7%9C%81%E7%9B%90%E5%9F%8E%E5%B8%82%20%E7%A7%BB%E5%8A%A8
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:1801?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:1801?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
@@ -1041,6 +1042,7 @@ trojan://253bc477d4e43c209f2d427272968280@58.152.25.205:443?sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@58.152.25.23:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.25.23-0539
 trojan://253bc477d4e43c209f2d427272968280@58.152.25.23:443?security=tls&sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@58.152.25.23:443?sni=www.nintendogames.net&path=%2F#RELAY🚩
+trojan://253bc477d4e43c209f2d427272968280@58.152.25.23:443?sni=www.nintendogames.net&path=%2f#🔥Join+Telegram:@Farah_VPN🟣
 trojan://253bc477d4e43c209f2d427272968280@60.83.190.248:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40stairnode
 trojan://253bc477d4e43c209f2d427272968280@60.83.190.248:443?allowInsecure=0&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://253bc477d4e43c209f2d427272968280@60.83.190.248:443?allowInsecure=0&sni=🔒
@@ -2809,7 +2811,6 @@ trojan://9ZD4MDOq9g@www.zula.ir:80?path=🔒
 trojan://9a27800ca7b52ee0@103.172.116.113:3389?security=tls&allowInsecure=1&type=tcp
 trojan://9a4bc15d-a7d4-4181-9485-405629c36894@185.146.173.115:443/?type=ws&host=king-ae1.pages.dev&path=%2F%40Telegram%40Linkvws%3Fed%3D2560&security=tls&sni=king-ae1.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://9aa6b5ad-c0fc-47f4-a837-f72179d7b662@168.119.64.242:443?security=tls&allowInsecure=1&type=tcp
-trojan://9ba843b2-3e77-488b-b468-d934c5ef5f76@172.67.168.193:443?path=%2FFree-VPN-Geo-Project%2F129.151.128.105-16731&security=tls&host=gamang.gpj2.dpdns.org&type=ws&sni=gamang.gpj2.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
 trojan://9bb27128-e6d2-4cac-bbd3-beb46c4417f8@hk03.trojanyyds.xyz:443?security=tls&type=tcp
 trojan://9bb27128-e6d2-4cac-bbd3-beb46c4417f8@hk04.trojanyyds.xyz:443?security=tls&type=tcp
 trojan://9bb27128-e6d2-4cac-bbd3-beb46c4417f8@my01.trojanyyds.xyz:443?security=tls&type=tcp
@@ -5855,6 +5856,7 @@ trojan://bc953cb6-7112-4d3c-bbf4-eaf8a0d004cb@172.66.44.58:443/?type=tcp&securit
 trojan://bc953cb6-7112-4d3c-bbf4-eaf8a0d004cb@172.66.44.58:443/?type=ws&host=sflslf0flk0sfk0sf.pages.dev&path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&sni=sflslf0flk0sfk0sf.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://bcaaabc-baac-acba-dabc-cacbbcabcaab@127.0.0.1:8080?security=tls&type=tcp
 trojan://bcaaabc-baac-acba-dabc-cacbbcabcaab@127.0.0.1:8080?security=tls&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
+trojan://bcaaabc-baac-acba-dabc-cacbbcabcaab@127.0.0.1:8080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Wed-08-Oct-2025
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
