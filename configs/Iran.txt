@@ -135,6 +135,7 @@ ss://43bbc466-f4e8-48ea-936b-d992092eec2a@51.75.185.183:30174?mode=gun&security=
 ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@91.99.217.4:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@IRAN_V2RAY1
 ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@IRAN_V2RAY1
 ss://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
+ss://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:96.66ms
 ss://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?type=tcp&encryption=none#IR🇮🇷
 ss://45176f6e-f380-413e-b996-a7acfd754541@iranbaxvpn02.v2pay.cfd:2096?encryption=none&security=tls&sni=free02.iranbax.com&fp=ios&type=grpc&serviceName=%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn&mode=gun#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40iranbaxvpn%20%5B9%5D
 ss://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=none&encryption=none&headerType=none&type=tcp#Irancell--@IRAN_V2RAY1
@@ -579,7 +580,6 @@ ss://f5f2458c-5fcb-4820-82c2-2997492c54d5@meli1.dashvili.ir:80?encryption=none&s
 ss://f65e636d-c532-4e6c-b428-015402fd276c@m22a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@IRAN_V2RAY1
 ss://f716fa40-e997-42d8-b93c-7122c63cc122@osi1.speedx3.info:8880?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#All-@IRAN_V2RAY1
 ss://f894d5ed-530d-4f9f-ab7d-468bf8ac5dda@141.227.170.186:34024?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All--@IRAN_V2RAY1
-ss://f9a8a2ae-6daa-4437-a383-db49833992d4@8.47.69.4:8080?path=/&security=none&encryption=none&host=ewedwdewed.farcadezero.ir&type=ws#@UCIRANIR
 ss://f9f1ed42-9943-4121-9408-8fbe766343ae@m5a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#All-@IRAN_V2RAY1
 ss://fa382bb2-67e2-e3be-5953-60784dc2a5db@i.ownlink.pro:28570?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40megavpn_link%20%5B11%5D
 ss://fbdeee96-6152-42ba-a83c-db80d8ea2651@45.159.148.139:8080?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
@@ -715,6 +715,7 @@ vless://43bbc466-f4e8-48ea-936b-d992092eec2a@51.75.185.183:30174?mode=gun&securi
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@91.99.217.4:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@IRAN_V2RAY1
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@IRAN_V2RAY1
 vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
+vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:96.66ms
 vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?type=tcp&encryption=none#IR🇮🇷
 vless://45176f6e-f380-413e-b996-a7acfd754541@iranbaxvpn02.v2pay.cfd:2096?encryption=none&security=tls&sni=free02.iranbax.com&fp=ios&type=grpc&serviceName=%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn&mode=gun#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40iranbaxvpn%20%5B9%5D
 vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=none&encryption=none&headerType=none&type=tcp#Irancell--@IRAN_V2RAY1
@@ -1076,7 +1077,6 @@ vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@meli1.dashvili.ir:80?encryption=non
 vless://f65e636d-c532-4e6c-b428-015402fd276c@m22a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@IRAN_V2RAY1
 vless://f716fa40-e997-42d8-b93c-7122c63cc122@osi1.speedx3.info:8880?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#All-@IRAN_V2RAY1
 vless://f894d5ed-530d-4f9f-ab7d-468bf8ac5dda@141.227.170.186:34024?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All--@IRAN_V2RAY1
-vless://f9a8a2ae-6daa-4437-a383-db49833992d4@8.47.69.4:8080?path=/&security=none&encryption=none&host=ewedwdewed.farcadezero.ir&type=ws#@UCIRANIR
 vless://f9f1ed42-9943-4121-9408-8fbe766343ae@m5a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#All-@IRAN_V2RAY1
 vless://fa382bb2-67e2-e3be-5953-60784dc2a5db@i.ownlink.pro:28570?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40megavpn_link%20%5B11%5D
 vless://fbdeee96-6152-42ba-a83c-db80d8ea2651@45.159.148.139:8080?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
