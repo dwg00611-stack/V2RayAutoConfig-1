@@ -392,6 +392,7 @@ ss://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:7601?security=reality&e
 ss://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:7601?security=reality&encryption=none&pbk=d0MTB2pELj6kUMwYkDZCyf65mA9TbEa45bNJIqgRHTU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9f54d072d0c27dc6#All-@IRAN_V2RAY1
 ss://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:8444?security=tls&encryption=none&headerType=none&type=tcp&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
 ss://d115adcd-1b1f-4cf4-b6a4-b9696434967a@ir2.fastnode0.com:2087/?type=ws&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B9%5D
+ss://d115adcd-1b1f-4cf4-b6a4-b9696434967a@ir2.fastnode0.com:2087?security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B8%5D
 ss://d115adcd-1b1f-4cf4-b6a4-b9696434967a@ir2.fastnode0.com:2087?security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B9%5D
 ss://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?path=/&security=none&encryption=none&type=ws#All-@IRAN_V2RAY1
 ss://d2d42f0d-5090-4901-bb7d-8ce85cfb8142@192.142.53.38:16529?security=none&encryption=none&headerType=none&type=tcp#WiFi-@IRAN_V2RAY1
@@ -541,6 +542,7 @@ ss://f1652ca5-c3fc-4ec6-83af-2f85579da0ed@85.133.204.8:51011?security=none&encry
 ss://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80?path=/&security=none&encryption=none&type=ws#@IRAN_V2RAY1
 ss://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80?path=/&security=none&encryption=none&type=ws#All-@IRAN_V2RAY1
 ss://f254786d-9a23-4bd9-a571-64a4f7e96112@ir2.fastnode0.com:2087?security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B10%5D
+ss://f254786d-9a23-4bd9-a571-64a4f7e96112@ir2.fastnode0.com:2087?security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B9%5D
 ss://f282b878-8711-45a1-8c69-5564172123c1@104.21.21.179:443?path=/aioproxybot/146.190.192.43-80&security=tls&encryption=none&host=aio.nolimit.dpdns.org&fp=chrome&type=ws&sni=aio.nolimit.dpdns.org#@IRAN_V2RAY1
 ss://f282b878-8711-45a1-8c69-5564172123c1@104.21.21.179:443?path=/aioproxybot/146.190.192.43-80&security=tls&encryption=none&host=aio.nolimit.dpdns.org&fp=chrome&type=ws&sni=aio.nolimit.dpdns.org#Allـ@Iran_v2ray1
 ss://f3528ca9-bd6e-4e0e-c790-d85e75d3ba57@www.speedtest.net:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#@IRAN_V2RAY1
@@ -872,6 +874,7 @@ vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:7601?security=realit
 vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:7601?security=reality&encryption=none&pbk=d0MTB2pELj6kUMwYkDZCyf65mA9TbEa45bNJIqgRHTU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9f54d072d0c27dc6#All-@IRAN_V2RAY1
 vless://d09c7283-6a69-4c8e-b633-e3927166e07f@65.109.217.125:8444?security=tls&encryption=none&headerType=none&type=tcp&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
 vless://d115adcd-1b1f-4cf4-b6a4-b9696434967a@ir2.fastnode0.com:2087/?type=ws&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B9%5D
+vless://d115adcd-1b1f-4cf4-b6a4-b9696434967a@ir2.fastnode0.com:2087?security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B8%5D
 vless://d115adcd-1b1f-4cf4-b6a4-b9696434967a@ir2.fastnode0.com:2087?security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B9%5D
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?path=/&security=none&encryption=none&type=ws#All-@IRAN_V2RAY1
 vless://d2d42f0d-5090-4901-bb7d-8ce85cfb8142@192.142.53.38:16529?security=none&encryption=none&headerType=none&type=tcp#WiFi-@IRAN_V2RAY1
@@ -1021,6 +1024,7 @@ vless://f1652ca5-c3fc-4ec6-83af-2f85579da0ed@85.133.204.8:51011?security=none&en
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80?path=/&security=none&encryption=none&type=ws#@IRAN_V2RAY1
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80?path=/&security=none&encryption=none&type=ws#All-@IRAN_V2RAY1
 vless://f254786d-9a23-4bd9-a571-64a4f7e96112@ir2.fastnode0.com:2087?security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B10%5D
+vless://f254786d-9a23-4bd9-a571-64a4f7e96112@ir2.fastnode0.com:2087?security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B9%5D
 vless://f282b878-8711-45a1-8c69-5564172123c1@104.21.21.179:443?path=/aioproxybot/146.190.192.43-80&security=tls&encryption=none&host=aio.nolimit.dpdns.org&fp=chrome&type=ws&sni=aio.nolimit.dpdns.org#@IRAN_V2RAY1
 vless://f282b878-8711-45a1-8c69-5564172123c1@104.21.21.179:443?path=/aioproxybot/146.190.192.43-80&security=tls&encryption=none&host=aio.nolimit.dpdns.org&fp=chrome&type=ws&sni=aio.nolimit.dpdns.org#Allـ@Iran_v2ray1
 vless://f3528ca9-bd6e-4e0e-c790-d85e75d3ba57@www.speedtest.net:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#@IRAN_V2RAY1
