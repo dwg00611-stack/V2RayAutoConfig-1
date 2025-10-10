@@ -3,6 +3,7 @@ hysteria2://2b67ONZROv%2BfRVMxB94BSw%3D%3D@5.231.70.79:443?sni=bing.com&insecure
 hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?sni=de.eyucdn.xyz&insecure=1#DE
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@83.147.17.147:22156?insecure=1&sni=hsyg.huasuan666.top#%F0%9F%87%AC%F0%9F%87%A7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8B%B1%E5%9B%BD%2002
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsdg.huasuan666.top:22155?sni=hsdg.huasuan666.top&insecure=1#DE
+hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@77.90.41.197:35000?sni=jnir.pichondan.com&insecure=1&obfs=salamander#DE
 hysteria2://682c7978-e3eb-44e0-924c-607144495681@fra-nb-01.linlujs.pw:24568?insecure=0#DE
 hysteria2://70197404-7b40-45e4-bb9c-8bc8995012ae@fra-nb-01.linlujs.pw:24568?insecure=0#DE-telegram-%40ISVvpn%20%20%F0%9F%8C%90%20%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86%3A...
 hysteria2://70197404-7b40-45e4-bb9c-8bc8995012ae@fra-nb-01.linlujs.pw:24568?security=tls&insecure=0#DE-telegram-@ISVvpn
@@ -396,6 +397,7 @@ trojan://telegram-id-directvpn@18.196.127.24:22222?security=tls&sni=trj.rollingn
 trojan://telegram-id-directvpn@18.196.127.24:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-18.196.127.24-8235
 trojan://telegram-id-directvpn@35.156.35.238:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-35.156.35.238-8014
 trojan://telegram-id-directvpn@35.156.35.238:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-35.156.35.238-8016
+trojan://telegram-id-directvpn@52.57.190.197:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt
 trojan://telegram-id-privatevpns@18.184.9.101:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-18.184.9.101-8237
 trojan://telegram-id-privatevpns@3.120.187.229:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.120.187.229-8048
 trojan://telegram-id-privatevpns@3.120.187.229:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.120.187.229-8050
