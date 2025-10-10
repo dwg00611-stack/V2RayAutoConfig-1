@@ -5,6 +5,8 @@ ss://34393e91-834d-4a3d-a901-bbfde643c4e0@206.189.83.23:25288/?type=tcp&encrypti
 ss://34393e91-834d-4a3d-a901-bbfde643c4e0@206.189.83.23:25288?security=reality&encryption=none&pbk=kGb4d8KXEtQ3ayLLBMs5N2dz5__9aH7wdk0QEwl6f2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.cdn-apple.com#%3E%3E%40configV2rayNG%3A%3ASG
 ss://34393e91-834d-4a3d-a901-bbfde643c4e0@206.189.83.23:25288?security=reality&encryption=none&pbk=kGb4d8KXEtQ3ayLLBMs5N2dz5__9aH7wdk0QEwl6f2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.cdn-apple.com#REALITY|SG🇸🇬
 ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
+ss://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh24v3.hiddendom.shop&alpn=h2#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:26.38ms
+ss://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh24v3.hiddendom.shop&alpn=h2#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:27.44ms
 ss://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.16:443/?type=ws&encryption=none&host=sgg1.azurewebsites.net&path=%2F&security=tls&sni=sgg1.azurewebsites.net#%E6%96%B0%E5%8A%A0%E5%9D%A1_Telegram%40kxswa
 ss://6f99505678024a1dbff761678e626c3fOg==@52.187.36.104:443#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+52.187.36.104-443+%7C+209.54ms
 ss://76bfc324-e228-47e0-8871-f974fac80390@news.zoom.us:2096?path=%2F&security=tls&encryption=none&host=ip.onhit.xyz&fp=chrome&type=ws&sni=ip.onhit.xyz#%3E%3E%40configV2rayNG%3A%3ASG
@@ -124,15 +126,18 @@ trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=1
 trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?security=tls&sni=getandroid.com#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.197.4-8488
 trojan://192a5fc9-2baa-4043-8655-d840d370cb86@jp.liangyuandian.top:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.213.235.144-6341
 trojan://1b26d982-fd68-44f4-bf6d-22fe17a9249a@sg006.421421.xyz:20230?security=tls&sni=www.alibaba.com&type=ws&path=/&Host=www.alibaba.com#%F0%9F%87%B8%F0%9F%87%ACSG-52.77.226.105-0579
+trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:5041?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian%202
 trojan://253bc477d4e43c209f2d427272968280@153.121.70.134:5041?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
 trojan://253bc477d4e43c209f2d427272968280@153.121.70.134:5041?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@153.121.70.134:5041?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@153.121.70.134:5041?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
+trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:5328?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian%202
 trojan://253bc477d4e43c209f2d427272968280@160.16.81.84:1536?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
 trojan://253bc477d4e43c209f2d427272968280@160.16.81.84:1536?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@160.16.81.84:1536?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@160.16.81.84:1536?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://253bc477d4e43c209f2d427272968280@38.180.249.152:443/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG-38.180.249.152-0996
+trojan://253bc477d4e43c209f2d427272968280@38.180.249.152:443?allowInsecure=0&sni=www.nintendogames.net#SG-38.180.249.152-0267
 trojan://253bc477d4e43c209f2d427272968280@38.180.249.152:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG-38.180.249.152-0239
 trojan://58dcd460-65df-47b1-b062-517df30bef29@usa.liangyuandian.top:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.213.235.144-3044
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
@@ -168,6 +173,7 @@ vless://34393e91-834d-4a3d-a901-bbfde643c4e0@206.189.83.23:25288/?type=tcp&encry
 vless://34393e91-834d-4a3d-a901-bbfde643c4e0@206.189.83.23:25288?security=reality&encryption=none&pbk=kGb4d8KXEtQ3ayLLBMs5N2dz5__9aH7wdk0QEwl6f2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.cdn-apple.com#%3E%3E%40configV2rayNG%3A%3ASG
 vless://34393e91-834d-4a3d-a901-bbfde643c4e0@206.189.83.23:25288?security=reality&encryption=none&pbk=kGb4d8KXEtQ3ayLLBMs5N2dz5__9aH7wdk0QEwl6f2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.cdn-apple.com#REALITY|SG🇸🇬
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh24v3.hiddendom.shop&alpn=h2#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:27.44ms
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.16:443/?type=ws&encryption=none&host=sgg1.azurewebsites.net&path=%2F&security=tls&sni=sgg1.azurewebsites.net#%E6%96%B0%E5%8A%A0%E5%9D%A1_Telegram%40kxswa
 vless://76bfc324-e228-47e0-8871-f974fac80390@news.zoom.us:2096?path=%2F&security=tls&encryption=none&host=ip.onhit.xyz&fp=chrome&type=ws&sni=ip.onhit.xyz#%3E%3E%40configV2rayNG%3A%3ASG
 vless://89a62b16-a3c3-4ad7-be18-6f0266f7a2c5@sg2.gzcloud.shop:11451?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=buylite.music.apple.com&fp=edge&security=reality&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735#REALITY|SG🇸🇬

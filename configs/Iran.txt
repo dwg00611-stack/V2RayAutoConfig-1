@@ -93,7 +93,6 @@ ss://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80/?type=tcp&encryption
 ss://33e19f0b-1c7d-495d-9c50-81eec51d5195@91.107.131.148:51476?security=none&encryption=none&headerType=none&type=tcp#All-@IRAN_V2RAY1
 ss://3460022e-866b-46ac-8679-ae2796b4e30a@151.101.3.8:80?path=%2Fdownload%3Fed%3D2048&security=none&encryption=none&host=barghchi.com&type=ws#IR🇮🇷
 ss://36c540df-eed6-4d7a-994c-dd766a86db30@ir.any-server.cfd:24041?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxy_kuto%20%5B1%5D
-ss://37aec4fa-81b0-469b-b3b3-bad6d92ea922@91.236.168.126:5151?security=&encryption=none&host=zula.ir&headerType=http&type=tcp¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:127.08ms
 ss://3824fba1-352a-44f6-89c3-66bacce658eb@185.143.235.201:443/?type=ws&encryption=none&host=s2.www.getasa.ir&path=%2FR8vYH236j2wZpwD34O%3Fed2048&security=tls&sni=mydigipay.com&alpn=http%2F1.1&fp=randomized#%40v2rayfree_iran%F0%9F%87%AE%F0%9F%87%B7
 ss://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@172.67.74.133:443?path=/sg10/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#@IRAN_V2RAY1
 ss://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?path=/hxwdnrws#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&type=ws#@IRAN_V2RAY1
@@ -134,6 +133,8 @@ ss://43bbc466-f4e8-48ea-936b-d992092eec2a@51.75.185.183:30174?mode=gun&security=
 ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@91.99.217.4:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@IRAN_V2RAY1
 ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@IRAN_V2RAY1
 ss://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
+ss://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:106.58ms
+ss://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:99.16ms
 ss://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?type=tcp&encryption=none#IR🇮🇷
 ss://45176f6e-f380-413e-b996-a7acfd754541@iranbaxvpn02.v2pay.cfd:2096?encryption=none&security=tls&sni=free02.iranbax.com&fp=ios&type=grpc&serviceName=%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn&mode=gun#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40iranbaxvpn%20%5B9%5D
 ss://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=none&encryption=none&headerType=none&type=tcp#Irancell--@IRAN_V2RAY1
@@ -649,7 +650,6 @@ vless://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80/?type=tcp&encrypt
 vless://33e19f0b-1c7d-495d-9c50-81eec51d5195@91.107.131.148:51476?security=none&encryption=none&headerType=none&type=tcp#All-@IRAN_V2RAY1
 vless://3460022e-866b-46ac-8679-ae2796b4e30a@151.101.3.8:80?path=%2Fdownload%3Fed%3D2048&security=none&encryption=none&host=barghchi.com&type=ws#IR🇮🇷
 vless://36c540df-eed6-4d7a-994c-dd766a86db30@ir.any-server.cfd:24041?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxy_kuto%20%5B1%5D
-vless://37aec4fa-81b0-469b-b3b3-bad6d92ea922@91.236.168.126:5151?security=&encryption=none&host=zula.ir&headerType=http&type=tcp¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:127.08ms
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@185.143.235.201:443/?type=ws&encryption=none&host=s2.www.getasa.ir&path=%2FR8vYH236j2wZpwD34O%3Fed2048&security=tls&sni=mydigipay.com&alpn=http%2F1.1&fp=randomized#%40v2rayfree_iran%F0%9F%87%AE%F0%9F%87%B7
 vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@172.67.74.133:443?path=/sg10/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#@IRAN_V2RAY1
 vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?path=/hxwdnrws#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&type=ws#@IRAN_V2RAY1
@@ -690,6 +690,8 @@ vless://43bbc466-f4e8-48ea-936b-d992092eec2a@51.75.185.183:30174?mode=gun&securi
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@91.99.217.4:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@IRAN_V2RAY1
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@IRAN_V2RAY1
 vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
+vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:106.58ms
+vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:99.16ms
 vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?type=tcp&encryption=none#IR🇮🇷
 vless://45176f6e-f380-413e-b996-a7acfd754541@iranbaxvpn02.v2pay.cfd:2096?encryption=none&security=tls&sni=free02.iranbax.com&fp=ios&type=grpc&serviceName=%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn&mode=gun#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40iranbaxvpn%20%5B9%5D
 vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=none&encryption=none&headerType=none&type=tcp#Irancell--@IRAN_V2RAY1
