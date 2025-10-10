@@ -84,7 +84,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprc2c5MjlCV2YxSzIyMGRH@azjnac1.uksouth.clouda
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpySjBnbEt5RWVwM0RxWFd2YXlYMWEx@89.185.84.185:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+89.185.84.185-443+%7C+163.63ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M3@141.98.101.178:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+141.98.101.178-443+%7C+152.11ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%F0%9F%87%AC%F0%9F%87%A7GB-141.98.101.178-0225
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%F0%9F%87%AC%F0%9F%87%A7GB-141.98.101.178-0240
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+141.98.101.178-443+%7C+151.05ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+141.98.101.178-443+%7C+151.32ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#GB%F0%9F%87%AC%F0%9F%87%A7+%7C+141.98.101.178-443+%7C+154.51ms
@@ -230,7 +229,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316586254.hamedan-drc-tusaas.
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316592562.hamedan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AGB
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316594418.hamedan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AGB
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595016.hamedan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AGB
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595016.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B15%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595016.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#GB🇬🇧
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595617.hamedan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AGB
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316597416.hamedan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AGB
@@ -374,7 +372,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316586254.hamedan-drc-tusa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316592562.hamedan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AGB
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316594418.hamedan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AGB
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595016.hamedan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AGB
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595016.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B15%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595016.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#GB🇬🇧
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316595617.hamedan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AGB
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316597416.hamedan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AGB
