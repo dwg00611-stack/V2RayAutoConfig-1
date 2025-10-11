@@ -794,6 +794,7 @@ trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:1572?sni=www.nintendogam
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:1572?sni=🔒
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:3271?security=tls&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3CN-36.156.102.84-0664
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:3271?security=tls&sni=🔒
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:6752?allowInsecure=1&sni=www.nintendogames.net#%E6%B1%9F%E8%8B%8F%E7%9C%81%E7%9B%90%E5%9F%8E%E5%B8%82+%E7%A7%BB%E5%8A%A8
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:6752?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20%E6%B1%9F%E8%8B%8F%E7%9C%81%E7%9B%90%E5%9F%8E%E5%B8%82%20%E7%A7%BB%E5%8A%A8
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:6752?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:6752?allowInsecure=1&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
@@ -9063,7 +9064,6 @@ trojan://wb6368@92.243.75.49:2087/?type=ws&host=hsdgbuys.pages.dev&path=%2F&secu
 trojan://wb6368@92.243.75.49:2087/?type=ws&host=hsdgbuys.pages.dev&path=/&security=tls&sni=hsdgbuys.pages.dev#👉🆔@v2ray_configs_pool📡🇰🇭®️Cambodia©️Phnom
 trojan://wb6368@92.243.75.49:2087/?type=ws&host=hsdgbuys.pages.dev&path=/&security=tls&sni=hsdgbuys.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
 trojan://wb6368@92.243.75.49:2087/?type=ws&host=hsdgbuys.pages.dev&path=🔒
-trojan://wb6368@92.243.75.49:2087?allowInsecure=0&sni=hsdgbuys.pages.dev&type=ws&host=hsdgbuys.pages.dev&path=/#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 trojan://wb6368@92.243.75.49:2087?allowInsecure=0&sni=hsdgbuys.pages.dev&type=ws&host=hsdgbuys.pages.dev&path=/#SG_speednode_0018
 trojan://wb6368@92.243.75.49:2087?allowInsecure=0&sni=hsdgbuys.pages.dev&type=ws&host=hsdgbuys.pages.dev&path=/#🔥Join+Telegram:@Farah_VPN🟣
 trojan://wb6368@92.243.75.49:2087?allowInsecure=0&sni=🔒
