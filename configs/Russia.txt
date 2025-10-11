@@ -58,6 +58,7 @@ ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@213.183.53.222:9059#%F0%9F%87%B7%F
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@213.183.53.222:9019#%F0%9F%87%B7%F0%9F%87%BARU-213.183.53.222-4639
 ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@213.183.53.208:9030#%F0%9F%87%B7%F0%9F%87%BARU-213.183.53.208-4640
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@213.183.53.222:9014#%F0%9F%87%B7%F0%9F%87%BARU-213.183.53.222-0410
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxODUuMjMxLjIzMy4xMTI6OTg5#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.223.109.126:989#%F0%9F%87%B7%F0%9F%87%BARU-92.223.109.126-4394
 ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw3D3A==@92.63.193.252:20#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+92.63.193.252-20+%7C+189.52ms
 ss://YWVzLTI1Ni1nY206YTRWdHFSd2hqNmdXYkh3TDRKdDI2dw3D3A==@ss.80808.sbs:20#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+ss.80808.sbs-20+%7C+276.88ms
@@ -102,7 +103,6 @@ trojan://ttfang@45.67.215.194:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B
 trojan://ttfang@45.67.215.216:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ttfang.fange.me#%F0%9F%87%B7%F0%9F%87%BARU-45.67.215.216-0606
 trojan://vpn@45.82.14.144:2025/?type=ws&path=%2F&security=tls&sni=dns.google.com#%F0%9F%87%B7%F0%9F%87%BARU-45.82.14.144-0625
 trojan://vpn@45.82.14.144:2025?security=tls&sni=dns.google.com&type=ws&path=/&Host=dns.google.com#%F0%9F%87%B7%F0%9F%87%BARU-45.82.14.144-0791
-trojan://wb6368@92.243.75.49:2087?allowInsecure=0&sni=hsdgbuys.pages.dev&ws=1&wspath=%2F#%F0%9F%87%B7%F0%9F%87%BA%20%E4%BF%84%E7%BD%97%E6%96%AF%20V2CROSS.COM
 vless://019931aa-8cba-3a74-6c77-cb288ae52f2a@217.30.10.46:8443?&security=tls&fp=chrome&sni=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn&type=ws&headerType=none&host=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn&path=%2Fsnippets%3Fip%3Dproxyip%3Aport%28443%29#%E4%BF%84%E7%BD%97%E6%96%AF%20064
 vless://019931aa-8cba-3a74-6c77-cb288ae52f2a@92.243.75.49:2087?&security=tls&fp=chrome&sni=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn&type=ws&headerType=none&host=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn&path=%2Fsnippets%3Fip%3Dproxyip%3Aport%28443%29#%E4%BF%84%E7%BD%97%E6%96%AF%20042
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@81.94.150.122:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=spb1.fromblancwithlove.com#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40freevirgoolnet%20%5B1%5D
