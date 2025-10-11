@@ -1,5 +1,6 @@
 ss://12345678-1234-1234-1234-123456789123@88.216.69.54:2096/?type=ws&encryption=none&host=sni.aizrf.com&path=%2Fsnippets&security=tls&sni=sni.aizrf.com#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayprotocol%20%5B6%5D
 ss://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?path=%2Fsnippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayprotocol%20%5B6%5D
+ss://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?path=/snippets#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#👉🆔@freenettir📡🇱🇹®️Lithuania©️Vilnius🅿️ping:28.26ms
 ss://1f5056ca-fb4c-4b51-a31e-891083588351@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=pamchall.com.&type=ws#LT🇱🇹
 ss://542f694b-e8bd-4b9e-858c-ccb1c46a3316@172.67.69.238:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=pamchall.com.&type=ws#LT🇱🇹
 ss://6e433a2922ac4061ae8bf1731715d0d9Og==@45.153.7.253:2096#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+45.153.7.253-2096+%7C+2.09ms
@@ -137,8 +138,8 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.35:8880?mode=gun&type=grpc&sec
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.55:8880?mode=gun&type=grpc&security=none&encryption=none#🇱🇹Lithuania
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880/?type=grpc&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mtproxy22_v2ray%20%5B12%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#LT🇱🇹
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#👉🆔@freenettir📡🇱🇹®️Lithuania©️Vilnius🅿️ping:40.73ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#LT🇱🇹
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#👉🆔@v2ray_configs_pool📡🇱🇹®️Lithuania©️Vilnius🅿️ping:38.73ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#LT🇱🇹
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.181:8880/?type=grpc&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40orange_vpns%20%5B13%5D
@@ -148,11 +149,12 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.207:8880?security=&encryptio
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880/?type=grpc&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B18%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#LT🇱🇹
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#LT🇱🇹
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#👉🆔@v2ray_configs_pool📡🇱🇹®️Lithuania©️Vilnius🅿️ping:36.94ms
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#👉🆔@freenettir📡🇱🇹®️Lithuania©️Vilnius🅿️ping:46.53ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?encryption=none&security=none&type=grpc#LT🇱🇹
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#LT🇱🇹
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40free_v2rayyy%3A%3ALT
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.28:8880?encryption=none&security=none&type=grpc#👉🆔@v2ray_configs_pool📡🇱🇹®️Lithuania©️Vilnius🅿️ping:66.55ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.28:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#%3E%3E%40v2rayngvpn%3A%3ALT
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.28:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#LT🇱🇹
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.28:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&type=grpc#LT🇱🇹
@@ -181,6 +183,7 @@ ss://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray%2Cteleg
 trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#%F0%9F%87%B1%F0%9F%87%B9LT-212.24.103.3-3293
 vless://12345678-1234-1234-1234-123456789123@88.216.69.54:2096/?type=ws&encryption=none&host=sni.aizrf.com&path=%2Fsnippets&security=tls&sni=sni.aizrf.com#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayprotocol%20%5B6%5D
 vless://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?path=%2Fsnippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayprotocol%20%5B6%5D
+vless://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?path=/snippets#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#👉🆔@freenettir📡🇱🇹®️Lithuania©️Vilnius🅿️ping:28.26ms
 vless://1f5056ca-fb4c-4b51-a31e-891083588351@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=pamchall.com.&type=ws#LT🇱🇹
 vless://542f694b-e8bd-4b9e-858c-ccb1c46a3316@172.67.69.238:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=pamchall.com.&type=ws#LT🇱🇹
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929396024898748.lisbon-drc-dcrabj.info:8880/?type=grpc&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2raych%20%5B18%5D
@@ -207,8 +210,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.35:8880?mode=gun&type=grpc&
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.55:8880?mode=gun&type=grpc&security=none&encryption=none#🇱🇹Lithuania
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880/?type=grpc&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mtproxy22_v2ray%20%5B12%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#LT🇱🇹
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#👉🆔@freenettir📡🇱🇹®️Lithuania©️Vilnius🅿️ping:40.73ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#LT🇱🇹
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#👉🆔@v2ray_configs_pool📡🇱🇹®️Lithuania©️Vilnius🅿️ping:38.73ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#LT🇱🇹
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.181:8880/?type=grpc&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40orange_vpns%20%5B13%5D
@@ -218,11 +221,12 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.207:8880?security=&encryp
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880/?type=grpc&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B18%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#LT🇱🇹
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#LT🇱🇹
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#👉🆔@v2ray_configs_pool📡🇱🇹®️Lithuania©️Vilnius🅿️ping:36.94ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#👉🆔@freenettir📡🇱🇹®️Lithuania©️Vilnius🅿️ping:46.53ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?encryption=none&security=none&type=grpc#LT🇱🇹
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#LT🇱🇹
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40free_v2rayyy%3A%3ALT
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.28:8880?encryption=none&security=none&type=grpc#👉🆔@v2ray_configs_pool📡🇱🇹®️Lithuania©️Vilnius🅿️ping:66.55ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.28:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#%3E%3E%40v2rayngvpn%3A%3ALT
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.28:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#LT🇱🇹
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.28:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&type=grpc#LT🇱🇹
