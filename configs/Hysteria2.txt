@@ -251,10 +251,9 @@ hysteria2://b96e7c07-78eb-40a1-89ad-de3d33dac98b@2001:470:1f15:728:6a5a:ce2:7583
 hysteria2://b96e7c07-78eb-40a1-89ad-de3d33dac98b@[2001:470:1f15:728:6a5a:ce2:7583:1]:10015?security=tls&insecure=1#IR-@IRAN_V2RAY1
 hysteria2://biadailyconfigs:OfCVj6CrPsNZm6kYaUFvFCZ2WOP2Jf7u@103.249.133.79:443?security=tls&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS&insecure=1&sni=microsoft.com#@Daily_Configs
 hysteria2://biadailyconfigs@103.249.133.79:443?insecure=1&sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS#%40Daily_Configs%20%239
+hysteria2://biadailyconfigs@103.249.133.79:443?insecure=1&sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS#🌐سرور
 hysteria2://bsnnajjbjsjnjjjbbbsbjajhjnnwjnbudn:2ChA2ssWF3mgrvxILGSAMOA44v6JVKiz@103.249.133.79:443?security=tls&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS&insecure=1&pinSHA256=C9:DD:A0:02:62:8F:2D:20:DB:9B:DF:25:C4:75:7D:F4:95:21:71:FA:44:6D:D6:2E:FD:1C:E9:FF:49:8A:7E:16&sni=microsoft.com#@Daily_Configs
-hysteria2://bsnnajjbjsjnjjjbbbsbjajhjnnwjnbudn:2ChA2ssWF3mgrvxILGSAMOA44v6JVKiz@103.249.133.79:443?security=tls&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS&insecure=1&pinSHA256=C9:DD:A0:02:62:8F:2D:20:DB:9B:DF:25:C4:75:7D:F4:95:21:71:FA:44:6D:D6:2E:FD:1C:E9:FF:49:8A:7E:16&sni=microsoft.com#🌐سرور
 hysteria2://bsnnajjbjsjnjjjbbbsbjajhjnnwjnbudn@103.249.133.79:443?insecure=1&sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS#%40Daily_Configs%20%2310
-hysteria2://bsnnajjbjsjnjjjbbbsbjajhjnnwjnbudn@103.249.133.79:443?insecure=1&sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS#🌐سرور
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891?insecure=1&sni=fus01.mistea.top#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891?insecure=1&sni=fus01.mistea.top#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2005
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891?insecure=1&sni=fus01.mistea.top#%F0%9F%94%90%20%40AblNet7%20%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%20%232
@@ -282,7 +281,6 @@ hysteria2://dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs@103.249.133.79:4
 hysteria2://dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_:4ttaElDUAcWLXtG1BtWg1rKrqEUUKanB@103.249.133.79:443?sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS&insecure=1#@Daily_Configs
 hysteria2://dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_dailyconfigs_@103.249.133.79:443?insecure=1&sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS#%40Daily_Configs%20%2313
 hysteria2://dailyconfigschannel:3vRGpu9uR01OjaVTviOZvm4hAszsbZP5@103.249.133.79:443?security=tls&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS&insecure=1&pinSHA256=C9:DD:A0:02:62:8F:2D:20:DB:9B:DF:25:C4:75:7D:F4:95:21:71:FA:44:6D:D6:2E:FD:1C:E9:FF:49:8A:7E:16&sni=microsoft.com#@Daily_Configs
-hysteria2://dailyconfigschannel:3vRGpu9uR01OjaVTviOZvm4hAszsbZP5@103.249.133.79:443?security=tls&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS&insecure=1&pinSHA256=C9:DD:A0:02:62:8F:2D:20:DB:9B:DF:25:C4:75:7D:F4:95:21:71:FA:44:6D:D6:2E:FD:1C:E9:FF:49:8A:7E:16&sni=microsoft.com#🌐سرور
 hysteria2://dailyconfigschannel@103.249.133.79:443?insecure=1&sni=microsoft.com&obfs=salamander&obfs-password=LzmYaFxALuuWNIu3zSeRJeV4z21RU1oS#%40Daily_Configs%20%2314
 hysteria2://de8854c7-fa17-4266-ae18-50a9732a0c4e@it1.1010991.xyz:3001?sni=it1.1010991.xyz&insecure=1#XX
 hysteria2://df36ace8-640b-42bb-8169-198901af6d9e@185.184.68.7.sslip.io:46129?insecure=1&obfs=salamander&obfs-password=JBPVtqk1kMBGleBcLZ#%40sunflowerplato
@@ -346,4 +344,5 @@ hysteria2://siEk2SjZFG@adas-polo-ba-mahi.kotlet.org:2083?security=tls&obfs=salam
 hysteria2://siEk2SjZFG@adas-polo-ba-mahi.kotlet.org:2083?sni=ghasem.kotlet.org&insecure=1&obfs=salamander#GB
 hysteria2://y0qochAspE+u-HLfrip-@45.32.234.211:443?sni=Google.com&insecure=1&obfs=salamander#NL
 hysteria2://zanzendegiazadi:j5hi5rvXY3ueWqWKSKtro93cOHN1ai5m@103.249.133.79:443?security=tls&insecure=1&pinSHA256=C9:18:D6:18:CC:F1:39:84:0A:4F:DB:A8:C7:83:D6:EE:43:D8:55:9F:08:CA:AA:95:11:95:31:AD:C9:12:5C:09&sni=ubuntu.com#@Daily_Configs
+hysteria2://zanzendegiazadi:j5hi5rvXY3ueWqWKSKtro93cOHN1ai5m@103.249.133.79:443?security=tls&insecure=1&pinSHA256=C9:18:D6:18:CC:F1:39:84:0A:4F:DB:A8:C7:83:D6:EE:43:D8:55:9F:08:CA:AA:95:11:95:31:AD:C9:12:5C:09&sni=ubuntu.com#🌐سرور
 hysteria2://zanzendegiazadi@103.249.133.79:443?insecure=1&sni=ubuntu.com#%40Daily_Configs%20%2319
