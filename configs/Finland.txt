@@ -15,7 +15,6 @@ ss://3e7d7af8-fa51-4b7f-bbe2-786599550ddc@165.232.103.60:16595?path=/&security=n
 ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#wi-fi-@iran_v2ray1
 ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=none#FI🇫🇮
 ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#FI🇫🇮
-ss://44cd6985-0949-45ec-b795-8be60cde5ac2@pic2.zarashop0.ir:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pic2.zarashop0.ir#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:15.08ms
 ss://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#wi-fi-@iran_v2ray1
 ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#WI-FI--@IRAN_V2RAY1
 ss://56961cae-002c-43ac-8d93-df0546303d6f@54.36.114.253:25367?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@IRAN_V2RAY1--Wi-Fi
@@ -30,6 +29,7 @@ ss://6d2e2298-7bef-476f-b06d-6062980d75db@45.15.127.196:443?security=reality&enc
 ss://71e0bdc4-7e51-4f4d-a43b-15b1aa7e6aa5@alphacell1.daltoon.site:2087?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=alphacell.daltoon.site&sni=alphacell.daltoon.site#FI🇫🇮
 ss://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?path=%2F&security=&encryption=none&type=ws#%3E%3E%40ShadowsocksM%3A%3AFI
 ss://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?path=%2F&security=none&encryption=none&type=ws#FI🇫🇮
+ss://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?path=/&security=none&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:14.67ms
 ss://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?type=ws&encryption=none&path=%2F&host=&security=none#%3E%3E%40V2rayNG3%3A%3AFI
 ss://7c689907-8a79-4299-9162-c817624ad352@65.109.215.65:4266?security=none&encryption=none&type=ws#FI🇫🇮
 ss://80db8cee-bd3d-4dde-a3b2-02b6cdb70d99@64.188.125.45:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=3f8ad1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20Fast%20%7C%20%40confegraigan```
@@ -91,6 +91,7 @@ ss://f622987c-b7ee-407d-acfe-07f45978012f@161.35.175.165:55769?path=/&security=n
 ss://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=app.chandplus.com#FI🇫🇮
 ss://fae6fb04-146d-47d6-9407-115297441a21@65.21.132.249:443?mode=gun&security=reality&encryption=none&pbk=GWyNYY_GyqTTu5ocCV9mv4dNibVXbgM1HTxSzM9ZnXU&fp=random&spx=%2F&type=grpc&serviceName=%40UnlimitedDev&sni=ftp.debian.org&sid=97bef998#REALITY|FI🇫🇮
 ss://fc3d2ca2-0f38-48dc-8938-688b78c403f2@46.62.206.155:32000?security=&encryption=none&type=ws#%3E%3E%40ShadowsocksM%3A%3AFI
+ss://fc3d2ca2-0f38-48dc-8938-688b78c403f2@46.62.206.155:32000?security=none&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:13.65ms
 ss://fc3d2ca2-0f38-48dc-8938-688b78c403f2@46.62.206.155:32000?type=ws&security=none#%3E%3E%40V2rayNG3%3A%3AFI
 ss://id6856346113@s2.nodu11.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.vk.com&fp=random&security=reality&pbk=yDwHL93MSZMTVyDy0OhZu-NIlgNA9amsi_t1P8Sla0Q&sid=122455#2%20%7C%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%F0%9F%87%AB%F0%9F%87%AE
 ss://telegram-ArV2ray@65.109.240.81:443?mode=gun&security=reality&encryption=none&pbk=gz7eqMA1Ww39n2KgIUyCLbVE9mOM_pOzhfx9Jr0HSFs&fp=chrome&type=grpc&serviceName=#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40tehranargo1%20%5B1%5D
@@ -107,7 +108,6 @@ vless://3e7d7af8-fa51-4b7f-bbe2-786599550ddc@165.232.103.60:16595?path=/&securit
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#wi-fi-@iran_v2ray1
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=none#FI🇫🇮
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#FI🇫🇮
-vless://44cd6985-0949-45ec-b795-8be60cde5ac2@pic2.zarashop0.ir:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pic2.zarashop0.ir#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:15.08ms
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#wi-fi-@iran_v2ray1
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#WI-FI--@IRAN_V2RAY1
 vless://56961cae-002c-43ac-8d93-df0546303d6f@54.36.114.253:25367?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@IRAN_V2RAY1--Wi-Fi
@@ -122,6 +122,7 @@ vless://6d2e2298-7bef-476f-b06d-6062980d75db@45.15.127.196:443?security=reality&
 vless://71e0bdc4-7e51-4f4d-a43b-15b1aa7e6aa5@alphacell1.daltoon.site:2087?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=alphacell.daltoon.site&sni=alphacell.daltoon.site#FI🇫🇮
 vless://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?path=%2F&security=&encryption=none&type=ws#%3E%3E%40ShadowsocksM%3A%3AFI
 vless://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?path=%2F&security=none&encryption=none&type=ws#FI🇫🇮
+vless://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?path=/&security=none&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:14.67ms
 vless://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?type=ws&encryption=none&path=%2F&host=&security=none#%3E%3E%40V2rayNG3%3A%3AFI
 vless://7c689907-8a79-4299-9162-c817624ad352@65.109.215.65:4266?security=none&encryption=none&type=ws#FI🇫🇮
 vless://80db8cee-bd3d-4dde-a3b2-02b6cdb70d99@64.188.125.45:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=3f8ad1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20Fast%20%7C%20%40confegraigan```
@@ -159,6 +160,7 @@ vless://f622987c-b7ee-407d-acfe-07f45978012f@161.35.175.165:55769?path=/&securit
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=app.chandplus.com#FI🇫🇮
 vless://fae6fb04-146d-47d6-9407-115297441a21@65.21.132.249:443?mode=gun&security=reality&encryption=none&pbk=GWyNYY_GyqTTu5ocCV9mv4dNibVXbgM1HTxSzM9ZnXU&fp=random&spx=%2F&type=grpc&serviceName=%40UnlimitedDev&sni=ftp.debian.org&sid=97bef998#REALITY|FI🇫🇮
 vless://fc3d2ca2-0f38-48dc-8938-688b78c403f2@46.62.206.155:32000?security=&encryption=none&type=ws#%3E%3E%40ShadowsocksM%3A%3AFI
+vless://fc3d2ca2-0f38-48dc-8938-688b78c403f2@46.62.206.155:32000?security=none&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:13.65ms
 vless://fc3d2ca2-0f38-48dc-8938-688b78c403f2@46.62.206.155:32000?type=ws&security=none#%3E%3E%40V2rayNG3%3A%3AFI
 vless://id6856346113@s2.nodu11.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.vk.com&fp=random&security=reality&pbk=yDwHL93MSZMTVyDy0OhZu-NIlgNA9amsi_t1P8Sla0Q&sid=122455#2%20%7C%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%F0%9F%87%AB%F0%9F%87%AE
 vless://telegram-ArV2ray@65.109.240.81:443?mode=gun&security=reality&encryption=none&pbk=gz7eqMA1Ww39n2KgIUyCLbVE9mOM_pOzhfx9Jr0HSFs&fp=chrome&type=grpc&serviceName=#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40tehranargo1%20%5B1%5D
