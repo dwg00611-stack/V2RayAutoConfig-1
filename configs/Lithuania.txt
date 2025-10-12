@@ -1,6 +1,5 @@
 ss://12345678-1234-1234-1234-123456789123@88.216.69.54:2096/?type=ws&encryption=none&host=sni.aizrf.com&path=%2Fsnippets&security=tls&sni=sni.aizrf.com#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayprotocol%20%5B6%5D
 ss://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?path=%2Fsnippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayprotocol%20%5B6%5D
-ss://38ed7abd-e052-452a-ba1a-c86c05b23425@hield.ru:8443?type=tcp&security=reality&pbk=c7pmEcOmq_DP_i2LVMrBi85FQ-ueco4teFc2IJb8zVE&fp=chrome&sni=yahoo.com&sid=4ddc&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B54%5D
 ss://542f694b-e8bd-4b9e-858c-ccb1c46a3316@172.67.69.238:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=pamchall.com.&type=ws#LT🇱🇹
 ss://71b12692-0e7d-4765-b570-5b99aefe6c9a@Www.speedtest.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=LI.fOxmAsTEr.iR&type=ws#LT🇱🇹
 ss://8b695507-d3cd-4a82-8821-72e7b1c35cf2@wbv1vs7s.qdr3-tvg9u8bc98b6m2kk52agfme.portalofleg-ends.fun:2052?security=reality&encryption=none&pbk=mfS1cJVYQV4GyjguwcG3KMxucq6JHWIjbzQ7U0Xaz0k&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=pcmag.com&sid=d2f9c12441ca54fb#REALITY|LT🇱🇹
@@ -104,7 +103,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638932111805004627.rasht-drc-dcrabj.in
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638935457407159576.birjand-drc-tusacae.info:8880/?type=grpc&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kurdistan_vpn_perfectt%20%5B11%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638935457407159576.birjand-drc-tusacae.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kurdistan_vpn_perfectt%20%5B9%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638938180207059946.rome-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#LT🇱🇹
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638940560407097324.copenhagen-drc-tusacaf.info:8880?encryption=none&security=none&type=grpc&mode=gun#👉🆔@v2ray_configs_pool📡🇱🇹®️Lithuania©️Vilnius🅿️ping:49.37ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017445584.kerman-drc-tusacaf.info:8880/?type=grpc&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B78%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378508794.mashhad-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434423505.neyshabur-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#LT🇱🇹
@@ -126,7 +124,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=n
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#LT🇱🇹
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇱🇹®️Lithuania©️Vilnius🅿️ping:39.11ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40nofilter_v2rayng%20%5B6%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.28:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#LT🇱🇹
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.28:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
@@ -155,7 +152,6 @@ ss://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray%2Cteleg
 trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#%F0%9F%87%B1%F0%9F%87%B9LT-212.24.103.3-3290
 vless://12345678-1234-1234-1234-123456789123@88.216.69.54:2096/?type=ws&encryption=none&host=sni.aizrf.com&path=%2Fsnippets&security=tls&sni=sni.aizrf.com#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayprotocol%20%5B6%5D
 vless://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?path=%2Fsnippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayprotocol%20%5B6%5D
-vless://38ed7abd-e052-452a-ba1a-c86c05b23425@hield.ru:8443?type=tcp&security=reality&pbk=c7pmEcOmq_DP_i2LVMrBi85FQ-ueco4teFc2IJb8zVE&fp=chrome&sni=yahoo.com&sid=4ddc&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B54%5D
 vless://542f694b-e8bd-4b9e-858c-ccb1c46a3316@172.67.69.238:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=pamchall.com.&type=ws#LT🇱🇹
 vless://71b12692-0e7d-4765-b570-5b99aefe6c9a@Www.speedtest.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=LI.fOxmAsTEr.iR&type=ws#LT🇱🇹
 vless://8b695507-d3cd-4a82-8821-72e7b1c35cf2@wbv1vs7s.qdr3-tvg9u8bc98b6m2kk52agfme.portalofleg-ends.fun:2052?security=reality&encryption=none&pbk=mfS1cJVYQV4GyjguwcG3KMxucq6JHWIjbzQ7U0Xaz0k&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=pcmag.com&sid=d2f9c12441ca54fb#REALITY|LT🇱🇹
@@ -166,7 +162,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932111805004627.rasht-drc-dcrabj
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638935457407159576.birjand-drc-tusacae.info:8880/?type=grpc&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kurdistan_vpn_perfectt%20%5B11%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638935457407159576.birjand-drc-tusacae.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kurdistan_vpn_perfectt%20%5B9%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938180207059946.rome-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#LT🇱🇹
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638940560407097324.copenhagen-drc-tusacaf.info:8880?encryption=none&security=none&type=grpc&mode=gun#👉🆔@v2ray_configs_pool📡🇱🇹®️Lithuania©️Vilnius🅿️ping:49.37ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017445584.kerman-drc-tusacaf.info:8880/?type=grpc&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B78%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378508794.mashhad-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434423505.neyshabur-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#LT🇱🇹
@@ -188,7 +183,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#LT🇱🇹
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇱🇹®️Lithuania©️Vilnius🅿️ping:39.11ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40nofilter_v2rayng%20%5B6%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.28:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#LT🇱🇹
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.28:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
