@@ -59,10 +59,12 @@ ss://d03e1748-b8f2-45c7-bf86-6b3964c3e093@188.132.183.15:8443?security=reality&e
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#TR🇹🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kurdistan_vpn_perfectt%20%5B10%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.76:8880?mode=gun&security=none&encryption=none&authority=-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-&type=grpc&serviceName=#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:59.02ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880/?type=grpc&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40selinc%20%5B5%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#TR🇹🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?encryption=none&type=grpc&mode=gun&security=none#👉🆔@freenettir📡🇹🇷®️Turkey©️Izmir🅿️ping:58.76ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&authority=-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn&type=grpc&serviceName=#TR🇹🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:72.3ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127875.yasuj-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
 ss://e138b9d4-1bc9-49d0-b6ad-34347e464c05@188.132.183.15:8081?security=none&encryption=none&headerType=none&type=tcp#TR🇹🇷
 ss://f2b66369-abac-441b-89b6-671adcf0cd0e@95.134.130.87:12187?security=none&encryption=none&headerType=none&type=tcp#TR🇹🇷
@@ -87,10 +89,12 @@ vless://d03e1748-b8f2-45c7-bf86-6b3964c3e093@188.132.183.15:8443?security=realit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#TR🇹🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kurdistan_vpn_perfectt%20%5B10%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.76:8880?mode=gun&security=none&encryption=none&authority=-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-&type=grpc&serviceName=#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:59.02ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880/?type=grpc&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40selinc%20%5B5%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#TR🇹🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?encryption=none&type=grpc&mode=gun&security=none#👉🆔@freenettir📡🇹🇷®️Turkey©️Izmir🅿️ping:58.76ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&authority=-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn&type=grpc&serviceName=#TR🇹🇷
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:72.3ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127875.yasuj-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
 vless://e138b9d4-1bc9-49d0-b6ad-34347e464c05@188.132.183.15:8081?security=none&encryption=none&headerType=none&type=tcp#TR🇹🇷
 vless://f2b66369-abac-441b-89b6-671adcf0cd0e@95.134.130.87:12187?security=none&encryption=none&headerType=none&type=tcp#TR🇹🇷
