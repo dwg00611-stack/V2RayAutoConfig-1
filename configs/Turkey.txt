@@ -65,7 +65,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?flow=&type=grpc&mod
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:80.44ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&authority=-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn&type=grpc&serviceName=#TR🇹🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127875.yasuj-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638958761652098789.esfahan-blkaft-aaaj.info:8880?mode=gun&security=none&encryption=none&authority=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B74%5D
 ss://e138b9d4-1bc9-49d0-b6ad-34347e464c05@188.132.183.15:8081?security=none&encryption=none&headerType=none&type=tcp#TR🇹🇷
 ss://f2b66369-abac-441b-89b6-671adcf0cd0e@95.134.130.87:12187?security=none&encryption=none&headerType=none&type=tcp#TR🇹🇷
 ss://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B8%5D
@@ -95,7 +94,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?flow=&type=grpc&
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:80.44ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&authority=-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn&type=grpc&serviceName=#TR🇹🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127875.yasuj-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958761652098789.esfahan-blkaft-aaaj.info:8880?mode=gun&security=none&encryption=none&authority=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B74%5D
 vless://e138b9d4-1bc9-49d0-b6ad-34347e464c05@188.132.183.15:8081?security=none&encryption=none&headerType=none&type=tcp#TR🇹🇷
 vless://f2b66369-abac-441b-89b6-671adcf0cd0e@95.134.130.87:12187?security=none&encryption=none&headerType=none&type=tcp#TR🇹🇷
 vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B8%5D
