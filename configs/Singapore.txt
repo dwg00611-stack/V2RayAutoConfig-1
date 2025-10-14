@@ -153,9 +153,13 @@ trojan://cd41b9d7-df15-46ad-a778-257b0851525a@jp01.trojanyyds.xyz:443?security=t
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@sg01.trojanyyds.xyz:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.250.177.51-3313
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@sg02.trojanyyds.xyz:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.250.177.51-3238
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@uk01.trojanyyds.xyz:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.139.234.73-3334
+trojan://e9368912c4ed6046dca6949229cbff02@36.156.102.84:2173?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
 trojan://e9368912c4ed6046dca6949229cbff02@36.156.102.84:2173?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://e9368912c4ed6046dca6949229cbff02@36.156.102.84:2173?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://e9368912c4ed6046dca6949229cbff02@36.156.102.84:2173?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
+trojan://e9368912c4ed6046dca6949229cbff02@36.156.102.84:5321?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
 trojan://e9368912c4ed6046dca6949229cbff02@36.156.102.84:5321?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+trojan://e9368912c4ed6046dca6949229cbff02@36.156.102.84:5321?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://e9368912c4ed6046dca6949229cbff02@36.156.102.84:5321?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://installshield@38.180.106.124:8443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-38.180.106.124-1153
 trojan://installshield@38.180.249.177:8443/?type=tcp&security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#%F0%9F%87%B8%F0%9F%87%ACSG-38.180.249.177-0657
