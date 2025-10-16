@@ -247,7 +247,6 @@ ss://cdb153651ccb4d5aa5d96fb08d3c75acOg==@45.131.209.41:80#NL%F0%9F%87%B3%F0%9F%
 ss://d6ff33a603bf43388a6362ab284a9466Og==@45.131.5.111:80#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+45.131.5.111-80+%7C+6.47ms
 ss://dc648bc7-7884-4921-a65d-8eebbf4eb972@vaynora.imlast.com:443/?type=tcp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vaynora%20%5B7%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?encryption=none&security=none&type=grpc#NL🇳🇱
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?security=&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnplusee_free%20%5B14%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?security=none&allowInsecure=0&encryption=none&type=grpc#NL🇳🇱
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.55:8880/?type=grpc&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpn_ioss%20%5B17%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.55:8880?encryption=none&security=none&type=grpc#NL🇳🇱
@@ -388,7 +387,6 @@ vless://cb6e6e21-7bc1-4de6-b961-a78893935436@193.233.19.242:6060?encryption=none
 vless://cb6e6e21-7bc1-4de6-b961-a78893935436@193.233.19.242:6060?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=book.smnsoft.com#NL🇳🇱
 vless://dc648bc7-7884-4921-a65d-8eebbf4eb972@vaynora.imlast.com:443/?type=tcp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vaynora%20%5B7%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?encryption=none&security=none&type=grpc#NL🇳🇱
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?security=&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnplusee_free%20%5B14%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?security=none&allowInsecure=0&encryption=none&type=grpc#NL🇳🇱
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.55:8880/?type=grpc&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpn_ioss%20%5B17%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.55:8880?encryption=none&security=none&type=grpc#NL🇳🇱
