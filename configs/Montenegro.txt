@@ -99,7 +99,6 @@ ss://820b6d04-16d6-4821-9fc5-ec31abe874a5@ergwork.web.unc.edu:80?type=xhttp&encr
 ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.89.111.198:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=mbmqetiu2.kamaleriz.info&fp=chrome&type=ws&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#[🇬🇧]t.me/ConfigsHub
 ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@blog.cloudflare.com:2095/?type=ws&encryption=none&flow=&host=freedom.pusytroller.cf&path=%2F#[🏁]t.me/ConfigsHub
 ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@developers.cloudflare.com:2095/?type=ws&encryption=none&flow=&host=freedom.pusytroller.cf&path=%2F#[🏁]t.me/ConfigsHub
-ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@namemc.com:2095/?type=ws&encryption=none&flow=&host=114514.pusytroller.cf&path=%2F#[🇨🇦]t.me/ConfigsHub
 ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.udemy.com:2095/?type=ws&encryption=none&flow=&host=freedom.pusytroller.cf&path=%2F#[🏁]t.me/ConfigsHub
 ss://88e35bbb-8cd2-c309-a1e9-551fb1c17a7f@cc.lightnright.com:443/?type=ws&encryption=none&flow=&host=jnir-cdn.pichondan.com&path=%2F%40JavidnamanIran%2FJavid-SHAH-King-Reza-Pahlavi%2F&security=tls&sni=jnir-cdn.pichondan.com&alpn=http%2F1.1&fp=firefox#[🏁]t.me/ConfigsHub
 ss://8ba3c494-c5b9-46b0-9bb9-306b8fdeb9d7@91.107.169.188:25103?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
@@ -133,7 +132,6 @@ ss://a9f925ce-6497-4978-b219-ec239fdd9316@91.124.209.114:50061?encryption=none&s
 ss://b3fc59f0-d018-45e7-f95c-87b3e494f692@159.89.0.160:443?mode=gun&security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 ss://b3fc59f0-d018-45e7-f95c-87b3e494f692@159.89.0.160:443?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 ss://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?path=%2Fjzmdpvws&security=tls&encryption=none&fp=chrome&type=ws#[🏁]t.me/ConfigsHub
-ss://b65f4df7-f6af-42b2-877a-cef33f21675e@142.171.192.140:10001/?type=ws&encryption=none&flow=&host=kejiland.freewarp.eu.org&path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&sni=kejiland.freewarp.eu.org&fp=chrome#[🇺🇸]t.me/ConfigsHub
 ss://b65f4df7-f6af-42b2-877a-cef33f21675e@146.103.33.38:443/?type=ws&encryption=none&flow=&host=kejiland.freewarp.eu.org&path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&sni=kejiland.freewarp.eu.org#[🇳🇱]t.me/ConfigsHub
 ss://ba171ac9-1885-4f46-a869-5c78427dd60b@pscresearch.faculty.ucdavis.edu:80?type=xhttp&encryption=none&path=%2F&host=xiliunlimited.global.ssl.fastly.net&mode=auto&security=none#[🇫🇷]t.me/ConfigsHub
 ss://bbcaaca-abac-acab-cdba-baabbaccaccb@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
@@ -166,6 +164,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&security=
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?security=&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.101:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇹🇷]t.me/Raiv2mmr
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?security=&type=grpc&encryption=none#[🏁]t.me/ConfigsHub
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?encryption=none&security=none&type=grpc#[🏁]t.me/ConfigsHub
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?mode=gun&security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇫🇷]t.me/Raiv2mmr
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.137:8880?mode=gun&security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇫🇷]t.me/Raiv2mmr
@@ -434,7 +433,6 @@ vless://820b6d04-16d6-4821-9fc5-ec31abe874a5@ergwork.web.unc.edu:80?type=xhttp&e
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.89.111.198:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=mbmqetiu2.kamaleriz.info&fp=chrome&type=ws&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#[🇬🇧]t.me/ConfigsHub
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@blog.cloudflare.com:2095/?type=ws&encryption=none&flow=&host=freedom.pusytroller.cf&path=%2F#[🏁]t.me/ConfigsHub
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@developers.cloudflare.com:2095/?type=ws&encryption=none&flow=&host=freedom.pusytroller.cf&path=%2F#[🏁]t.me/ConfigsHub
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@namemc.com:2095/?type=ws&encryption=none&flow=&host=114514.pusytroller.cf&path=%2F#[🇨🇦]t.me/ConfigsHub
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.udemy.com:2095/?type=ws&encryption=none&flow=&host=freedom.pusytroller.cf&path=%2F#[🏁]t.me/ConfigsHub
 vless://88e35bbb-8cd2-c309-a1e9-551fb1c17a7f@cc.lightnright.com:443/?type=ws&encryption=none&flow=&host=jnir-cdn.pichondan.com&path=%2F%40JavidnamanIran%2FJavid-SHAH-King-Reza-Pahlavi%2F&security=tls&sni=jnir-cdn.pichondan.com&alpn=http%2F1.1&fp=firefox#[🏁]t.me/ConfigsHub
 vless://8ba3c494-c5b9-46b0-9bb9-306b8fdeb9d7@91.107.169.188:25103?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
@@ -458,7 +456,6 @@ vless://a9f925ce-6497-4978-b219-ec239fdd9316@91.124.209.114:50061?encryption=non
 vless://b3fc59f0-d018-45e7-f95c-87b3e494f692@159.89.0.160:443?mode=gun&security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 vless://b3fc59f0-d018-45e7-f95c-87b3e494f692@159.89.0.160:443?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?path=%2Fjzmdpvws&security=tls&encryption=none&fp=chrome&type=ws#[🏁]t.me/ConfigsHub
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@142.171.192.140:10001/?type=ws&encryption=none&flow=&host=kejiland.freewarp.eu.org&path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&sni=kejiland.freewarp.eu.org&fp=chrome#[🇺🇸]t.me/ConfigsHub
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@146.103.33.38:443/?type=ws&encryption=none&flow=&host=kejiland.freewarp.eu.org&path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&sni=kejiland.freewarp.eu.org#[🇳🇱]t.me/ConfigsHub
 vless://ba171ac9-1885-4f46-a869-5c78427dd60b@pscresearch.faculty.ucdavis.edu:80?type=xhttp&encryption=none&path=%2F&host=xiliunlimited.global.ssl.fastly.net&mode=auto&security=none#[🇫🇷]t.me/ConfigsHub
 vless://bbcaaca-abac-acab-cdba-baabbaccaccb@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
@@ -491,6 +488,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?security=&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.101:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇹🇷]t.me/Raiv2mmr
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?security=&type=grpc&encryption=none#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?encryption=none&security=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.119:8880?mode=gun&security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇫🇷]t.me/Raiv2mmr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.137:8880?mode=gun&security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇫🇷]t.me/Raiv2mmr
