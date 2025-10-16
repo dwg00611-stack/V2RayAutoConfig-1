@@ -332,3 +332,4 @@ hysteria2://theredarmy@80.85.241.237:443?insecure=1&sni=stackoverflow.com&obfs=s
 hysteria2://theredarmy@80.85.241.237:443?insecure=1&sni=stackoverflow.com&obfs=salamander&obfs-password=fQ0ZDCeRt1SyOHAUx2TToTBPkMfEXuTf#🌐سرور
 hysteria2://zanzendegiazadi:j5hi5rvXY3ueWqWKSKtro93cOHN1ai5m@103.249.133.79:443?security=tls&insecure=1&pinSHA256=C9:18:D6:18:CC:F1:39:84:0A:4F:DB:A8:C7:83:D6:EE:43:D8:55:9F:08:CA:AA:95:11:95:31:AD:C9:12:5C:09&sni=ubuntu.com#@Daily_Configs
 hysteria2://zanzendegiazadi@103.249.133.79:443?insecure=1&sni=ubuntu.com#%40Daily_Configs%20%2314
+hysteria2://zanzendegiazadi@103.249.133.79:443?insecure=1&sni=ubuntu.com#🌐سرور
