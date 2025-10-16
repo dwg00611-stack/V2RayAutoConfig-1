@@ -3,7 +3,6 @@ ss://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?allowInsecure=0&sni
 ss://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=%2Ftqjkmwws&security=tls&encryption=none&type=ws#TR🇹🇷
 ss://32f9d965-00d6-4ed2-a047-c0c5609a543d@turkiye.marzxo.biz:8086?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=refersion.com&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#REALITY|TR🇹🇷
 ss://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443/?type=ws&encryption=none&path=%2Flkjdasws&security=tls#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2trayproxy%20%5B24%5D
-ss://8339a5e8-6141-41f1-9abc-bbf1a06ac5ae@medrd.vtpmng.top:8443?path=/&security=tls&encryption=none&host=medrd.vtpmng.top&type=ws&sni=medrd.vtpmng.top#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Gürpınar🅿️ping:60.16ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OQ==@tur.fastsoonlink.com:40019#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+tur.fastsoonlink.com-40019+%7C+317.27ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFpMSFRQOGJ6TWc2S2VJV2NwZXo3@62.133.63.21:65262#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+62.133.63.21-65262+%7C+120.05ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MkxCaG9rNWx2alI3@83.217.9.4:443#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+83.217.9.4-443+%7C+119.24ms
@@ -53,6 +52,7 @@ ss://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?path=%
 ss://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@ns.cloudflare.com:8080?path=maxii%3D%3D%3Fed%3D8080&security=none&encryption=none&host=try2254.www.speedtest.net.ftp.debian.org.www.digikala.com.pshreport.ir.&type=httpupgrade#TR🇹🇷
 ss://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@ns.cloudflare.com:8080?type=httpupgrade&encryption=none&host=try2254.www.speedtest.net.ftp.debian.org.www.digikala.com.pshreport.ir.&path=maxii%3D%3D%3Fed%3D8080#TR🇹🇷
 ss://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@ns.cloudflare.com:80?path=%2Fmaxii%3Fed%3D80&security=none&encryption=none&host=try2254.www.speedtest.net.ftp.debian.org.www.digikala.com.pshreport.ir.&type=ws#TR🇹🇷
+ss://ce095ae6-74ee-6097-5acb-5bd6d3268fe3@dl-02.easyrain.ir:45555?security=tls&type=tcp&headerType=http&path=%2F&host=zhaket.com&fp=firefox&allowInsecure=1&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40falcunargo%20%5B10%5D
 ss://d03e1748-b8f2-45c7-bf86-6b3964c3e093@188.132.183.15:8443?security=reality&encryption=none&pbk=cdZROd5jYaqrDcmZJUw_KSpfUusjrrKDgah8ZkOdF2E&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=b44cea83b91a143a#REALITY|TR🇹🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#TR🇹🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
@@ -95,6 +95,7 @@ vless://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?pat
 vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@ns.cloudflare.com:8080?path=maxii%3D%3D%3Fed%3D8080&security=none&encryption=none&host=try2254.www.speedtest.net.ftp.debian.org.www.digikala.com.pshreport.ir.&type=httpupgrade#TR🇹🇷
 vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@ns.cloudflare.com:8080?type=httpupgrade&encryption=none&host=try2254.www.speedtest.net.ftp.debian.org.www.digikala.com.pshreport.ir.&path=maxii%3D%3D%3Fed%3D8080#TR🇹🇷
 vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@ns.cloudflare.com:80?path=%2Fmaxii%3Fed%3D80&security=none&encryption=none&host=try2254.www.speedtest.net.ftp.debian.org.www.digikala.com.pshreport.ir.&type=ws#TR🇹🇷
+vless://ce095ae6-74ee-6097-5acb-5bd6d3268fe3@dl-02.easyrain.ir:45555?security=tls&type=tcp&headerType=http&path=%2F&host=zhaket.com&fp=firefox&allowInsecure=1&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40falcunargo%20%5B10%5D
 vless://d03e1748-b8f2-45c7-bf86-6b3964c3e093@188.132.183.15:8443?security=reality&encryption=none&pbk=cdZROd5jYaqrDcmZJUw_KSpfUusjrrKDgah8ZkOdF2E&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=b44cea83b91a143a#REALITY|TR🇹🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#TR🇹🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
