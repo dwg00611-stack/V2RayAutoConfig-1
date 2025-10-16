@@ -131,7 +131,6 @@ ss://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=none&enc
 ss://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B75%5D
 ss://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 ss://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:133.77ms
-ss://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:174.61ms
 ss://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?type=tcp&encryption=none#IR🇮🇷
 ss://4aae04fa-f390-44bb-9558-a344c8baed36@80.13.135.11:57546?mode=gun&security=reality&encryption=none&pbk=G4WqyBonyjuo6n6pIL_yLN33T9e8BNHIUlrVnqZPpTY&fp=chrome&type=grpc&serviceName=probrain-etl&sni=ratp.fr&sid=e9da#All-@IRAN_V2RAY1
 ss://4b3d1517-204f-423a-8469-2d79444418a9@104.18.26.90:443?path=/wsss&security=tls&encryption=none&type=ws&sni=bLAZE-GErmanY-246.MEtIKaPps.COm#MCI-@IRAN_V2RAY1
@@ -204,7 +203,6 @@ ss://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&encryp
 ss://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@mainserver2.tarighi.info:16520?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.22:443?security=tls&encryption=none&type=ws#@IRAN_V2RAY1
 ss://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?path=/&security=none&encryption=none&type=ws#MTN-@IRAN_V2RAY1
-ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.205.130:443/?encryption=none&host=zula.ir&type=tcp&headerType=http#Bya%20To%20%40Iran_V2ray1
 ss://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40tobevasl%20%5B16%5D
 ss://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333?security=&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40tobevasl%20%5B16%5D
 ss://7e410940-0187-4ddf-b64f-3117f1e12f4f@141.227.130.37:58199?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All--@Iran_V2ray1
@@ -672,7 +670,6 @@ vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=none&
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B75%5D
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:133.77ms
-vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:174.61ms
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?type=tcp&encryption=none#IR🇮🇷
 vless://4aae04fa-f390-44bb-9558-a344c8baed36@80.13.135.11:57546?mode=gun&security=reality&encryption=none&pbk=G4WqyBonyjuo6n6pIL_yLN33T9e8BNHIUlrVnqZPpTY&fp=chrome&type=grpc&serviceName=probrain-etl&sni=ratp.fr&sid=e9da#All-@IRAN_V2RAY1
 vless://4b3d1517-204f-423a-8469-2d79444418a9@104.18.26.90:443?path=/wsss&security=tls&encryption=none&type=ws&sni=bLAZE-GErmanY-246.MEtIKaPps.COm#MCI-@IRAN_V2RAY1
@@ -745,7 +742,6 @@ vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&enc
 vless://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@mainserver2.tarighi.info:16520?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.22:443?security=tls&encryption=none&type=ws#@IRAN_V2RAY1
 vless://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?path=/&security=none&encryption=none&type=ws#MTN-@IRAN_V2RAY1
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.205.130:443/?encryption=none&host=zula.ir&type=tcp&headerType=http#Bya%20To%20%40Iran_V2ray1
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40tobevasl%20%5B16%5D
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333?security=&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40tobevasl%20%5B16%5D
 vless://7e410940-0187-4ddf-b64f-3117f1e12f4f@141.227.130.37:58199?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All--@Iran_V2ray1
