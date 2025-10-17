@@ -201,6 +201,7 @@ ss://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&encryp
 ss://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@mainserver2.tarighi.info:16520?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.22:443?security=tls&encryption=none&type=ws#@IRAN_V2RAY1
 ss://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?path=/&security=none&encryption=none&type=ws#MTN-@IRAN_V2RAY1
+ss://7af97898-28b5-4f7b-ba65-ab17c5a4769f@37.202.248.216:4334?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Karaj
 ss://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40tobevasl%20%5B16%5D
 ss://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333?security=&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40tobevasl%20%5B16%5D
 ss://7e410940-0187-4ddf-b64f-3117f1e12f4f@141.227.130.37:58199?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All--@Iran_V2ray1
@@ -253,7 +254,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYkV2SkNXQUpRR0ZQcmFKWXgwRWVB@45.138.135.155
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#@Rayan_Config-IFI-7mwOF-@iranfreeinternet_bot
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#IR-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@id.vpnsparta.pro:57456#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@pl.vpnsparta.pro:57456#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%97
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@id.vpnsparta.pro:57456#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%97%20270.3KB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGYzNDMxMmM3M2FjYWUy@135.125.219.2:25930#WiFi-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dkhHaGVXd1M2MVFlS29GUnRaVnM2@194.87.45.189:443#All-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@172.236.31.248:808#@IRAN_V2RAY1
@@ -344,7 +345,6 @@ ss://bd3aebac-d170-40c1-8e01-32f628c02b2c@vip.hackers855.sbs:721?type=tcp&path=%
 ss://bf813b9a-14ff-4223-8c62-2968c6221148@nv111.momdping.com:443/?type=ws&encryption=none&path=%2F&security=tls&sni=nv111.momdping.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40configscenter%20%5B1%5D
 ss://c123cc6a-528b-4992-fc03-e2aa9f313782@185.46.1.203:13008?type=tcp&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40toucan_vpn%20%5B1%5D
 ss://c349a35c-2a04-4ab3-a84e-0d3fa49c4186@Speedtest.net:80?mode=auto&path=/muii2096&security=none&encryption=none&host=Poormyo.global.ssl.fastly.net&type=xhttp#Allـ@Iran_v2ray1
-ss://c393a438-4503-43b9-9a8b-977d75f010bd@85.133.200.39:443?security=none&type=tcp&host=neshan.org&headerType=http#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:128.41ms
 ss://c40860f1-ce6e-4378-90be-794fac923697@8.47.69.4:8080?path=/&security=none&encryption=none&host=bbhbhhu.farcadezero.ir&type=ws#@UCIRANIR
 ss://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#@IRAN_V2RAY1--All
 ss://c9032a96-614a-4e8c-bc01-c96aa2ef749c@zarin8i.alireza031.pw:26734?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=none&encryption=none&type=ws#IR🇮🇷
@@ -729,6 +729,7 @@ vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&enc
 vless://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@mainserver2.tarighi.info:16520?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.22:443?security=tls&encryption=none&type=ws#@IRAN_V2RAY1
 vless://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?path=/&security=none&encryption=none&type=ws#MTN-@IRAN_V2RAY1
+vless://7af97898-28b5-4f7b-ba65-ab17c5a4769f@37.202.248.216:4334?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Karaj
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40tobevasl%20%5B16%5D
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333?security=&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40tobevasl%20%5B16%5D
 vless://7e410940-0187-4ddf-b64f-3117f1e12f4f@141.227.130.37:58199?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All--@Iran_V2ray1
@@ -802,7 +803,6 @@ vless://bd3aebac-d170-40c1-8e01-32f628c02b2c@vip.hackers855.sbs:721?type=tcp&pat
 vless://bf813b9a-14ff-4223-8c62-2968c6221148@nv111.momdping.com:443/?type=ws&encryption=none&path=%2F&security=tls&sni=nv111.momdping.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40configscenter%20%5B1%5D
 vless://c123cc6a-528b-4992-fc03-e2aa9f313782@185.46.1.203:13008?type=tcp&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40toucan_vpn%20%5B1%5D
 vless://c349a35c-2a04-4ab3-a84e-0d3fa49c4186@Speedtest.net:80?mode=auto&path=/muii2096&security=none&encryption=none&host=Poormyo.global.ssl.fastly.net&type=xhttp#Allـ@Iran_v2ray1
-vless://c393a438-4503-43b9-9a8b-977d75f010bd@85.133.200.39:443?security=none&type=tcp&host=neshan.org&headerType=http#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:128.41ms
 vless://c40860f1-ce6e-4378-90be-794fac923697@8.47.69.4:8080?path=/&security=none&encryption=none&host=bbhbhhu.farcadezero.ir&type=ws#@UCIRANIR
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#@IRAN_V2RAY1--All
 vless://c9032a96-614a-4e8c-bc01-c96aa2ef749c@zarin8i.alireza031.pw:26734?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=none&encryption=none&type=ws#IR🇮🇷
