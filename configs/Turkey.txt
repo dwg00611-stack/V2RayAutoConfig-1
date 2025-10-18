@@ -13,6 +13,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBS2hpVXpCZVR6SHk@77.83.245.171:443#%F0%9F%87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHWnkyVkxZQ0tHUjFqa095Y1VzdTdw@62.60.233.220:18685#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+62.60.233.220-18685+%7C+122.86ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHemRmNWpqUzY5V2lvMzAyYmprZUV6@62.133.63.21:65262#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+62.133.63.21-65262+%7C+122.8ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOYlFOcW5nYUl3Uzc@83.217.9.101:443#%F0%9F%87%B9%F0%9F%87%B7TR-83.217.9.101-0921
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXV21GZDlNQ3NkWWo=@77.83.245.172:443#TR🇹🇷(OUTLINE)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYMm9jSldab2hYckU@77.83.245.169:443#%F0%9F%87%B9%F0%9F%87%B7TR-77.83.245.169-0324
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZaDJKeE9WdEkwd2xDZ3hZcnZ2Q3ZV@62.133.63.244:7920#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+62.133.63.244-7920+%7C+122.35ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@tr.vpnsparta.pro:57456#%F0%9F%87%B9%F0%9F%87%B7TR-62.133.63.211-5197
@@ -65,7 +66,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?mode=gun&security=
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880/?type=grpc&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40selinc%20%5B5%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?encryption=none&security=none&type=grpc#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:68.45ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?encryption=none&type=grpc&mode=gun&security=none#TR🇹🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#TR🇹🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#TR🇹🇷
@@ -108,7 +108,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880/?type=grpc&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40selinc%20%5B5%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?encryption=none&security=none&type=grpc#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:68.45ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?encryption=none&type=grpc&mode=gun&security=none#TR🇹🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#TR🇹🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#TR🇹🇷
