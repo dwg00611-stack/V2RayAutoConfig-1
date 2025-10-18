@@ -170,6 +170,7 @@ trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:1924?security=tls&sni=ww
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:3271?security=tls&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3CN-36.156.102.88-0716
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:3296?security=tls&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3CN-36.156.102.88-0737
 trojan://3c77ad6b-9c9c-4aff-beff-0a16e2cdea15@36.141.40.42:13007?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.141.40.42-1481
+trojan://3c77ad6b-9c9c-4aff-beff-0a16e2cdea15@36.141.40.42:13007?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&headerType=none#%E4%B8%AD%E5%9B%BD%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa0a.xyz%2F%E3%80%918
 trojan://453121aa-6c1d-33ed-a175-cb46aa8f22f0@suningyunyou.judelvin.com:13028/?type=tcp&security=tls&sni=3t49hrhac.qqtoup81.top#%F0%9F%87%A8%F0%9F%87%B3CN-120.233.64.208-0652
 trojan://453121aa-6c1d-33ed-a175-cb46aa8f22f0@suningyunyou.judelvin.com:13033/?type=tcp&security=tls&sni=hg2983hrfx.qqtoup81.top#%F0%9F%87%A8%F0%9F%87%B3CN-120.233.64.208-0653
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_15
