@@ -3,7 +3,6 @@ ss://3f0789a9-df63-4520-beed-4e29bf4fd0b3@95.134.130.138:5437?encryption=none&ty
 ss://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443/?type=ws&encryption=none&path=%2Flkjdasws&security=tls#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2trayproxy%20%5B24%5D
 ss://8339a5e8-6141-41f1-9abc-bbf1a06ac5ae@medrd.vtpmng.top:8443?note=---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN---&encryption=none&security=tls&sni=medrd.vtpmng.top&type=ws&host=medrd.vtpmng.top&path=%2F#TR🇹🇷
 ss://8339a5e8-6141-41f1-9abc-bbf1a06ac5ae@medrd.vtpmng.top:8443?path=%2F&security=tls&encryption=none&host=medrd.vtpmng.top&type=ws&sni=medrd.vtpmng.top#TR🇹🇷
-ss://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.60.233.30:443/?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tr.eu-ffast.com&sid=50#👉🆔@freenettir📡🇹🇷®️Turkey©️Istanbul🅿️ping:58.7ms
 ss://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.60.233.30:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tr.eu-ffast.com&sid=50#REALITY|TR🇹🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OQ==@tur.fastsoonlink.com:40019#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+tur.fastsoonlink.com-40019+%7C+260.93ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFpMSFRQOGJ6TWc2S2VJV2NwZXo3@62.133.63.21:65262#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+62.133.63.21-65262+%7C+126.25ms
@@ -58,7 +57,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880/?type=grpc&encrypti
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?encryption=none&security=none&type=grpc#TR🇹🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#TR🇹🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=&encryption=none&type=grpc#TR🇹🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:59.43ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#TR🇹🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kurdistan_vpn_perfectt%20%5B8%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
@@ -91,7 +89,6 @@ vless://3f0789a9-df63-4520-beed-4e29bf4fd0b3@95.134.130.138:5437?encryption=none
 vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443/?type=ws&encryption=none&path=%2Flkjdasws&security=tls#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2trayproxy%20%5B24%5D
 vless://8339a5e8-6141-41f1-9abc-bbf1a06ac5ae@medrd.vtpmng.top:8443?note=---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN---&encryption=none&security=tls&sni=medrd.vtpmng.top&type=ws&host=medrd.vtpmng.top&path=%2F#TR🇹🇷
 vless://8339a5e8-6141-41f1-9abc-bbf1a06ac5ae@medrd.vtpmng.top:8443?path=%2F&security=tls&encryption=none&host=medrd.vtpmng.top&type=ws&sni=medrd.vtpmng.top#TR🇹🇷
-vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.60.233.30:443/?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tr.eu-ffast.com&sid=50#👉🆔@freenettir📡🇹🇷®️Turkey©️Istanbul🅿️ping:58.7ms
 vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.60.233.30:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tr.eu-ffast.com&sid=50#REALITY|TR🇹🇷
 vless://a410ee53-3189-8de8-5b2f-f141e719e335@dl-02.easyrain.ir:45555/?type=http&encryption=none&host=zhaket.com&security=tls&sni=zhaket.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40falcunargo%20%5B31%5D
 vless://ad13e7bf-b1af-487e-a56e-3ba66f1984c9@193.111.76.89:7070?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=edu.frnsoft.com#TR🇹🇷
@@ -102,7 +99,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880/?type=grpc&encry
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?encryption=none&security=none&type=grpc#TR🇹🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#TR🇹🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=&encryption=none&type=grpc#TR🇹🇷
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Izmir🅿️ping:59.43ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#TR🇹🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kurdistan_vpn_perfectt%20%5B8%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
