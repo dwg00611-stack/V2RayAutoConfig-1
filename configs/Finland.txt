@@ -36,6 +36,7 @@ ss://3e7d7af8-fa51-4b7f-bbe2-786599550ddc@165.232.103.60:16595?path=/&security=n
 ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#wi-fi-@iran_v2ray1
 ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=none#FI🇫🇮
 ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#FI🇫🇮
+ss://44cd6985-0949-45ec-b795-8be60cde5ac2@pic2.zarashop0.ir:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pic2.zarashop0.ir#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:14.81ms
 ss://44cd6985-0949-45ec-b795-8be60cde5ac2@pic2.zarashop0.ir:2087?type=grpc&encryption=none&serviceName=&authority=&security=tls&fp=chrome&alpn=h2&allowInsecure=1&sni=pic2.zarashop0.ir#FI🇫🇮
 ss://44cd6985-0949-45ec-b795-8be60cde5ac2@pic2.zarashop0.ir:2087?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h2&allowInsecure=1&sni=pic2.zarashop0.ir#FI🇫🇮
 ss://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#wi-fi-@iran_v2ray1
@@ -145,6 +146,7 @@ vless://3e7d7af8-fa51-4b7f-bbe2-786599550ddc@165.232.103.60:16595?path=/&securit
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#wi-fi-@iran_v2ray1
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=none#FI🇫🇮
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#FI🇫🇮
+vless://44cd6985-0949-45ec-b795-8be60cde5ac2@pic2.zarashop0.ir:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pic2.zarashop0.ir#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:14.81ms
 vless://44cd6985-0949-45ec-b795-8be60cde5ac2@pic2.zarashop0.ir:2087?type=grpc&encryption=none&serviceName=&authority=&security=tls&fp=chrome&alpn=h2&allowInsecure=1&sni=pic2.zarashop0.ir#FI🇫🇮
 vless://44cd6985-0949-45ec-b795-8be60cde5ac2@pic2.zarashop0.ir:2087?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h2&allowInsecure=1&sni=pic2.zarashop0.ir#FI🇫🇮
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#wi-fi-@iran_v2ray1
