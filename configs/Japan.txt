@@ -217,7 +217,6 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua
 trojan://9e76767d-4bfa-4f04-a800-42e2f63afed2@160.16.104.143:443/?type=tcp&security=tls&sni=www.linemo.jp#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.104.143-0656
 trojan://Aimer@47.79.35.191:443/?type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%87%AF%F0%9F%87%B5JP-47.79.35.191-1037
 trojan://Aimer@47.79.38.17:443/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%87%AF%F0%9F%87%B5JP-47.79.38.17-0700
-trojan://BxceQaOe@36.151.251.18:811?#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://BxceQaOe@36.151.251.18:811?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@36.151.251.18:811?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40stairnode
 trojan://b57f94c6-7385-47f7-9c8a-55de6098bd2b@zzjp01.fuqiangren.com:20220?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-157.254.193.251-2232
