@@ -7553,8 +7553,6 @@ trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-10
 trojan://idc117okt@103.226.139.201:443?security=tls
 trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7706
 trojan://installshield@176.97.68.153:8443/?type=tcp&security=tls&sni=176.97.68.153#%F0%9F%87%A6%F0%9F%87%BAAU-176.97.68.153-5831
-trojan://installshield@176.97.68.153:8443?allowInsecure=1&sni=176.97.68.153#🇦🇺[openproxylist.com]
-trojan://installshield@176.97.68.153:8443?allowInsecure=1&sni=🔒
 trojan://installshield@176.97.68.153:8443?security=tls&sni=176.97.68.153#%F0%9F%87%A6%F0%9F%87%BAAU-176.97.68.153-5506
 trojan://installshield@176.97.68.153:8443?security=tls&sni=🔒
 trojan://installshield@23.162.152.30:8443/?type=tcp&security=tls&sni=23.162.152.30#%F0%9F%87%AB%F0%9F%87%B7FR-23.162.152.30-5524
