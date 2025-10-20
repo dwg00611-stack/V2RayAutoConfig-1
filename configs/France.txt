@@ -321,6 +321,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880/?type=grpc&encrypt
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&security=&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#FR🇫🇷
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.124:8880?encryption=none&security=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B29%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.124:8880?encryption=none&type=grpc&mode=gun#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B16%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.124:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.124:8880?mode=gun&security=&encryption=none&authority=%40MARAMBASHI%20%F0%9F%98%8D%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:72.89ms
@@ -913,6 +914,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880/?type=grpc&encr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&security=&encryption=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#FR🇫🇷
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.124:8880?encryption=none&security=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B29%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.124:8880?encryption=none&type=grpc&mode=gun#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B16%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.124:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.124:8880?mode=gun&security=&encryption=none&authority=%40MARAMBASHI%20%F0%9F%98%8D%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:72.89ms
