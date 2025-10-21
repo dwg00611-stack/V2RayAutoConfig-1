@@ -55,6 +55,8 @@ hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009?insecure=1&sn
 hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009?security=tls&insecure=1&sni=d.eans.top#@Daily_Configs
 hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009?security=tls&insecure=1&sni=d.eans.top#https://t.me/Selinc
 hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009?security=tls&insecure=1&sni=d.eans.top#🇩🇪@FreakConfig
+hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009?sni=d.eans.top&insecure=1#@freenettir
+hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009?sni=d.eans.top&insecure=1#@v2ray_configs_pool
 hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@d.eans.top:7009?insecure=1&sni=d.eans.top#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig%20%231
 hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@d.eans.top:7009?security=tls&insecure=1&sni=d.eans.top#🇩🇪@FreakConfig
 hysteria2://3d6a176d-8d40-4e12-9697-708da40f0b1a@banmabanmabanmabanmabanmabanma4.wanlidag.top:54265?insecure=1&sni=banmabanmabanmabanmabanmabanma4.wanlidag.top#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2018
@@ -178,6 +180,7 @@ hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262/?insecure=1
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262?insecure=1&sni=www.bing.com#%40meli_proxyy%20%235
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262?security=tls&insecure=1&sni=www.bing.com#%40meli_proxyy
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262?security=tls&insecure=1&sni=www.bing.com#@meli_proxyy
+hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262?security=tls&insecure=1&sni=www.bing.com#🌐سرور
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.73.221:47262?insecure=1&sni=www.bing.com#11%7C%40Selinc
 hysteria2://8727de34-435d-4d00-8e88-ca2a6232ea93@banmabanmabanmabanmabanmabanma2.wanlidag.top:54265?insecure=1&sni=banmabanmabanmabanmabanmabanma2.wanlidag.top#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2001
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?insecure=1&sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%232
@@ -199,6 +202,7 @@ hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?insecure=1&sni=net2025.afsharidempire.ukr♡ya&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2#%E6%9C%AA%E5%91%BD%E5%90%8D%20%234
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?security=tls&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1&sni=net2025.afsharidempire.uk#@meli_proxyy
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?security=tls&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1&sni=net2025.afsharidempire.uk#r♡ya
+hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?security=tls&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1&sni=net2025.afsharidempire.uk&note=@freeOnlineVPN#🇳🇱
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?security=tls&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1&sni=net2025.afsharidempire.ukr♡ya
 hysteria2://8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6@836902-20.9966661.xyz:3000?insecure=0&sni=836902-20.9966661.xyz#%F0%9F%94%90%20%40AblNet7%20%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90
 hysteria2://8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6@836902-20.9966661.xyz:3000?security=tls&insecure=0&sni=836902-20.9966661.xyz#🔐
