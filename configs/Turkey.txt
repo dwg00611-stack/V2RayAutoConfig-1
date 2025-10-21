@@ -103,7 +103,6 @@ ss://e138b9d4-1bc9-49d0-b6ad-34347e464c05@188.132.183.15:8081?security=none&encr
 ss://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B8%5D
 ss://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B8%5D
 ss://f629aa8e-86cb-4cec-94de-8cb1b549798c@95.134.130.176:80/?type=ws&encryption=none&flow=&host=fast.com&path=%2F#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Pendik🅿️ping:62.21ms
-ss://f629aa8e-86cb-4cec-94de-8cb1b549798c@95.134.130.176:80?path=%2F&security=none&encryption=none&host=fast.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesc%20%5B18%5D
 ss://f629aa8e-86cb-4cec-94de-8cb1b549798c@95.134.130.176:80?path=%2F&security=none&encryption=none&host=fast.com&type=ws#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Pendik🅿️ping:61.25ms
 ss://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088/?type=tcp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40drvpn_net%20%5B2%5D
 ss://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40drvpn_net%20%5B2%5D
@@ -172,7 +171,6 @@ vless://e138b9d4-1bc9-49d0-b6ad-34347e464c05@188.132.183.15:8081?security=none&e
 vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B8%5D
 vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B8%5D
 vless://f629aa8e-86cb-4cec-94de-8cb1b549798c@95.134.130.176:80/?type=ws&encryption=none&flow=&host=fast.com&path=%2F#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Pendik🅿️ping:62.21ms
-vless://f629aa8e-86cb-4cec-94de-8cb1b549798c@95.134.130.176:80?path=%2F&security=none&encryption=none&host=fast.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesc%20%5B18%5D
 vless://f629aa8e-86cb-4cec-94de-8cb1b549798c@95.134.130.176:80?path=%2F&security=none&encryption=none&host=fast.com&type=ws#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Pendik🅿️ping:61.25ms
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088/?type=tcp&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40drvpn_net%20%5B2%5D
 vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40drvpn_net%20%5B2%5D

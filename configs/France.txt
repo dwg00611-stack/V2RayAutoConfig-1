@@ -9,7 +9,7 @@ ss://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encr
 ss://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:77.34ms
 ss://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&encryption=none#FR🇫🇷
 ss://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&encryption=none&flow=#FR🇫🇷
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.172.180:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vlessconfig%20%5B11%5D
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.60.157:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vlessconfig%20%5B14%5D
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.152.121:22224/?type=ws&encryption=none&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vlessconfig%20%5B9%5D
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.240.118:22224/?type=ws&encryption=none&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vlessconfig%20%5B14%5D
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.236.219:22224/?type=ws&encryption=none&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vlessconfig%20%5B13%5D
@@ -49,6 +49,7 @@ ss://46788ea0-fdf1-4694-90a0-dec94fc471c3@109.172.55.114:443?security=reality&en
 ss://46788ea0-fdf1-4694-90a0-dec94fc471c3@109.172.55.114:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:39.06ms
 ss://46788ea0-fdf1-4694-90a0-dec94fc471c3@109.172.55.114:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:39.14ms
 ss://46788ea0-fdf1-4694-90a0-dec94fc471c3@109.172.55.114:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:66.65ms
+ss://48198295-b7ba-4b5c-8d85-085d55a6c869@158.178.192.221:443?security=tls&sni=ax.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B44%5D
 ss://60216396-9001-451a-aa7b-8e57bb4c6b50@195.42.233.135:443?path=%2Fpfrlouws%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=tls&encryption=none&fp=chrome&type=ws#FR🇫🇷
 ss://60216396-9001-451a-aa7b-8e57bb4c6b50@195.42.233.135:443?path=%2Fpfrlouws&security=tls&encryption=none&fp=chrome&type=ws#FR🇫🇷
 ss://60216396-9001-451a-aa7b-8e57bb4c6b50@195.42.233.135:443?type=ws&encryption=none&path=%2Fpfrlouws&security=tls#FR🇫🇷
@@ -313,7 +314,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?encryption=none&secur
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?encryption=none&security=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:74.42ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpn_ioss%20%5B15%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?encryption=none&security=none&type=grpc#FR🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesc%20%5B20%5D
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesc%20%5B19%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:89.82ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?type=grpc&encryption=none&flow=#FR🇫🇷
@@ -378,7 +379,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?mode=gun&security=n
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2raying%20%5B12%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880?encryption=none&type=grpc&mode=gun&security=none#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880?mode=gun&security=none&encryption=none&authority=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&type=grpc#FR🇫🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880?type=grpc&encryption=none&flow=#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.94:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#FR🇫🇷
@@ -607,7 +607,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?mode=gun&security=n
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AFR
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B15%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880/?type=grpc&encryption=none#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:83.63ms
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880/?type=grpc&encryption=none#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:88.04ms
 ss://e05ff63a-9c84-4f10-b572-2c725236ef81@France.bollstook.ir:8880?note=--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--bia--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--&path=%2FNama%3Fed%3D2048&security=none&encryption=none&host=France.bollstook.ir&type=ws#FR🇫🇷
 ss://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reality&encryption=none&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=1aab45#%3E%3E%40v2rayngvpn%3A%3AFR
@@ -653,7 +652,7 @@ trojan://iwangjie@141.94.68.216:2053/?type=ws&path=%2F%3Fed%3D2560&security=tls&
 trojan://origin@176.31.83.90:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-176.31.83.90-1195
 trojan://slch2024@185.16.110.195:2096/?type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%87%AB%F0%9F%87%B7FR-185.16.110.195-0689
 trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.112.204-8672
-trojan://telegram-id-privatevpns@15.188.172.180:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B11%5D
+trojan://telegram-id-privatevpns@13.36.60.157:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B14%5D
 trojan://telegram-id-privatevpns@15.236.122.160:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.236.122.160-8577
 trojan://telegram-id-privatevpns@15.236.122.160:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.236.122.160-8579
 trojan://telegram-id-privatevpns@15.237.12.5:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.12.5-2293
@@ -664,7 +663,7 @@ trojan://telegram-id-privatevpns@35.180.202.29:22222?security=tls&sni=trj.rollin
 trojan://telegram-id-privatevpns@35.180.202.29:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-35.180.202.29-8107
 trojan://telegram-id-privatevpns@35.180.36.215:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-35.180.36.215-8102
 trojan://telegram-id-privatevpns@35.180.36.215:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-35.180.36.215-8104
-trojan://telegram-id-v2rayvpnchannel@15.188.172.180:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B11%5D
+trojan://telegram-id-v2rayvpnchannel@13.36.60.157:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B14%5D
 trojan://telegram-id-v2rayvpnchannel@15.237.152.121:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B12%5D
 trojan://zsu4Mq3A9J@51.195.254.75:8443?security=tls&sni=uk-02.allhubb.info&type=tcp#FR🇫🇷
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none#%3E%3E%40ShadowsocksM%3A%3AFR
@@ -678,7 +677,7 @@ vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&e
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:77.34ms
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&encryption=none#FR🇫🇷
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&encryption=none&flow=#FR🇫🇷
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.172.180:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vlessconfig%20%5B11%5D
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.60.157:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vlessconfig%20%5B14%5D
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.152.121:22224/?type=ws&encryption=none&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vlessconfig%20%5B9%5D
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.240.118:22224/?type=ws&encryption=none&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vlessconfig%20%5B14%5D
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.236.219:22224/?type=ws&encryption=none&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vlessconfig%20%5B13%5D
@@ -717,6 +716,7 @@ vless://46788ea0-fdf1-4694-90a0-dec94fc471c3@109.172.55.114:443?security=reality
 vless://46788ea0-fdf1-4694-90a0-dec94fc471c3@109.172.55.114:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:39.06ms
 vless://46788ea0-fdf1-4694-90a0-dec94fc471c3@109.172.55.114:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:39.14ms
 vless://46788ea0-fdf1-4694-90a0-dec94fc471c3@109.172.55.114:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:66.65ms
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@158.178.192.221:443?security=tls&sni=ax.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B44%5D
 vless://60216396-9001-451a-aa7b-8e57bb4c6b50@195.42.233.135:443?path=%2Fpfrlouws%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=tls&encryption=none&fp=chrome&type=ws#FR🇫🇷
 vless://60216396-9001-451a-aa7b-8e57bb4c6b50@195.42.233.135:443?path=%2Fpfrlouws&security=tls&encryption=none&fp=chrome&type=ws#FR🇫🇷
 vless://60216396-9001-451a-aa7b-8e57bb4c6b50@195.42.233.135:443?type=ws&encryption=none&path=%2Fpfrlouws&security=tls#FR🇫🇷
@@ -909,7 +909,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?encryption=none&se
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?encryption=none&security=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:74.42ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpn_ioss%20%5B15%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?encryption=none&security=none&type=grpc#FR🇫🇷
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesc%20%5B20%5D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmesc%20%5B19%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:89.82ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?type=grpc&encryption=none&flow=#FR🇫🇷
@@ -974,7 +974,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2raying%20%5B12%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880?encryption=none&type=grpc&mode=gun&security=none#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880?mode=gun&security=none&encryption=none&authority=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&type=grpc#FR🇫🇷
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880?type=grpc&encryption=none&flow=#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.94:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#FR🇫🇷
@@ -1203,7 +1202,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AFR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B15%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880/?type=grpc&encryption=none#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:83.63ms
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880/?type=grpc&encryption=none#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:88.04ms
 vless://e05ff63a-9c84-4f10-b572-2c725236ef81@France.bollstook.ir:8880?note=--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--bia--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--&path=%2FNama%3Fed%3D2048&security=none&encryption=none&host=France.bollstook.ir&type=ws#FR🇫🇷
 vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reality&encryption=none&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=1aab45#%3E%3E%40v2rayngvpn%3A%3AFR
