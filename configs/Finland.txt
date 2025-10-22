@@ -27,6 +27,7 @@ ss://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryp
 ss://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&type=tcp#%3E%3E%40v2rayngvpn%3A%3AFI
 ss://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&e…#%3E%3E%40v2ray1_ng%3A%3AFI
 ss://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&headerType=none&fp=random&type=tcp&sni=www.speedtest.net&sid=cbfe#REALITY|FI🇫🇮
+ss://37e7881f-ff59-4858-83cd-c6b4b03cba4a@64.188.78.60:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=chrome&pbk=0ZbtEmi2lk_KUh1-w6g08hnSn863LZwj30vSHWS-NCU&sid=ee009b&spx=%2FH60wnRP591U6Dkw&type=tcp&headerType=none#%3E%3E%40DailyV2RY%3A%3AFI
 ss://3921ced2-19c6-476b-840f-988bfee49a30@65.109.8.76:35000/?type=ws&encryption=none&path=%2F#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayng3%20%5B5%5D
 ss://3921ced2-19c6-476b-840f-988bfee49a30@65.109.8.76:35000?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayng3%20%5B5%5D
 ss://3a4524bb-5d17-4c09-b523-6ab1e1a41d81@45.12.135.7:8443?security=reality&encryption=none&pbk=blSlAMMTv5UdIZiQd6VtBlS7kfZJ9xpw9H95Ouohbxs&headerType=none&fp=chrome&spx=%2Fdefault&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=4bb9dbdad476124c#Finland%20%F0%9F%87%AB%F0%9F%87%AE
@@ -101,7 +102,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphRTVyRmR4ekc4R1FmNVRBUWhaaFJB@45.144.235.103:1080#%F0%9F%87%AB%F0%9F%87%AEFI-45.144.235.103-0888
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphRTVyRmR4ekc4R1FmNVRBUWhaaFJB@45.144.235.103:1080#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+45.144.235.103-1080+%7C+102.02ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTllzaFJiM216cDc@93.152.207.167:443#%F0%9F%87%AB%F0%9F%87%AEFI-93.152.207.167-0239
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#%3E%3E%40v2rayngvpn%3A%3AFI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+38.244.136.233-443+%7C+100.15ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#%F0%9F%87%AB%F0%9F%87%AEFI-38.244.136.233-0201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#%F0%9F%87%AB%F0%9F%87%AEFI-38.244.136.233-5474
@@ -162,6 +162,7 @@ vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&enc
 vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&type=tcp#%3E%3E%40v2rayngvpn%3A%3AFI
 vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&e…#%3E%3E%40v2ray1_ng%3A%3AFI
 vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&headerType=none&fp=random&type=tcp&sni=www.speedtest.net&sid=cbfe#REALITY|FI🇫🇮
+vless://37e7881f-ff59-4858-83cd-c6b4b03cba4a@64.188.78.60:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=chrome&pbk=0ZbtEmi2lk_KUh1-w6g08hnSn863LZwj30vSHWS-NCU&sid=ee009b&spx=%2FH60wnRP591U6Dkw&type=tcp&headerType=none#%3E%3E%40DailyV2RY%3A%3AFI
 vless://3921ced2-19c6-476b-840f-988bfee49a30@65.109.8.76:35000/?type=ws&encryption=none&path=%2F#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayng3%20%5B5%5D
 vless://3921ced2-19c6-476b-840f-988bfee49a30@65.109.8.76:35000?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayng3%20%5B5%5D
 vless://3a4524bb-5d17-4c09-b523-6ab1e1a41d81@45.12.135.7:8443?security=reality&encryption=none&pbk=blSlAMMTv5UdIZiQd6VtBlS7kfZJ9xpw9H95Ouohbxs&headerType=none&fp=chrome&spx=%2Fdefault&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=4bb9dbdad476124c#Finland%20%F0%9F%87%AB%F0%9F%87%AE
