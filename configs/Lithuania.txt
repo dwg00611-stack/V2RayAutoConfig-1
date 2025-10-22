@@ -90,7 +90,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.22-0352
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+45.87.175.22-8080+%7C+156.45ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#%F0%9F%87%B1%F0%9F%87%B9%20SS-%E7%AB%8B%E9%99%B6%E5%AE%9B%3E%E8%8D%B7%E5%85%B0-NF%E8%A7%A3%E9%94%81%E8%8D%B7%E5%85%B0%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-TikTok-YouTube-45.87.175.28%3A8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#%F0%9F%87%B1%F0%9F%87%B9LT%E7%AB%8B%E9%99%B6%E5%AE%9B%2011.3MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#%F0%9F%87%B1%F0%9F%87%B9LT%E7%AB%8B%E9%99%B6%E5%AE%9B
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.28-0205
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.28-0262
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.28-0387
@@ -115,6 +115,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+45.87.175.92-8080+%7C+156.44ms
 ss://a05367f5-a500-4514-ac99-e73f629229f2@104.21.72.109:80?path=%2F8WrRNGUr2d25Kcpp%2FNTQuMjAwLjI0NC45Mw%3D%3D%3Fed%3D2560&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=pamchall.com.&fp=randomized&type=ws&sni=pAmchALL.COm.#LT🇱🇹
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638929396024898748.lisbon-drc-dcrabj.info:8880/?type=grpc&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2raych%20%5B18%5D
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638929396024898748.lisbon-drc-dcrabj.info:8880?encryption=none&security=none&type=grpc&mode=gun#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B43%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930359207602168.dublin-drc-dcrabj.info:8880?mode=gun&security=&encryption=none&type=grpc#LT🇱🇹
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638932111805004627.rasht-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638935457407159576.birjand-drc-tusacae.info:8880/?type=grpc&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kurdistan_vpn_perfectt%20%5B11%5D
@@ -185,6 +186,7 @@ vless://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?path=%2Fsnippets&
 vless://71b12692-0e7d-4765-b570-5b99aefe6c9a@Www.speedtest.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=LI.fOxmAsTEr.iR&type=ws#LT🇱🇹
 vless://a05367f5-a500-4514-ac99-e73f629229f2@104.21.72.109:80?path=%2F8WrRNGUr2d25Kcpp%2FNTQuMjAwLjI0NC45Mw%3D%3D%3Fed%3D2560&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=pamchall.com.&fp=randomized&type=ws&sni=pAmchALL.COm.#LT🇱🇹
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929396024898748.lisbon-drc-dcrabj.info:8880/?type=grpc&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2raych%20%5B18%5D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929396024898748.lisbon-drc-dcrabj.info:8880?encryption=none&security=none&type=grpc&mode=gun#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B43%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930359207602168.dublin-drc-dcrabj.info:8880?mode=gun&security=&encryption=none&type=grpc#LT🇱🇹
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932111805004627.rasht-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638935457407159576.birjand-drc-tusacae.info:8880/?type=grpc&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kurdistan_vpn_perfectt%20%5B11%5D
