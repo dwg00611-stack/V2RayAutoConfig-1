@@ -82,7 +82,6 @@ ss://d4e52293-4a82-404c-ac29-93afc006dcbb@bitbolajepe.vip:443?path=%2Fproxyip%3D
 ss://d8b42cd5-a149-4356-9e61-30ad83662600@91.107.159.217:443/?type=tcp&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
 ss://def9f760-61e8-2646-2a24-42973e96c041@mlifaaehazarat.darkping.net:4768?security=reality&encryption=none&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.com&sid=b7e284c9b786f709#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AA%F0%9F%87%AA
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?security=&encryption=none&type=grpc#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%AB%F0%9F%87%B7
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.253:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
@@ -334,7 +333,6 @@ vless://d4e52293-4a82-404c-ac29-93afc006dcbb@bitbolajepe.vip:443?path=%2Fproxyip
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@91.107.159.217:443/?type=tcp&encryption=none&flow=#Channel%20id%3A%20%40v2rayng_021
 vless://def9f760-61e8-2646-2a24-42973e96c041@mlifaaehazarat.darkping.net:4768?security=reality&encryption=none&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.com&sid=b7e284c9b786f709#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AA%F0%9F%87%AA
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?security=&encryption=none&type=grpc#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880/?type=grpc&encryption=none#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.253:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7

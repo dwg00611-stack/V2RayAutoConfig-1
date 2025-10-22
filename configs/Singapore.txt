@@ -142,6 +142,7 @@ trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-1
 trojan://a3fa58b581353bb375d2ddad0f327938@184.168.127.50:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-184.168.127.50-0051
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-5792
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-6334
+trojan://auto@194.53.53.4:443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=%2F&host=e9464f45.trauma-2r4.pages.dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
 trojan://cc55e294-b76f-425a-9301-c18afbecaa22@jp.liangyuandian.top:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.213.235.144-2853
 trojan://cd39f62aed7b90f6@5.44.249.43:3389/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.43-7186
 trojan://cd39f62aed7b90f6@5.44.249.43:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.43-6458
