@@ -197,8 +197,10 @@ trojan://7a566d21dfcd0f12490275fd3dd3cfc4@trs09.bolab.net:443?security=tls#%F0%9
 trojan://7x42LetRa0@106.180.225.69:1443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-106.180.225.69-4776
 trojan://82e0ff78-c281-4806-99ee-24c1d9912b4c@lazy.rsqpq.cn:32002?allowInsecure=1#%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
 trojan://82e0ff78-c281-4806-99ee-24c1d9912b4c@lazy.rsqpq.cn:32002?allowInsecure=1#%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian%202
+trojan://82e0ff78-c281-4806-99ee-24c1d9912b4c@lazy.rsqpq.cn:32002?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
 trojan://82e0ff78-c281-4806-99ee-24c1d9912b4c@lazy.rsqpq.cn:32002?allowInsecure=1&sni=lazy.rsqpq.cn#%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
 trojan://82e0ff78-c281-4806-99ee-24c1d9912b4c@lazy.rsqpq.cn:32002?allowInsecure=1&sni=lazy.rsqpq.cn#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
+trojan://82e0ff78-c281-4806-99ee-24c1d9912b4c@lazy.rsqpq.cn:32002?allowInsecure=1&sni=lazy.rsqpq.cn#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4%7C%40stairnode
 trojan://82e0ff78-c281-4806-99ee-24c1d9912b4c@lazy.rsqpq.cn:32002?sni=lazy.rsqpq.cn#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 trojan://8d2d5953-d649-4034-94f2-72f2df2623da@168.138.44.176:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-168.138.44.176-1145
 trojan://8d2d5953-d649-4034-94f2-72f2df2623da@168.138.44.176:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-168.138.44.176-3554
@@ -226,10 +228,10 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua
 trojan://9e76767d-4bfa-4f04-a800-42e2f63afed2@160.16.104.143:443/?type=tcp&security=tls&sni=www.linemo.jp#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.104.143-0656
 trojan://Aimer@47.79.35.191:443/?type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%87%AF%F0%9F%87%B5JP-47.79.35.191-1037
 trojan://Aimer@47.79.38.17:443/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%87%AF%F0%9F%87%B5JP-47.79.38.17-0700
-trojan://BxceQaOe@36.151.251.18:2145?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-trojan://BxceQaOe@36.151.251.18:2145?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40stairnode
 trojan://BxceQaOe@36.156.102.82:401?#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4
 trojan://BxceQaOe@36.156.102.82:401?allowInsecure=1#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://BxceQaOe@36.156.102.82:401?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://BxceQaOe@36.156.102.82:401?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40stairnode
 trojan://b57f94c6-7385-47f7-9c8a-55de6098bd2b@zzjp01.fuqiangren.com:20220?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-157.254.193.251-2206
 trojan://c09eb137-bf68-4658-84e0-102d94b74168@150.230.217.213:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.217.213-3049
 trojan://c19d1432-8b3e-4818-8837-3d160cf65908@138.2.45.243:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-138.2.45.243-2827
@@ -268,8 +270,6 @@ trojan://cd41b9d7-df15-46ad-a778-257b0851525a@de01.trojanyyds.xyz:443?security=t
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@us01.trojanyyds.xyz:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-172.207.174.78-2864
 trojan://d06a3f01-1ff0-4792-9b8e-a5a604bc74a2@168.138.43.89:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-168.138.43.89-2896
 trojan://da777aae-defb-41d0-a183-2c27da2b4677@150.230.96.103:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.96.103-3180
-trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:1331?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:1331?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:1331?allowInsecure=0&sni=www.nintendogames.net#12%2C13%7C%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:1331?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.81.84-1129
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:1331?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3%201.7MB%2Fs
@@ -277,6 +277,8 @@ trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:2283?security=tls&sni=www
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:2381?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.81.84-1134
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:2467?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.81.84-1133
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:3161?allowInsecure=1&sni=www.baidu.com#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:3161?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:3161?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:3161?security=tls&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.81.84-2231
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:3161?sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC5
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.81.84:4452?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian

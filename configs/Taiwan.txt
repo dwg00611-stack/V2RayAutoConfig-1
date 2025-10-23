@@ -28,7 +28,10 @@ trojan://7b06d22a8a7c764f@211.72.35.156:3389?security=tls#%F0%9F%87%B9%F0%9F%87%
 trojan://7b06d22a8a7c764f@211.72.35.158:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.158-2879
 trojan://82e0ff78-c281-4806-99ee-24c1d9912b4c@lazy.rsqpq.cn:38001?allowInsecure=1#%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
 trojan://82e0ff78-c281-4806-99ee-24c1d9912b4c@lazy.rsqpq.cn:38001?allowInsecure=1#%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian%202
+trojan://82e0ff78-c281-4806-99ee-24c1d9912b4c@lazy.rsqpq.cn:38001?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
 trojan://82e0ff78-c281-4806-99ee-24c1d9912b4c@lazy.rsqpq.cn:38001?allowInsecure=1&sni=lazy.rsqpq.cn#%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
+trojan://82e0ff78-c281-4806-99ee-24c1d9912b4c@lazy.rsqpq.cn:38001?allowInsecure=1&sni=lazy.rsqpq.cn#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
+trojan://82e0ff78-c281-4806-99ee-24c1d9912b4c@lazy.rsqpq.cn:38001?allowInsecure=1&sni=lazy.rsqpq.cn#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%7C%40stairnode
 trojan://82e0ff78-c281-4806-99ee-24c1d9912b4c@lazy.rsqpq.cn:38001?allowInsecure=1&sni=lazy.rsqpq.cn#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
 trojan://82e0ff78-c281-4806-99ee-24c1d9912b4c@lazy.rsqpq.cn:38001?sni=lazy.rsqpq.cn#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
 trojan://8b475d9e868e43e0@211.72.35.157:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.157-2837
