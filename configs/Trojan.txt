@@ -4453,6 +4453,7 @@ trojan://Mojtaba-shieldheart@104.16.155.68:8443?security=tls&sni=broken-bread-6b
 trojan://Mojtaba-shieldheart@104.16.211.9:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#@VIProxys
 trojan://Mojtaba-shieldheart@104.16.211.9:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#RELAY🚩
 trojan://Mojtaba-shieldheart@104.24.145.86:2087?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#RELAY🚩
+trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526/?type=tcp&security=tls&sni=glowingpickle.bananatornado.click#%3E%3E%40oneclickvpnkeys%3A%3AIQ
 trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526/?type=tcp&security=tls&sni=glowingpickle.bananatornado.click#%F0%9F%9A%A676%40oneclickvpnkeys
 trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526/?type=tcp&security=tls&sni=glowingpickle.bananatornado.click#%F0%9F%9A%A676%40oneclickvpnkeysvless://ddab5550-3938-4aba-943c-f23a08d07dc5@alhilal.com:443/?type=ws&encryption=none&flow=&host=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&fp=chrome#%F0%9F%9A%A661%40oneclickvpnkeysvless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424/?type=tcp&encryption=none&flow=&sni=ya.ru&fp=chrome&security=reality&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#%F0%9F%9A%A664%40oneclickvpnkeysvless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617/?type=tcp&encryption=none&flow=#%F0%9F%9A%A665%40oneclickvpnkeys
 trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526/?type=tcp&security=tls&sni=glowingpickle.bananatornado.click#Telegram+%7C+Payam_Nsi
@@ -8446,8 +8447,6 @@ trojan://installshield@38.180.249.177:8443?security=tls&sni=🔒
 trojan://iwangjie@135.125.232.253:2053/?type=ws&host=nodes.830901.xyz&path=🔒
 trojan://iwangjie@135.125.232.253:2053/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=nodes.830901.xyz#%F0%9F%87%AB%F0%9F%87%B7FR-135.125.232.253-1390
 trojan://iwangjie@138.124.118.34:443/?type=ws&path=%2Fproxyip%3Dproxyip.fxxk.dedyn.io&security=tls&sni=nodes.830901.xyz#%F0%9F%87%AB%F0%9F%87%AEFI-138.124.118.34-1387
-trojan://iwangjie@138.124.118.34:443?security=tls&sni=nodes.830901.xyz&type=ws&host=nodes.830901.xyz&path=%2Fproxyip%3Dproxyip.fxxk.dedyn.io#🇩🇪[openproxylist.com]
-trojan://iwangjie@138.124.118.34:443?security=tls&sni=🔒
 trojan://iwangjie@141.94.68.216:2053/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=nodes.830901.xyz#%F0%9F%87%AB%F0%9F%87%B7FR-141.94.68.216-1389
 trojan://iwangjie@158.101.11.204:15805/?type=tcp&security=tls&sni=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%B8US-158.101.11.204-1002
 trojan://iwangjie@158.101.11.204:15805?security=tls&sni=nodes.830901.xyz&type=ws&path=/?ed=2560&Host=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%B8US-158.101.11.204-0663
@@ -9456,6 +9455,7 @@ trojan://telegram-id-privatevpns@52.47.92.82:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@52.48.207.242:22222?security=tls&sni=🔒
 trojan://telegram-id-privatevpns@52.58.149.106:22222?type=tcp&security=tls&sni=🔒
 trojan://telegram-id-privatevpns@52.58.179.46:22222?allowInsecure=0&sni=🔒
+trojan://telegram-id-privatevpns@52.59.186.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@54.154.239.54:22222?security=tls&sni=🔒
 trojan://telegram-id-privatevpns@54.155.203.115:22222?security=tls&headerType=&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@54.171.7.212:22222?security=tls&sni=🔒
