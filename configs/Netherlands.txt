@@ -368,7 +368,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.info:8880?mode=gun&security=none&encryption=none&type=grpc#NL🇳🇱
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.info:8880?type=grpc&encryption=none&flow=#NL🇳🇱
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638959338853397707.shiraz-blkaft-aaaj.info:8880?mode=&security=&alpn=&encryption=none&fp=&type=grpc&serviceName=&sni=&allowInsecure=#NL🇳🇱
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@77.91.123.207:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B50%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@77.91.123.207:8880?mode=gun&security=none&encryption=none&type=grpc#NL🇳🇱
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?mode=gun&security=none&encryption=none&type=grpc#NL🇳🇱
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880/?type=grpc&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40freeconfigsplus%20%5B20%5D
@@ -551,7 +550,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.info:8880?mode=gun&security=none&encryption=none&type=grpc#NL🇳🇱
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.info:8880?type=grpc&encryption=none&flow=#NL🇳🇱
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959338853397707.shiraz-blkaft-aaaj.info:8880?mode=&security=&alpn=&encryption=none&fp=&type=grpc&serviceName=&sni=&allowInsecure=#NL🇳🇱
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@77.91.123.207:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B50%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@77.91.123.207:8880?mode=gun&security=none&encryption=none&type=grpc#NL🇳🇱
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?mode=gun&security=none&encryption=none&type=grpc#NL🇳🇱
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880/?type=grpc&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40freeconfigsplus%20%5B20%5D
