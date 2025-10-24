@@ -1,4 +1,4 @@
-ss://58fcbac0-03b7-cd14-2f70-61636e195c6e@czech.marzxo.biz:8094?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#REALITY|CZ🇨🇿
+ss://80074d6b-23c5-465e-a348-dcf0378fd1f2@cze01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#REALITY|CZ🇨🇿
 ss://9547fa06-f6b1-4817-a8df-644783658dab@chek.glitsch.ir:2686?security=none&encryption=none&headerType=none&type=tcp#CZ🇨🇿
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.195.67.178:990#%F0%9F%87%A8%F0%9F%87%BFCZ-185.195.67.178-5425
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.195.67.178:990#%F0%9F%87%A8%F0%9F%87%BFCZ-185.195.67.178-5495
@@ -6,15 +6,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeWk0RkRlNEZkclRHM3JVcG5h@195.123.246.15:513
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%3E%3E%40free4allVPN%3A%3ACZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%F0%9F%87%A8%F0%9F%87%BFCZ-195.181.160.6-0198
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%F0%9F%87%A8%F0%9F%87%BFCZ-195.181.160.6-0294
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+195.181.160.6-990+%7C+163ms
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@143.244.58.102:443#%F0%9F%87%A8%F0%9F%87%BFCZ-143.244.58.102-8665
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@212.102.38.41:443#%F0%9F%87%A8%F0%9F%87%BFCZ-212.102.38.41-8280
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@212.102.38.88:443#%F0%9F%87%A8%F0%9F%87%BFCZ-212.102.38.88-8279
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@143.244.58.102:443#%F0%9F%87%A8%F0%9F%87%BFCZ-143.244.58.102-8612
 trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#%F0%9F%87%A8%F0%9F%87%BFCZ-92.118.149.85-3030
-vless://58fcbac0-03b7-cd14-2f70-61636e195c6e@czech.marzxo.biz:8094?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#REALITY|CZ🇨🇿
+vless://80074d6b-23c5-465e-a348-dcf0378fd1f2@cze01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#REALITY|CZ🇨🇿
 vless://9547fa06-f6b1-4817-a8df-644783658dab@chek.glitsch.ir:2686?security=none&encryption=none&headerType=none&type=tcp#CZ🇨🇿
 vmess://eyJ2IjoiMiIsInBzIjoi5o235YWLIDAwMSIsImFkZCI6IjEwOS4xMjMuMjM1LjI0NCIsInBvcnQiOiI1NTAiLCJ0eXBlIjoibm9uZSIsImlkIjoiYTcyZGM2NDItNTZlYy00NTZmLWFhMTgtOTMwYTI3NDIyOGY1IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh78g5o235YWLIFYyQ1JPU1MuQ09NIiwiYWRkIjoiMTg1LjE4OS4zMi4xNzkiLCJwb3J0IjoiMjI3MDIiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDgzYTFjY2UtYWY5Yi00NDE2LWQ3YzYtMTBiOWI2M2JlNjZmIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh78gX+aNt+WFiyIsImFkZCI6IjE4NS4xODkuMzIuMTc5IiwicG9ydCI6IjIyNzAyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQ4M2ExY2NlLWFmOWItNDQxNi1kN2M2LTEwYjliNjNiZTY2ZiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-vmess://eyJhZGQiOiIxODUuMTk1LjY3LjEzNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlZmJkNWE3Yy05YzllLTQyMTYtOGYwMS1lMzlmNWNlZTEwMWIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiI0NDMiLCJwcyI6IkNaXHVkODNjXHVkZGU4XHVkODNjXHVkZGZmIHwgMTg1LjE5NS42Ny4xMzYtNDQzIHwgMTU5Ljg2bXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
