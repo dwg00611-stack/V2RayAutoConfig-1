@@ -1,6 +1,7 @@
 ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AIN
 ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AIN
 ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayngvpn%3A%3AIN
+ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40free4allvpn%20%5B18%5D
 ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40free4allvpn%20%5B19%5D
 ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#IN🇮🇳
 ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?type=tcp&encryption=none&flow=#IN🇮🇳
@@ -46,6 +47,7 @@ trojan://ttfang@20.235.105.146:443/?type=ws&path=%2F&security=tls&sni=ttfang.fan
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AIN
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AIN
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayngvpn%3A%3AIN
+vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40free4allvpn%20%5B18%5D
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40free4allvpn%20%5B19%5D
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#IN🇮🇳
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?type=tcp&encryption=none&flow=#IN🇮🇳
