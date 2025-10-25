@@ -33,10 +33,13 @@ trojan://00ad4330-8d40-11ee-8d1a-1239d0255272@104.21.69.44:443?security=tls&sni=
 trojan://00ad4330-8d40-11ee-8d1a-1239d0255272@172.67.204.84:443?security=tls&sni=🔒
 trojan://01596265-168b-46a7-bcb7-25662c7a9546@188.114.98.0:443?security=tls&sni=🔒
 trojan://01TELEGRAM-ID-soalvajavaab@www.infe.com.br.infe.com.br:2081?mode=gun&security=reality&pbk=VK5gz4nB01usiPqPXG0z6yMo9X1E7mDKMCriwYbuAR4&fp=chrome&type=grpc&sni=www.modernpotterystudio.com&sid=7e0b#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+trojan://01TELEGRAM-ID-soalvajavaab@www.infe.com.br.infe.com.br:2081?mode=gun&security=reality&pbk=VK5gz4nB01usiPqPXG0z6yMo9X1E7mDKMCriwYbuAR4&fp=chrome&type=grpc&sni=www.modernpotterystudio.com&sid=7e0b#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 trojan://01TELEGRAM-ID-soalvajavaab@www.infe.com.br.infe.com.br:2081?mode=gun&security=reality&pbk=VK5gz4nB01usiPqPXG0z6yMo9X1E7mDKMCriwYbuAR4&fp=chrome&type=grpc&sni=www.modernpotterystudio.com&sid=7e0b#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Falkenstein🅿️ping:34.92ms
 trojan://01TELEGRAM-ID-soalvajavaab@www.infe.com.br.infe.com.br:2081?mode=gun&security=reality&pbk=VK5gz4nB01usiPqPXG0z6yMo9X1E7mDKMCriwYbuAR4&fp=chrome&type=grpc&sni=www.modernpotterystudio.com&sid=7e0b#🔥Join+Telegram:@Farah_VPN🟣
 trojan://01TELEGRAM-ID-soalvajavaab@www.infe.com.br.infe.com.br:2081?security=reality&pbk=VK5gz4nB01usiPqPXG0z6yMo9X1E7mDKMCriwYbuAR4&fp=chrome&type=grpc&sni=www.modernpotterystudio.com&sid=7e0b#⚡Telegram
+trojan://01TELEGRAM-ID-soalvajavaab@www.infe.com.br.infe.com.br:446?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 trojan://01TELEGRAM-ID-soalvajavaab@www.infe.com.br.infe.com.br:446?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp#⚡Telegram
+trojan://01TELEGRAM-ID-soalvajavaab@www.infe.com.br.infe.com.br:447?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 trojan://01TELEGRAM-ID-soalvajavaab@www.infe.com.br.infe.com.br:447?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws#⚡Telegram
 trojan://02491ccf-e969-4200-9ebd-5e0da4eff308@okanc.iepl.cac.cab:23003/?type=tcp&security=tls&sni=🔒
 trojan://02491ccf-e969-4200-9ebd-5e0da4eff308@okanc.iepl.cac.cab:23007/?type=tcp&security=tls&sni=🔒
@@ -10460,6 +10463,7 @@ trojan://telegram-id-privatevpns@3.78.69.36:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-privatevpns@3.78.69.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs🤯
 trojan://telegram-id-privatevpns@3.78.69.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram
 trojan://telegram-id-privatevpns@3.79.132.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
+trojan://telegram-id-privatevpns@3.79.74.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@3.8.123.26:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-3.8.123.26-8572
 trojan://telegram-id-privatevpns@3.8.123.26:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-3.8.123.26-8574
 trojan://telegram-id-privatevpns@3.8.123.26:22222?security=tls&sni=🔒
