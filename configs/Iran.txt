@@ -99,7 +99,7 @@ ss://3021f65a-ddec-4973-a85c-23005c9d7d0c@tun3.myextraordinary.ir:10005?security
 ss://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80/?type=tcp&encryption=none#%40v2rayfree_iran%F0%9F%87%AE%F0%9F%87%B7
 ss://31529a86-a4e9-4b41-83d6-bd92b2af7569@37.32.41.184:1010?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 ss://32895c66-fe57-49ad-ba5a-1936f2d5a7a8@m1.darkkabir.site:8080?path=%2F&security=none&encryption=none&type=ws#IR🇮🇷
-ss://32947a7f-34c4-44af-84b2-c59bf9e74fb7@45.11.187.75:7335?security=none&encryption=none&host=P30afzar.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnplusee_free%20%5B12%5D
+ss://32947a7f-34c4-44af-84b2-c59bf9e74fb7@45.11.187.75:7335?security=none&encryption=none&host=P30afzar.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnplusee_free%20%5B11%5D
 ss://32c07748-0ad4-4d34-943f-b0b978564766@91.98.26.212:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Irancell--@V2rayAlpha--12
 ss://32c07748-0ad4-4d34-943f-b0b978564766@91.98.65.77:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Irancell--@V2rayAlpha--13
 ss://32c07748-0ad4-4d34-943f-b0b978564766@91.99.102.206:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Irancell--@V2rayAlpha--14
@@ -431,7 +431,6 @@ ss://c123cc6a-528b-4992-fc03-e2aa9f313782@185.46.1.203:13008/?type=tcp&encryptio
 ss://c123cc6a-528b-4992-fc03-e2aa9f313782@185.46.1.203:13008?type=tcp&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40toucan_vpn%20%5B1%5D
 ss://c349a35c-2a04-4ab3-a84e-0d3fa49c4186@Speedtest.net:80?mode=auto&path=/muii2096&security=none&encryption=none&host=Poormyo.global.ssl.fastly.net&type=xhttp#Allـ@Iran_v2ray1
 ss://c40860f1-ce6e-4378-90be-794fac923697@8.47.69.4:8080?path=/&security=none&encryption=none&host=bbhbhhu.farcadezero.ir&type=ws#@UCIRANIR
-ss://c43b7819-008e-4863-aa20-9d3fc2935df8@tunell-star.fastsoft98.ir:2010?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B71%5D
 ss://c6c903da46f490c2f473dec6412b1b84@Tr2.Jet-Speed.Top:32283?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B7%5D
 ss://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#@IRAN_V2RAY1--All
 ss://c9032a96-614a-4e8c-bc01-c96aa2ef749c@zarin8i.alireza031.pw:26734?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=none&encryption=none&type=ws#IR🇮🇷
@@ -781,7 +780,7 @@ vless://3021f65a-ddec-4973-a85c-23005c9d7d0c@tun3.myextraordinary.ir:10005?secur
 vless://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80/?type=tcp&encryption=none#%40v2rayfree_iran%F0%9F%87%AE%F0%9F%87%B7
 vless://31529a86-a4e9-4b41-83d6-bd92b2af7569@37.32.41.184:1010?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 vless://32895c66-fe57-49ad-ba5a-1936f2d5a7a8@m1.darkkabir.site:8080?path=%2F&security=none&encryption=none&type=ws#IR🇮🇷
-vless://32947a7f-34c4-44af-84b2-c59bf9e74fb7@45.11.187.75:7335?security=none&encryption=none&host=P30afzar.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnplusee_free%20%5B12%5D
+vless://32947a7f-34c4-44af-84b2-c59bf9e74fb7@45.11.187.75:7335?security=none&encryption=none&host=P30afzar.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnplusee_free%20%5B11%5D
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.26.212:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Irancell--@V2rayAlpha--12
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.98.65.77:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Irancell--@V2rayAlpha--13
 vless://32c07748-0ad4-4d34-943f-b0b978564766@91.99.102.206:38644?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Irancell--@V2rayAlpha--14
@@ -1006,7 +1005,6 @@ vless://c123cc6a-528b-4992-fc03-e2aa9f313782@185.46.1.203:13008/?type=tcp&encryp
 vless://c123cc6a-528b-4992-fc03-e2aa9f313782@185.46.1.203:13008?type=tcp&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40toucan_vpn%20%5B1%5D
 vless://c349a35c-2a04-4ab3-a84e-0d3fa49c4186@Speedtest.net:80?mode=auto&path=/muii2096&security=none&encryption=none&host=Poormyo.global.ssl.fastly.net&type=xhttp#Allـ@Iran_v2ray1
 vless://c40860f1-ce6e-4378-90be-794fac923697@8.47.69.4:8080?path=/&security=none&encryption=none&host=bbhbhhu.farcadezero.ir&type=ws#@UCIRANIR
-vless://c43b7819-008e-4863-aa20-9d3fc2935df8@tunell-star.fastsoft98.ir:2010?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B71%5D
 vless://c6c903da46f490c2f473dec6412b1b84@Tr2.Jet-Speed.Top:32283?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B7%5D
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#@IRAN_V2RAY1--All
 vless://c9032a96-614a-4e8c-bc01-c96aa2ef749c@zarin8i.alireza031.pw:26734?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=none&encryption=none&type=ws#IR🇮🇷
