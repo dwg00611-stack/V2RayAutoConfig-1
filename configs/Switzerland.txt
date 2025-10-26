@@ -25,12 +25,12 @@ ss://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886/?type=tcp&encryption
 ss://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&sid=94f9#REALITY|CH🇨🇭
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5d1lEQWdXd0xUMWlZVUxRQzJWazcy@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+157.76ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#%F0%9F%87%A8%F0%9F%87%ADCH-204.136.10.115-0297
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#%F0%9F%87%A8%F0%9F%87%ADCH-204.136.10.115-1441
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#%F0%9F%87%A8%F0%9F%87%ADCH-204.136.10.115-1444
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+204.136.10.115-1866+%7C+152ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+204.136.10.115-1866+%7C+156.52ms
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-4558
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-4514
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443?prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%A8%F0%9F%87%ADCH%20%7C%20@OutlineReleasedKey
-ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#%F0%9F%87%A8%F0%9F%87%ADCH-185.126.116.125-0049
+ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#%F0%9F%87%A8%F0%9F%87%ADCH-185.126.116.125-0080
 ss://a32fdc84-95ef-4073-b415-3743c35080b0@che-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#REALITY|CH🇨🇭
 ss://d342d11ed4244583b36e524ab1f0afa4Og==@185.18.250.121:2095#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+185.18.250.121-2095+%7C+1.33ms
 ss://d46fbe10-7982-4229-b461-4afef5c690fa@1margate.superip.ir:28157?security=reality&encryption=none&pbk=uHj-YSliobSCte9w83Jm1VWpOnXl64sKghSSNVdFvVw&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=4c14#REALITY|CH🇨🇭
@@ -47,7 +47,7 @@ ss://dce1e7b5-60ab-4446-bb95-97e1234df5d6@141.11.164.233:11366?security=none&enc
 ss://e5660582-4608-59b6-648b-85a8004ab28c@sw.baziir.ir:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tgju.org&fp=firefox&security=reality&pbk=AUg2h16X8xP5s7tnkcDuyfX5CBV7WvCoY48OKhbtQyw&sid=821bbc44dd7a4e15#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40manzariyeh_rasht%20%5B18%5D
 ss://feae6dd7-8adc-423b-eda7-7eb4a5289b54@141.11.164.233:11366/?type=tcp&encryption=none#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40oonfig%20%5B2%5D
 ss://feae6dd7-8adc-423b-eda7-7eb4a5289b54@141.11.164.233:11366?type=tcp&encryption=none&security=none#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40oonfig%20%5B2%5D
-trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-152.67.71.149-2987
+trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-152.67.71.149-2943
 vless://29d509e4-97c6-41a4-affa-bee6457aac14@45.143.200.183:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=ch.nosok-top.com&pbk=8Cmcg6rDk5dmwyP8fv5-chav3sTP8q5sQvdw-7yadw8&sid=9c2378562188c3cb&spx=%2F#REALITY|CH🇨🇭
 vless://29d509e4-97c6-41a4-affa-bee6457aac14@45.143.200.183:443?security=reality&encryption=none&pbk=8Cmcg6rDk5dmwyP8fv5-chav3sTP8q5sQvdw-7yadw8&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ch.nosok-top.com&sid=9c2378562188c3cb#REALITY|CH🇨🇭
 vless://29d509e4-97c6-41a4-affa-bee6457aac14@45.143.200.183:443?security=reality&encryption=none&pbk=8Cmcg6rDk5dmwyP8fv5-chav3sTP8q5sQvdw-7yadw8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ch.nosok-top.com&sid=9c2378562188c3cb#REALITY|CH🇨🇭
