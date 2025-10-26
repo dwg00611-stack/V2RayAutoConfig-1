@@ -505,7 +505,6 @@ hysteria2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979?security=tl
 hysteria2://9faf4015-b6c0-44f9-b9d6-d77454a50a72@els1.dimoyun.top:40001?insecure=1&sni=els1.dimoyun.top#All-%40V2rayAlpha--6%20%231
 hysteria2://9faf4015-b6c0-44f9-b9d6-d77454a50a72@els1.dimoyun.top:40001?security=tls&insecure=1&sni=els1.dimoyun.top#All-@V2rayAlpha--6
 hysteria2://C298rctP35EiQTjISVZZ0zU42qOKn7aYjkjiTozTcRg%3D@143.20.156.166:38326?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=wmufVmhTEkFcZ3qLakL9yQ==#%F0%9F%87%BA%F0%9F%87%B2%40FreakConfig
-hysteria2://C298rctP35EiQTjISVZZ0zU42qOKn7aYjkjiTozTcRg%3D@143.20.156.166:38326?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=wmufVmhTEkFcZ3qLakL9yQ==#🌐سرور
 hysteria2://C298rctP35EiQTjISVZZ0zU42qOKn7aYjkjiTozTcRg=@143.20.156.166:38326?security=tls&obfs=salamander&obfs-password=wmufVmhTEkFcZ3qLakL9yQ==&insecure=1&sni=www.microsoft.com#🇺🇲@FreakConfig
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%235
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
@@ -624,6 +623,7 @@ hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891?security=
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891?security=tls&insecure=1&sni=fus01.mistea.top#🇺🇲@FreakConfig
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891?security=tls&insecure=1&sni=fus01.mistea.top#🔐
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?insecure=1&sni=hl01.mistea.top#telegram--MTMVPN%204
+hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?insecure=1&sni=hl01.mistea.top#🌐سرور
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&insecure=1&sni=hl01.mistea.top#@Selinc
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&insecure=1&sni=hl01.mistea.top#telegram--MTMVPN
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&insecure=1&sni=hl01.mistea.top#telegram--MTMVPN4
