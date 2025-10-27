@@ -28,6 +28,7 @@ ss://%40narcod_ping@85.133.228.198:41546?type=tcp&path=%2F&host=varzesh3.com&hea
 ss://000dec39-61ac-4ff2-97e1-5f7c003cf2e5@85.198.12.25:443/?type=ws&encryption=none&host=zula.ir&path=%2Ftelegram---v2tunnel_vpn---telegram---v2tunnel_vpn---telegram---v2tunnel_vpn---telegram---v2tunnel_vpn#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mpproxy%20%5B13%5D
 ss://000dec39-61ac-4ff2-97e1-5f7c003cf2e5@85.198.12.25:443?path=%2Ftelegram---v2tunnel_vpn---telegram---v2tunnel_vpn---telegram---v2tunnel_vpn---telegram---v2tunnel_vpn&security=none&encryption=none&host=zula.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mpproxy%20%5B13%5D
 ss://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#IR-@V2ray_Alpha--3
+ss://00a87d0f-6eb9-4b10-9793-7b8bd4553617@63.141.128.16:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=e.jOin.zEdMoDeOn.oNl.&type=ws#@IRAN_V2RAY1
 ss://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#Irancell--@V2rayAlpha--17
 ss://01996d6c-ca12-a514-1884-58805e80e2c9@104.26.12.31:443?path=/snippets?ip=proxyip:port(443)&nat64=6to4&security=tls&encryption=none&host=000091gm0s8g08211s2q.rjp.3jrlr9edbfkg.s0add.dl24k.ghz.krcipuw0kx.vztx9qx.1luaw5rro.4sztyya.guarx48okfdavgn0i245is5g86r359.neib.cn&fp=chrome&type=ws&sni=000091gm0s8g08211s2q.rjp.3jrlr9edbfkg.s0add.dl24k.ghz.krcipuw0kx.vztx9qx.1luaw5rro.4sztyya.guarx48okfdavgn0i245is5g86r359.neib.cn#@IRAN_V2RAAY1
 ss://024f9b24-42c3-4c32-ba0a-3d7b5a6de162@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.joIn.zEdMoDeOn.oNl.&type=ws#All-@IRAN_V2RAY1
@@ -138,6 +139,7 @@ ss://426cb1e2-9390-4ea2-9932-489d38aa7803@m11a.vip784.com:33801?security=none&en
 ss://43b3d811-cd66-4d0e-9011-b2eba8b26856@iran.dnshop.sbs:52423/?encryption=none&host=zula.ir&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40confingv2raay%20%5B2%5D
 ss://43bbc466-f4e8-48ea-936b-d992092eec2a@51.75.185.183:30174?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All-@Iran_V2ray1
 ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@91.99.217.4:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@IRAN_V2RAY1
+ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@IRAN_V2RAY1
 ss://45176f6e-f380-413e-b996-a7acfd754541@iranbaxvpn02.v2pay.cfd:2096/?type=grpc&encryption=none&serviceName=%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn&security=tls&sni=free02.iranbax.com&fp=ios#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40iranbaxvpn%20%5B9%5D
 ss://45176f6e-f380-413e-b996-a7acfd754541@iranbaxvpn02.v2pay.cfd:2096?encryption=none&security=tls&sni=free02.iranbax.com&fp=ios&type=grpc&serviceName=%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn&mode=gun#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40iranbaxvpn%20%5B9%5D
 ss://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=none&encryption=none&headerType=none&type=tcp#Irancell--@V2rayAlpha--18
@@ -265,6 +267,7 @@ ss://99be6277-eb5d-4518-b377-d32c3f2696af@46.62.214.228:443?path=/&security=tls&
 ss://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045/?type=ws&encryption=none&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40farstar_vpn%20%5B1%5D
 ss://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=none&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40farstar_vpn%20%5B1%5D
 ss://9e30c25c-2142-4080-8604-738db4650459@46.62.128.241:8443?security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb#@IRAN_V2RAY1
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206OXBNQVd5TW5NVHlBQ1NjV3A3TGlBQWxHcVhWekxVdE5Pa3pEbjVlVFpDVT06a2Z6cGlGYkg0a1pKSjZIb1lhaC8rblpGZjZ5TVZkdUpZNHFLbGl1Z05obz0=@91.107.190.209:42214#@IRAN_V2RAY1
 ss://Parsashonam-310@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#IR-@V2rayAlpha--11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@de14.giamping.com:8080#@IRAN_V2RAY1-All
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#IR-@V2ray_Alpha--2
@@ -274,6 +277,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.199:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#All-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#IR-@V2rayAlpha--2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#IR-@V2ray_Alpha--10
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#All--@Iran_V2ray1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#All-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#IR-@V2rayAlpha--1
@@ -320,6 +324,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#IR-@V2ray_Alpha--2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#All--@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVWg0bFNwaTduT1lqMHZTcnFMVWgw@95.163.176.37:8506#IR-@V2ray_Alpha--8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQjdPZU5aVkNPc1pHS1RodkpsY085SnVpVnNVZ0xQYThRSGpBREZobzVjdkd5NHY=@5.188.168.230:31348#All-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#Irancell--@V2rayAlpha--6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#@Rayan_Config-IFI-0XEDI-@iranfreeinternet_bot
@@ -333,6 +338,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#All-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#Allـ@Iran_v2ray1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#IR-@V2ray_Alpha--9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#Irancell--@V2rayAlpha--8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#All-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#IR-@IRAN_V2RAY1
@@ -350,6 +356,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#@IRAN_V2RAY1--All
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#All--@Iran_V2ray1
+ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#@IRAN_V2RAY1
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#IR-@V2ray_Alpha--11
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#IR-@V2ray_Alpha--12
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#IR-@V2ray_Alpha--13
@@ -417,7 +424,6 @@ ss://c968f68b-4b0b-437b-d622-27e9dd57ab78@89.23.112.71:19295?security=none&encry
 ss://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=vless8-ekh.pages.dev&fp=chrome&type=ws&sni=vless8-ekh.pages.dev#IR-@V2ray_Alpha--11
 ss://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.35.110:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#All-@Iran_V2ray1
 ss://cb39b7b1-b63b-44f6-837a-b918a2ccc30b@axe.soyet2j.ir:2053?path=/homepage?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=mojito.soyet2j.ir&type=ws&sni=mojito.soyet2j.ir#@MARAMBASHI
-ss://cb39b7b1-b63b-44f6-837a-b918a2ccc30b@axe.soyet2j.ir:2053?path=/homepage?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=mojito.soyet2j.ir&type=ws&sni=mojito.soyet2j.ir#@V2rayNGVPN
 ss://cb39b7b1-b63b-44f6-837a-b918a2ccc30b@axe.soyet2j.ir:2053?path=/homepage?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=mojito.soyet2j.ir&type=ws&sni=mojito.soyet2j.ir#@meli_proxyy
 ss://cb39b7b1-b63b-44f6-837a-b918a2ccc30b@axe.soyet2j.ir:2053?path=/homepage?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=mojito.soyet2j.ir&type=ws&sni=mojito.soyet2j.ir#🏴‍☠️@FreakConfig
 ss://cd79807f-bcef-46b8-93b6-229676a0c1a0@64.188.70.0:443?security=reality&encryption=none&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=89dbda1a1c9369#All-@IRAN_V2RAY1
@@ -467,6 +473,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.35.189.146:8880?mode=gun&security=
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?mode=gun&security=none&encryption=none&type=grpc#All--@IRAN_V2RAY1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.254:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#IR-@V2ray_Alpha--15
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#IR-@V2ray_Alpha--18
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?mode=gun&security=none&encryption=none&type=grpc#All--@IRAN_V2RAY1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
@@ -587,6 +594,7 @@ ss://e34465f1-f5ae-433f-8cc7-75aa4ff4d2fe@tttt1.hennessypro.site:4001?type=tcp&p
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@IRAN_V2RAY1-All
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
+ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.129:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@IRAN_V2RAY1-All
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1--All
@@ -596,9 +604,11 @@ ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.240:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1--All
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.240:8880?mode=gun&security=none&encryption=none&type=grpc#All--@IRAN_V2RAY1
+ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&authority=/TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&type=grpc#@IRAN_V2RAY1
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1-All
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh25v1.vetdomok.shop#IR-@V2rayAlpha--13
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.142:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
+ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?mode=gun&security=none&encryption=none&type=grpc#All--@IRAN_V2RAY1
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
@@ -626,6 +636,7 @@ ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880?mode=gun&sec
 ss://e4c339d7-cbdc-41a6-98ab-a0ca04bac5ab@irlast.adkoino.com:443/?encryption=none&host=iranserver.com&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40irlast%20%5B1%5D
 ss://e4ceb917-3020-4486-a1ab-36534aed11de@s16.leader21.top:5053/?type=ws&encryption=none&host=s16.leader21.top&path=%2Fhttp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40golf_vpn%20%5B14%5D
 ss://e4ceb917-3020-4486-a1ab-36534aed11de@s16.leader21.top:5053?type=ws&encryption=none&security=none&host=s16.leader21.top&path=%2Fhttp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40golf_vpn%20%5B14%5D
+ss://e77f6cd0-b8c9-4d4b-b621-e36d177f71c8@63.141.128.29:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=f.jOin.zEdMoDeOn.oNl.&type=ws#@IRAN_V2RAY1
 ss://e7f80705-a246-42b0-9b18-802d125aedc3@104.24.40.146:443?path=/index.html?ed&security=tls&encryption=none&host=revest.maketunnelim.lat&fp=chrome&type=ws&sni=revest.maketunnelim.lat#@FrewIranWeb
 ss://e857ff76-71a7-4999-af17-9bc06eff850e@141.227.138.120:24586?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#MCI-@IRAN_V2RAY1
 ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#@IRAN_V2RAY1-All
@@ -696,6 +707,7 @@ vless://%40narcod_ping@85.133.228.198:41546?type=tcp&path=%2F&host=varzesh3.com&
 vless://000dec39-61ac-4ff2-97e1-5f7c003cf2e5@85.198.12.25:443/?type=ws&encryption=none&host=zula.ir&path=%2Ftelegram---v2tunnel_vpn---telegram---v2tunnel_vpn---telegram---v2tunnel_vpn---telegram---v2tunnel_vpn#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mpproxy%20%5B13%5D
 vless://000dec39-61ac-4ff2-97e1-5f7c003cf2e5@85.198.12.25:443?path=%2Ftelegram---v2tunnel_vpn---telegram---v2tunnel_vpn---telegram---v2tunnel_vpn---telegram---v2tunnel_vpn&security=none&encryption=none&host=zula.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mpproxy%20%5B13%5D
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#IR-@V2ray_Alpha--3
+vless://00a87d0f-6eb9-4b10-9793-7b8bd4553617@63.141.128.16:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=e.jOin.zEdMoDeOn.oNl.&type=ws#@IRAN_V2RAY1
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#Irancell--@V2rayAlpha--17
 vless://01996d6c-ca12-a514-1884-58805e80e2c9@104.26.12.31:443?path=/snippets?ip=proxyip:port(443)&nat64=6to4&security=tls&encryption=none&host=000091gm0s8g08211s2q.rjp.3jrlr9edbfkg.s0add.dl24k.ghz.krcipuw0kx.vztx9qx.1luaw5rro.4sztyya.guarx48okfdavgn0i245is5g86r359.neib.cn&fp=chrome&type=ws&sni=000091gm0s8g08211s2q.rjp.3jrlr9edbfkg.s0add.dl24k.ghz.krcipuw0kx.vztx9qx.1luaw5rro.4sztyya.guarx48okfdavgn0i245is5g86r359.neib.cn#@IRAN_V2RAAY1
 vless://024f9b24-42c3-4c32-ba0a-3d7b5a6de162@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.joIn.zEdMoDeOn.oNl.&type=ws#All-@IRAN_V2RAY1
@@ -806,6 +818,7 @@ vless://426cb1e2-9390-4ea2-9932-489d38aa7803@m11a.vip784.com:33801?security=none
 vless://43b3d811-cd66-4d0e-9011-b2eba8b26856@iran.dnshop.sbs:52423/?encryption=none&host=zula.ir&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40confingv2raay%20%5B2%5D
 vless://43bbc466-f4e8-48ea-936b-d992092eec2a@51.75.185.183:30174?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All-@Iran_V2ray1
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@91.99.217.4:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@IRAN_V2RAY1
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@IRAN_V2RAY1
 vless://45176f6e-f380-413e-b996-a7acfd754541@iranbaxvpn02.v2pay.cfd:2096/?type=grpc&encryption=none&serviceName=%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn&security=tls&sni=free02.iranbax.com&fp=ios#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40iranbaxvpn%20%5B9%5D
 vless://45176f6e-f380-413e-b996-a7acfd754541@iranbaxvpn02.v2pay.cfd:2096?encryption=none&security=tls&sni=free02.iranbax.com&fp=ios&type=grpc&serviceName=%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn%3D%40iranbaxvpn&mode=gun#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40iranbaxvpn%20%5B9%5D
 vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=none&encryption=none&headerType=none&type=tcp#Irancell--@V2rayAlpha--18
@@ -987,7 +1000,6 @@ vless://c968f68b-4b0b-437b-d622-27e9dd57ab78@89.23.112.71:19295?security=none&en
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=vless8-ekh.pages.dev&fp=chrome&type=ws&sni=vless8-ekh.pages.dev#IR-@V2ray_Alpha--11
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.35.110:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#All-@Iran_V2ray1
 vless://cb39b7b1-b63b-44f6-837a-b918a2ccc30b@axe.soyet2j.ir:2053?path=/homepage?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=mojito.soyet2j.ir&type=ws&sni=mojito.soyet2j.ir#@MARAMBASHI
-vless://cb39b7b1-b63b-44f6-837a-b918a2ccc30b@axe.soyet2j.ir:2053?path=/homepage?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=mojito.soyet2j.ir&type=ws&sni=mojito.soyet2j.ir#@V2rayNGVPN
 vless://cb39b7b1-b63b-44f6-837a-b918a2ccc30b@axe.soyet2j.ir:2053?path=/homepage?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=mojito.soyet2j.ir&type=ws&sni=mojito.soyet2j.ir#@meli_proxyy
 vless://cb39b7b1-b63b-44f6-837a-b918a2ccc30b@axe.soyet2j.ir:2053?path=/homepage?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=mojito.soyet2j.ir&type=ws&sni=mojito.soyet2j.ir#🏴‍☠️@FreakConfig
 vless://cd79807f-bcef-46b8-93b6-229676a0c1a0@64.188.70.0:443?security=reality&encryption=none&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=89dbda1a1c9369#All-@IRAN_V2RAY1
@@ -1037,6 +1049,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.35.189.146:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?mode=gun&security=none&encryption=none&type=grpc#All--@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.254:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#IR-@V2ray_Alpha--15
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#IR-@V2ray_Alpha--18
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?mode=gun&security=none&encryption=none&type=grpc#All--@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
@@ -1157,6 +1170,7 @@ vless://e34465f1-f5ae-433f-8cc7-75aa4ff4d2fe@tttt1.hennessypro.site:4001?type=tc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@IRAN_V2RAY1-All
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.129:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@IRAN_V2RAY1-All
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1--All
@@ -1166,9 +1180,11 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&secur
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.240:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1--All
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.240:8880?mode=gun&security=none&encryption=none&type=grpc#All--@IRAN_V2RAY1
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&authority=/TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&type=grpc#@IRAN_V2RAY1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1-All
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh25v1.vetdomok.shop#IR-@V2rayAlpha--13
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.142:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?mode=gun&security=none&encryption=none&type=grpc#All--@IRAN_V2RAY1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
@@ -1196,6 +1212,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880?mode=gun&
 vless://e4c339d7-cbdc-41a6-98ab-a0ca04bac5ab@irlast.adkoino.com:443/?encryption=none&host=iranserver.com&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40irlast%20%5B1%5D
 vless://e4ceb917-3020-4486-a1ab-36534aed11de@s16.leader21.top:5053/?type=ws&encryption=none&host=s16.leader21.top&path=%2Fhttp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40golf_vpn%20%5B14%5D
 vless://e4ceb917-3020-4486-a1ab-36534aed11de@s16.leader21.top:5053?type=ws&encryption=none&security=none&host=s16.leader21.top&path=%2Fhttp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40golf_vpn%20%5B14%5D
+vless://e77f6cd0-b8c9-4d4b-b621-e36d177f71c8@63.141.128.29:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=f.jOin.zEdMoDeOn.oNl.&type=ws#@IRAN_V2RAY1
 vless://e7f80705-a246-42b0-9b18-802d125aedc3@104.24.40.146:443?path=/index.html?ed&security=tls&encryption=none&host=revest.maketunnelim.lat&fp=chrome&type=ws&sni=revest.maketunnelim.lat#@FrewIranWeb
 vless://e857ff76-71a7-4999-af17-9bc06eff850e@141.227.138.120:24586?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#MCI-@IRAN_V2RAY1
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#@IRAN_V2RAY1-All
