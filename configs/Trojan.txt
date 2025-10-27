@@ -1863,6 +1863,7 @@ trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@202.43.102.57:443/?type=tcp&securi
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@210.203.60.189:443/?type=tcp&security=tls
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@210.203.60.189:443?sni=45.32.28.232&allowInsecure=0#🔒
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@27.122.59.45:443/?type=tcp&security=tls&sni=🔒
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@37.114.62.218:443/?type=tcp&security=tls&sni=45.32.28.232&allowInsecure=1#Trojan
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@37.114.62.218:443/?type=tcp&security=tls&sni=🔒
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a03.taipeicitygovernment.cn.ua:3462/?type=tcp&security=tls
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a03.taipeicitygovernment.cn.ua:3462/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.248.240.223-5161
@@ -2250,7 +2251,6 @@ trojan://88a9a235-d071-4eda-9f47-b1e85019cfb1@172.67.168.193:443?path=%2FFree-VP
 trojan://88a9a235-d071-4eda-9f47-b1e85019cfb1@172.67.168.193:443?path=%2FFree-VPN-CF-Geo-Project%2FCZ1&security=tls&host=joss.gpj2.dpdns.org&fp=randomized&type=ws&sni=joss.gpj2.dpdns.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:167ms
 trojan://88a9a235-d071-4eda-9f47-b1e85019cfb1@172.67.168.193:443?path=%2FFree-VPN-CF-Geo-Project%2FCZ1&security=tls&host=joss.gpj2.dpdns.org&fp=randomized&type=ws&sni=joss.gpj2.dpdns.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:181ms
 trojan://88a9a235-d071-4eda-9f47-b1e85019cfb1@172.67.168.193:443?path=%2FFree-VPN-CF-Geo-Project%2FCZ1&security=tls&host=joss.gpj2.dpdns.org&fp=randomized&type=ws&sni=joss.gpj2.dpdns.org#🔥Join+Telegram:@Farah_VPN🟣
-trojan://88a9a235-d071-4eda-9f47-b1e85019cfb1@172.67.168.193:443?path=🔒
 trojan://891d999f-7864-45c5-8db9-3c69f35dcb96@104.21.29.75:443/?type=tcp&security=tls&sni=🔒
 trojan://891d999f-7864-45c5-8db9-3c69f35dcb96@104.21.29.75:443/?type=ws&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2047&security=tls&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev#%40Hope_Net-join-us-on-Telegram
 trojan://891d999f-7864-45c5-8db9-3c69f35dcb96@104.21.29.75:443/?type=ws&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&path=🔒
@@ -7604,7 +7604,6 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@178.128.17.109:443/?type=tcp&security=
 trojan://d0ed2685-82ae-4f09-ac6d-a456146b05ba@2c6f2139-838e-4478-9e47-55140df12640.hkglink.xyz:10104/?type=tcp&security=tls&sni=sni.eos-suzhou-4.cmecloud.cn&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
 trojan://d0ed2685-82ae-4f09-ac6d-a456146b05ba@2c6f2139-838e-4478-9e47-55140df12640.hkglink.xyz:10105/?type=tcp&security=tls&sni=sni.eos-suzhou-4.cmecloud.cn&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
 trojan://d0ed2685-82ae-4f09-ac6d-a456146b05ba@2c6f2139-838e-4478-9e47-55140df12640.hkglink.xyz:10106/?type=tcp&security=tls&sni=sni.eos-suzhou-4.cmecloud.cn&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
-trojan://d0ed2685-82ae-4f09-ac6d-a456146b05ba@2c6f2139-838e-4478-9e47-55140df12640.hkglink.xyz:10107/?type=tcp&security=tls&sni=sni.eos-suzhou-4.cmecloud.cn#%F0%9F%8E%AF89%40oneclickvpnkeystrojan://d0ed2685-82ae-4f09-ac6d-a456146b05ba@2c6f2139-838e-4478-9e47-55140df12640.hkglink.xyz:12012/?type=tcp&security=tls&sni=tr.yuanul.com#%F0%9F%8E%AF90%40oneclickvpnkeystrojan://d0ed2685-82ae-4f09-ac6d-a456146b05ba@2c6f2139-838e-4478-9e47-55140df12640.hkglink.xyz:12013/?type=tcp&security=tls&sni=tr.yuanul.com#%F0%9F%8E%AF88%40oneclickvpnkeystrojan://d0ed2685-82ae-4f09-ac6d-a456146b05ba@2c6f2139-838e-4478-9e47-55140df12640.hkglink.xyz:12102/?type=tcp&security=tls&sni=106.yuanul.com#%F0%9F%8E%AF84%40oneclickvpnkeystrojan://d0ed2685-82ae-4f09-ac6d-a456146b05ba@2c6f2139-838e-4478-9e47-55140df12640.hkglink.xyz:12105/?type=tcp&security=tls#%F0%9F%8E%AF86%40oneclickvpnkeys
 trojan://d0ed2685-82ae-4f09-ac6d-a456146b05ba@2c6f2139-838e-4478-9e47-55140df12640.hkglink.xyz:10107/?type=tcp&security=tls&sni=sni.eos-suzhou-4.cmecloud.cn#🔥Join+Telegram:@Farah_VPN🟣
 trojan://d0ed2685-82ae-4f09-ac6d-a456146b05ba@2c6f2139-838e-4478-9e47-55140df12640.hkglink.xyz:10108/?type=tcp&security=tls&sni=sni.eos-suzhou-4.cmecloud.cn&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
 trojan://d0ed2685-82ae-4f09-ac6d-a456146b05ba@2c6f2139-838e-4478-9e47-55140df12640.hkglink.xyz:12012/?type=tcp&security=tls&sni=tr.yuanul.com#🔥Join+Telegram:@Farah_VPN🟣
