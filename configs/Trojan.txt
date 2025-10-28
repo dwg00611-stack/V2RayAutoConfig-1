@@ -5950,6 +5950,7 @@ trojan://auto@108.162.195.209:443/?type=ws&host=trojanmz.pages.dev&security=tls&
 trojan://auto@159.246.55.132:443/?type=tcp&security=tl...
 trojan://auto@162.159.128.233:8443/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
 trojan://auto@162.159.128.233:8443/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=🔒
+trojan://auto@162.159.128.233:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&host=e9464f45.trauma-2r4.pages.dev#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
 trojan://auto@162.159.128.233:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&host=e9464f45.trauma-2r4.pages.dev#RELAY🚩
 trojan://auto@162.159.128.233:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/Telegram-@V2ray_Alpha/?ed=2048&host=e9464f45.trauma-2r4.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:27.95ms
 trojan://auto@162.159.128.233:8443?security=tls&type=ws&sni=🔒
@@ -8281,7 +8282,6 @@ trojan://join-bede-daily-configs@104.18.41.190:8443/?type=ws&path=%2FTELEGRAM%3A
 trojan://join-bede-daily-configs@104.18.7.36:8443/?type=ws&host=kanale-daily-co...&security=tls&sni=kanale-daily-configs.blackoutconnection.ir
 trojan://join-bede-daily-configs@104.21.69.44:443/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&security=tls&sni=kanale-daily-configs.blackoutconnection.ir#%40Hope_Net-join-us-on-Telegram
 trojan://join-bede-daily-configs@104.21.69.44:443?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&host=kanale-daily-configs.blackoutconnection.ir#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
-trojan://join-bede-daily-configs@104.21.69.44:443?security=tls&type=ws&sni=🔒
 trojan://join-bede-daily-configs@172.64.146.66:8443/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&security=tls&sni=kanale-daily-configs.blackoutconnection.ir#%40Hope_Net-join-us-on-Telegram
 trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
 trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
