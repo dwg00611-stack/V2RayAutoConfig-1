@@ -3196,7 +3196,6 @@ ss://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.104:443?type=tcp&encryptio
 ss://ea4019ed-aa5f-43eb-a967-f8aaf6ded375@de.fastly80-3.hosting-ip.com:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&alpn=h2%2Chttp%2F1.1&host=leader-of-www.com&fp=chrome&type=ws&sni=live.skornorth.com#US🇺🇸
 ss://ea93598b-a8d8-449a-a925-520c6e1626ee@162.251.82.187:443/?type=ws&encryption=none&host=pardazeshvpn-tg105.pages.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=pardazeshvpn-tg105.pages.dev#%40Hope_Net-join-us-on-Telegram
 ss://eb43a7d5-1b3e-4887-f4b1-f551df7079b8@151.101.3.8:80?mode=auto&path=%2F%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam&security=&encryption=none&host=Mahsazxshop.org&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40prrofile_purple%20%5B142%5D
-ss://eb43a7d5-1b3e-4887-f4b1-f551df7079b8@151.101.3.8:80?mode=auto&path=%2F%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam&security=&encryption=none&host=Mahsazxshop.org&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40prrofile_purple%20%5B150%5D
 ss://eb50d091-51ed-4f89-bc4e-8b04320585d7@199.34.228.48:2096/?type=ws&encryption=none&host=premium.vkehi.shop&path=%2F&security=tls&sni=premium.vkehi.shop#%40Hope_Net-join-us-on-Telegram
 ss://eb64d6b8-b3ed-48a2-9662-af2c65352215@us01-xr03.vpnvezdehod.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=e499f276e7bd6420#REALITY|US🇺🇸
 ss://ebb61cba-ca2f-4994-a763-188978a164f6@172.67.214.179:2087/?type=grpc&encryption=none&serviceName=%40FREE_VPN02%2C%40FREE_VPN02%2C%40FREE_VPN02%2C%40FREE_VPN02%2C&security=tls&sni=fe.bo3kot.com&alpn=h2%2Chttp%2F1.1&fp=chrome#%40Hope_Net-join-us-on-Telegram
@@ -3979,7 +3978,6 @@ trojan://Aimer@lynn.ns.cloudflare.com:443?allowInsecure=0&sni=epccz.ambercc.file
 trojan://Aimer@thaddeus.ns.cloudflare.com:443?allowInsecure=0&sni=epccz.ambercc.filegear-sg.me#@Hope_Net-join-us-on-Teleg
 trojan://BTns3czXfT@104.21.15.33:2096/?type=ws&host=support.sabapardaziran.ir&path=%2F%F0%9F%86%94%40M3HDIO1&security=tls&sni=support.sabapardaziran.ir&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome#%40Hope_Net-join-us-on-Telegram
 trojan://Bw5Mz7QkVp@139.84.172.132:443/?type=tcp&security=tls&sni=z-v2-077924.kailib.com#%40Hope_Net-join-us-on-Telegram
-trojan://BxceQaOe@36.150.215.241:27409?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
 trojan://BxceQaOe@36.150.215.241:27409?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6
 trojan://BxceQaOe@36.150.215.241:27409?allowInsecure=1#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 trojan://BxceQaOe@36.150.215.241:27409?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
@@ -4490,7 +4488,6 @@ trojan://SSorg@45.136.199.132:443/?type=tcp&security=tls&sni=ssjj.esslh.filegear
 trojan://SSorg@46.254.92.142:2087/?type=tcp&security=tls&sni=ssjj.esslh.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://SSorg@89.248.207.37:443/?type=tcp&security=tls&sni=ssjj.esslh.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Sp3eDVp@185.212.200.75:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-185.212.200.75-1318
-trojan://T%40_WvT8Ho%40LW%25w_%2C@nop-55q.pages.dev:2053?sni=NOp-55q.pAgEs.dEv#US
 trojan://TUFfeTYV56@104.21.112.1:2096/?type=httpupgrade&host=esna.twn24.ir&path=%2F%3Fed%3D2048&security=tls&sni=esna.twn24.ir#%40Hope_Net-join-us-on-Telegram
 trojan://TUFfeTYV56@104.21.48.1:2096/?type=httpupgrade&host=esna.twn24.ir&path=%2F%3Fed%3D2048&security=tls&sni=esna.twn24.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#%40Hope_Net-join-us-on-Telegram
 trojan://Tel-DailyConfigs@104.18.7.21:2053/?type=ws&host=kanale-daily-configs.blackoutconnection.ir&security=tls&sni=kanale-daily-configs.blackoutconnection.ir#%40Hope_Net-join-us-on-Telegram
@@ -5243,7 +5240,6 @@ trojan://f0eb8c92ce8946aaba856569cff1a16b@142.202.48.220:443/?type=tcp&security=
 trojan://f0eb8c92ce8946aaba856569cff1a16b@sherasheba.com:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@172.67.133.248:443?security=tls&sni=DDd.890604.FIlEGear-sG.Me&type=ws&host=ddd.890604.filegear-sg.me&path=/mZr1mA5hub7QHHkQBzYO#@Hope_Net-join-us-on-Telegram
 trojan://f39bd244-f5fe-415c-8b98-a1e5250bf178@129.146.255.158:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-129.146.255.158-3030
-trojan://f6eacf4f-1c3b-4423-be54-ff0e66a11bf1@bestcdn1.868863.xyz:443?sni=t-a4.206356.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9
 trojan://f8bb4ae1-2358-4a76-ab75-2a6bc94272d6@151.101.194.228:443/?type=ws&host=hgc6rct87gy.com&security=tls&sni=pscresearch.faculty.ucdavis.edu#%40Hope_Net-join-us-on-Telegram
 trojan://fivh9CYhgT@104.21.32.1:443/?type=httpupgrade&host=esna.twn24.ir&path=%2F16338%2Fmehdi&security=tls&sni=esna.twn24.ir#%40Hope_Net-join-us-on-Telegram
 trojan://fnufMt%3AsQ&rC0HUu@172.66.44.172:2083/?type=ws&host=joinmahdiserver-6vv.pages.dev&security=tls&sni=joinmAHDIsERVER-6vv.PaGeS.dEv#%40Hope_Net-join-us-on-Telegram
@@ -7370,7 +7366,6 @@ vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.104:443?type=tcp&encryp
 vless://ea4019ed-aa5f-43eb-a967-f8aaf6ded375@de.fastly80-3.hosting-ip.com:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&alpn=h2%2Chttp%2F1.1&host=leader-of-www.com&fp=chrome&type=ws&sni=live.skornorth.com#US🇺🇸
 vless://ea93598b-a8d8-449a-a925-520c6e1626ee@162.251.82.187:443/?type=ws&encryption=none&host=pardazeshvpn-tg105.pages.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=pardazeshvpn-tg105.pages.dev#%40Hope_Net-join-us-on-Telegram
 vless://eb43a7d5-1b3e-4887-f4b1-f551df7079b8@151.101.3.8:80?mode=auto&path=%2F%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam&security=&encryption=none&host=Mahsazxshop.org&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40prrofile_purple%20%5B142%5D
-vless://eb43a7d5-1b3e-4887-f4b1-f551df7079b8@151.101.3.8:80?mode=auto&path=%2F%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam----%40XpnTeam&security=&encryption=none&host=Mahsazxshop.org&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40prrofile_purple%20%5B150%5D
 vless://eb50d091-51ed-4f89-bc4e-8b04320585d7@199.34.228.48:2096/?type=ws&encryption=none&host=premium.vkehi.shop&path=%2F&security=tls&sni=premium.vkehi.shop#%40Hope_Net-join-us-on-Telegram
 vless://eb64d6b8-b3ed-48a2-9662-af2c65352215@us01-xr03.vpnvezdehod.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=e499f276e7bd6420#REALITY|US🇺🇸
 vless://ebb61cba-ca2f-4994-a763-188978a164f6@172.67.214.179:2087/?type=grpc&encryption=none&serviceName=%40FREE_VPN02%2C%40FREE_VPN02%2C%40FREE_VPN02%2C%40FREE_VPN02%2C&security=tls&sni=fe.bo3kot.com&alpn=h2%2Chttp%2F1.1&fp=chrome#%40Hope_Net-join-us-on-Telegram
