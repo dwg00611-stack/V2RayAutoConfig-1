@@ -27,7 +27,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=no
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#BG🇧🇬
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#BG🇧🇬
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?type=grpc&encryption=none&flow=#BG🇧🇬
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?security=&encryption=none&fp=chrome&type=grpc#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20-%205
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@147.78.140.20:8880#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+147.78.140.20-8880+%7C+10.07ms
 vless://4d7fdb66-eff3-4949-882b-d1115e1bc1e4@141.227.178.223:34935/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_youtube%20%5B2%5D
 vless://4d7fdb66-eff3-4949-882b-d1115e1bc1e4@141.227.178.223:34935?encryption=none&security=none&type=grpc&authority=&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&mode=gun#%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_youtube%20%5B2%5D
@@ -43,5 +42,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#BG🇧🇬
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#BG🇧🇬
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?type=grpc&encryption=none&flow=#BG🇧🇬
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?security=&encryption=none&fp=chrome&type=grpc#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20-%205
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjg3LjEyMS4xMTMuNTIiLCAicG9ydCI6IDM2OTAsICJpZCI6ICIwMzZmMjE0Mi1lYzNmLTQ4N2EtODlkNi1hZTJlNmJjNDFiMzYiLCAibmV0IjogInRjcCIsICJ0eXBlIjogImh0dHAiLCAidGxzIjogIm5vbmUiLCAicGF0aCI6ICIvYnlwYXNzX2ZpbHRlciIsICJob3N0IjogImlyYW4uYmFtYXJhbSIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU3XHVkODNjXHVkZGVjXHUwMGFlXHVmZTBmQnVsZ2FyaWFcdTAwYTlcdWZlMGZTb2ZpYSAoZy5rLiBNbGFkb3N0IDFBKVx1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6ODNtcyJ9
