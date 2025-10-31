@@ -45,9 +45,7 @@ ss://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:3030/?type=tcp&encrypti
 ss://f046c76d-7639-45d6-84fe-60666e0b7ae8@SAVTEAM.SAVFasF.IR:14420?security=reality&encryption=none&pbk=f2mZcxuMFBWHhxyy2MPA3E-aRh6pasVvZe_6OkF_Njc&headerType=none&fp=chrome&type=tcp&sni=www.refersion.com&sid=fecc0d646553f4b4#REALITY|AE🇦🇪
 ss://f47b5d3c-4051-476d-8280-89b1125b4467@154.90.55.174:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=wimys8nxAefdZ0dEMJ8v7R8sMjQ2Y-hX6H_p7uQPPDo&fp=chrome#%3E%3E%40DailyV2RY%3A%3AAE
 ss://fa-7549225089-1761680237482111@45.134.14.167:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=d1d42381ba35#REALITY|AE🇦🇪
-trojan://D%2BelR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&headerType=none&type=tcp&sni=fluxfloss.click#%3E%3E%40configV2rayNG%3A%3AAE
 trojan://D%2BelR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&headerType=none&type=tcp&sni=fluxfloss.click#AE🇦🇪
-trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254/?type=tcp&security=tls&sni=fluxfloss.click#%3E%3E%40oneclickvpnkeys%3A%3AAE
 trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?type=tcp&security=tls&sni=fluxfloss.click#AE🇦🇪
 vless://38a2c051-ba6a-4457-b793-21b21886cbc9@dl5.ndkwiut2718.ir:8443/?type=httpupgrade&encryption=none&host=dl5.ndkwiut2718.ir&path=/&security=tls&sni=dl5.ndkwiut2718.ir&fp=chrome#[🇦🇪AE-CDN]
 vless://5c3afc1e-4efc-43fd-a4a6-07a14998efe0@fear.anabelrz.xyz:30634?security=reality&encryption=none&pbk=jh2QjXeD_8SQGE0y5JEm8KqJKz0lZed79F5ugrdynCg&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=844c6e33#REALITY|AE🇦🇪
