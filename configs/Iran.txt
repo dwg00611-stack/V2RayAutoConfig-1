@@ -145,6 +145,7 @@ ss://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.135.5:80/?type=ws&encryption=no
 ss://5475990d-e0ce-46ea-95e5-50f9e4879af9@185.200.240.134:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#@IRAN_V2RAY1
 ss://5475990d-e0ce-46ea-95e5-50f9e4879af9@185.200.240.134:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#All-@IRAN_V2RAY1
 ss://5475990d-e0ce-46ea-95e5-50f9e4879af9@94.26.228.68:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#IR-@V2ray_Alpha--24
+ss://56208991-3b3e-46ad-ad30-5861ae2c3dbf@185.226.116.208:8080?security=none&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B56%5D
 ss://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&security=tls&encryption=none&host=ftm2.gerlemondns.info&fp=chrome&type=ws&sni=ftm2.gerlemondns.info#All-@IRAN_V2RAY1
 ss://598b4251-fd03-48fe-b12d-630ac3adf2e5@45.140.167.205:80?path=/hjgfdws&security=none&encryption=none&type=ws#IR-@V2ray_Alpha--20
 ss://5a12794b-2125-46d7-a748-927a989faa04@narrow-passenger.oneeat.co:80?path=/&security=none&encryption=none&type=ws#All-@IRAN_V2RAY1
@@ -744,6 +745,7 @@ vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.135.5:80/?type=ws&encryption
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@185.200.240.134:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#@IRAN_V2RAY1
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@185.200.240.134:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#All-@IRAN_V2RAY1
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@94.26.228.68:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#IR-@V2ray_Alpha--24
+vless://56208991-3b3e-46ad-ad30-5861ae2c3dbf@185.226.116.208:8080?security=none&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40config_proxy%20%5B56%5D
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&security=tls&encryption=none&host=ftm2.gerlemondns.info&fp=chrome&type=ws&sni=ftm2.gerlemondns.info#All-@IRAN_V2RAY1
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@45.140.167.205:80?path=/hjgfdws&security=none&encryption=none&type=ws#IR-@V2ray_Alpha--20
 vless://5a12794b-2125-46d7-a748-927a989faa04@narrow-passenger.oneeat.co:80?path=/&security=none&encryption=none&type=ws#All-@IRAN_V2RAY1
