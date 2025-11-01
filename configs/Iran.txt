@@ -373,6 +373,7 @@ ss://d4f5c51c-6bed-4a1c-a335-b0df490249d5@91.98.139.247:39626?security=reality&e
 ss://d5c1b5d7-055b-4457-bc3a-6e99919c1bcb@94.131.104.178:443?security=reality&encryption=none&pbk=LDEOpY1G4Cw1drC2ao9AQRSTwwhTTMDk5a7Kyw41Hlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=latvia6.clearorbitllc.com&sid=81e0b568#MCI-@IRAN_V2RAY1
 ss://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 ss://d8dd94fd-540e-461d-b5d4-acebef02c22a@31.169.124.240:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#@IRAN_V2RAY1
+ss://da6f3c91-ddf9-41eb-8a22-87d9f1301a3d@dashboard-trx.netbazshop.ir:2095?security=none&type=tcp&headerType=none&path=&host=#%F0%9F%91%A4Iran%F0%9F%97%93%E2%88%9E%20%F0%9F%87%AB%F0%9F%87%AE%F0%9D%97%99%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1
 ss://db316594-959c-48b5-8d8a-96304b7bb37b@TeslaaTeam.niceserver.sbs:124?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 ss://db9d419e-3094-4942-9313-d39afd3dd163@104.21.113.6:80/?type=ws&encryption=none&host=spx.lindak.dpdns.org&path=%2FTELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512#Bya%20To%20%3A%20%40Iran_V2ray1
 ss://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443?path=/Tel-@V2ray_Alpha&security=tls&encryption=none&host=arc-448.pages.dev&type=ws&sni=ARC-448.Pages.DEV#All-@IRAN_V2RAY1
@@ -591,6 +592,8 @@ trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?path=/1
 trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?path=/188.34.160.97-2053&security=tls&type=ws&sni=aio.proxybox.dpdns.org#All-@IRAN_V2RAY1
 trojan://745654@154.3.37.9:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=hk.cestbon.work#@IRAN_V2RAY1
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#All-@IRAN_V2RAY1
+trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520#FreeV2Alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
+trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI?ed=1520#@v2ray_alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
 trojan://T5ncuGweIsLseCqu96ZWJg@65.109.217.125:443?security=tls&headerType=none&type=tcp&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@IRAN_V2RAY1
 trojan://Xa4%5El(%3B.%3BB%23a@104.18.26.90:443/?type=ws&host=s1.mitivpn.workers.dev&path=%2FtrUXByA1rnbs4YQ1Xw%3Fed%3D2560&security=tls&sni=S1.mitivpN.wOrKeRS.DEV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized#Join%20To%20%40IRAN_V2RAY1
@@ -871,6 +874,7 @@ vless://d4f5c51c-6bed-4a1c-a335-b0df490249d5@91.98.139.247:39626?security=realit
 vless://d5c1b5d7-055b-4457-bc3a-6e99919c1bcb@94.131.104.178:443?security=reality&encryption=none&pbk=LDEOpY1G4Cw1drC2ao9AQRSTwwhTTMDk5a7Kyw41Hlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=latvia6.clearorbitllc.com&sid=81e0b568#MCI-@IRAN_V2RAY1
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@31.169.124.240:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#@IRAN_V2RAY1
+vless://da6f3c91-ddf9-41eb-8a22-87d9f1301a3d@dashboard-trx.netbazshop.ir:2095?security=none&type=tcp&headerType=none&path=&host=#%F0%9F%91%A4Iran%F0%9F%97%93%E2%88%9E%20%F0%9F%87%AB%F0%9F%87%AE%F0%9D%97%99%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1
 vless://db316594-959c-48b5-8d8a-96304b7bb37b@TeslaaTeam.niceserver.sbs:124?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 vless://db9d419e-3094-4942-9313-d39afd3dd163@104.21.113.6:80/?type=ws&encryption=none&host=spx.lindak.dpdns.org&path=%2FTELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512#Bya%20To%20%3A%20%40Iran_V2ray1
 vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443?path=/Tel-@V2ray_Alpha&security=tls&encryption=none&host=arc-448.pages.dev&type=ws&sni=ARC-448.Pages.DEV#All-@IRAN_V2RAY1

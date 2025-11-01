@@ -1,6 +1,7 @@
 ss://2cf21f7f-9f29-44b0-893d-08a6e2e09704@109.123.229.205:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&security=reality&pbk=ci7VwV3lQURNI2oRR3GDdkBbHXh0zbSeqciL7tiKO10&sid=#REALITY|JP🇯🇵
 ss://401374e6df7741fbf638dad8184f175bOg==@156.238.18.155:443#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+156.238.18.155-443+%7C+2.29ms
 ss://549da73c-e0c5-4590-a31e-1fc23d222a19@46.250.250.149:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=NTI9xX2nhvkiIda2Y4aExcxIxOOc6MctDWBPZqeN6QE&sid=7795775a7afe0581&type=grpc&serviceName=92b9086d26e6417608e7a1f4#%3E%3E%40DailyV2RY%3A%3AJP
+ss://8129a335-37d4-4932-8dca-ac4358ce60b7@softbank88.xzcloudnode.sbs:51623?&security=reality&flow=xtls-rprx-vision&pbk=ln4RiHk9_Ea_EyeI2GpZfzilPyrqKYDBqis09esVECo&sid=6ba85179e30d4fc2&fp=chrome&sni=itunes.apple.com&type=tcp&headerType=none&host=softbank88.xzcloudnode.sbs&path=%2F#%E6%97%A5%E6%9C%AC
 ss://99f47914-23d8-4367-81bc-b4b759eb7505@45.83.22.118:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20JP%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@103.106.228.247:990#%3E%3E%40outlinevpnofficial%3A%3AJP
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ3D3A==@103.106.228.247:990#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+103.106.228.247-990+%7C+139.1ms
@@ -222,6 +223,7 @@ trojan://9e76767d-4bfa-4f04-a800-42e2f63afed2@160.16.104.143:443/?type=tcp&secur
 trojan://Aimer@47.79.35.191:443/?type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%87%AF%F0%9F%87%B5JP-47.79.35.191-1037
 trojan://Aimer@47.79.38.17:443/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%87%AF%F0%9F%87%B5JP-47.79.38.17-0700
 trojan://BxceQaOe@36.150.215.236:487?#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+trojan://BxceQaOe@36.150.215.236:487?#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://BxceQaOe@36.150.215.236:487?allowInsecure=1#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@36.150.215.236:487?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@36.150.215.236:487?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40stairnode
@@ -239,9 +241,11 @@ trojan://bca467b8c15211d189008a93c7519d3b@160.16.229.223:5321?security=tls&sni=w
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.236.32:3161?allowInsecure=1&sni=www.baidu.com#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.236.32:3161?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.236.32:3161?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
+trojan://bca467b8c15211d189008a93c7519d3b@160.16.236.32:3161?sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.236.32:4452?allowInsecure=1&sni=www.baidu.com#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.236.32:4452?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.236.32:4452?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40stairnode
+trojan://bca467b8c15211d189008a93c7519d3b@160.16.236.32:4452?sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.240.91:3161?security=tls&headerType=none&type=tcp&sni=www.baidu.com#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:148ms
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.240.91:3161?security=tls&headerType=none&type=tcp&sni=www.baidu.com#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:53ms
 trojan://c09eb137-bf68-4658-84e0-102d94b74168@150.230.217.213:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.217.213-3226
@@ -286,6 +290,7 @@ trojan://f42e1a2e-e650-44f4-8d17-bcb68663da18@150.230.201.192:443?security=tls&s
 trojan://juzi@140.83.57.183:22735/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=juzi8186-sr1.pages.dev#%F0%9F%87%AF%F0%9F%87%B5JP-140.83.57.183-0578
 vless://2cf21f7f-9f29-44b0-893d-08a6e2e09704@109.123.229.205:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&security=reality&pbk=ci7VwV3lQURNI2oRR3GDdkBbHXh0zbSeqciL7tiKO10&sid=#REALITY|JP🇯🇵
 vless://549da73c-e0c5-4590-a31e-1fc23d222a19@46.250.250.149:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=NTI9xX2nhvkiIda2Y4aExcxIxOOc6MctDWBPZqeN6QE&sid=7795775a7afe0581&type=grpc&serviceName=92b9086d26e6417608e7a1f4#%3E%3E%40DailyV2RY%3A%3AJP
+vless://8129a335-37d4-4932-8dca-ac4358ce60b7@softbank88.xzcloudnode.sbs:51623?&security=reality&flow=xtls-rprx-vision&pbk=ln4RiHk9_Ea_EyeI2GpZfzilPyrqKYDBqis09esVECo&sid=6ba85179e30d4fc2&fp=chrome&sni=itunes.apple.com&type=tcp&headerType=none&host=softbank88.xzcloudnode.sbs&path=%2F#%E6%97%A5%E6%9C%AC
 vless://99f47914-23d8-4367-81bc-b4b759eb7505@45.83.22.118:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20JP%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@147.45.49.152:443?security=reality&encryption=none&pbk=XoD3v-jzNrGrngiJPervCZMib834C4qvp5KOJkR2PS8&headerType=none&fp=chrome&spx=%2FHVVffgoVVKezoAG&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=f1daac69521d962f#REALITY|JP🇯🇵
 vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@147.45.49.152:443?security=reality&encryption=none&pbk=XoD3v-jzNrGrngiJPervCZMib834C4qvp5KOJkR2PS8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=%2FHVVffgoVVKezoAG&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=f1daac69521d962f#REALITY|JP🇯🇵
