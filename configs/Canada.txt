@@ -1,6 +1,7 @@
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262?insecure=1&sni=www.bing.com#%F0%9F%87%A8%F0%9F%87%A6%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2001
 ss://030ff4cf-6194-4177-90da-a49f46f9afce@172.67.188.196:443/?type=ws&encryption=none&host=WoRkeR-wIntER-BrEezE-4702.C6A6C6.WORKErs.Dev&path=%2FAgjOkU51bJ1hNmHL%3Fed%3D2048&security=tls&sni=WoRKeR-WINTeR-BreEzE-4702.C6A6c6.wORkers.DeV&alpn=h2%2Chttp%2F1.1&fp=randomized#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
 ss://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=RcLZQ-4925.phoenixappdataf.uk&fp=chrome&type=ws&sni=RcLZQ-4925.phoenixappdataf.uk#%3E%3E%40FreakConfig%3A%3ACA
+ss://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=RcLZQ-4925.phoenixappdataf.uk&fp=chrome&type=ws&sni=RcLZQ-4925.phoenixappdataf.uk#>>@FreakConfig::CA
 ss://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=RcLZQ-4925.phoenixappdataf.uk&fp=chrome&type=ws&sni=RcLZQ-4925.phoenixappdataf.uk#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:29.08ms
 ss://0add3534-8744-4fa0-a66a-e8235bbcbcab@axe.soyet2j.ir:2087?encryption=none&security=tls&sni=latte.gejeh683bm.ir.&type=ws&host=latte.gejeh683bm.ir&path=%2Findex.html%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B67%5D
 ss://17714732-15b6-5b7a-9703-8c874ef8bef4@104.25.97.27:80/?type=ws&encryption=none&path=%2Fvless&security=tls&sni=55965.olielielie.store.#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
@@ -63,6 +64,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%F0%9F%87%A8%F0%9F%87%A6CA-142.4.216.225-0354
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#CA%F0%9F%87%A8%F0%9F%87%A6+%7C+142.4.216.225-80+%7C+21.02ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#CA%F0%9F%87%A8%F0%9F%87%A6+%7C+142.4.216.225-80+%7C+21.04ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#🇨🇦CA-142.4.216.225-0354::CA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#%F0%9F%87%A8%F0%9F%87%A6CA-142.4.216.225-0268
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6CA-79.127.233.170-0178
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6CA-79.127.233.170-0223
@@ -231,6 +233,7 @@ trojan://telegram-id-directvpn@35.182.251.60:22222?security=tls&sni=trj.rollingn
 trojan://telegram-id-directvpn@35.182.28.167:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A8%F0%9F%87%A6CA-35.182.28.167-9380
 vless://030ff4cf-6194-4177-90da-a49f46f9afce@172.67.188.196:443/?type=ws&encryption=none&host=WoRkeR-wIntER-BrEezE-4702.C6A6C6.WORKErs.Dev&path=%2FAgjOkU51bJ1hNmHL%3Fed%3D2048&security=tls&sni=WoRKeR-WINTeR-BreEzE-4702.C6A6c6.wORkers.DeV&alpn=h2%2Chttp%2F1.1&fp=randomized#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=RcLZQ-4925.phoenixappdataf.uk&fp=chrome&type=ws&sni=RcLZQ-4925.phoenixappdataf.uk#%3E%3E%40FreakConfig%3A%3ACA
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=RcLZQ-4925.phoenixappdataf.uk&fp=chrome&type=ws&sni=RcLZQ-4925.phoenixappdataf.uk#>>@FreakConfig::CA
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@zula.ir:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=RcLZQ-4925.phoenixappdataf.uk&fp=chrome&type=ws&sni=RcLZQ-4925.phoenixappdataf.uk#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:29.08ms
 vless://0add3534-8744-4fa0-a66a-e8235bbcbcab@axe.soyet2j.ir:2087?encryption=none&security=tls&sni=latte.gejeh683bm.ir.&type=ws&host=latte.gejeh683bm.ir&path=%2Findex.html%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B67%5D
 vless://17714732-15b6-5b7a-9703-8c874ef8bef4@104.25.97.27:80/?type=ws&encryption=none&path=%2Fvless&security=tls&sni=55965.olielielie.store.#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
