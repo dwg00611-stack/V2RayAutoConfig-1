@@ -108,8 +108,8 @@ hysteria2://004bda95-e5a1-4e68-ad26-a41e39903849@51.81.223.166:443/?mport=45000-
 hysteria2://10822856-7452-43ec-b35b-6f24ea33530f@chervhill.hajalii.com:29662?insecure=0&sni=chervhill.hajalii.com&obfs=salamander&obfs-password=xFGh9dsyreJV9sMs1RUnFbwRdon#%40Mr_Config_Group%E2%9C%8C%EF%B8%8F
 hysteria2://10822856-7452-43ec-b35b-6f24ea33530f@chervhill.hajalii.com:29662?obfs=salamander&obfs-password=xFGh9dsyreJV9sMs1RUnFbwRdon&sni=chervhill.hajalii.com&insecure=0#@Mr_Config_Group✌️
 hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%40V2rayNG3
+hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#🌐سرور
 hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#@V2rayNG3
-hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#🌐سرور
 hysteria2://12a81f5a-fa9e-11ef-8400-f23c9164ca5d@72983dd1-t53wg0-tbmeud-1th9y.us.hyhuawei.com:443/?mport=30000-60000&sni=72983dd1-t53wg0-tbmeud-1th9y.us.hyhuawei.com#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002?sni=us.10101251.xyz#12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%237
 hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@us.10101251.xyz:3002?insecure=0&sni=us.10101251.xyz#2%7C%F0%9F%87%BA%F0%9F%87%B869%20%7C%20%204.3MB/s%7C100%25%7CNetflix%7CO...
@@ -133,7 +133,6 @@ hysteria2://27104fae-f047-4993-902a-9368d8a3e9bc@185.126.255.78:42437/?sni=imafa
 hysteria2://2b67ONZROv%2BfRVMxB94BSw%3D%3D@5.231.70.79:443?insecure=1&sni=bing.com#MCI-%40V2rayAlpha--2
 hysteria2://2b67ONZROv+fRVMxB94BSw==@5.231.70.79:443?security=tls&insecure=1&sni=bing.com#@V2rayAlpha--All-2
 hysteria2://2b67ONZROv+fRVMxB94BSw==@5.231.70.79:443?security=tls&insecure=1&sni=bing.com#MCI-@V2rayAlpha--2
-hysteria2://2b67ONZROv+fRVMxB94BSw==@5.231.70.79:443?security=tls&insecure=1&sni=bing.com#🌐سرور
 hysteria2://2ec58858-976b-11ea-82ef-f23c9164ca5d@6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net:8443?sni=6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B898%20%7C%20%201.3MB/s
 hysteria2://308d37dc-cfe1-4d81-a095-d576f90cf581@85.237.206.207:29854/?insecure=1&sni=www.bing.com#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%B9%F0%9F%87%BC
 hysteria2://308d37dc-cfe1-4d81-a095-d576f90cf581@85.237.206.207:29854?insecure=1&sni=www.bing.com#%40meli_proxyy
@@ -491,7 +490,6 @@ hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-passw
 hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko@smad@ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#🇬🇧@FreakConfig
 hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko@smad@ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org&note=@freeOnlineVPN#🇬🇧
 hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander&obfs-password=9242a8bf#%40NoForcedheaven
-hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander&obfs-password=9242a8bf#🌐سرور
 hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@2f6fd70e-t4jj40-t92wi1-1qkeg.us.hyhuawei.com:443?security=tls&insecure=0&sni=2f6fd70e-t4jj40-t92wi1-1qkeg.us.hyhuawei.com#%E2%98%A2%E2%98%A2%E2%98%A26
 hysteria2://ab858115-e0ab-4cb7-8e65-0804c35e52d5@nl1.oomz.ru:30000?insecure=1&sni=bing.com#telegram--MTMVPN%202
 hysteria2://ab858115-e0ab-4cb7-8e65-0804c35e52d5@nl1.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#telegram--MTMVPN
@@ -555,6 +553,7 @@ hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@38.45.89.97:23892?security=tls&
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@38.45.89.97:23892?security=tls&insecure=1&sni=fus02.mistea.top#All-%40V2rayAlpha--1
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@38.45.89.97:23892?security=tls&insecure=1&sni=fus02.mistea.top#All-@V2rayAlpha--1
 hysteria2://c3054d61-c708-4594-9797-f50acd24de2a@qing-es.mxtn.net:443?insecure=1#WiFi-%40V2rayAlpha--7
+hysteria2://c3054d61-c708-4594-9797-f50acd24de2a@qing-es.mxtn.net:443?insecure=1#🌐سرور
 hysteria2://c3054d61-c708-4594-9797-f50acd24de2a@qing-es.mxtn.net:443?security=tls&insecure=1&mport=21001-21099#WiFi-@V2rayAlpha--7
 hysteria2://c3054d61-c708-4594-9797-f50acd24de2a@qing-kz.mxtn.net:443?insecure=1#%40sunflowerplato%F0%9F%8C%BB%20%233
 hysteria2://c3054d61-c708-4594-9797-f50acd24de2a@qing-kz.mxtn.net:443?security=tls&insecure=1&mport=21001-21099#@sunflowerplato🌻
