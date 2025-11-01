@@ -81,7 +81,6 @@ ss://2ef737f5-d66a-4788-98b4-6dff2850954d@randomsecretcloud.ferdowsi-rgb.ir:3680
 ss://3034752b-a7bd-4562-ad0b-6f7f4d7e2aad@65.109.194.11:8080?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#IR🇮🇷
 ss://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80/?type=tcp&encryption=none#%40v2rayfree_iran%F0%9F%87%AE%F0%9F%87%B7
 ss://32895c66-fe57-49ad-ba5a-1936f2d5a7a8@m1.darkkabir.site:8080?path=%2F&security=none&encryption=none&type=ws#IR🇮🇷
-ss://33d7bcae-57c5-4336-8aff-e01c99594c0d@46.62.214.228:443?path=%2F&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#Join%20To%3A%40IRAN_V2RAY1%20%7BVIP%7D
 ss://3460022e-866b-46ac-8679-ae2796b4e30a@151.101.3.8:80?path=%2Fdownload%3Fed%3D2048&security=none&encryption=none&host=barghchi.com&type=ws#IR🇮🇷
 ss://3691b39b-4aa7-4f68-8304-902e4734e2f4@45.128.232.102:16798?security=reality&encryption=none&pbk=UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=229b2a94#IR-@V2ray_Alpha--16
 ss://36c540df-eed6-4d7a-994c-dd766a86db30@ir.any-server.cfd:24041?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxy_kuto%20%5B1%5D
@@ -96,10 +95,8 @@ ss://401374e6-df77-41fb-f638-dad8184f175b@141.11.202.193:443?mode=gun&security=t
 ss://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#@IRAN_V2RAY1--All
 ss://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#All--@IRAN_V2RAY1
 ss://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?mode=gun&security=none&encryption=none&type=grpc#All--@IRAN_V2RAY1
-ss://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.108:80?mode=gun&security=none&encryption=none&type=grpc#Join%20To%3A%40IRAN_V2RAY1%20%7BVIP%7D
 ss://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.82:80?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
 ss://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.99:80?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
-ss://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.99:80?mode=gun&security=none&encryption=none&type=grpc#Join%20To%3A%40IRAN_V2RAY1%20%7BVIP%7D
 ss://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.168:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#@IRAN_V2RAY1
 ss://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.168:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#@IRAN_V2RAY1--All
 ss://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#@IRAN_V2RAY1
@@ -181,6 +178,7 @@ ss://726c2932-0d31-4b1a-a53f-66d805fbfee6@45.140.167.253:443?security=reality&en
 ss://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ra_ng_iran%20%5B17%5D
 ss://7489c971-5f82-48ff-96e5-b80fd581318f@46.62.214.228:443?path=/&security=tls&encryption=none&host=cyrus.v2bazzar.ir&type=ws&sni=cyrus.v2bazzar.ir#All---@IRAN_V2RAY1
 ss://7489c971-5f82-48ff-96e5-b80fd581318f@46.62.214.228:443?path=/&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#All---@IRAN_V2RAY1
+ss://7556317c-dff6-46e8-ad29-b408f2a6456e@185.18.184.253:2096?path=%2Ftelegram%40freecodes&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfigvless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.22:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfigvless://48300e8d-4f24-483b-a817-f5e894f06b68@172.67.204.84:443?path=%2F&security=tls&encryption=none&type=ws&sni=companypdf9.pages.dev#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfigvless://a39aa2c6-1cf7-448d-9dbd-9ced07638fc9@farest.focusontrade.ir:13455?security=reality&encryption=none&pbk=dSbrtdeQC_EeFfSbq2bvngzThUGvHpz0NIAbO-GQLEg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=f690e0#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 ss://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40xsv2ray%20%5B6%5D
 ss://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@mainserver2.tarighi.info:16520?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 ss://7a5c388c-5f5f-462b-826e-8c32e539ebbc@138.199.199.55:666?security=none&encryption=none&headerType=none&type=tcp#IR-@V2ray_Alpha--8
@@ -404,10 +402,8 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880?mode=gun&security=none&encryption=none&type=grpc#IR-@V2rayAlpha--3
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880?mode=gun&security=none&encryption=none&type=grpc#IR-@V2ray_Alpha--7
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=none&encryption=none&type=grpc#Join%20To%3A%40IRAN_V2RAY1%20%7BVIP%7D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=none&encryption=none&type=grpc#MCi--@IRAN_V2RAY1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.19:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#All-@IRAN_V2RAY1
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.218:8880?mode=gun&security=none&encryption=none&type=grpc#Join%20To%3A%40IRAN_V2RAY1%20%7BVIP%7D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?mode=gun&security=none&encryption=none&type=grpc#IR-@V2ray_Alpha--13
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#MCI-@IRAN_V2RAY1
@@ -482,8 +478,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852258728.esfahan-blkaft-aaao.info:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929373584.rasht-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638965946052583460.arak-blkaft-aaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638970129452669909.budapest-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#Join%20To%3A%40IRAN_V2RAY1%20%7BVIP%7D
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638971626453013983.gorgan-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#Join%20To%3A%40IRAN_V2RAY1%20%7BVIP%7D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?mode=gun&security=none&encryption=none&type=grpc#MCi--@IRAN_V2RAY1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?mode=gun&security=none&encryption=none&type=grpc#IR-@V2ray_Alpha--27
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?mode=gun&security=none&encryption=none&type=grpc#MCI-@IRAN_V2RAY1
@@ -587,6 +581,8 @@ trojan://745654@154.3.37.9:443?security=tls&headerType=none&fp=chrome&type=tcp&s
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#All-@IRAN_V2RAY1
 trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520#FreeV2Alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
 trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI?ed=1520#@v2ray_alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
+trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.47.42:2053?path=%2FtrGPZDfetEwuO25SAs%3Fed%3D2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfigvless://7556317c-dff6-46e8-ad29-b408f2a6456e@185.18.184.253:2096?path=%2Ftelegram%40freecodes&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfigvless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.22:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfigvless://48300e8d-4f24-483b-a817-f5e894f06b68@172.67.204.84:443?path=%2F&security=tls&encryption=none&type=ws&sni=companypdf9.pages.dev#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfigvless://a39aa2c6-1cf7-448d-9dbd-9ced07638fc9@farest.focusontrade.ir:13455?security=reality&encryption=none&pbk=dSbrtdeQC_EeFfSbq2bvngzThUGvHpz0NIAbO-GQLEg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=f690e0#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+trojan://T%40_WvT8Ho%40LW%25w_%2C@nop-55q.pages.dev:2053?path=%2FtrGPZDfetEwuO25SAs&security=tls&host=NOp-55q.pAgEs.dEv&type=ws&sni=NOp-55q.pAgEs.dEv#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfighysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfigvless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.122.221:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfigvless://8e4ec018-b237-48ef-a09b-c8c2b2cee74b@m37a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 trojan://T5ncuGweIsLseCqu96ZWJg@65.109.217.125:443?security=tls&headerType=none&type=tcp&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@IRAN_V2RAY1
 trojan://Xa4%5El(%3B.%3BB%23a@104.18.26.90:443/?type=ws&host=s1.mitivpn.workers.dev&path=%2FtrUXByA1rnbs4YQ1Xw%3Fed%3D2560&security=tls&sni=S1.mitivpN.wOrKeRS.DEV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized#Join%20To%20%40IRAN_V2RAY1
@@ -658,7 +654,6 @@ vless://2ef737f5-d66a-4788-98b4-6dff2850954d@randomsecretcloud.ferdowsi-rgb.ir:3
 vless://3034752b-a7bd-4562-ad0b-6f7f4d7e2aad@65.109.194.11:8080?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#IR🇮🇷
 vless://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80/?type=tcp&encryption=none#%40v2rayfree_iran%F0%9F%87%AE%F0%9F%87%B7
 vless://32895c66-fe57-49ad-ba5a-1936f2d5a7a8@m1.darkkabir.site:8080?path=%2F&security=none&encryption=none&type=ws#IR🇮🇷
-vless://33d7bcae-57c5-4336-8aff-e01c99594c0d@46.62.214.228:443?path=%2F&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#Join%20To%3A%40IRAN_V2RAY1%20%7BVIP%7D
 vless://3460022e-866b-46ac-8679-ae2796b4e30a@151.101.3.8:80?path=%2Fdownload%3Fed%3D2048&security=none&encryption=none&host=barghchi.com&type=ws#IR🇮🇷
 vless://3691b39b-4aa7-4f68-8304-902e4734e2f4@45.128.232.102:16798?security=reality&encryption=none&pbk=UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=229b2a94#IR-@V2ray_Alpha--16
 vless://36c540df-eed6-4d7a-994c-dd766a86db30@ir.any-server.cfd:24041?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxy_kuto%20%5B1%5D
@@ -673,10 +668,8 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.202.193:443?mode=gun&securit
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#@IRAN_V2RAY1--All
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#All--@IRAN_V2RAY1
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?mode=gun&security=none&encryption=none&type=grpc#All--@IRAN_V2RAY1
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.108:80?mode=gun&security=none&encryption=none&type=grpc#Join%20To%3A%40IRAN_V2RAY1%20%7BVIP%7D
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.82:80?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.99:80?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.99:80?mode=gun&security=none&encryption=none&type=grpc#Join%20To%3A%40IRAN_V2RAY1%20%7BVIP%7D
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.168:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#@IRAN_V2RAY1
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.168:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#@IRAN_V2RAY1--All
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#@IRAN_V2RAY1
@@ -758,6 +751,7 @@ vless://726c2932-0d31-4b1a-a53f-66d805fbfee6@45.140.167.253:443?security=reality
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ra_ng_iran%20%5B17%5D
 vless://7489c971-5f82-48ff-96e5-b80fd581318f@46.62.214.228:443?path=/&security=tls&encryption=none&host=cyrus.v2bazzar.ir&type=ws&sni=cyrus.v2bazzar.ir#All---@IRAN_V2RAY1
 vless://7489c971-5f82-48ff-96e5-b80fd581318f@46.62.214.228:443?path=/&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#All---@IRAN_V2RAY1
+vless://7556317c-dff6-46e8-ad29-b408f2a6456e@185.18.184.253:2096?path=%2Ftelegram%40freecodes&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfigvless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.22:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfigvless://48300e8d-4f24-483b-a817-f5e894f06b68@172.67.204.84:443?path=%2F&security=tls&encryption=none&type=ws&sni=companypdf9.pages.dev#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfigvless://a39aa2c6-1cf7-448d-9dbd-9ced07638fc9@farest.focusontrade.ir:13455?security=reality&encryption=none&pbk=dSbrtdeQC_EeFfSbq2bvngzThUGvHpz0NIAbO-GQLEg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=f690e0#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40xsv2ray%20%5B6%5D
 vless://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@mainserver2.tarighi.info:16520?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 vless://7a5c388c-5f5f-462b-826e-8c32e539ebbc@138.199.199.55:666?security=none&encryption=none&headerType=none&type=tcp#IR-@V2ray_Alpha--8
@@ -898,10 +892,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880?mode=gun&security=none&encryption=none&type=grpc#IR-@V2rayAlpha--3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880?mode=gun&security=none&encryption=none&type=grpc#IR-@V2ray_Alpha--7
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=none&encryption=none&type=grpc#Join%20To%3A%40IRAN_V2RAY1%20%7BVIP%7D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=none&encryption=none&type=grpc#MCi--@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.19:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#All-@IRAN_V2RAY1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.218:8880?mode=gun&security=none&encryption=none&type=grpc#Join%20To%3A%40IRAN_V2RAY1%20%7BVIP%7D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?mode=gun&security=none&encryption=none&type=grpc#IR-@V2ray_Alpha--13
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#MCI-@IRAN_V2RAY1
@@ -976,8 +968,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852258728.esfahan-blkaft-aaao.info:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929373584.rasht-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638965946052583460.arak-blkaft-aaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970129452669909.budapest-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#Join%20To%3A%40IRAN_V2RAY1%20%7BVIP%7D
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971626453013983.gorgan-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#Join%20To%3A%40IRAN_V2RAY1%20%7BVIP%7D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?mode=gun&security=none&encryption=none&type=grpc#MCi--@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?mode=gun&security=none&encryption=none&type=grpc#IR-@V2ray_Alpha--27
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?mode=gun&security=none&encryption=none&type=grpc#MCI-@IRAN_V2RAY1
