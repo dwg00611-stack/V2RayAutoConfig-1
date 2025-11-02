@@ -1,3 +1,4 @@
+ss://80074d6b-23c5-465e-a348-dcf0378fd1f2@bgr01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#👉🆔@v2ray_configs_pool📡🇧🇬®️Bulgaria©️Sofia🅿️ping:55.68ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvSjd4blVrbkV1TVNjTTIxY2xDeUVpdDY2SlJobVpyQXJSU0UweGVhcEdSMjRIcUg@89.44.197.181:31348#%F0%9F%87%A7%F0%9F%87%ACBG-89.44.197.181-0918
 ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg==@213.183.63.218:9079#%F0%9F%87%A7%F0%9F%87%ACBG-213.183.63.218-4786
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@213.183.63.221:9041#%F0%9F%87%A7%F0%9F%87%ACBG-213.183.63.221-4794
@@ -50,6 +51,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.97:8880?security=&encryption=
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.97:8880?type=grpc&encryption=none&flow=#BG🇧🇬
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?security=&encryption=none&fp=chrome&type=grpc#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20-%205
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@147.78.140.20:8880#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+147.78.140.20-8880+%7C+2.35ms
+vless://80074d6b-23c5-465e-a348-dcf0378fd1f2@bgr01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#👉🆔@v2ray_configs_pool📡🇧🇬®️Bulgaria©️Sofia🅿️ping:55.68ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&authority=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26&type=grpc#BG🇧🇬
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958447451220459.yasuj-drc-tusabl.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#BG🇧🇬
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966574572431911.rome-blkaft-aaau.info:8880?mode=gun&security=&encryption=none&type=grpc#BG🇧🇬
