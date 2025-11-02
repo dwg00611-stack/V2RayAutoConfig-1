@@ -1,11 +1,9 @@
-ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40free4allvpn%20%5B19%5D
 ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#IN🇮🇳
 ss://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?type=tcp&encryption=none&flow=#IN🇮🇳
 ss://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linkidnvip1.evoay.com:53300?&security=reality&flow=xtls-rprx-vision&pbk=5vS25dtbA9k2li2vMui9VjyNyAAPs4IbGJUteTu8MHY&sid=a16c1158&fp=chrome&sni=www.lamer.com.sg&type=tcp&headerType=none&host=aws-linkidnvip1.evoay.com&path=%2F#%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#%F0%9F%87%AE%F0%9F%87%B3IN-103.111.114.29-0269
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#>>@free4allVPN::IN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#IN%F0%9F%87%AE%F0%9F%87%B3+%7C+103.111.114.29-57456+%7C+189.83ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.92:57456#India
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.92:57456#India%20Melbikomas%20UAB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.92:57456#👉🆔@v2ray_configs_pool📡🇮🇳®️India©️Mumbai🅿️ping:39ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@id.vpnsparta.pro:57456#IN%F0%9F%87%AE%F0%9F%87%B3+%7C+id.vpnsparta.pro-57456+%7C+292.9ms
@@ -26,7 +24,6 @@ ss://ab01d17f-ed9f-4546-afda-434adfd71401@45.89.105.72:443?encryption=none&secur
 ss://b41b3c10-91f1-42ed-b597-2ebdaddb9a96@india2.clearorbitllc.com:443?security=reality&encryption=none&pbk=x4izG3bGdBtEw3bArBaEI4ItTLfKgnEcTct4GjvTUUQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=india2.clearorbitllc.com&sid=157c0871#REALITY|IN🇮🇳
 ss://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_collector%20%5B16%5D
 ss://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629/?type=tcp&encryption=none#45.88.183.158::IN
-ss://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?security=&type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_collector%20%5B16%5D
 ss://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?security=none&encryption=none&headerType=none&type=tcp#IN🇮🇳
 ss://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?type=tcp&encryption=none&flow=#IN🇮🇳
 ss://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxyfull%20%5B13%5D
@@ -39,7 +36,6 @@ trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443/?type=tcp&secur
 trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#%F0%9F%87%AE%F0%9F%87%B3IN-152.67.160.174-1269
 trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#%F0%9F%87%AE%F0%9F%87%B3IN-152.67.162.166-3435
 trojan://ttfang@20.235.105.146:443/?type=ws&path=%2F&security=tls&sni=ttfang.fange.me#%F0%9F%87%AE%F0%9F%87%B3IN-20.235.105.146-0711
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40free4allvpn%20%5B19%5D
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#IN🇮🇳
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?type=tcp&encryption=none&flow=#IN🇮🇳
 vless://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linkidnvip1.evoay.com:53300?&security=reality&flow=xtls-rprx-vision&pbk=5vS25dtbA9k2li2vMui9VjyNyAAPs4IbGJUteTu8MHY&sid=a16c1158&fp=chrome&sni=www.lamer.com.sg&type=tcp&headerType=none&host=aws-linkidnvip1.evoay.com&path=%2F#%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A
@@ -47,7 +43,6 @@ vless://ab01d17f-ed9f-4546-afda-434adfd71401@45.89.105.72:443?encryption=none&se
 vless://b41b3c10-91f1-42ed-b597-2ebdaddb9a96@india2.clearorbitllc.com:443?security=reality&encryption=none&pbk=x4izG3bGdBtEw3bArBaEI4ItTLfKgnEcTct4GjvTUUQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=india2.clearorbitllc.com&sid=157c0871#REALITY|IN🇮🇳
 vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_collector%20%5B16%5D
 vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629/?type=tcp&encryption=none#45.88.183.158::IN
-vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?security=&type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_collector%20%5B16%5D
 vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?security=none&encryption=none&headerType=none&type=tcp#IN🇮🇳
 vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?type=tcp&encryption=none&flow=#IN🇮🇳
 vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxyfull%20%5B13%5D
