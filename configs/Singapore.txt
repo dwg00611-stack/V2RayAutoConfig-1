@@ -10,7 +10,7 @@ ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&se
 ss://3c36eadb-747a-4166-8db0-23fec9883ea2@45.8.211.24:443?path=/?ed=#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:96ms
 ss://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linksg62.eovay.com:30062?&security=reality&flow=xtls-rprx-vision&pbk=8lqcrBInKfc8fmUSM1JKIfHuNnCFkaVsPqPJyZZcn3A&sid=477fde90&fp=chrome&sni=www.lamer.com.sg&type=tcp&headerType=none&host=aws-linksg62.eovay.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1
 ss://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linksg63.eovay.com:30063?&security=reality&flow=xtls-rprx-vision&pbk=z_li3ig4aAMkDas-JLZocyh3e31s3UKV-rLL4ib0xWg&sid=5d79b533&fp=chrome&sni=www.lamer.com.sg&type=tcp&headerType=none&host=aws-linksg63.eovay.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%203
-ss://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linksg64.eovay.com:31064?&security=reality&flow=xtls-rprx-vision&pbk=zwgm4-BssFEzGy7VSQmcd3LhJZzT36XNlNVrnQqDLBM&sid=d3875950&fp=chrome&sni=www.lamer.com.sg&type=tcp&headerType=none&host=aws-linksg64.eovay.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%202
+ss://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linksg64.eovay.com:31064?&security=reality&flow=xtls-rprx-vision&pbk=zwgm4-BssFEzGy7VSQmcd3LhJZzT36XNlNVrnQqDLBM&sid=d3875950&fp=chrome&sni=www.lamer.com.sg&type=tcp&headerType=none&host=aws-linksg64.eovay.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%205
 ss://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linksg64.eovay.com:31064?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lamer.com.sg&fp=chrome&pbk=zwgm4-BssFEzGy7VSQmcd3LhJZzT36XNlNVrnQqDLBM&sid=d3875950&type=tcp&headerType=none&host=aws-linksg64.eovay.com#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:208.84ms
 ss://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.16:443/?type=ws&encryption=none&host=sgg1.azurewebsites.net&path=%2F&security=tls&sni=sgg1.azurewebsites.net#%E6%96%B0%E5%8A%A0%E5%9D%A1_Telegram%40kxswa
 ss://6f99505678024a1dbff761678e626c3fOg==@52.187.36.104:443#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+52.187.36.104-443+%7C+168.34ms
@@ -140,11 +140,13 @@ trojan://71086710-33eb-11ed-adce-1239d0255272@sg1-trojan.bonds.id:443/?type=tcp&
 trojan://71086710-33eb-11ed-adce-1239d0255272@sg1-trojan.bonds.id:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-103.253.24.212-6487
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@168.138.189.17:28443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-168.138.189.17-2972
 trojan://973ef350-f6a5-11ec-9274-1239d0255272@trojan2.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-128.199.185.211-6484
+trojan://9bb27128-e6d2-4cac-bbd3-beb46c4417f8@my01.trojanyyds.xyz:443?allowInsecure=0#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
 trojan://Aimer@150.109.11.223:443/?type=tcp&security=tls&sni=agepy.aimercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-150.109.11.223-1322
 trojan://Aimer@206.238.236.216:2083/?type=tcp&security=tls&sni=agepy.aimercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-206.238.236.216-1376
 trojan://Aimer@206.238.236.252:2096/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-206.238.236.252-1495
 trojan://Aimer@43.156.116.194:443/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-43.156.116.194-1320
 trojan://BxceQaOe@36.150.215.236:24392?#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://BxceQaOe@36.150.215.236:24392?#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 trojan://BxceQaOe@36.150.215.236:24392?allowInsecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@36.150.215.236:24392?allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@36.150.215.236:24392?allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40stairnode
@@ -159,6 +161,7 @@ trojan://bca467b8c15211d189008a93c7519d3b@117.172.176.24:2283?allowInsecure=0&sn
 trojan://bca467b8c15211d189008a93c7519d3b@117.172.176.24:2283?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
 trojan://bca467b8c15211d189008a93c7519d3b@117.172.176.24:2283?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://bca467b8c15211d189008a93c7519d3b@117.172.176.24:2283?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
+trojan://bca467b8c15211d189008a93c7519d3b@117.172.176.24:2283?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://cd39f62aed7b90f6@5.44.249.43:3389/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.43-7186
 trojan://cd39f62aed7b90f6@5.44.249.43:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.43-6606
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@jp01.trojanyyds.xyz:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.250.177.51-3513
@@ -184,7 +187,7 @@ vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.8.211.24:443?path=/?ed=#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:96ms
 vless://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linksg62.eovay.com:30062?&security=reality&flow=xtls-rprx-vision&pbk=8lqcrBInKfc8fmUSM1JKIfHuNnCFkaVsPqPJyZZcn3A&sid=477fde90&fp=chrome&sni=www.lamer.com.sg&type=tcp&headerType=none&host=aws-linksg62.eovay.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1
 vless://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linksg63.eovay.com:30063?&security=reality&flow=xtls-rprx-vision&pbk=z_li3ig4aAMkDas-JLZocyh3e31s3UKV-rLL4ib0xWg&sid=5d79b533&fp=chrome&sni=www.lamer.com.sg&type=tcp&headerType=none&host=aws-linksg63.eovay.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%203
-vless://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linksg64.eovay.com:31064?&security=reality&flow=xtls-rprx-vision&pbk=zwgm4-BssFEzGy7VSQmcd3LhJZzT36XNlNVrnQqDLBM&sid=d3875950&fp=chrome&sni=www.lamer.com.sg&type=tcp&headerType=none&host=aws-linksg64.eovay.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%202
+vless://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linksg64.eovay.com:31064?&security=reality&flow=xtls-rprx-vision&pbk=zwgm4-BssFEzGy7VSQmcd3LhJZzT36XNlNVrnQqDLBM&sid=d3875950&fp=chrome&sni=www.lamer.com.sg&type=tcp&headerType=none&host=aws-linksg64.eovay.com&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%205
 vless://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linksg64.eovay.com:31064?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lamer.com.sg&fp=chrome&pbk=zwgm4-BssFEzGy7VSQmcd3LhJZzT36XNlNVrnQqDLBM&sid=d3875950&type=tcp&headerType=none&host=aws-linksg64.eovay.com#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:208.84ms
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.16:443/?type=ws&encryption=none&host=sgg1.azurewebsites.net&path=%2F&security=tls&sni=sgg1.azurewebsites.net#%E6%96%B0%E5%8A%A0%E5%9D%A1_Telegram%40kxswa
 vless://9c187115-6599-4138-bcb4-268add81a63a@partner.zoom.us:80?type=ws&encryption=none&flow=&host=41.sahanwickramasinghe.shop&path=%2F#SG🇸🇬
