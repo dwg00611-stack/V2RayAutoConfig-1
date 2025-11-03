@@ -256,7 +256,6 @@ hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@dir.cybsecguru.com:35000?securi
 hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@dir.cybsecguru.com:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#All-@V2rayAlpha--9
 hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@dir.cybsecguru.com:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#MCi--@IRAN_V2RAY1
 hysteria2://602e99aa-718d-11eb-b77b-f23c913c8d2b@19ad851a-t53wg0-tbcla6-194tt.hk2.hyhuawei.com:443/?mport=30000-60000&sni=19ad851a-t53wg0-tbcla6-194tt.hk2.hyhuawei.com#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%AD%F0%9F%87%B0
-hysteria2://602e99aa-718d-11eb-b77b-f23c913c8d2b@19ad851a-t53wg0-tbcla6-194tt.hk2.hyhuawei.com:443?security=tls&insecure=0&mport=30000-60000&sni=19ad851a-t53wg0-tbcla6-194tt.hk2.hyhuawei.com#%F0%9F%8D%92%F0%9F%8D%92%F0%9F%8D%927
 hysteria2://607d365e-7ea1-11ee-95e9-f23c913c8d2b@69ad0675-sw5og0-sx7hbg-1mmbp.hy2.gotochinatown.net:8443?sni=69ad0675-sw5og0-sx7hbg-1mmbp.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B8104%20%7C%20%202.1MB/s
 hysteria2://607d365e-7ea1-11ee-95e9-f23c913c8d2b@ccb2a204-sw1z40-sx7hbg-1mmbp.hy2.gotochinatown.net:8443?sni=ccb2a204-sw1z40-sx7hbg-1mmbp.hy2.gotochinatown.net#2%7C%F0%9F%87%BA%F0%9F%87%B8109%20%7C%20%203.2MB/s
 hysteria2://65a43b6e-19c5-4fab-b960-d110a07d66a4@209.141.47.127:3234?insecure=1#11%2C12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%231
@@ -538,7 +537,6 @@ hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-passw
 hysteria2://YwuvGJk36B@filtercheebyha.arshiacomplus.dpdns.org:2083?security=tls&obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#%E2%99%A8%EF%B8%8F22%40ConfigV2RayNG
 hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander&obfs-password=9242a8bf#%40NoForcedheaven
 hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@2f6fd70e-t4jj40-t92wi1-1qkeg.us.hyhuawei.com:443/?sni=2f6fd70e-t4jj40-t92wi1-1qkeg.us.hyhuawei.com#Channel%20id%3A%20%40proxy_kafee%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@2f6fd70e-t4jj40-t92wi1-1qkeg.us.hyhuawei.com:443?security=tls&insecure=0&sni=2f6fd70e-t4jj40-t92wi1-1qkeg.us.hyhuawei.com#%E2%98%A2%E2%98%A2%E2%98%A26
 hysteria2://a9e0339e-4926-4772-8520-84f6694ddb82@hg1.oxdtangx.top:11112?insecure=1&sni=hg1.oxdtangx.top#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2015
 hysteria2://ab858115-e0ab-4cb7-8e65-0804c35e52d5@nl2.oomz.ru:30000?insecure=1&sni=bing.com#%40Selinc%20%235
 hysteria2://ab858115-e0ab-4cb7-8e65-0804c35e52d5@nl2.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#@Selinc
@@ -587,7 +585,6 @@ hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tl
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&insecure=1&sni=hl01.mistea.top#All-%40V2ray_Alpha--1
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&insecure=1&sni=hl01.mistea.top#All-@V2ray_Alpha--1
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&insecure=1&sni=hl01.mistea.top#✅
-hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&insecure=1&sni=hl01.mistea.top#🌐سرور
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@38.45.89.97:23892?insecure=1&sni=fus02.mistea.top#All-%40V2rayAlpha--1
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@38.45.89.97:23892?security=tls&insecure=1&sni=fus02.mistea.top#--1
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@38.45.89.97:23892?security=tls&insecure=1&sni=fus02.mistea.top#@meli_proxyy
