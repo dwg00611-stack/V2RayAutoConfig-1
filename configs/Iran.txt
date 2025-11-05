@@ -84,7 +84,7 @@ ss://3691b39b-4aa7-4f68-8304-902e4734e2f4@45.128.232.102:16798?security=reality&
 ss://36c540df-eed6-4d7a-994c-dd766a86db30@ir.any-server.cfd:24041?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxy_kuto%20%5B1%5D
 ss://3824fba1-352a-44f6-89c3-66bacce658eb@185.143.235.201:443/?type=ws&encryption=none&host=s2.www.getasa.ir&path=%2FR8vYH236j2wZpwD34O%3Fed2048&security=tls&sni=mydigipay.com&alpn=http%2F1.1&fp=randomized#%40v2rayfree_iran%F0%9F%87%AE%F0%9F%87%B7
 ss://3c36eadb-747a-4166-8db0-23fec9883ea2@45.8.211.24:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#All-@IRAN_V2RAY1
-ss://3d4d336c-7a65-442a-97c4-357596502f45@sv30.bcdata3.top:30443?security=none&type=tcp&headerType=http&path=%2F&host=cafeariel.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnplusee_free%20%5B15%5D
+ss://3d4d336c-7a65-442a-97c4-357596502f45@sv30.bcdata3.top:30443?security=none&type=tcp&headerType=http&path=%2F&host=cafeariel.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnplusee_free%20%5B13%5D
 ss://3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d@165.22.200.45:45323?security=none&encryption=none&headerType=none&type=tcp#All-@Iran_V2ray1
 ss://3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d@165.22.200.45:45323?security=none&encryption=none&headerType=none&type=tcp#IR-@V2rayAlpha--10
 ss://3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d@165.22.200.45:45323?security=none&encryption=noneWiFi-@IRAN_V2RAY1&headerType=none&type=tcp#WiFi-@IRAN_V2RAY1
@@ -664,7 +664,7 @@ vless://3691b39b-4aa7-4f68-8304-902e4734e2f4@45.128.232.102:16798?security=reali
 vless://36c540df-eed6-4d7a-994c-dd766a86db30@ir.any-server.cfd:24041?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxy_kuto%20%5B1%5D
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@185.143.235.201:443/?type=ws&encryption=none&host=s2.www.getasa.ir&path=%2FR8vYH236j2wZpwD34O%3Fed2048&security=tls&sni=mydigipay.com&alpn=http%2F1.1&fp=randomized#%40v2rayfree_iran%F0%9F%87%AE%F0%9F%87%B7
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@45.8.211.24:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=harmony-427.pages.dev&fp=chrome&type=ws&sni=HarmonY-427.pages.DEV#All-@IRAN_V2RAY1
-vless://3d4d336c-7a65-442a-97c4-357596502f45@sv30.bcdata3.top:30443?security=none&type=tcp&headerType=http&path=%2F&host=cafeariel.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnplusee_free%20%5B15%5D
+vless://3d4d336c-7a65-442a-97c4-357596502f45@sv30.bcdata3.top:30443?security=none&type=tcp&headerType=http&path=%2F&host=cafeariel.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnplusee_free%20%5B13%5D
 vless://3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d@165.22.200.45:45323?security=none&encryption=none&headerType=none&type=tcp#All-@Iran_V2ray1
 vless://3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d@165.22.200.45:45323?security=none&encryption=none&headerType=none&type=tcp#IR-@V2rayAlpha--10
 vless://3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d@165.22.200.45:45323?security=none&encryption=noneWiFi-@IRAN_V2RAY1&headerType=none&type=tcp#WiFi-@IRAN_V2RAY1
