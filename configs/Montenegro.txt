@@ -68,7 +68,6 @@ ss://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.248:80?encryption=none&sec
 ss://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.251:80?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 ss://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.145:80?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc&sni=pqh27v7.ipforvetra.shop#t.me/entryNET/config=1847974285223689
 ss://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.145:80?mode=gun&security=none&encryption=none&authority=---_T&type=grpc&sni=pqh27v7.ipforvetra.shop#t.me/entryNET/config=1847995667910034
-ss://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.23:80?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 ss://401374e6-df77-41fb-f638-dad8184f175b@pqh27v7.ipforvetra.shop:80?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 ss://401374e6-df77-41fb-f638-dad8184f175b@pqh30v7.ipforvetra.shop:80/?type=grpc&encryption=none&flow=#[🇺🇸]t.me/ConfigsHub
 ss://40730d97-ffa7-1108-2c53-761516eb5fda@155.212.110.2:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&sid=#[🇬🇧]t.me/ConfigsHub
@@ -252,6 +251,7 @@ ss://ddab5550-3938-4aba-943c-f23a08d07dc5@57.128.219.105:443?security=tls&sni=zu
 ss://ddab5550-3938-4aba-943c-f23a08d07dc5@alhilal.com:443?path=%2Fws&security=tls&encryption=none&host=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&sni=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg#[🇨🇦]t.me/ConfigsHub
 ss://ddab5550-3938-4aba-943c-f23a08d07dc5@check-host.net:443/?type=ws&encryption=none&flow=&host=rAyAn-cOnFiG-pl-1.pArIsA.DpDnS.OrG&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-pl-1.pArIsA.DpDnS.OrG&fp=chrome#[🇨🇦]t.me/ConfigsHub
 ss://de80fd2a-afe3-4cd6-8222-c05c271cc05e@194.182.79.240:14338?encryption=none&security=none&type=grpc&authority=&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&mode=gun#[🇨🇿]t.me/ConfigsHub
+ss://dea991b4-696f-4e9e-9761-1e1b31bb02de@172.64.146.66:443?path=%2Fsnippets&security=tls&encryption=none&host=2.294294.xyz&fp=chrome&type=ws&sni=2.294294.xyz#[🇨🇦]t.me/ConfigsHub
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#https://t.me/Selinc
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?encryption=none&security=none&type=grpc#t.me/v2Line
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.123:8880?encryption=none&type=grpc&mode=gun&security=none#[🇫🇮]t.me/ConfigsHub
@@ -528,7 +528,6 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.248:80?encryption=none&
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.251:80?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.145:80?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc&sni=pqh27v7.ipforvetra.shop#t.me/entryNET/config=1847974285223689
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.145:80?mode=gun&security=none&encryption=none&authority=---_T&type=grpc&sni=pqh27v7.ipforvetra.shop#t.me/entryNET/config=1847995667910034
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.23:80?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@pqh27v7.ipforvetra.shop:80?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v7.ipforvetra.shop:80/?type=grpc&encryption=none&flow=#[🇺🇸]t.me/ConfigsHub
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@155.212.110.2:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&sid=#[🇬🇧]t.me/ConfigsHub
@@ -688,6 +687,7 @@ vless://ddab5550-3938-4aba-943c-f23a08d07dc5@57.128.219.105:443?security=tls&sni
 vless://ddab5550-3938-4aba-943c-f23a08d07dc5@alhilal.com:443?path=%2Fws&security=tls&encryption=none&host=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&sni=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg#[🇨🇦]t.me/ConfigsHub
 vless://ddab5550-3938-4aba-943c-f23a08d07dc5@check-host.net:443/?type=ws&encryption=none&flow=&host=rAyAn-cOnFiG-pl-1.pArIsA.DpDnS.OrG&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-pl-1.pArIsA.DpDnS.OrG&fp=chrome#[🇨🇦]t.me/ConfigsHub
 vless://de80fd2a-afe3-4cd6-8222-c05c271cc05e@194.182.79.240:14338?encryption=none&security=none&type=grpc&authority=&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&mode=gun#[🇨🇿]t.me/ConfigsHub
+vless://dea991b4-696f-4e9e-9761-1e1b31bb02de@172.64.146.66:443?path=%2Fsnippets&security=tls&encryption=none&host=2.294294.xyz&fp=chrome&type=ws&sni=2.294294.xyz#[🇨🇦]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#https://t.me/Selinc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?encryption=none&security=none&type=grpc#t.me/v2Line
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.123:8880?encryption=none&type=grpc&mode=gun&security=none#[🇫🇮]t.me/ConfigsHub
