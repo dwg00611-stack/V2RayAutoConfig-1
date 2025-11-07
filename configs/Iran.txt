@@ -307,7 +307,6 @@ ss://a27ff611-7c01-4df3-9471-4fd5cd4bb8e1@193.46.81.151:49330?security=reality&e
 ss://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=/&security=none&encryption=none&type=ws#@IRAN_V2RAY1
 ss://a4246c1c-207d-40c9-b85f-beca7d88f54f@91.107.172.48:443?security=tls&encryption=none&headerType=none&type=tcp&sni=de.v2bazzar.ir#@IRAN_V2RAY1
 ss://a4246c1c-207d-40c9-b85f-beca7d88f54f@91.107.172.48:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.instagram.com#@IRAN_V2RAY1
-ss://a7e3db08-6fb7-4ffd-9415-59d1b5c6eeb6@zula.ir:443?&security=tls&fp=chrome&sni=rAyAn-cOnFiG-ca-1.pArIsA.DpDnS.OrG&type=ws&headerType=none&host=rAyAn-cOnFiG-ca-1.pArIsA.DpDnS.OrG&path=%2Fws#zula.ir%3A443
 ss://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606/?type=ws&encryption=none&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&path=%2Fws%3Fed%3D2048#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40eliteproxyv2%20%5B9%5D
 ss://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=%2Fws%3Fed%3D2048&security=none&encryption=none&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40eliteproxyv2%20%5B7%5D
 ss://abaaff2a-a66d-40cb-bfdf-9b6c3762789b@31.14.118.226:24100?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40lakvpn1%20%5B7%5D
@@ -799,7 +798,6 @@ vless://a27ff611-7c01-4df3-9471-4fd5cd4bb8e1@193.46.81.151:49330?security=realit
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=/&security=none&encryption=none&type=ws#@IRAN_V2RAY1
 vless://a4246c1c-207d-40c9-b85f-beca7d88f54f@91.107.172.48:443?security=tls&encryption=none&headerType=none&type=tcp&sni=de.v2bazzar.ir#@IRAN_V2RAY1
 vless://a4246c1c-207d-40c9-b85f-beca7d88f54f@91.107.172.48:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.instagram.com#@IRAN_V2RAY1
-vless://a7e3db08-6fb7-4ffd-9415-59d1b5c6eeb6@zula.ir:443?&security=tls&fp=chrome&sni=rAyAn-cOnFiG-ca-1.pArIsA.DpDnS.OrG&type=ws&headerType=none&host=rAyAn-cOnFiG-ca-1.pArIsA.DpDnS.OrG&path=%2Fws#zula.ir%3A443
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606/?type=ws&encryption=none&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&path=%2Fws%3Fed%3D2048#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40eliteproxyv2%20%5B9%5D
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?path=%2Fws%3Fed%3D2048&security=none&encryption=none&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40eliteproxyv2%20%5B7%5D
 vless://abaaff2a-a66d-40cb-bfdf-9b6c3762789b@31.14.118.226:24100?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40lakvpn1%20%5B7%5D
