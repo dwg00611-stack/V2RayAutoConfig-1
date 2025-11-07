@@ -1,5 +1,4 @@
 ss://12345678-1234-1234-1234-123456789123@88.216.69.54:2096/?type=ws&encryption=none&host=sni.aizrf.com&path=%2Fsnippets&security=tls&sni=sni.aizrf.com#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayprotocol%20%5B6%5D
-ss://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?path=%2Fsnippets%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#👉🆔@v2ray_configs_pool📡🇱🇹®️Lithuania©️Vilnius🅿️ping:28.34ms
 ss://15d114ee-c814-47c7-bd12-fab0c7a0128e@638975337675806042.lisbon-blkaft-aabc.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#LT🇱🇹
 ss://15d114ee-c814-47c7-bd12-fab0c7a0128e@638975337676447591.lisbon-blkaft-aabc.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#LT🇱🇹
 ss://15d114ee-c814-47c7-bd12-fab0c7a0128e@638978804870442385.copenhagen-blkaft-aabc.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#LT🇱🇹
@@ -38,8 +37,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+45.87.175.199-8080+%7C+146.38ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@beesyar.org:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.171-0163
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@185.237.185.89:990#Lithuania%20BrainStorm
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@185.237.185.89:990#👉🆔@v2ray_configs_pool📡🇱🇹®️Lithuania©️Vilnius🅿️ping:11ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@185.237.185.89:990#👉🆔@v2ray_configs_pool📡🇱🇹®️Lithuania©️Vilnius🅿️ping:77ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@185.237.185.89:990#👉🆔@v2ray_configs_pool📡🇱🇹®️Lithuania©️Vilnius🅿️ping:106ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@185.237.185.89:990#👉🆔@v2ray_configs_pool📡🇱🇹®️Lithuania©️Vilnius🅿️ping:69ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.237.185.89:990#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+185.237.185.89-990+%7C+179.45ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#%F0%9F%87%B1%F0%9F%87%B9LT-193.135.174.135-0256
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+193.135.174.135-990+%7C+177.47ms
@@ -123,6 +122,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+45.87.175.92-8080+%7C+154.12ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@ltnl10.saint.ydns.eu:8080#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+ltnl10.saint.ydns.eu-8080+%7C+1237.15ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@ltnl16.saint.ydns.eu:8080#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+ltnl16.saint.ydns.eu-8080+%7C+1309.63ms
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?security=&type=grpc&encryption=none#👉🆔@v2ray_configs_pool📡🇱🇹®️Lithuania©️Šiauliai🅿️ping:30ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638929396024898748.lisbon-drc-dcrabj.info:8880/?type=grpc&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2raych%20%5B18%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930359207602168.dublin-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638932111805004627.rasht-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
@@ -149,6 +149,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=n
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=&encryption=none&type=grpc#LT🇱🇹
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.28:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇱🇹®️Lithuania©️Vilnius🅿️ping:38.59ms
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@88.216.66.29:8880#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+88.216.66.29-8880+%7C+1.39ms
 ss://fe27c0c7-6602-4b20-a8e4-d8eff275dbee@94.131.13.14:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#REALITY|LT🇱🇹
 ss://telegram-id-Arfilter@172.66.40.99:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=www.arfilter.blog&fp=firefox&type=ws&sni=www.arfilter.blog#LT🇱🇹
@@ -168,13 +169,13 @@ trojan://54f4dd9a-6a6c-4c84-b328-4a51da70793e@625us.ok365.cyou:443?security=tls#
 trojan://54f4dd9a-6a6c-4c84-b328-4a51da70793e@626sg05.ok365.cyou:80/?type=tcp&security=tls#%F0%9F%87%B1%F0%9F%87%B9LT-84.32.84.33-4809
 trojan://54f4dd9a-6a6c-4c84-b328-4a51da70793e@626sg05.ok365.cyou:80?security=tls#%F0%9F%87%B1%F0%9F%87%B9LT-84.32.84.33-4823
 vless://12345678-1234-1234-1234-123456789123@88.216.69.54:2096/?type=ws&encryption=none&host=sni.aizrf.com&path=%2Fsnippets&security=tls&sni=sni.aizrf.com#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayprotocol%20%5B6%5D
-vless://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?path=%2Fsnippets%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#👉🆔@v2ray_configs_pool📡🇱🇹®️Lithuania©️Vilnius🅿️ping:28.34ms
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@638975337675806042.lisbon-blkaft-aabc.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#LT🇱🇹
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@638975337676447591.lisbon-blkaft-aabc.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#LT🇱🇹
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@638978804870442385.copenhagen-blkaft-aabc.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#LT🇱🇹
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@638978804870442385.copenhagen-blkaft-aabc.info:8880?type=grpc&encryption=none&flow=#LT🇱🇹
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@638978804870443235.copenhagen-blkaft-aabc.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#LT🇱🇹
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@638978804870443656.copenhagen-blkaft-aabc.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#LT🇱🇹
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?security=&type=grpc&encryption=none#👉🆔@v2ray_configs_pool📡🇱🇹®️Lithuania©️Šiauliai🅿️ping:30ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929396024898748.lisbon-drc-dcrabj.info:8880/?type=grpc&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2raych%20%5B18%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930359207602168.dublin-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932111805004627.rasht-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
@@ -201,6 +202,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=&encryption=none&type=grpc#LT🇱🇹
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.28:8880?mode=gun&security=none&encryption=none&type=grpc#LT🇱🇹
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.48:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇱🇹®️Lithuania©️Vilnius🅿️ping:38.59ms
 vless://fe27c0c7-6602-4b20-a8e4-d8eff275dbee@94.131.13.14:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#REALITY|LT🇱🇹
 vless://telegram-id-Arfilter@172.66.40.99:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=www.arfilter.blog&fp=firefox&type=ws&sni=www.arfilter.blog#LT🇱🇹
 vless://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ed.arfilter.blog&fp=firefox&type=ws&sni=ed.arfilter.blog#LT🇱🇹
