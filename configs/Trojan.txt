@@ -231,6 +231,7 @@ trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:18433?security=t
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:18433?security=tls&sni=🔒
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:18435?security=tls&sni=hn.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-2000
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:18435?security=tls&sni=🔒
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:18459?allowInsecure=0&sni=hn.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:18459?security=tls&sni=hn.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-76.223.54.146-1924
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:18459?security=tls&sni=🔒
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:18463?type=tcp&sni=🔒
@@ -377,6 +378,7 @@ trojan://192a5fc9-2baa-4043-8655-d840d370cb86@jp.liangyuandian.top:443?security=
 trojan://1957909a-4f2a-4d9c-99ad-119d45f052c1@v01.gutingting.com:30002/?type=tcp&security=tls&sni=🔒
 trojan://1957909a-4f2a-4d9c-99ad-119d45f052c1@v01.gutingting.com:30002?security=tls&sni=🔒
 trojan://1957909a-4f2a-4d9c-99ad-119d45f052c1@v02.gutingting.com:30055/?type=tcp&security=tls&sni=🔒
+trojan://1957909a-4f2a-4d9c-99ad-119d45f052c1@v02.gutingting.com:30055?allowInsecure=0&sni=v1jp02.fuqiangren.com#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B18%5D
 trojan://1957909a-4f2a-4d9c-99ad-119d45f052c1@v02.gutingting.com:30055?security=tls&sni=🔒
 trojan://196ca8d6-0d32-4e52-a4de-0fb23be82658@tacotasty.tk:443
 trojan://19ZDV7mNAW@91.107.177.122:443?type=tcp&path=%2F%40ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#US🇺🇸
