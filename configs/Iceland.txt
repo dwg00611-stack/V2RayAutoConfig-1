@@ -16,7 +16,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?mode=gun&security=
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔@v2ray_configs_pool📡🇮🇸®️Iceland©️Reykjavik🅿️ping:152ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?mode=gun&security=none&encryption=none&type=grpc#IS🇮🇸
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?type=grpc&encryption=none#IS🇮🇸
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.220:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40prrofile_purple%20%5B143%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.220:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇮🇸®️Iceland©️Reykjavik🅿️ping:87.63ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.225:8880?mode=gun&security=none&encryption=none&authority=%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&type=grpc#👉🆔@v2ray_configs_pool📡🇮🇸®️Iceland©️Reykjavik🅿️ping:91.9ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.233:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#IS🇮🇸
@@ -54,7 +53,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#👉🆔@v2ray_configs_pool📡🇮🇸®️Iceland©️Reykjavik🅿️ping:152ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?mode=gun&security=none&encryption=none&type=grpc#IS🇮🇸
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?type=grpc&encryption=none#IS🇮🇸
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.220:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40prrofile_purple%20%5B143%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.220:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇮🇸®️Iceland©️Reykjavik🅿️ping:87.63ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.225:8880?mode=gun&security=none&encryption=none&authority=%2F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&type=grpc#👉🆔@v2ray_configs_pool📡🇮🇸®️Iceland©️Reykjavik🅿️ping:91.9ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.233:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#IS🇮🇸
