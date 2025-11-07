@@ -63,6 +63,7 @@ hysteria2://10822856-7452-43ec-b35b-6f24ea33530f@chervhill.hajalii.com:29662?ins
 hysteria2://10822856-7452-43ec-b35b-6f24ea33530f@chervhill.hajalii.com:29662?obfs=salamander&obfs-password=xFGh9dsyreJV9sMs1RUnFbwRdon&sni=chervhill.hajalii.com&insecure=0#@Mr_Config_Group✌️
 hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%40V2rayNG3
 hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#@V2rayNG3
+hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#🌐سرور
 hysteria2://12929592-a7bd-41eb-ab4d-d804f76c4ff9@104.250.239.32:49618/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
 hysteria2://12929592-a7bd-41eb-ab4d-d804f76c4ff9@185.126.255.78:42437/?sni=imafake.locker&fp=chrome#%E2%9D%8CKyiv-GetAFreeNode
 hysteria2://15cca331-9e92-449d-93b0-25f82203595f@gb.gomeow.online:20309?insecure=0&sni=gb.gomeow.online#%40V2rayNG3%20%231
@@ -87,9 +88,9 @@ hysteria2://26b49ba9-d4ad-4e8c-85cc-235fcb9f0ea2@lsus7.lansecs.top:58338?insecur
 hysteria2://27104fae-f047-4993-902a-9368d8a3e9bc@104.250.239.32:49618/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
 hysteria2://27104fae-f047-4993-902a-9368d8a3e9bc@185.126.255.78:42437/?sni=imafake.locker&fp=chrome#%E2%9D%8CKyiv-GetAFreeNode
 hysteria2://2b67ONZROv%2BfRVMxB94BSw%3D%3D@5.231.70.79:443?insecure=1&sni=bing.com#MCI-%40V2rayAlpha--2
+hysteria2://2b67ONZROv%2BfRVMxB94BSw%3D%3D@5.231.70.79:443?insecure=1&sni=bing.com#🌐سرور
 hysteria2://2b67ONZROv+fRVMxB94BSw==@5.231.70.79:443?security=tls&insecure=1&sni=bing.com#@V2rayAlpha--All-2
 hysteria2://2b67ONZROv+fRVMxB94BSw==@5.231.70.79:443?security=tls&insecure=1&sni=bing.com#MCI-@V2rayAlpha--2
-hysteria2://2b67ONZROv+fRVMxB94BSw==@5.231.70.79:443?security=tls&insecure=1&sni=bing.com#🌐سرور
 hysteria2://308d37dc-cfe1-4d81-a095-d576f90cf581@85.237.206.207:29854?security=tls&insecure=1&sni=www.bing.com#%40V2_MOD_SHOP%20-%20%F0%9F%87%B9%F0%9F%87%BC%20%E2%9A%A1%20%7C
 hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009?insecure=1&sni=d.eans.top#https%3A//t.me/Selinc
 hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009?security=tls&insecure=1&sni=d.eans.top#https://t.me/Selinc
@@ -391,7 +392,6 @@ hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891?security=
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891?security=tls&insecure=1&sni=fus01.mistea.top#🇺🇲@FreakConfig
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899/?insecure=1&sni=hl01.mistea.top#%F0%9F%AB%9F7%40oneclickvpnkeys
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?insecure=1&sni=hl01.mistea.top#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
-hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?insecure=1&sni=hl01.mistea.top#🌐سرور
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&insecure=1&sni=hl01.mistea.top#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🪲
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&insecure=1&sni=hl01.mistea.top#%F0%9F%8D%8243%40ConfigV2RayNG
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&insecure=1&sni=hl01.mistea.top#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
@@ -400,7 +400,6 @@ hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tl
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&insecure=1&sni=hl01.mistea.top#All--%40V2rayAlpha-
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&insecure=1&sni=hl01.mistea.top#All--@V2rayAlpha-
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&insecure=1&sni=hl01.mistea.top#All-@V2ray_Alpha--1
-hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&insecure=1&sni=hl01.mistea.top#🌐سرور
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&insecure=1&sni=hl01.mistea.top#🏴‍☠️@FreakConfig
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@38.45.89.97:23892?insecure=1&sni=fus02.mistea.top#All-%40V2rayAlpha--1
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@38.45.89.97:23892?security=tls&insecure=1&sni=fus02.mistea.top#All-%40V2rayAlpha--1
