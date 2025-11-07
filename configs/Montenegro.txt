@@ -29,6 +29,7 @@ ss://2039e9dc-b295-4c4d-8d51-49896598d9d0@151.101.3.8:80?mode=auto&path=%2FJoin-
 ss://2140887e-eebe-46a5-873d-0a027873ff7a@194.116.215.36:8443?type=tcp&headerType=none&security=none#[🇳🇱]t.me/ConfigsHub
 ss://23076191-ac7c-45f7-e6f1-285fbec2ce96@142.93.109.68:443?encryption=none&security=none&type=grpc#[🇩🇪]t.me/ConfigsHub
 ss://2367e117-0d3e-4b8c-9fd6-0abceb115933@87.248.129.226:8443?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#[🇦🇪]t.me/ConfigsHub
+ss://2429bee3-e0c1-47dd-b420-75e6512b184b@140.238.147.173:42557?security=reality&encryption=none&pbk=LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh-sMW3Xo&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=f430927d#[🇨🇦]t.me/ConfigsHub
 ss://2456f90c-5183-476d-b069-16ae74ce120f@92.53.191.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#[🇨🇦]t.me/ConfigsHub
 ss://262ef41a-7dc4-5151-db36-d74afbcb5730@dubai.marzxo.biz:8085?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#[🇦🇪]t.me/ConfigsHub
 ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=&encryption=none&host=t.me%2Fv2line&type=ws#[🇫🇷]t.me/ConfigsHub
@@ -478,6 +479,7 @@ vless://2039e9dc-b295-4c4d-8d51-49896598d9d0@151.101.3.8:80?mode=auto&path=%2FJo
 vless://2140887e-eebe-46a5-873d-0a027873ff7a@194.116.215.36:8443?type=tcp&headerType=none&security=none#[🇳🇱]t.me/ConfigsHub
 vless://23076191-ac7c-45f7-e6f1-285fbec2ce96@142.93.109.68:443?encryption=none&security=none&type=grpc#[🇩🇪]t.me/ConfigsHub
 vless://2367e117-0d3e-4b8c-9fd6-0abceb115933@87.248.129.226:8443?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#[🇦🇪]t.me/ConfigsHub
+vless://2429bee3-e0c1-47dd-b420-75e6512b184b@140.238.147.173:42557?security=reality&encryption=none&pbk=LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh-sMW3Xo&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=f430927d#[🇨🇦]t.me/ConfigsHub
 vless://2456f90c-5183-476d-b069-16ae74ce120f@92.53.191.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#[🇨🇦]t.me/ConfigsHub
 vless://262ef41a-7dc4-5151-db36-d74afbcb5730@dubai.marzxo.biz:8085?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#[🇦🇪]t.me/ConfigsHub
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=&encryption=none&host=t.me%2Fv2line&type=ws#[🇫🇷]t.me/ConfigsHub
