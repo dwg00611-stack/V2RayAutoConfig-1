@@ -27,7 +27,6 @@ ss://YWVzLTEyOC1nY206MTAwODY=@153.121.43.183:10087#%F0%9F%87%AF%F0%9F%87%B5%20JP
 ss://YWVzLTEyOC1nY206MTAwODY=@153.121.43.183:10087#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+153.121.43.183-10087+%7C+106.07ms
 ss://YWVzLTEyOC1nY206MTAwODY=@153.121.43.183:10087#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+153.121.43.183-10087+%7C+106.8ms
 ss://YWVzLTEyOC1nY206MTAwODY=@153.121.51.214:10087#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+153.121.51.214-10087+%7C+105.45ms
-ss://YWVzLTEyOC1nY206MTAwODY@160.16.123.124:10087#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:95ms
 ss://YWVzLTEyOC1nY206bElOYUFMbkhJaUg0Y1NqOHBKbjZUUT09@202.182.98.223:9443#%F0%9F%87%AF%F0%9F%87%B5JP-202.182.98.223-0288
 ss://YWVzLTEyOC1nY206bElOYUFMbkhJaUg0Y1NqOHBKbjZUUT09@202.182.98.223:9443#%F0%9F%87%AF%F0%9F%87%B5JP-202.182.98.223-0292
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0294
@@ -90,13 +89,13 @@ trojan://1b57001bd214304027025a740b6cf1ac@202.181.103.246:1332?allowInsecure=0&s
 trojan://1b57001bd214304027025a740b6cf1ac@202.181.103.246:1332?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
 trojan://1b57001bd214304027025a740b6cf1ac@202.181.103.246:1332?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-1252
 trojan://1b57001bd214304027025a740b6cf1ac@202.181.103.246:1332?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+trojan://1b57001bd214304027025a740b6cf1ac@202.181.103.246:2173?allowInsecure=0&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:99ms
 trojan://1b57001bd214304027025a740b6cf1ac@202.181.103.246:2173?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-1254
-trojan://1b57001bd214304027025a740b6cf1ac@202.181.103.246:2283?allowInsecure=0&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:176ms
+trojan://1b57001bd214304027025a740b6cf1ac@202.181.103.246:2283?allowInsecure=0&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:196ms
 trojan://1b57001bd214304027025a740b6cf1ac@202.181.103.246:2283?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-1253
 trojan://1b57001bd214304027025a740b6cf1ac@202.181.103.246:4452?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://1b57001bd214304027025a740b6cf1ac@202.181.103.246:4452?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://1b57001bd214304027025a740b6cf1ac@202.181.103.246:4452?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40stairnode
-trojan://1b57001bd214304027025a740b6cf1ac@202.181.103.246:4452?allowInsecure=0&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:200ms
 trojan://1b57001bd214304027025a740b6cf1ac@202.181.103.246:4452?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-1251
 trojan://1b57001bd214304027025a740b6cf1ac@202.181.103.246:4452?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://1b5eff5a-f36b-4149-8001-7c8c0c4ed2eb@43.206.67.76:36306?security=tls&sni=sunmoon02.abzoones.xyz#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.67.76-4996
@@ -260,6 +259,7 @@ trojan://cd41b9d7-df15-46ad-a778-257b0851525a@sg02.trojanyyds.xyz:443?security=t
 trojan://cd41b9d7-df15-46ad-a778-257b0851525a@uk01.trojanyyds.xyz:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-172.207.174.78-3473
 trojan://d06a3f01-1ff0-4792-9b8e-a5a604bc74a2@168.138.43.89:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-168.138.43.89-3077
 trojan://da777aae-defb-41d0-a183-2c27da2b4677@150.230.96.103:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.96.103-3361
+trojan://e4e262d453466988575c397a30562337@160.16.150.76:50974?allowInsecure=1&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:172ms
 trojan://e4e262d453466988575c397a30562337@160.16.150.76:50974?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.150.76-1257
 trojan://e4e262d453466988575c397a30562337@160.16.231.103:3777?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.231.103-1269
 trojan://f42e1a2e-e650-44f4-8d17-bcb68663da18@150.230.201.192:443?security=tls&sni=www.seetheworldjp.ga#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.201.192-4997
@@ -336,7 +336,6 @@ vmess://ewogICAgImFkZCI6ICJqcC1hbWQxLjAxODk5OS54eXoiLAogICAgImFpZCI6IDAsCiAgICAi
 vmess://ewogICAgImFkZCI6ICJzdXpoaWhhbi5ldS5vcmciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJzdXpoaWhhbi5ldS5vcmciLAogICAgImlkIjogIjBiODczY2ZmLTExYWItNDcxNi1jNDFhLTA0Zjg4NjEzNTA5MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9yb2V3ZXN1IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6/wn4e1SlAtMTY4LjEzOC4yMDMuMjMyLTAxMDciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://eyJ2IjoiMiIsImFkZCI6IjQ1LjE1OS41MS4xMTYiLCJwb3J0IjoiNDgwMTkiLCJpZCI6ImMwNjc5N2Q1LWZhNDEtNGI0OC1iMTMyLWQyNjhkMmFjYjMwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiIiwicGF0aCI6IlwvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpQIHwgXHVkODNkXHVkZDEzIFZNRVNTIHwgQG1mdGl6aSBbMTldIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSlAtOC4yMTEuMTY0LjIxNS01NTY0IiwiYWRkIjoiOC4yMTEuMTY0LjIxNSIsInBvcnQiOiIyMDUyMiIsInR5cGUiOiJub25lIiwiaWQiOiI3MzE5M2NjZS03Y2ExLTRiMDgtOTNmZi00ZWU4YjAxNDczNzQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RlbGVncmFtX0Bzc3dpYSIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1KUCIsImFkZCI6ImdhbWUuanAwMy5iaWxpYmlsaWNsb3VkMDEuY29tIiwicG9ydCI6IjUwMTg5IiwidHlwZSI6Im5vbmUiLCJpZCI6IjAxMDY0OTg3LTlmNTctMzdmNi1hYjFhLTNhYmExNTA2NjY4NiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJob3N0IjoiZ2FtZS5qcDAzLmJpbGliaWxpY2xvdWQwMS5jb20iLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vmess://eyJ2IjoiMiIsInBzIjoidC5tZS92MkxpbmUgfCBGcmVlIHwgMjc2MiB8IEphcGFuIiwiYWRkIjoiOC4yMTEuMTY0LjIxNSIsInBvcnQiOiIyMDUyMiIsImlkIjoiNzMxOTNjY2UtN2NhMS00YjA4LTkzZmYtNGVlOGIwMTQ3Mzc0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IiIsInBhdGgiOiIvdGVsZWdyYW1fQHNzd2lhIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vmess://eyJhZGQiOiI0LjIxNi4xNzMuMTU5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkb3dubG9hZC53aW5kb3dzdXBkYXRlLmNvbSIsImlkIjoiZWZiNzQ4ZWMtYzkyMS00MmExLWFjOWUtMWQ1NDg1ZDZjNDQ3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2Rvd25sb2FkIiwicG9ydCI6IjgwODAiLCJwcyI6IvCfh6/wn4e1SlAtNC4yMTYuMTczLjE1OS0xNDEwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI0My4yNDYuMTk4LjEzNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMDQwZjE1OS0zNzdkLTRiNjItYWFmNi05OTQ0NjBkM2VlNGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiMTE2ODMiLCJwcyI6IvCfh6/wn4e1SlAoQXphZE5ldC50Lm1lKSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
