@@ -50,6 +50,7 @@ ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw@5.188.181.201:9029#%F0%9F%87%AA%F0%9
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.38.171.89:989#%F0%9F%87%AA%F0%9F%87%B8ES-92.38.171.89-8929
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-8999
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.134:8880?type=grpc&encryption=none&flow=#ES🇪🇸
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.186:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40prrofile_purple%20%5B141%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.186:8880?mode=gun&security=none&encryption=none&type=grpc#ES🇪🇸
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.70:8880?mode=gun&security=none&encryption=none&type=grpc#ES🇪🇸
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.98:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#ES🇪🇸
@@ -76,6 +77,7 @@ vless://820bc646-6b81-471a-8c6b-f7a6f750c62d@bountyhunter.fonixapp.org:34270?sec
 vless://820bc646-6b81-471a-8c6b-f7a6f750c62d@bountyhunter.fonixapp.org:34270?security=reality&encryption=none&pbk=foleRktxkiFhRpzlI9JQtPnnUn6uC_69MQOZIedPIRo&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=b0f3c87d8b#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:78.34ms
 vless://8e8baaa6-0490-413a-85cd-8a8d6003ba63@tunnyl.ru:443?type=tcp&encryption=none&security=reality&pbk=llUN5iiAQwwKwiAp7zCwfU8wNz7F4lg__e9Qdv_gkWs&fp=random&sni=google.com&sid=0f1d6a&spx=%2F&flow=xtls-rprx-vision#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Coslada🅿️ping:57.23ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.134:8880?type=grpc&encryption=none&flow=#ES🇪🇸
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.186:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40prrofile_purple%20%5B141%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.186:8880?mode=gun&security=none&encryption=none&type=grpc#ES🇪🇸
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.70:8880?mode=gun&security=none&encryption=none&type=grpc#ES🇪🇸
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.98:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#ES🇪🇸
