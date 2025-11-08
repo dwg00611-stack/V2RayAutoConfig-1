@@ -15,6 +15,7 @@ trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingn
 trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.15.72-9126
 trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.252.69.131-9122
 trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.67.209-2148
+trojan://telegram-id-privatevpns@52.18.111.240:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
 trojan://telegram-id-privatevpns@52.208.136.122:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%87%AE%F0%9F%87%AA_IE_%E7%88%B1%E5%B0%94%E5%85%B0-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE-54.78.157.126-2173
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@194.87.245.123:443?security=reality&encryption=none&pbk=Sou40t4nVSakWV73bMSiB8FqUIMCNfsHkuoOp05lD0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=a83c34a4#REALITY|IE🇮🇪
