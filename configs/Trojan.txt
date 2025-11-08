@@ -1282,8 +1282,6 @@ trojan://509ed9b7-8d64-4204-8ec8-6b749020ac3f@104.21.3.189:443?security=tls&sni=
 trojan://509ed9b7-8d64-4204-8ec8-6b749020ac3f@172.67.131.27:443?security=tls&sni=🔒
 trojan://51c44c4e-f8c2-4419-a52b-b4b7bd915078@ap.liangyuandian.top:443/?type=tcp&security=tls
 trojan://51c44c4e-f8c2-4419-a52b-b4b7bd915078@ap.liangyuandian.top:443?security=tls
-trojan://51ee7f28-fa3a-4ae5-98eb-98bbf6ddee73@n002.xunxunmimisbs.sbs:31200?allowInsecure=1&sni=sg01.xxxxyyyysbs.sbs#🇸🇪[openproxylist.com]
-trojan://51ee7f28-fa3a-4ae5-98eb-98bbf6ddee73@n002.xunxunmimisbs.sbs:31200?allowInsecure=1&sni=🔒
 trojan://51f206cd-7f1f-3bfc-94a0-cc424908ad6d@gy.58n.net:30767/?type=tcp&security=tls&sni=z61.hongkongnode.top&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://52081af0-3f10-11f0-8054-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp
 trojan://52171d41-9367-429f-baa6-43660a6c84e4@103.81.85.238:443?security=tls
@@ -9071,6 +9069,7 @@ trojan://telegram-id-privatevpns@63.177.155.28:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@63.177.173.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@63.177.18.31:22222/?type=tcp&security=tls&sni=🔒
 trojan://telegram-id-privatevpns@63.177.18.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
+trojan://telegram-id-privatevpns@63.177.22.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@63.177.30.247:22222?security=tls&sni=🔒
 trojan://telegram-id-privatevpns@63.177.46.133:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@VIProxys
 trojan://telegram-id-privatevpns@63.178.100.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
