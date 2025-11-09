@@ -416,7 +416,6 @@ hysteria2://c3054d61-c708-4594-9797-f50acd24de2a@qing-kz.mxtn.net:443?security=t
 hysteria2://c3054d61-c708-4594-9797-f50acd24de2a@qing-lu.mxtn.net:443?insecure=1#WiFi-%40V2rayAlpha--6
 hysteria2://c3054d61-c708-4594-9797-f50acd24de2a@qing-lu.mxtn.net:443?security=tls&insecure=1&mport=21001-21099#WiFi-@V2rayAlpha--6
 hysteria2://c50f9480-2e1d-40db-9458-630e79636663@104.250.239.32:49618/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
-hysteria2://c6e0562f-7ad1-40fb-a255-26194b2de84a@104.250.239.32:49618/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
 hysteria2://cb556454-e759-4059-b125-793cee513cc5@lsus5.lansecs.top:58338?insecure=1&sni=lsus5.lansecs.top#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2029
 hysteria2://ccc3d106-00ec-4122-80f3-35a3269e2ad6@lsus3.lansecs.top:58338?insecure=1&sni=lsus3.lansecs.top#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2015
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.71.65:45979?insecure=1#Chan%202
