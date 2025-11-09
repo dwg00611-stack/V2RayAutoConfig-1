@@ -1,6 +1,5 @@
 ss://677615f7-87d5-5019-a44d-4fc3ff8d59d7@212.192.214.167:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vk.cc&fp=chrome&security=reality&pbk=bDDaSDMsFiIxf5on0yovlJB3h7fPpS40DJRPiE2tJRw&sid=846349c8#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40evay_vpn%20%5B21%5D
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.168:989#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.168-0330
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.168:989#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.168-0418
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.152-0427
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.168:989#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.168-0277
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.168:989#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.168-0293
@@ -35,10 +34,12 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&security=
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&security=&encryption=none&type=grpc#IS🇮🇸
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&security=none&encryption=none&authority=---_T&type=grpc#IS🇮🇸
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&security=none&encryption=none&authority=---_T&type=grpc#👉🆔@v2ray_configs_pool📡🇮🇸®️Iceland©️Reykjavik🅿️ping:109ms
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40selinc%20%5B5%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&security=none&encryption=none&type=grpc#IS🇮🇸
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880/?type=grpc&encryption=none#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40prrofile_purple%20%5B141%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#IS🇮🇸
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?mode=gun&security=&encryption=none&authority=JoB_T&type=grpc#IS🇮🇸
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?mode=gun&security=none&encryption=none&authority=JoB_T&type=grpc#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2raying%20%5B4%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?mode=gun&security=none&encryption=none&authority=JoB_T&type=grpc#IS🇮🇸
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?mode=gun&security=none&encryption=none&type=grpc#IS🇮🇸
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇮🇸®️Iceland©️Reykjavik🅿️ping:87.26ms
@@ -77,10 +78,12 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&security=&encryption=none&type=grpc#IS🇮🇸
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&security=none&encryption=none&authority=---_T&type=grpc#IS🇮🇸
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&security=none&encryption=none&authority=---_T&type=grpc#👉🆔@v2ray_configs_pool📡🇮🇸®️Iceland©️Reykjavik🅿️ping:109ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40selinc%20%5B5%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&security=none&encryption=none&type=grpc#IS🇮🇸
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880/?type=grpc&encryption=none#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40prrofile_purple%20%5B141%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#IS🇮🇸
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?mode=gun&security=&encryption=none&authority=JoB_T&type=grpc#IS🇮🇸
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?mode=gun&security=none&encryption=none&authority=JoB_T&type=grpc#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2raying%20%5B4%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?mode=gun&security=none&encryption=none&authority=JoB_T&type=grpc#IS🇮🇸
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?mode=gun&security=none&encryption=none&type=grpc#IS🇮🇸
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇮🇸®️Iceland©️Reykjavik🅿️ping:87.26ms
