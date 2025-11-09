@@ -325,7 +325,6 @@ ss://bcc560e0-173b-4c49-a4ce-742c3fae0028@[2a03:b0c0:3:f0:0:1:4139:b000]:9696?se
 ss://bd3aebac-d170-40c1-8e01-32f628c02b2c@vip.hackers855.sbs:721?type=tcp&path=%2F&host=bmw.com&headerType=http&security=none#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40iranproxypro%20%5B6%5D
 ss://bf813b9a-14ff-4223-8c62-2968c6221148@nv111.momdping.com:443/?type=ws&encryption=none&path=%2F&security=tls&sni=nv111.momdping.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40configscenter%20%5B1%5D
 ss://c123cc6a-528b-4992-fc03-e2aa9f313782@185.46.1.203:13008?type=tcp&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40toucan_vpn%20%5B1%5D
-ss://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@91.98.86.54:9954?&security=reality&flow=xtls-rprx-vision&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&fp=chrome&sni=store.steampowered.com&type=tcp&headerType=none&path=%2F#%E4%BC%8A%E6%9C%97_%F0%9F%87%AE%F0%9F%87%B7
 ss://c349a35c-2a04-4ab3-a84e-0d3fa49c4186@Speedtest.net:80?mode=auto&path=/muii2096&security=none&encryption=none&host=Poormyo.global.ssl.fastly.net&type=xhttp#Allـ@Iran_v2ray1
 ss://c6c903da46f490c2f473dec6412b1b84@Tr2.Jet-Speed.Top:32283?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B6%5D
 ss://c968f68b-4b0b-437b-d622-27e9dd57ab78@89.23.112.71:19295?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1-All
@@ -803,7 +802,6 @@ vless://bcc560e0-173b-4c49-a4ce-742c3fae0028@[2a03:b0c0:3:f0:0:1:4139:b000]:9696
 vless://bd3aebac-d170-40c1-8e01-32f628c02b2c@vip.hackers855.sbs:721?type=tcp&path=%2F&host=bmw.com&headerType=http&security=none#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40iranproxypro%20%5B6%5D
 vless://bf813b9a-14ff-4223-8c62-2968c6221148@nv111.momdping.com:443/?type=ws&encryption=none&path=%2F&security=tls&sni=nv111.momdping.com#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40configscenter%20%5B1%5D
 vless://c123cc6a-528b-4992-fc03-e2aa9f313782@185.46.1.203:13008?type=tcp&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40toucan_vpn%20%5B1%5D
-vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@91.98.86.54:9954?&security=reality&flow=xtls-rprx-vision&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&fp=chrome&sni=store.steampowered.com&type=tcp&headerType=none&path=%2F#%E4%BC%8A%E6%9C%97_%F0%9F%87%AE%F0%9F%87%B7
 vless://c349a35c-2a04-4ab3-a84e-0d3fa49c4186@Speedtest.net:80?mode=auto&path=/muii2096&security=none&encryption=none&host=Poormyo.global.ssl.fastly.net&type=xhttp#Allـ@Iran_v2ray1
 vless://c6c903da46f490c2f473dec6412b1b84@Tr2.Jet-Speed.Top:32283?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B6%5D
 vless://c968f68b-4b0b-437b-d622-27e9dd57ab78@89.23.112.71:19295?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1-All
