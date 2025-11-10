@@ -22,6 +22,7 @@ ss://1ec975c1-88e9-4d5e-8996-2c3331673f80@dl5-fr4-cdn.fastfilecdn.org:2052?path=
 ss://21911efc-b47c-47db-8316-aa07a793c067@ov-germany5.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&host=google.com&type=ws#France%200VH%20cloud
 ss://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?encryption=none&security=tls&type=ws&path=%2Ffqogayws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:42ms
 ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&fp=chrome&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:38ms
+ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40free1_vpn%20%5B6%5D
 ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:31.54ms
 ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&security=none&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:130ms
 ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20OVH
@@ -640,6 +641,7 @@ vless://1ec975c1-88e9-4d5e-8996-2c3331673f80@dl5-fr4-cdn.fastfilecdn.org:2052?pa
 vless://21911efc-b47c-47db-8316-aa07a793c067@ov-germany5.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&host=google.com&type=ws#France%200VH%20cloud
 vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?encryption=none&security=tls&type=ws&path=%2Ffqogayws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:42ms
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&fp=chrome&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:38ms
+vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40free1_vpn%20%5B6%5D
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:31.54ms
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&security=none&encryption=none&type=ws#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Roubaix🅿️ping:130ms
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20OVH
