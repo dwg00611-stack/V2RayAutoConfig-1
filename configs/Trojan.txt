@@ -529,8 +529,6 @@ trojan://1b57001bd214304027025a740b6cf1ac@221.128.195.13:3841?sni=🔒
 trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%8E%8D72%40oneclickvpnkeys
 trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%8E%8D72%40oneclickvpnkeysvless://a65ffee1-94f8-4514-b865-2ded4cab91a2@45.136.5.162:9090/?type=tcp&encryption=none&flow=&security=tls#%F0%9F%8E%8D75%40oneclickvpnkeysvless://2456f90c-5183-476d-b069-16ae74ce120f@198.202.211.253:2096/?type=ws&encryption=none&flow=&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=tls&sni=fast01.0860852.xyz#%F0%9F%8E%8D60%40oneclickvpnkeys
 trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?allowInsecure=0&sni=www.nintendogames.net#HK-58.152.110.25-0256
-trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?allowInsecure=0&sni=www.nintendogames.net#🇭🇰[openproxylist.com]
-trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?allowInsecure=0&sni=🔒
 trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.110.25-1243
 trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&sni=🔒
@@ -2390,6 +2388,7 @@ trojan://8bf6e7d7-23e8-4655-8f07-c3827e2d6ebf@51.38.226.4:2053?path=/Free-VPN-CF
 trojan://8bf6e7d7-23e8-4655-8f07-c3827e2d6ebf@51.38.226.4:2053?path=/Free-VPN-CF-Geo-Project/51.38.226.4=2053&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#🔥Join+Telegram:@Farah_VPN🟣
 trojan://8bf6e7d7-23e8-4655-8f07-c3827e2d6ebf@51.38.226.4:2053?path=🔒
 trojan://8bf6e7d7-23e8-4655-8f07-c3827e2d6ebf@51.38.226.4:2053?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/51.38.226.4=2053&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A519
+trojan://8bf6e7d7-23e8-4655-8f07-c3827e2d6ebf@51.38.226.4:2053?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/51.38.226.4=2053&host=joss.dus.biz.id#🇫🇷[openproxylist.com]
 trojan://8bf6e7d7-23e8-4655-8f07-c3827e2d6ebf@51.38.226.4:2053?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/51.38.226.4=2053&host=joss.dus.biz.id#🔥Join+Telegram:@Farah_VPN🟣
 trojan://8bf6e7d7-23e8-4655-8f07-c3827e2d6ebf@51.38.226.4:2053?security=tls&type=ws&sni=🔒
 trojan://8cb7ad4e-2d61-3950-bb33-1d2cc3e653dd@35.92.52.160:443?allowInsecure=1&sni=🔒
