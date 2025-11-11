@@ -1,4 +1,3 @@
-hy2://05fd3f79-dca0-4358-a803-c8d4711c17a3@lsyd1.lansecs.top:58338/?insecure=1&sni=lsyd1.lansecs.top#%3E%3E%40ShadowsocksM%3A%3ARU
 ss://085ee3cf-9214-4ceb-ed0b-1f990fcc7e6b@bulgaria.marzxo.biz:8095?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#REALITY|RU🇷🇺
 ss://085ee3cf-9214-4ceb-ed0b-1f990fcc7e6b@russia.marzxo.biz:8086?security=reality&encryption=none&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=828348fc6d8e49cf#REALITY|RU🇷🇺
 ss://0b87e25f-16b2-40fc-80b7-5f9251cff99c@121.127.37.173:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&security=reality&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&sid=#REALITY|RU🇷🇺
@@ -91,6 +90,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.223.109.126:989#%F0%9F%87%B7%F0
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@45.89.52.66:9040#%F0%9F%87%B7%F0%9F%87%BARU-45.89.52.66-9043
 ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUUAyMTcuMzAuMTAuMTg6OTA2MA==#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 ss://YWVzLTI1Ni1nY206YTRWdHFSd2hqNmdXYkh3TDRKdDI2dw3D3A==@ss.80808.sbs:20#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+ss.80808.sbs-20+%7C+246.34ms
+ss://c968f68b-4b0b-437b-d622-27e9dd57ab78@89.23.112.71:19295?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️St
 ss://c9e4f683-ee36-47cf-9c30-f751f1c118b5@194.113.106.139:24984?security=reality&encryption=none&pbk=bM_ol-LozWiGNhEGFm8xkaf4TiaOBzrG8R3kybOn2no&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=zula.ir&sid=5292cb10#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vipnetmeli%20%5B2%5D
 ss://d4e4c02a-d969-47a6-ba0f-3d433fdac206@188.225.81.91:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#REALITY|RU🇷🇺
 ss://d4e4c02a-d969-47a6-ba0f-3d433fdac206@212.41.8.198:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#REALITY|RU🇷🇺
@@ -158,6 +158,7 @@ vless://8562ee66-6dd4-4c8a-8ef3-19ea2aae5760@45.140.169.69:33727?security=none&e
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20X
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|RU🇷🇺
 vless://9f281d4d-1a02-4eb1-a6cc-d9391d3074fb@213.159.76.238:8080?security=none&sni=213.159.76.238&type=ws&host=213.159.76.238&path=%2Fvless#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
+vless://c968f68b-4b0b-437b-d622-27e9dd57ab78@89.23.112.71:19295?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️St
 vless://c9e4f683-ee36-47cf-9c30-f751f1c118b5@194.113.106.139:24984?security=reality&encryption=none&pbk=bM_ol-LozWiGNhEGFm8xkaf4TiaOBzrG8R3kybOn2no&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=zula.ir&sid=5292cb10#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vipnetmeli%20%5B2%5D
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@188.225.81.91:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#REALITY|RU🇷🇺
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@212.41.8.198:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#REALITY|RU🇷🇺
