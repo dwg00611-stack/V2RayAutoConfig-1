@@ -1868,6 +1868,8 @@ trojan://6b5b50ff-7798-40dc-9888-b4dd581e5435@51.89.128.93:44004?path=🔒
 trojan://6b5b50ff-7798-40dc-9888-b4dd581e5435@51.89.128.93:44004?security=tls&sni=joss.dus.biz.id&fp=chrome&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/51.89.128.93=44004#🔥Join+Telegram:@Farah_VPN🟣
 trojan://6b5b50ff-7798-40dc-9888-b4dd581e5435@51.89.128.93:44004?security=tls&sni=joss.dus.biz.id&fp=chrome&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/51.89.128.93=44004#🔷🆔@v2ray_configs_pool🔷
 trojan://6b5b50ff-7798-40dc-9888-b4dd581e5435@51.89.128.93:44004?security=tls&sni=🔒
+trojan://6b5b50ff-7798-40dc-9888-b4dd581e5435@51.89.128.93:44004?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/51.89.128.93=44004&host=joss.dus.biz.id#🇺🇸[openproxylist.com]
+trojan://6b5b50ff-7798-40dc-9888-b4dd581e5435@51.89.128.93:44004?security=tls&type=ws&sni=🔒
 trojan://6b5b50ff-7798-40dc-9888-b4dd581e5435@51.89.128.93:44004?sni=joss.dus.biz.id&type=ws&path=%2FFree-VPN-CF-Geo-Project%2F51.89.128.93%3D44004&host=joss.dus.biz.id#%F0%9F%87%AC%F0%9F%87%A7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8B%B1%E5%9B%BD%2002
 trojan://6ba99583-9730-48f9-aadf-7293c69e60a1@vn1.yihaobao.xyz:10022?allowInsecure=1
 trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.20.5.134:2083/?type=tcp&security=tls&sni=🔒
@@ -2395,7 +2397,6 @@ trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls
 trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-149.56.141.11-3092
 trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-149.56.141.11-3804
 trojan://8bf6e7d7-23e8-4655-8f07-c3827e2d6ebf@51.38.226.4:2053/?type=ws&host=joss.dus.biz.id&path=%2FFree-VPN-CF-Geo-Project%2F51.38.226.4%3D2053&security=tls&sni=joss.dus.biz.id#🔥Join+Telegram:@Farah_VPN🟣
-trojan://8bf6e7d7-23e8-4655-8f07-c3827e2d6ebf@51.38.226.4:2053/?type=ws&host=joss.dus.biz.id&path=🔒
 trojan://8bf6e7d7-23e8-4655-8f07-c3827e2d6ebf@51.38.226.4:2053?path=%2FFree-VPN-CF-Geo-Project%2F51.38.226.4%3D2053&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#%40v2FreeHub%20%F0%9F%87%AB%F0%9F%87%B7
 trojan://8bf6e7d7-23e8-4655-8f07-c3827e2d6ebf@51.38.226.4:2053?path=%2FFree-VPN-CF-Geo-Project%2F51.38.226.4%3D2053&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#🔥Join+Telegram:@Farah_VPN🟣
 trojan://8bf6e7d7-23e8-4655-8f07-c3827e2d6ebf@51.38.226.4:2053?path=/Free-VPN-CF-Geo-Project/51.38.226.4=2053&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#🔥Join+Telegram:@Farah_VPN🟣
@@ -9132,6 +9133,7 @@ trojan://telegram-id-privatevpns@51.44.99.222:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@51.44.99.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@51.44.99.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com]
 trojan://telegram-id-privatevpns@51.44.99.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-privatevpns@51.45.24.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@51.45.31.208:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@51.45.31.208:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.45.31.208:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
@@ -9242,9 +9244,9 @@ trojan://telegram-id-v2rayvpnchannel@35.158.29.116:22223?security=tls&alpn=http%
 trojan://telegram-id-v2rayvpnchannel@35.158.29.116:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-v2rayvpnchannel@35.181.215.179:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-v2rayvpnchannel@51.45.32.36:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
-trojan://telegram-id-v2rayvpnchannel@51.45.32.36:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-v2rayvpnchannel@63.178.134.70:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-v2rayvpnchannel@63.179.217.23:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B14%5D
+trojan://telegram-id-v2rayvpnchannel@63.179.217.23:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-v2rayvpnchannel@63.180.184.162:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B18%5D
 trojan://telegram-id-v2rayvpnchannel@63.180.37.96:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B17%5D
 trojan://telegram-id-vlessconfig@35.178.114.243:22222?security=tls&sni=🔒
