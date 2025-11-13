@@ -38,11 +38,9 @@ hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-4.nezhasu.com:443?securi
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@yn2.nezhasu.com:443?insecure=1&sni=yn2.nezhasu.com#MCI-IR--%40V2rayAlpha-11
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@yn2.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=yn2.nezhasu.com#MCI-IR--%40V2rayAlpha-11
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@yn2.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=yn2.nezhasu.com#MCI-IR--@V2rayAlpha-11
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@193.123.76.141:30102?insecure=1&sni=du.wish.ml#9%7CMCI-IR--%40V2rayAlpha-8
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@193.123.76.141:30102?insecure=1&sni=du.wish.ml#MCI-IR--%40V2rayAlpha-8
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@193.123.76.141:30102?security=tls&insecure=1&sni=du.wish.ml#MCI-IR--%40V2rayAlpha-8
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@193.123.76.141:30102?security=tls&insecure=1&sni=du.wish.ml#MCI-IR--@V2rayAlpha-8
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@91.149.238.71:30102?insecure=1#9%7CMCI-IR--%40V2rayAlpha-6
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@91.149.238.71:30102?insecure=1#MCI-IR--%40V2rayAlpha-6
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@91.149.238.71:30102?security=tls&insecure=1#MCI-IR--%40V2rayAlpha-6
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@91.149.238.71:30102?security=tls&insecure=1#MCI-IR--@V2rayAlpha-6
@@ -57,7 +55,6 @@ hysteria2://680210f5-3b5f-4947-9983-e508a15cf169@[2a0c:4ac1:8::121]:35000?securi
 hysteria2://680210f5-3b5f-4947-9983-e508a15cf169@[2a14:3f87:f001:1a::a]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#All-@IRAN_V2RAY1
 hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?security=tls&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i&insecure=1&mport=50000-60000&sni=Ab.ac#MCI-IR--%40V2rayAlpha-5
 hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?security=tls&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i&insecure=1&mport=50000-60000&sni=Ab.ac#MCI-IR--@V2rayAlpha-5
-hysteria2://73746dab-cdf5-4ff5-9313-a1f4c55edd49@hk1.jueduibupao.top:50001?insecure=1&sni=hk1.jueduibupao.top#_IR_%E4%BC%8A%E6%9C%97_1
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335?security=tls&obfs=salamander&obfs-password=U1wBrYQyFm&insecure=1&sni=drhystuichdfy.samanidempire.org#All--@IRAN_V2RAY1
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?security=tls&obfs=salamander&obfs-password=U1wBrYQyFm&insecure=1&sni=drhystuichdfy.samanidempire.org#All--@IRAN_V2RAY1
 hysteria2://9ec830fd-79da-4706-a964-cb227d7198db@135.148.82.248:33333?insecure=1#MCI-IR--%40V2rayAlpha-7
@@ -579,7 +576,6 @@ ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443
 ss://e9e437c2-1ee5-4f0d-ae09-4bfafc835e47@185.143.233.120:2086?path=%2Fwp-admin%3Fed%3D2048&security=none&encryption=none&host=getasa.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_iran88%20%5B10%5D
 ss://edfeeadd-1b4f-4ed7-92ee-3233421632a2@5.160.197.120:13048?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mpproxy%20%5B12%5D
 ss://efa0a105-87ae-4063-b724-1729592c9f05@51.178.162.48:57447?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All-@Iran_V2ray1
-ss://f0bda007-3d74-4396-8e4c-4fa642e49a23@79.127.70.117:443?security=none&type=tcp&host=www.speedtest.net&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40hope_net%20%5B18%5D
 ss://f1652ca5-c3fc-4ec6-83af-2f85579da0ed@85.133.204.8:51011?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kopltall_vpn%20%5B7%5D
 ss://f254786d-9a23-4bd9-a571-64a4f7e96112@ir2.fastnode0.com:2087?security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B5%5D
 ss://f282b878-8711-45a1-8c69-5564172123c1@104.21.21.179:443?path=/aioproxybot/146.190.192.43-80&security=tls&encryption=none&host=aio.nolimit.dpdns.org&fp=chrome&type=ws&sni=aio.nolimit.dpdns.org#Allـ@Iran_v2ray1
@@ -1069,7 +1065,6 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8
 vless://e9e437c2-1ee5-4f0d-ae09-4bfafc835e47@185.143.233.120:2086?path=%2Fwp-admin%3Fed%3D2048&security=none&encryption=none&host=getasa.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_iran88%20%5B10%5D
 vless://edfeeadd-1b4f-4ed7-92ee-3233421632a2@5.160.197.120:13048?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mpproxy%20%5B12%5D
 vless://efa0a105-87ae-4063-b724-1729592c9f05@51.178.162.48:57447?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#All-@Iran_V2ray1
-vless://f0bda007-3d74-4396-8e4c-4fa642e49a23@79.127.70.117:443?security=none&type=tcp&host=www.speedtest.net&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40hope_net%20%5B18%5D
 vless://f1652ca5-c3fc-4ec6-83af-2f85579da0ed@85.133.204.8:51011?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kopltall_vpn%20%5B7%5D
 vless://f254786d-9a23-4bd9-a571-64a4f7e96112@ir2.fastnode0.com:2087?security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ai_duet%20%5B5%5D
 vless://f282b878-8711-45a1-8c69-5564172123c1@104.21.21.179:443?path=/aioproxybot/146.190.192.43-80&security=tls&encryption=none&host=aio.nolimit.dpdns.org&fp=chrome&type=ws&sni=aio.nolimit.dpdns.org#Allـ@Iran_v2ray1
