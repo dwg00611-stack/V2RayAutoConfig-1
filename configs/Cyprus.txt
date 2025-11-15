@@ -28,7 +28,6 @@ ss://401374e6-df77-41fb-f638-dad8184f175b@pqh29v7.ipforvetra.shop:80?mode=gun&se
 ss://401374e6-df77-41fb-f638-dad8184f175b@pqh30v2.ipforvetra.shop:80?encryption=none&security=none&sni=pqh30v2.ipforvetra.shop&alpn=&type=grpc&host=pqh30v2.ipforvetra.shop#CY🇨🇾
 ss://401374e6-df77-41fb-f638-dad8184f175b@pqh30v6.ipforvetra.shop:80?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#CY🇨🇾
 ss://401374e6-df77-41fb-f638-dad8184f175b@pqh30v6.ipforvetra.shop:80?mode=gun&security=none&encryption=none&type=grpc&sni=pqh30v6.ipforvetra.shop#CY🇨🇾
-ss://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443/?type=ws&encryption=none&flow=&host=gb-021.shenzogmbh.com&path=%2Fapi%2Fv1&security=tls&sni=gb-021.shenzogmbh.com&fp=chrome#👉🆔@v2ray_configs_pool📡🇨🇾®️Cyprus©️Nicosia🅿️ping:26.58ms
 ss://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=/api/v1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#CY🇨🇾
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQUdwcW1mbFVVSkh0QlVwcTRpQ1Vm@134.255.210.209:8443#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+134.255.210.209-8443+%7C+192.62ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ3D3A==@45.15.185.70:990#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+45.15.185.70-990+%7C+170.95ms
@@ -42,7 +41,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#%25
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#%F0%9F%87%A8%F0%9F%87%BECY-134.255.210.49-0428
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#%F0%9F%87%A8%F0%9F%87%BECY-134.255.210.49-6460
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+134.255.210.49-990+%7C+194.53ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#👉🆔@v2ray_configs_pool📡🇨🇾®️Cyprus©️Limassol🅿️ping:102.1ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#👉🆔@v2ray_configs_pool📡🇨🇾®️Cyprus©️Limassol🅿️ping:191ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpueGdzbUhrUDNKVTdoYlFrSmZ4Z3BYaDV0bHZYZTFlbg3D3A==@45.83.142.237:443#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+45.83.142.237-443+%7C+155.56ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.255.210.49:989#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+134.255.210.49-989+%7C+194.78ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#%F0%9F%87%A8%F0%9F%87%BECY-213.169.137.221-4784
@@ -160,7 +159,6 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@pqh29v7.ipforvetra.shop:80?mode=gun
 vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v2.ipforvetra.shop:80?encryption=none&security=none&sni=pqh30v2.ipforvetra.shop&alpn=&type=grpc&host=pqh30v2.ipforvetra.shop#CY🇨🇾
 vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v6.ipforvetra.shop:80?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#CY🇨🇾
 vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v6.ipforvetra.shop:80?mode=gun&security=none&encryption=none&type=grpc&sni=pqh30v6.ipforvetra.shop#CY🇨🇾
-vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443/?type=ws&encryption=none&flow=&host=gb-021.shenzogmbh.com&path=%2Fapi%2Fv1&security=tls&sni=gb-021.shenzogmbh.com&fp=chrome#👉🆔@v2ray_configs_pool📡🇨🇾®️Cyprus©️Nicosia🅿️ping:26.58ms
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=/api/v1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#CY🇨🇾
 vless://acb30534-b06f-4629-b684-5fa712f3efd8@45.89.107.223:443?path=%2Fwxmgbmws&security=tls&encryption=none&fp=chrome&type=ws#CY🇨🇾
 vless://b41b3c10-91f1-42ed-b597-2ebdaddb9a96@india2.clearorbitllc.com:443?security=reality&encryption=none&pbk=x4izG3bGdBtEw3bArBaEI4ItTLfKgnEcTct4GjvTUUQ&host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&headerType=none&fp=chrome&spx=%2FTELEGRAM--JKVPN--JKVPN&type=tcp&flow=xtls-rprx-vision&sni=india2.clearorbitllc.com&sid=157c0871#REALITY|CY🇨🇾
