@@ -17,8 +17,7 @@ ss://401374e6-df77-41fb-f638-dad8184f175b@pqh27v7.ipforvetra.shop:80?encryption=
 ss://401374e6-df77-41fb-f638-dad8184f175b@pqh30v6.ipforvetra.shop:80?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#CY🇨🇾
 ss://401374e6-df77-41fb-f638-dad8184f175b@pqh30v6.ipforvetra.shop:80?type=grpc&encryption=none&flow=#CY🇨🇾
 ss://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443/?type=ws&encryption=none&flow=&host=gb-8981.shenzogmbh.com&path=%2Fapi%2Fv1&security=tls&sni=gb-8981.shenzogmbh.com&fp=chrome#CY%F0%9F%87%A8%F0%9F%87%BE
-ss://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=%2Fapi%2Fv1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#👉🆔@v2ray_configs_pool📡🇨🇾®️Cyprus©️Nicosia🅿️ping:27.67ms
-ss://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=%2Fapi%2Fv1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com%40VPNSupportGroup#👉🆔@v2ray_configs_pool📡🇨🇾®️Cyprus©️Nicosia🅿️ping:27.54ms
+ss://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=%2Fapi%2Fv1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#👉🆔@v2ray_configs_pool📡🇨🇾®️Cyprus©️Nicosia🅿️ping:28.02ms
 ss://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=/api/v1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#CY🇨🇾
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQUdwcW1mbFVVSkh0QlVwcTRpQ1Vm@134.255.210.209:8443#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+134.255.210.209-8443+%7C+142.67ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ3D3A==@45.15.185.70:990#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+45.15.185.70-990+%7C+265.13ms
@@ -128,8 +127,7 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@pqh27v7.ipforvetra.shop:80?encrypti
 vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v6.ipforvetra.shop:80?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#CY🇨🇾
 vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v6.ipforvetra.shop:80?type=grpc&encryption=none&flow=#CY🇨🇾
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443/?type=ws&encryption=none&flow=&host=gb-8981.shenzogmbh.com&path=%2Fapi%2Fv1&security=tls&sni=gb-8981.shenzogmbh.com&fp=chrome#CY%F0%9F%87%A8%F0%9F%87%BE
-vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=%2Fapi%2Fv1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#👉🆔@v2ray_configs_pool📡🇨🇾®️Cyprus©️Nicosia🅿️ping:27.67ms
-vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=%2Fapi%2Fv1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com%40VPNSupportGroup#👉🆔@v2ray_configs_pool📡🇨🇾®️Cyprus©️Nicosia🅿️ping:27.54ms
+vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=%2Fapi%2Fv1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#👉🆔@v2ray_configs_pool📡🇨🇾®️Cyprus©️Nicosia🅿️ping:28.02ms
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=/api/v1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#CY🇨🇾
 vless://a351b0a4-6c4e-4456-8f8e-45db3fe0bcb2@85.208.110.203:443?security=reality&encryption=none&pbk=SUP3nblQDtku381iK83Nl0YXGXJw15sZYH-ilRRssAM&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.samsung.com&sid=db7491a2#REALITY|CY🇨🇾
 vless://acb30534-b06f-4629-b684-5fa712f3efd8@45.89.107.223:443?path=%2Fwxmgbmws&security=tls&encryption=none&fp=chrome&type=ws#CY🇨🇾
