@@ -121,6 +121,7 @@ ss://5b3ff9df-883c-45c9-ad86-ea9c6d473522@138.68.76.93:443?type=grpc&encryption=
 ss://5b3ff9df-883c-45c9-ad86-ea9c6d473522@161.35.210.63:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2036%20dailyv2ry
 ss://5b3ff9df-883c-45c9-ad86-ea9c6d473522@161.35.70.134:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2078%20dailyv2ry
 ss://5b3ff9df-883c-45c9-ad86-ea9c6d473522@167.71.43.38:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2048%20dailyv2ry
+ss://5b3ff9df-883c-45c9-ad86-ea9c6d473522@209.38.231.255:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2085%20dailyv2ry
 ss://5b3ff9df-883c-45c9-ad86-ea9c6d473522@46.101.119.155:443?type=grpc&encryption=none&serviceName=&authority=&security=none#DE🇩🇪
 ss://5b3ff9df-883c-45c9-ad86-ea9c6d473522@46.101.119.155:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2089%20dailyv2ry
 ss://5b3ff9df-883c-45c9-ad86-ea9c6d473522@64.226.91.165:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2081%20dailyv2ry
@@ -651,6 +652,7 @@ vless://5a5a30ab-7a43-4651-b89b-dec18f5d5ea1@95.164.68.37:8443/?type=tcp&encrypt
 vless://5b3ff9df-883c-45c9-ad86-ea9c6d473522@161.35.210.63:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2036%20dailyv2ry
 vless://5b3ff9df-883c-45c9-ad86-ea9c6d473522@161.35.70.134:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2078%20dailyv2ry
 vless://5b3ff9df-883c-45c9-ad86-ea9c6d473522@167.71.43.38:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2048%20dailyv2ry
+vless://5b3ff9df-883c-45c9-ad86-ea9c6d473522@209.38.231.255:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2085%20dailyv2ry
 vless://5b3ff9df-883c-45c9-ad86-ea9c6d473522@46.101.119.155:443?type=grpc&encryption=none&serviceName=&authority=&security=none#DE🇩🇪
 vless://5b3ff9df-883c-45c9-ad86-ea9c6d473522@46.101.119.155:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2089%20dailyv2ry
 vless://5b3ff9df-883c-45c9-ad86-ea9c6d473522@64.226.91.165:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2081%20dailyv2ry
