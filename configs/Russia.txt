@@ -177,6 +177,7 @@ ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@46.254.92.29:8880#RU%F0%9F%87%B7%F0%9F
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@5.182.85.29:8880#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+5.182.85.29-8880+%7C+8.73ms
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@77.232.140.20:8880#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+77.232.140.20-8880+%7C+8.74ms
 trojan://1518f7ec-f606-4a0f-8a62-2455e0a2b62e@ua-full.privateip.net:443?security=tls#%F0%9F%87%B7%F0%9F%87%BARU-45.87.155.14-5422
+trojan://3b38715b-f08a-46dd-9904-7531ca4bb6e8@95.182.120.208:2053/?type=tcp&security=tls&sni=joss.gpj.web.id#%F0%9F%87%B7%F0%9F%87%BARU-95.182.120.208-1175
 trojan://3b38715b-f08a-46dd-9904-7531ca4bb6e8@95.182.120.208:2053?security=tls&sni=joss.gpj.web.id#%F0%9F%87%B7%F0%9F%87%BARU-95.182.120.208-1175
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.153:443/?type=ws&path=%2Fproxyip%3D45.67.215.153%3A443&security=tls&sni=icecream.955850.xyz#%F0%9F%87%B7%F0%9F%87%BARU-45.67.215.153-0630
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.88.148.234:28443?security=tls#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.234-3399
