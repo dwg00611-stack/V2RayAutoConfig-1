@@ -83,7 +83,6 @@ ss://40e65a0d-df16-4759-a126-76fa359f51f5@51.159.96.121:443?security=tls&encrypt
 ss://418c42e6-a92a-4885-9143-515ba5f42c2b@104.17.147.22:80?security=none&type=ws&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 ss://4605f8c1-4818-4fd9-9bcd-ec1fc5c47abd@172.67.136.244:8443?encryption=none&security=tls&sni=hint.app-browser.org&allowInsecure=1&type=ws&host=hint.app-browser.org&path=/B9aKBZK1R8OBYWBZ#t.me/v2Line
 ss://46dbac8b-eaba-4275-940c-819f95d16916@104.17.246.203:443/?type=ws&encryption=none&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048&security=tls&sni=falcunargo.9cfaf68585.workers.Dev#t.me%2FDailyV2Proxy
-ss://48198295-b7ba-4b5c-8d85-085d55a6c869@160.79.105.4:443?security=tls&sni=ag.ylks.xyz&type=ws&path=%2Fbluehttps%3A%2F%2Fvless.fxxk.dedyn.io%2Fsub%3Fhost#[🇺🇸]t.me/ConfigsHub
 ss://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.241:443?security=tls&sni=aj.ylks.xyz&type=ws&path=%2Fblue#[🇺🇸]t.me/ConfigsHub
 ss://48198295-b7ba-4b5c-8d85-085d55a6c869@59.3.3.161:443?security=tls&sni=af.ylks.xyz&type=ws&path=%2Fblue#[🇰🇷]t.me/ConfigsHub
 ss://4be7d813-1eb2-40ac-9fe7-18cdd20b61ec@242232454.web-manage.com.tr:3789?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#[🇩🇪]t.me/ConfigsHub
@@ -605,7 +604,6 @@ vless://40e65a0d-df16-4759-a126-76fa359f51f5@51.159.96.121:443?security=tls&encr
 vless://418c42e6-a92a-4885-9143-515ba5f42c2b@104.17.147.22:80?security=none&type=ws&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
 vless://4605f8c1-4818-4fd9-9bcd-ec1fc5c47abd@172.67.136.244:8443?encryption=none&security=tls&sni=hint.app-browser.org&allowInsecure=1&type=ws&host=hint.app-browser.org&path=/B9aKBZK1R8OBYWBZ#t.me/v2Line
 vless://46dbac8b-eaba-4275-940c-819f95d16916@104.17.246.203:443/?type=ws&encryption=none&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048&security=tls&sni=falcunargo.9cfaf68585.workers.Dev#t.me%2FDailyV2Proxy
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@160.79.105.4:443?security=tls&sni=ag.ylks.xyz&type=ws&path=%2Fbluehttps%3A%2F%2Fvless.fxxk.dedyn.io%2Fsub%3Fhost#[🇺🇸]t.me/ConfigsHub
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.241:443?security=tls&sni=aj.ylks.xyz&type=ws&path=%2Fblue#[🇺🇸]t.me/ConfigsHub
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@59.3.3.161:443?security=tls&sni=af.ylks.xyz&type=ws&path=%2Fblue#[🇰🇷]t.me/ConfigsHub
 vless://4be7d813-1eb2-40ac-9fe7-18cdd20b61ec@242232454.web-manage.com.tr:3789?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#[🇩🇪]t.me/ConfigsHub
