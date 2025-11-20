@@ -192,6 +192,7 @@ ss://8df2b423-d068-4ebd-aff0-e0d14e2423ce@masterserver1.heloisfood.ir:6423?mode=
 ss://8df2b423-d068-4ebd-aff0-e0d14e2423ce@v2ngfast.heloisfood.ir:2718?mode=gun&security=none&encryption=none&type=grpc&serviceName=%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast#DE🇩🇪
 ss://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-de4-cdn.fastfilecdn.org:2052/?type=ws&encryption=none&host=dl5-de4-cdn.fastfilecdn.org&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2raying%20%5B7%5D
 ss://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-de4-cdn.fastfilecdn.org:2052?path=%2F&security=none&encryption=none&host=dl5-de4-cdn.fastfilecdn.org&type=ws#DE🇩🇪
+ss://910ac729-6121-4f5c-9ce2-9f7f75b4979f@207.154.226.59:26031?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2056%20dailyv2ry
 ss://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.33.242:443?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpn_ioss%20%5B18%5D
 ss://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.33.242:443?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
 ss://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.33.242:443?type=grpc&encryption=none&flow=#DE🇩🇪
@@ -679,6 +680,7 @@ vless://8df2b423-d068-4ebd-aff0-e0d14e2423ce@masterserver1.heloisfood.ir:6423?mo
 vless://8df2b423-d068-4ebd-aff0-e0d14e2423ce@v2ngfast.heloisfood.ir:2718?mode=gun&security=none&encryption=none&type=grpc&serviceName=%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast#DE🇩🇪
 vless://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-de4-cdn.fastfilecdn.org:2052/?type=ws&encryption=none&host=dl5-de4-cdn.fastfilecdn.org&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2raying%20%5B7%5D
 vless://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-de4-cdn.fastfilecdn.org:2052?path=%2F&security=none&encryption=none&host=dl5-de4-cdn.fastfilecdn.org&type=ws#DE🇩🇪
+vless://910ac729-6121-4f5c-9ce2-9f7f75b4979f@207.154.226.59:26031?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%2056%20dailyv2ry
 vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.33.242:443?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpn_ioss%20%5B18%5D
 vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.33.242:443?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
 vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.33.242:443?type=grpc&encryption=none&flow=#DE🇩🇪
