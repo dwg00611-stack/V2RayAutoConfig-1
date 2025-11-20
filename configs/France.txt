@@ -140,7 +140,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.104:8880?mode=gun&security=n
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.27:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B15%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpn_ioss%20%5B17%5D
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.193:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayvpn2%20%5B3%5D
 ss://df5fc3f7-6b01-489a-a73c-e1297b14a3dd@fr.monkeyisland.life:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fr.monkeyisland.life&fp=chrome&security=reality&pbk=aILMLxhAsgJvx7TY3EsxOdmIc1uB0V7aJVIXaKYPPk4&sid=c06a59f9d546bd63#REALITY|FR🇫🇷
 ss://e6a12fc8-a8c2-4b8b-bf94-62126d468721@fr2.soreanapanel.com:34326?security=reality&encryption=none&pbk=mZYOOBWsQuWPyVQbL630U3PfnTRz8tdgQSVmyIlpxiA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=33d92e960cb19e71#REALITY|FR🇫🇷
 ss://eb64d6b8b3ed48a29662af2c65352215Og==@fr01-vlr01.tcp-reset-club.net:443#REALITY%7CFR%F0%9F%87%AB%F0%9F%87%B7+%7C+fr01-vlr01.tcp-reset-club.net-443+%7C+157.43ms
@@ -278,7 +277,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.104:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.27:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B15%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpn_ioss%20%5B17%5D
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.193:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayvpn2%20%5B3%5D
 vless://df5fc3f7-6b01-489a-a73c-e1297b14a3dd@fr.monkeyisland.life:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fr.monkeyisland.life&fp=chrome&security=reality&pbk=aILMLxhAsgJvx7TY3EsxOdmIc1uB0V7aJVIXaKYPPk4&sid=c06a59f9d546bd63#REALITY|FR🇫🇷
 vless://e6a12fc8-a8c2-4b8b-bf94-62126d468721@fr2.soreanapanel.com:34326?security=reality&encryption=none&pbk=mZYOOBWsQuWPyVQbL630U3PfnTRz8tdgQSVmyIlpxiA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=33d92e960cb19e71#REALITY|FR🇫🇷
 vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80/?type=ws&encryption=none&host=Join---PLANB-PROXY&path=%2Fvless%2F#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B16%5D
