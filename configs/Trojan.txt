@@ -5332,7 +5332,6 @@ trojan://S40Vr.vnDP2BsCKF@103.43.75.230:13536/?type=tcp&security=tls&sni=smartph
 trojan://S40Vr.vnDP2BsCKF@103.43.75.230:13536/?type=tcp&security=tls&sni=🔒
 trojan://S40Vr.vnDP2BsCKF@103.43.75.230:13536?allowInsecure=0&sni=smartphone.angrypiano.click#%5B%F0%9F%87%A6%F0%9F%87%BA%5D%20%5Btr-tl-ra%5D%20%5B251121-102601.055%5D
 trojan://S40Vr.vnDP2BsCKF@103.43.75.230:13536?security=tls&headerType=none&type=tcp&sni=smartphone.angrypiano.click#⚜️𝗝𝗼𝗶𝗻
-trojan://S40Vr.vnDP2BsCKF@103.43.75.230:13536?security=tls&headerType=none&type=tcp&sni=smartphone.angrypiano.click#🇦🇺[openproxylist.com]
 trojan://S40Vr.vnDP2BsCKF@103.43.75.230:13536?security=tls&headerType=none&type=tcp&sni=🔒
 trojan://SPn9Voxk9csoQVQyWKQNQvJ6teu6iAcU7fbrp+J/EArSchRxiz4104svvUTNpAX3jejwxAvpVoA7KUFwJ3cQ5ODFm1h5jJhxgwgxjIiWqA3WzZWbi9K2yb4vkU7wGaD6DpyZd+96cPPKKHtTw1qqLLdVIrEP2reKkp1Q0b4KaBlJIGX2h335OBjQtBkxDRsCeA/ssVi/GcUtho1amttNk+yWWUFuSyA8eio1ONYOzes=ar-ssr://R368wkE5UjSkXq0sb48EJBpAmm3RYPTS4OeBjlKlPhW6XDgrHowMWVIvBXOgabuBrLsUKoVNgEfCOODe6p3nfTauMmobLVVZbd1V2+VrG6tG2b9ZGfk3WpEvpjI/IlrcnRFuP6S3G+He8x5X+lngN+pYaq2WCJ3R5EK7D81Y61VRzo2riCJiHj41vHbLuMAik4b55FksZpJ6BDq4MqDn+2MEJR9kruKEusgwFIwd4s4=ar-ssr://UouhaHx1NaDslSm1CWXyiiMnpv/a8VoSWZoVbtkfZBwKjAhHvQ+aRjrw8rLZ6orymKr81x/4+pa/fnIcTM7txdIXkdPRXwa7FXkp2zVjjaXFqGuapFC4RjgHewxYXW+1CZPrXlRFIb7ktYm1ETZ3TWIhe4kvrLRJQNrBiDRhFlzaG5oHRWuUHZExjwY/aY7i8ZdQEI9RV4ehcBi6qg5p9bjyRUYXLG+Un7VlIkKjBfM=📥لینک
 trojan://SQXdz0p1cP@95.216.78.124:110?security=tls&sni=fr1.ftpcomand.com#NL🇳🇱
@@ -9126,6 +9125,7 @@ trojan://telegram-id-privatevpns@3.8.123.26:22222?security=tls&sni=🔒
 trojan://telegram-id-privatevpns@34.252.21.244:22222?type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@35.156.137.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@35.156.41.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش
+trojan://telegram-id-privatevpns@35.157.163.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@35.157.166.126:22222?security=tls&sni=🔒
 trojan://telegram-id-privatevpns@35.157.236.123:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@35.157.65.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش
@@ -9373,6 +9373,8 @@ trojan://trojan@104.24.57.5:443/?type=ws&host=azadnet2-dl4.pages.dev&path=🔒
 trojan://trojan@104.24.57.5:443?allowInsecure=0&sni=azadnet2-dl4.pages.dev&ws=1&wspath=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 trojan://trojan@104.24.57.5:443?allowInsecure=0&sni=azadnet2-dl4.pages.dev&ws=1&wspath=%2F%3Fed%3D2560#🔥Join+Telegram:@Farah_VPN🟣
 trojan://trojan@104.24.57.5:443?allowInsecure=0&sni=🔒
+trojan://trojan@104.24.57.5:443?security=tls&sni=azadnet2-dl4.pages.dev&type=ws&host=azadnet2-dl4.pages.dev&path=%2F%3Fed%3D2560#🇺🇸[openproxylist.com]
+trojan://trojan@104.24.57.5:443?security=tls&sni=🔒
 trojan://trojan@104.26.12.31:8443/?type=tcp&security=tls&sni=🔒
 trojan://trojan@104.26.12.31:8443/?type=ws&host=fofang.pages.dev&path=%2F&security=tls&sni=fofang.pages.dev#%F0%9F%92%8D32%40oneclickvpnkeys
 trojan://trojan@104.26.12.31:8443/?type=ws&host=fofang.pages.dev&path=🔒
