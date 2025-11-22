@@ -54,7 +54,6 @@ ss://c89028d2-f0a3-413f-97a3-811be70b217a@hield.ru:3389?security=reality&encrypt
 ss://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=%2Fgetupdates&security=tls&encryption=none&fp=chrome&type=ws&sni=fl-3-direct.djarbnet.ru#%253E%253E%2540outline_vpn%3A%3AFI
 ss://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?type=ws&encryption=none&flow=&host=fl-3-direct.djarbnet.ru&path=%2Fgetupdates&security=tls&sni=fl-3-direct.djarbnet.ru&fp=chrome#FI🇫🇮
 ss://d2de6d6d-4735-4fe3-b4b6-00a81ced69f5@fi.srv.happvpn.com:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&security=reality&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6#REALITY|FI🇫🇮
-ss://d42c146e-2ded-4b4a-8592-6459ac636910@fi4.srv.oplcdn.link:8443?&security=reality&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&fp=chrome&sni=ign.com&type=tcp&headerType=none&host=fi4.srv.oplcdn.link&path=%2F#_%E8%8A%AC%E5%85%B0
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.201:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B20%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40lranonline_new%20%5B5%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=none&encryption=none&type=grpc#FI🇫🇮
@@ -113,7 +112,6 @@ vless://c89028d2-f0a3-413f-97a3-811be70b217a@hield.ru:3389?security=reality&encr
 vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=%2Fgetupdates&security=tls&encryption=none&fp=chrome&type=ws&sni=fl-3-direct.djarbnet.ru#%253E%253E%2540outline_vpn%3A%3AFI
 vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?type=ws&encryption=none&flow=&host=fl-3-direct.djarbnet.ru&path=%2Fgetupdates&security=tls&sni=fl-3-direct.djarbnet.ru&fp=chrome#FI🇫🇮
 vless://d2de6d6d-4735-4fe3-b4b6-00a81ced69f5@fi.srv.happvpn.com:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&security=reality&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&sid=4c02bbbfa833b3b6#REALITY|FI🇫🇮
-vless://d42c146e-2ded-4b4a-8592-6459ac636910@fi4.srv.oplcdn.link:8443?&security=reality&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&fp=chrome&sni=ign.com&type=tcp&headerType=none&host=fi4.srv.oplcdn.link&path=%2F#_%E8%8A%AC%E5%85%B0
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.201:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40outline_ir%20%5B20%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40lranonline_new%20%5B5%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=none&encryption=none&type=grpc#FI🇫🇮
