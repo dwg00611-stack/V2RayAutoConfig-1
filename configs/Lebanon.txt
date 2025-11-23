@@ -1,2 +1,4 @@
+ss://4819860c-0e62-4804-9c59-967e5c2bed7a@77.110.119.225:443?&security=reality&flow=xtls-rprx-vision&pbk=hnec5SxCD6Os-u0FNi_YS5CML1a_oWb0niZJ1mGuFBo&sid=07e904766d29b958&fp=chrome&sni=st.ozone.ru&type=tcp&headerType=none&path=%2F#_%E9%BB%8E%E5%B7%B4%E5%AB%A9
 ss://d42223ff-aace-4c18-bacf-18d6abb9314f@46.20.111.246:3035?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#_%E9%BB%8E%E5%B7%B4%E5%AB%A9%202
+vless://4819860c-0e62-4804-9c59-967e5c2bed7a@77.110.119.225:443?&security=reality&flow=xtls-rprx-vision&pbk=hnec5SxCD6Os-u0FNi_YS5CML1a_oWb0niZJ1mGuFBo&sid=07e904766d29b958&fp=chrome&sni=st.ozone.ru&type=tcp&headerType=none&path=%2F#_%E9%BB%8E%E5%B7%B4%E5%AB%A9
 vless://d42223ff-aace-4c18-bacf-18d6abb9314f@46.20.111.246:3035?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#_%E9%BB%8E%E5%B7%B4%E5%AB%A9%202
