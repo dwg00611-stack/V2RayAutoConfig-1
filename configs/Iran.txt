@@ -145,7 +145,6 @@ ss://3034752b-a7bd-4562-ad0b-6f7f4d7e2aad@65.109.194.11:8080?security=none&encry
 ss://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80/?type=tcp&encryption=none#%40v2rayfree_iran%F0%9F%87%AE%F0%9F%87%B7
 ss://33a0c07b-82c7-40c8-aac7-4ab2071bcc03@43.160.246.221:46920?security=reality&encryption=none&pbk=26jcWQerQE3ryBAm1OCcC7MrgGlI5I-gpdel1xf2Hx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#All--@IRAN_V2RAY1
 ss://34155f4a-b42f-4961-9268-df5069fca1ff@185.97.119.25:80?path=%2F&security=none&encryption=none&type=ws#IR🇮🇷
-ss://34155f4a-b42f-4961-9268-df5069fca1ff@185.97.119.25:80?path=/&security=none&encryption=none&host=/?Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Nā’īn🅿️ping:102.36ms
 ss://3460022e-866b-46ac-8679-ae2796b4e30a@151.101.3.8:80?path=%2Fdownload%3Fed%3D2048&security=none&encryption=none&host=barghchi.com&type=ws#IR🇮🇷
 ss://3557aa39-7564-4362-9713-8a2dd2a98830@45.67.139.37:443?security=reality&encryption=none&pbk=k3h5nEAsMcyb9tVMeEepA4jd9JiPhcVCIVLPKWyao0E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedsmart.net&sid=ed464ab7d7a8#All--@IRAN_V2RAY1
 ss://3691b39b-4aa7-4f68-8304-902e4734e2f4@45.128.232.102:16798?security=reality&encryption=none&pbk=UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=229b2a94#All--@IRAN_V2RAY1
@@ -580,7 +579,6 @@ vless://3034752b-a7bd-4562-ad0b-6f7f4d7e2aad@65.109.194.11:8080?security=none&en
 vless://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80/?type=tcp&encryption=none#%40v2rayfree_iran%F0%9F%87%AE%F0%9F%87%B7
 vless://33a0c07b-82c7-40c8-aac7-4ab2071bcc03@43.160.246.221:46920?security=reality&encryption=none&pbk=26jcWQerQE3ryBAm1OCcC7MrgGlI5I-gpdel1xf2Hx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#All--@IRAN_V2RAY1
 vless://34155f4a-b42f-4961-9268-df5069fca1ff@185.97.119.25:80?path=%2F&security=none&encryption=none&type=ws#IR🇮🇷
-vless://34155f4a-b42f-4961-9268-df5069fca1ff@185.97.119.25:80?path=/&security=none&encryption=none&host=/?Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=ws#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Nā’īn🅿️ping:102.36ms
 vless://3460022e-866b-46ac-8679-ae2796b4e30a@151.101.3.8:80?path=%2Fdownload%3Fed%3D2048&security=none&encryption=none&host=barghchi.com&type=ws#IR🇮🇷
 vless://3557aa39-7564-4362-9713-8a2dd2a98830@45.67.139.37:443?security=reality&encryption=none&pbk=k3h5nEAsMcyb9tVMeEepA4jd9JiPhcVCIVLPKWyao0E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedsmart.net&sid=ed464ab7d7a8#All--@IRAN_V2RAY1
 vless://3691b39b-4aa7-4f68-8304-902e4734e2f4@45.128.232.102:16798?security=reality&encryption=none&pbk=UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=229b2a94#All--@IRAN_V2RAY1
