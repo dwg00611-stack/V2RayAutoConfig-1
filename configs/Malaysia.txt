@@ -1,9 +1,11 @@
+ss://297df885-9161-46cb-94d4-90a8a8489645@45.128.54.17:443?path=%2Fdahuqpws&security=tls&encryption=none&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia
 ss://64f8f5e3-00eb-4a2e-be91-daab6634ae89@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638991939314084689.sonata-amsib.info&type=ws&host=638991939314084689.sonata-amsib.info&path=/tssnuows#Malaysia%2071%20dailyv2ry
 ss://ac08afa6-d0b3-480c-9426-390604239db6@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638993962459201183.passat-amsid.info&type=ws&host=638993962459201183.passat-amsid.info&path=/pczeguws#Malaysia%2031%20dailyv2ry
 ss://b93b22f2-ce13-43dd-827b-37eb2a93f661@vpn-srv-3.circlevpn.net:35512?type=tcp&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome&security=tls#MY🇲🇾
 ss://bf88990d-178b-47f7-98bd-4c28ee9523aa@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=638992899243644080.stinger-amsid.info&type=ws&host=638992899243644080.stinger-amsid.info&path=/mqytbxws#Malaysia%2060%20dailyv2ry
 ss://c3fec147-2189-4447-a590-2edcc0484ee8@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=638992899243672646.stinger-amsid.info&type=ws&host=638992899243672646.stinger-amsid.info&path=/qhxqyxws#Malaysia%2097%20dailyv2ry
 ss://d664a668-b4f7-4c1e-9402-f8b66e8c27b7@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=638992393945852959.yaris-amsic.info&type=ws&host=638992393945852959.yaris-amsic.info&path=/aajepdws#Malaysia%2037%20dailyv2ry
+vless://297df885-9161-46cb-94d4-90a8a8489645@45.128.54.17:443?path=%2Fdahuqpws&security=tls&encryption=none&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia
 vless://64f8f5e3-00eb-4a2e-be91-daab6634ae89@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638991939314084689.sonata-amsib.info&type=ws&host=638991939314084689.sonata-amsib.info&path=/tssnuows#Malaysia%2071%20dailyv2ry
 vless://ac08afa6-d0b3-480c-9426-390604239db6@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638993962459201183.passat-amsid.info&type=ws&host=638993962459201183.passat-amsid.info&path=/pczeguws#Malaysia%2031%20dailyv2ry
 vless://b93b22f2-ce13-43dd-827b-37eb2a93f661@vpn-srv-3.circlevpn.net:35512?type=tcp&alpn=h3%252Ch2%252Chttp%252F1.1&fp=chrome&security=tls#MY🇲🇾

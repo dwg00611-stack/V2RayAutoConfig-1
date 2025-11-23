@@ -266,6 +266,7 @@ ss://8417c221-c277-4e3b-8d19-b0ac0bfb4666@free.vpn.luna-marzban.ir:15510?securit
 ss://84ac6559-30a8-4c3e-bbcb-894edd4de743@traxex.fonixapp.org:39352?security=reality&encryption=none&pbk=bqBZxwknIQGVNxvW6agjANLI6jdKG8jgIJ6cLKBbjns&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=lowes.com&sid=8f#IR--@V2ray_Alpha-13
 ss://866f919c-aa0d-4edb-b6a9-d5412c1c2ca3@drow-ranger.fonixapp.org:56765?security=reality&encryption=none&pbk=DHIEcMf3BTEwQ_XEFx1j02jzn0KkKKeyPWH7wnWwuG8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=f50f5a#@IRAN_V2RAY1--All
 ss://866f919c-aa0d-4edb-b6a9-d5412c1c2ca3@drow-ranger.fonixapp.org:56765?security=reality&encryption=none&pbk=DHIEcMf3BTEwQ_XEFx1j02jzn0KkKKeyPWH7wnWwuG8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=f50f5a#IR--@V2ray_Alpha-3
+ss://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20Iran
 ss://88c30a4c-bc85-42d5-a5ac-38252612fd0e@broodmother.fonixapp.org:36827?security=reality&encryption=none&pbk=n3DJmBTvXThSytT0NeVD64myEx7cniyCvI1T2yzZ8nc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=lowes.com&sid=95#@IRAN_V2RAY1--MCI
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.158:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#IR🇮🇷
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.239:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#IR🇮🇷
@@ -526,7 +527,9 @@ ss://ff84dbed-bbfb-42d8-b397-b0ec025fb570@nodegcf.azurka.org:443?path=/ws&securi
 ss://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443/?type=ws&encryption=none&host=www.dns-shop.ir&path=%2F%3Fed%3D2048&security=tls&sni=www.dns-shop.ir&alpn=h2%2Chttp%2F1.1&fp=chrome#Bya%20To%20%3A%20%40Iran_V2ray1
 ss://narcod_ping@85.133.228.198:41546?type=tcp&path=%2F&host=varzesh3.com&headerType=http&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40narcod_ping%20%5B14%5D
 trojan://02XtoczO7V@creativecommons.org:443?path=/hishhhh123&security=tls&alpn=http/1.1&host=mooshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=mooshali.arshiacomplus.dpdns.org#IR-@IRAN_V2RAY1
+trojan://19f8e29a-3f0b-448c-92e8-ae035ea5f9ba@45.159.251.8:81?path=%2FFree-VPN-CF-Geo-Project%2F45.159.251.8%3D81&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#MCI-IR--%40V2rayAlpha-18
 trojan://19f8e29a-3f0b-448c-92e8-ae035ea5f9ba@45.159.251.8:81?path=/Free-VPN-CF-Geo-Project/45.159.251.8=81&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#MCI-IR--@V2rayAlpha-18
+trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#MCI-IR--%40V2rayAlpha-20
 trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#MCI-IR--@V2rayAlpha-20
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#All-@IRAN_V2RAY1
 trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520#FreeV2Alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
@@ -536,6 +539,7 @@ trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&sec
 trojan://Xa4%5El(%3B.%3BB%23a@104.18.26.90:443/?type=ws&host=s1.mitivpn.workers.dev&path=%2FtrUXByA1rnbs4YQ1Xw%3Fed%3D2560&security=tls&sni=S1.mitivpN.wOrKeRS.DEV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized#Join%20To%20%40IRAN_V2RAY1
 trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#All-@IRAN_V2RAY1
 trojan://ZHEKwAC5B4Hwwohd4PhhFw@46.62.214.228:443?mode=gun&security=tls&type=grpc&serviceName=trojan&sni=cyrus.v2bazzar.ir#All---@IRAN_V2RAY1
+trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81?path=%2F94.131.114.50%3D81&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#MCI-IR--%40V2rayAlpha-19
 trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81?path=/94.131.114.50=81&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#MCI-IR--@V2rayAlpha-19
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#All-@IRAN_V2RAY1
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=/aioproxybot/129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#@IRAN_V2RAY1
@@ -711,6 +715,7 @@ vless://8417c221-c277-4e3b-8d19-b0ac0bfb4666@free.vpn.luna-marzban.ir:15510?secu
 vless://84ac6559-30a8-4c3e-bbcb-894edd4de743@traxex.fonixapp.org:39352?security=reality&encryption=none&pbk=bqBZxwknIQGVNxvW6agjANLI6jdKG8jgIJ6cLKBbjns&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=lowes.com&sid=8f#IR--@V2ray_Alpha-13
 vless://866f919c-aa0d-4edb-b6a9-d5412c1c2ca3@drow-ranger.fonixapp.org:56765?security=reality&encryption=none&pbk=DHIEcMf3BTEwQ_XEFx1j02jzn0KkKKeyPWH7wnWwuG8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=f50f5a#@IRAN_V2RAY1--All
 vless://866f919c-aa0d-4edb-b6a9-d5412c1c2ca3@drow-ranger.fonixapp.org:56765?security=reality&encryption=none&pbk=DHIEcMf3BTEwQ_XEFx1j02jzn0KkKKeyPWH7wnWwuG8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=f50f5a#IR--@V2ray_Alpha-3
+vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20Iran
 vless://88c30a4c-bc85-42d5-a5ac-38252612fd0e@broodmother.fonixapp.org:36827?security=reality&encryption=none&pbk=n3DJmBTvXThSytT0NeVD64myEx7cniyCvI1T2yzZ8nc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=lowes.com&sid=95#@IRAN_V2RAY1--MCI
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.158:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#IR🇮🇷
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.239:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#IR🇮🇷
