@@ -228,7 +228,6 @@ ss://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.83:443?path=%2Fyg2rz1apovtkj
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.247.243:443?security=tls&sni=bPb-v.pAGEs.Dev&type=ws&host=bPB-V.pAgEs.dEV&path=/9SNO3I0xNyACM41M/MTI5LjE1OS4yNDEuMTcy&alpn=http/1.1#t.me/entryNET/config=1849674863716953
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.21:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.1.255:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
-ss://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.18.62:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#[🇩🇪]t.me/ConfigsHub
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.33.29:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#[🇪🇸]t.me/ConfigsHub
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.60:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.8.31:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
@@ -353,6 +352,7 @@ ss://bcc320cb-8b20-49c7-b283-7ded456a62b1@5.101.180.145:443?path=/Free-VPN-CF-Ge
 ss://bd91794c-7792-49fd-9082-e0804bc13457@sub-tunnels.connectix-d1.info:8084?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=randomized&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#[🇮🇷]t.me/ConfigsHub
 ss://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@MODERN-pRomISe.SEOtOolSForyOU.co.Uk:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
 ss://bdb67bdd-9f24-4555-bdb4-b768567ae239@151.101.67.8:80?mode=auto&path=/free?ed=2048&security=none&encryption=none&host=Free_proxyu.org&type=xhttp#https://t.me/v2raynplus
+ss://c28d35ee-020c-443c-acea-b1e153aab9f1@cf.001315.xyz:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000&security=tls&alpn=h3&encryption=none&host=sni.aizrf.com&fp=random&type=ws&sni=sni.aizrf.com#[🇨🇦]t.me/ConfigsHub
 ss://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&security=reality&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&sid=9d36b8589fa524fd#t.me/entryNET/config=1849676755175174
 ss://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@85.90.197.100:9956?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com#[🇬🇷]t.me/ConfigsHub
 ss://c313c27c-97ff-45ed-ab5c-64641af5debc@fieRcE-daTa.SeOTOOlsFORYou.cO.Uk:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
@@ -398,7 +398,6 @@ ss://de543079-9ff5-4dce-8b68-97f61685efd7@nodejs.org:443?encryption=none&securit
 ss://de76b1cb-a2a0-43c0-8b8b-b3be2c0af830@157.180.29.25:42671?path=%2FNT_Safe&security=&encryption=none&type=ws#[🇫🇮]t.me/ConfigsHub
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=&encryption=none&type=grpc#https://t.me/Selinc
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#https://t.me/Selinc
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.185:8880?mode=gun&security=&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=&encryption=none&type=grpc#https://t.me/v2raynplus
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#https://t.me/v2raynplus
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#https://t.me/v2raynplus
@@ -483,6 +482,7 @@ trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@37.114.62.218:443?security=tls&sni
 trojan://6ead60c4-4321-45d5-81a9-ba4835f7c692@45.159.251.8:81?path=/Free-VPN-CF-Geo-Project/45.159.251.8=81&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#[🇵🇹]t.me/ConfigsHub
 trojan://784d5c1f-69d8-4967-bc61-426983744ee5@t2.google.bforward2.uk:443?sni=t2.google.bforward2.uk#t.me%2Fkutoproxy%F0%9F%87%A8%F0%9F%87%A6⛳️New
 trojan://90dcfbbe-19f4-4f93-878f-9a40861f8ea5@43.132.244.52:21415?path=%2FFree-VPN-CF-Geo-Project%2F43.132.244.52%3D21415&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#[🇭🇰]t.me/ConfigsHub
+trojan://Aimer@206.238.237.118:8443?sni=acepo.ambercc.filegear-sg.me&allowInsecure=1#[🇸🇬]t.me/ConfigsHub
 trojan://D3OJA7xY5U@209.200.246.53:10785?security=reality&sni=cloudflare.com&fp=chrome&pbk=Yj8X6ZHfj6UpI7-XxFpodTIoWKiZ5TYbNWj1LQqruCY&sid=20b09680&spx=/&allowInsecure=1&type=grpc#t.me/v2Line
 trojan://G9CHhXltVx@96.9.213.108:12646?security=tls&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line
 trojan://OWB0=fZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&sni=temporaltortellini.click&fp=chrome&allowInsecure=1&type=tcp&headerType=none&host=t.me/v2Line#t.me/v2Line
@@ -812,7 +812,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.83:443?path=%2Fyg2rz1apov
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.247.243:443?security=tls&sni=bPb-v.pAGEs.Dev&type=ws&host=bPB-V.pAgEs.dEV&path=/9SNO3I0xNyACM41M/MTI5LjE1OS4yNDEuMTcy&alpn=http/1.1#t.me/entryNET/config=1849674863716953
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.21:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.1.255:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.18.62:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#[🇩🇪]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.33.29:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#[🇪🇸]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.60:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.8.31:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#[🇺🇸]t.me/ConfigsHub
@@ -902,6 +901,7 @@ vless://bcc320cb-8b20-49c7-b283-7ded456a62b1@5.101.180.145:443?path=/Free-VPN-CF
 vless://bd91794c-7792-49fd-9082-e0804bc13457@sub-tunnels.connectix-d1.info:8084?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=randomized&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#[🇮🇷]t.me/ConfigsHub
 vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@MODERN-pRomISe.SEOtOolSForyOU.co.Uk:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
 vless://bdb67bdd-9f24-4555-bdb4-b768567ae239@151.101.67.8:80?mode=auto&path=/free?ed=2048&security=none&encryption=none&host=Free_proxyu.org&type=xhttp#https://t.me/v2raynplus
+vless://c28d35ee-020c-443c-acea-b1e153aab9f1@cf.001315.xyz:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000&security=tls&alpn=h3&encryption=none&host=sni.aizrf.com&fp=random&type=ws&sni=sni.aizrf.com#[🇨🇦]t.me/ConfigsHub
 vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&security=reality&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&sid=9d36b8589fa524fd#t.me/entryNET/config=1849676755175174
 vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@85.90.197.100:9956?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com#[🇬🇷]t.me/ConfigsHub
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fieRcE-daTa.SeOTOOlsFORYou.cO.Uk:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
@@ -947,7 +947,6 @@ vless://de543079-9ff5-4dce-8b68-97f61685efd7@nodejs.org:443?encryption=none&secu
 vless://de76b1cb-a2a0-43c0-8b8b-b3be2c0af830@157.180.29.25:42671?path=%2FNT_Safe&security=&encryption=none&type=ws#[🇫🇮]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=&encryption=none&type=grpc#https://t.me/Selinc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#https://t.me/Selinc
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.185:8880?mode=gun&security=&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=&encryption=none&type=grpc#https://t.me/v2raynplus
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#https://t.me/v2raynplus
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#https://t.me/v2raynplus
