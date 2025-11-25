@@ -167,7 +167,6 @@ hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?secu
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#All-@V2ray_Alpha--5
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#MCI-IR--%40V2rayAlpha-14
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#MCI-IR--@V2rayAlpha-14
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#🌐سرور
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@glby1.nezhasu.com:443?insecure=0&sni=glby1.nezhasu.com#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7%20%2310
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy5.nezhasu.com:443?insecure=1&sni=gy5.nezhasu.com#All-%40V2rayAlpha--29
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy5.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=gy5.nezhasu.com#All-%40V2rayAlpha--29
@@ -928,6 +927,7 @@ hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@batam3.nezhasu.com:443?insecure
 hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@batam4.nezhasu.com:443?insecure=1&sni=batam4.nezhasu.com#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7%20%23196
 hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@db1.nezhasu.com:443?insecure=0&sni=db1.nezhasu.com#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7%20%23197
 hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@falankefu1.nezhasu.com:443?insecure=0&sni=falankefu1.nezhasu.com#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7%20%23198
+hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@falankefu1.nezhasu.com:443?insecure=0&sni=falankefu1.nezhasu.com#🌐سرور
 hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@gy1.nezhasu.com:443?insecure=0&sni=gy1.nezhasu.com#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7%20%23199
 hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@gy2.nezhasu.com:443?insecure=0&sni=gy2.nezhasu.com#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7%20%23200
 hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@gy5.nezhasu.com:443?insecure=0&sni=gy5.nezhasu.com#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7%20%23201
