@@ -74,6 +74,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozdkI2UU5rbExOV3ZsVWY2c0phNUVQ@45.95.232.236:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckhSbFZwTnNFT0xqNTVJT0FpRUx3@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+112.06ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUVV3b0luVDRndkI5Y1RkeUVVNzBya045SlVFc1hncQ%3D%3D@83.172.136.43:443#%253E%253E%2540DailyV2RY%3A%3ACH
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHOEs2c3MwQXZldVdsV3pXODBYNU5M@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+112.58ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUZE5ZOWl0NVRDbU9OeVlZeFlNZkZh@45.95.232.236:4248#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Zurich🅿️ping:87.95ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZeWJyR2IwQ043Y3NLSmdPMDMzcWg4U2JBZ0U5c0xyVQ3D3A==@89.46.232.196:443#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+89.46.232.196-443+%7C+115.43ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphQW83aTdyQlRuU3BldU1rTDRaSlBs@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+112.53ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVTdZdUxma3pnc1dNRUQzWXVsRzZG@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+112.87ms
@@ -121,7 +122,6 @@ ss://faa47bdc-8581-4e47-a557-35caa72681bd@104.16.173.114:80?encryption=none&secu
 ss://faa47bdc-8581-4e47-a557-35caa72681bd@104.24.181.248:80?encryption=none&security=none&type=ws&host=delicate-feather-dc36-ppal03.shah-beck.workers.dev&path=/?ed=2560#⏸️Ch:
 trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@ch12.yukiss.eu.org:18818?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-152.67.71.149-2948
 trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?security=tls&sni=joss.gpj1.web.id#%F0%9F%87%A8%F0%9F%87%ADCH-91.192.102.92-1154
-trojan://b87a1832-96c8-4291-b273-30a4d68f2629@91.245.225.69:443?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/91.245.225.69=443&host=joss.gpj1.web.id#🇨🇭[openproxylist.com]trojan-CH
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.16.99.78:80?encryption=none&security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=/?ed=2560#🐬Ch:
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?encryption=none&security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=/?ed=2560#🐬Ch:
 vless://03c9f240-0bad-4f71-93f2-f5d272dada97@104.16.74.35:80?encryption=none&security=none&type=ws&host=sparkling-limit-ppal03.yibijow194.workers.dev&path=/?ed=2560#🦆Ch:
