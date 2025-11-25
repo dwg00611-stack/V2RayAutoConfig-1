@@ -39,6 +39,7 @@ ss://a40b0a127d65404a9e15b31e1c0c352b@185.39.204.189:443?security=reality&sni=m.
 ss://a904f7b1-4ca3-4452-b2f4-1030d2d7570b@Trk.originalproxy.sbs:20936?mode=gun&security=reality&encryption=none&pbk=7PSnnf3p70BBT39ibFAQacJYzywQYuWeoEI98na-zjU&fp=firefox&type=grpc&sni=refersion.com&sid=ed1e5b7d7bf22a70#REALITY|TR🇹🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
 ss://ef4cfc49-59d8-41c7-b570-d9d46540066e@45.136.5.178:7070?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=shop.frnsoft.com#TR🇹🇷
+ss://ef4cfc49-59d8-41c7-b570-d9d46540066e@45.136.5.178:7070?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=shop.frnsoft.com#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:575.38ms
 ss://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-tr4-cdn.fastfilecdn.org:2052?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=dl5-tr4-cdn.fastfilecdn.org&fp=firefox&type=ws#TR🇹🇷
 ss://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B8%5D
 ss://f656857f-a7be-4eaa-9027-bf958ba3aa8e@45.136.5.90:43390?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&sni=dl.frnsoft.com#TR🇹🇷
@@ -65,6 +66,7 @@ vless://a40b0a127d65404a9e15b31e1c0c352b@185.39.204.189:443?security=reality&sni
 vless://a904f7b1-4ca3-4452-b2f4-1030d2d7570b@Trk.originalproxy.sbs:20936?mode=gun&security=reality&encryption=none&pbk=7PSnnf3p70BBT39ibFAQacJYzywQYuWeoEI98na-zjU&fp=firefox&type=grpc&sni=refersion.com&sid=ed1e5b7d7bf22a70#REALITY|TR🇹🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#TR🇹🇷
 vless://ef4cfc49-59d8-41c7-b570-d9d46540066e@45.136.5.178:7070?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=shop.frnsoft.com#TR🇹🇷
+vless://ef4cfc49-59d8-41c7-b570-d9d46540066e@45.136.5.178:7070?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=shop.frnsoft.com#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:575.38ms
 vless://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-tr4-cdn.fastfilecdn.org:2052?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=dl5-tr4-cdn.fastfilecdn.org&fp=firefox&type=ws#TR🇹🇷
 vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B8%5D
 vless://f656857f-a7be-4eaa-9027-bf958ba3aa8e@45.136.5.90:43390?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&sni=dl.frnsoft.com#TR🇹🇷
