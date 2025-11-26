@@ -257,7 +257,6 @@ trojan://c53647f3153f784b3c695ffbe5fb43c0@36.156.102.84:2283?security=tls&sni=ww
 trojan://c53647f3153f784b3c695ffbe5fb43c0@36.156.102.84:2381?security=tls&sni=fe2.update.microsoft.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.156.102.84-0603
 trojan://c53647f3153f784b3c695ffbe5fb43c0@36.156.102.84:3272?security=tls&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3CN-36.156.102.84-0598
 trojan://c53647f3153f784b3c695ffbe5fb43c0@36.156.102.84:6752?security=tls&sni=fe2.update.microsoft.com#%F0%9F%87%A8%F0%9F%87%B3CN-36.156.102.84-0602
-trojan://c6b96097-fe2d-487d-b9ef-60c994b90db2@36.50.90.241:35951?allowInsecure=0&sni=joss.gpj1.web.id&ws=1&wspath=%2FFree-VPN-CF-Geo-Project%2F36.50.90.241%3D35951#_CN_%E4%B8%AD%E5%9B%BD
 trojan://c6b96097-fe2d-487d-b9ef-60c994b90db2@36.50.90.241:35951?sni=joss.gpj1.web.id#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD5
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@58.152.18.98:443?allowInsecure=0&sni=www.nintendogames.net#_CN_%E4%B8%AD%E5%9B%BD
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@58.152.18.98:443?sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD3
