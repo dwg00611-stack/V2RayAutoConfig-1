@@ -235,6 +235,7 @@ hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@sanjose.nezhasu.com:443?securit
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@singaporex-4.nezhasu.com:443/?mport=50000-65535&sni=Singaporex-4.nezhasu.com#%F0%9F%94%9282%40oneclickvpnkeys
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@singaporex-4.nezhasu.com:443?security=tls&insecure=0&mport=50000-65535&sni=Singaporex-4.nezhasu.com#%F0%9F%94%9282%40ConfigV2RayNG
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@tokyo.nezhasu.com:443/?mport=50000-65535&sni=Tokyo.nezhasu.com#10%F0%9F%94%92%40oneclickvpnkeys
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@tokyo.nezhasu.com:443/?mport=50000-65535&sni=Tokyo.nezhasu.com#🌐سرور
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@tokyo.nezhasu.com:443?security=tls&insecure=0&mport=50000-65535&sni=Tokyo.nezhasu.com#10%F0%9F%94%92%40ConfigV2RayNG
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@valparaiso-1.nezhasu.cn:443?security=tls&insecure=1&mport=50000-65535&sni=Valparaiso-1.nezhasu.cn#12%F0%9F%A7%B8%40ConfigV2RayNG
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@ylsl.nezhasu.com:443/?mport=50000-65535&sni=ylsl.nezhasu.com#%F0%9F%94%9256%40oneclickvpnkeys
@@ -771,7 +772,6 @@ hysteria2://eOUFE6LeS4@91.99.225.11:20820?insecure=0&sni=rts.mslatency.top&obfs=
 hysteria2://eOUFE6LeS4@91.99.225.11:20820?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=0&sni=rts.mslatency.top#🇩🇪@V2RayyNGvpn🇩🇪همه
 hysteria2://f6cf2e049f46db997a7142252d49aafa@armani.8.8.8.8.fizikade.ir:443?obfs=salamander&obfs-password=hh-?ksjsHyGY6j#jswUgy556%40%26insecure%3D0%26sni%3Darma...
 hysteria2://f6cf2e049f46db997a7142252d49aafa@armani.8.8.8.8.fizikade.ir:443?security=tls&obfs=salamander&obfs-password=hh-?ksjsHyGY6j#jswUgy556@&insecure=0&sni=armani.8.8.8.8.fizikade.ir#r♡ya
-hysteria2://f6cf2e049f46db997a7142252d49aafa@armani.8.8.8.8.fizikade.ir:443?security=tls&obfs=salamander&obfs-password=hh-?ksjsHyGY6j#🌐سرور
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=dbc688df29e582d3#%40V2rayNG3%20%2318
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?security=tls&obfs=salamander&obfs-password=dbc688df29e582d3&insecure=1&sni=www.google.com#@V2rayNG3
 hysteria2://fYUHtSSorp@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA%D9%87%D9%85%D9%87%20%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87...%20%2316
