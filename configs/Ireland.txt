@@ -1,7 +1,6 @@
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@108.129.244.178:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2039%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@108.129.97.87:59483?encryption=none&type=grpc#Ireland%2098%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.250.162.79:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2025%20dailyv2ry
-ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.254.230.24:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2063%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.255.102.203:55605?encryption=none&type=tcp#Ireland%2025%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.240.254.249:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2023%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.194.239.15:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2041%20dailyv2ry
@@ -31,7 +30,6 @@ trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=trj.rollin
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@108.129.244.178:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2039%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@108.129.97.87:59483?encryption=none&type=grpc#Ireland%2098%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.250.162.79:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2025%20dailyv2ry
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.254.230.24:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2063%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.255.102.203:55605?encryption=none&type=tcp#Ireland%2025%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.240.254.249:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2023%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.194.239.15:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2041%20dailyv2ry
