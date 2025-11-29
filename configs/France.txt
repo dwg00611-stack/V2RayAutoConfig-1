@@ -129,7 +129,7 @@ ss://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&se
 ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789/?type=tcp&encryption=none&flow=#%253E%253E%2540oneclickvpnkeys%3A%3AFR
 ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?&security=false&fp=chrome&type=tcp&headerType=none&host=fr.nextseesion.ir&path=%2F#FR%20VLESS-32%40free-nodes
 ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=&encryption=none&headerType=&type=tcp#FR🇫🇷
-ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray1_ng%20%5B4%5D
+ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray1_ng%20%5B3%5D
 ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#FR%20VLESS-32%40free-nodes
 ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#FR🇫🇷
 ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?type=tcp&encryption=none&flow=#FR🇫🇷
@@ -178,7 +178,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.177:8880/?type=grpc&encrypt
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.208:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2aryng_vpn%20%5B11%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B11%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?encryption=none&type=grpc&mode=gun&security=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B10%5D
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?encryption=none&type=grpc&mode=gun&security=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B9%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.104:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40satellitenewspersian%20%5B18%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.104:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.27:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
@@ -233,9 +232,9 @@ trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingn
 trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.112.204-1588
 trojan://telegram-id-directvpn@51.45.12.251:22223?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-51.45.12.251-1283
 trojan://telegram-id-privatevpns@13.37.18.131:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#%E6%B3%95%E5%9B%BD%20-%20%E5%B7%B4%E9%BB%8E%20-%20Amazon%20Technologies%20Inc.%20-%202
-trojan://telegram-id-privatevpns@13.37.18.131:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B14%5D
 trojan://telegram-id-privatevpns@13.39.186.144:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#FR%20TROJAN-03%40free-nodes
 trojan://telegram-id-privatevpns@13.39.186.144:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-13.39.186.144-1145
+trojan://telegram-id-privatevpns@15.188.166.63:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B16%5D
 trojan://telegram-id-privatevpns@15.188.216.8:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 trojan://telegram-id-privatevpns@15.236.122.160:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.236.122.160-1420
 trojan://telegram-id-privatevpns@15.236.122.160:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-15.236.122.160-9971
@@ -313,7 +312,7 @@ vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789/?type=tcp&encryption=none&flow=#%253E%253E%2540oneclickvpnkeys%3A%3AFR
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?&security=false&fp=chrome&type=tcp&headerType=none&host=fr.nextseesion.ir&path=%2F#FR%20VLESS-32%40free-nodes
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=&encryption=none&headerType=&type=tcp#FR🇫🇷
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray1_ng%20%5B4%5D
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray1_ng%20%5B3%5D
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#FR%20VLESS-32%40free-nodes
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#FR🇫🇷
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?type=tcp&encryption=none&flow=#FR🇫🇷
@@ -362,7 +361,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.177:8880/?type=grpc&encr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.208:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2aryng_vpn%20%5B11%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B11%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?encryption=none&type=grpc&mode=gun&security=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B10%5D
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?encryption=none&type=grpc&mode=gun&security=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B9%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.104:8880/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40satellitenewspersian%20%5B18%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.104:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.27:8880?mode=gun&security=none&encryption=none&type=grpc#FR🇫🇷
