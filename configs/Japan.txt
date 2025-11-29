@@ -239,7 +239,6 @@ trojan://9e76767d-4bfa-4f04-a800-42e2f63afed2@160.16.104.143:443/?type=tcp&secur
 trojan://Aimer@47.79.35.191:443/?type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%87%AF%F0%9F%87%B5JP-47.79.35.191-1037
 trojan://Aimer@47.79.38.17:443/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#%F0%9F%87%AF%F0%9F%87%B5JP-47.79.38.17-0700
 trojan://BxceQaOe@13.231.125.141:4012?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-trojan://BxceQaOe@13.231.125.141:4012?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://BxceQaOe@13.231.125.141:4012?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@13.231.125.141:4012?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.125.141-2810
 trojan://BxceQaOe@153.121.51.147:5156/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.51.147-1189
@@ -258,6 +257,7 @@ trojan://BxceQaOe@160.16.82.24:2145/?type=tcp&security=tls&sni=t.me%2Fripaojiedi
 trojan://BxceQaOe@160.16.82.24:2145?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.82.24-1382
 trojan://BxceQaOe@160.16.85.138:4492/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.85.138-5667
 trojan://BxceQaOe@160.16.85.138:4492?security=tls&sni=t.me/ripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.85.138-1625
+trojan://BxceQaOe@43.199.161.175:1196#%E6%97%A5%E6%9C%AC+V2CROSS.COM
 trojan://BxceQaOe@57.180.57.41:2173?security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP-57.180.57.41-1962
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?allowInsecure=0&sni=kuame.missionsec.us#%253E%253E%2540v2nodes%3A%3AJP
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?allowInsecure=0&sni=kuame.missionsec.us#JP-23.186.64.37-0337
