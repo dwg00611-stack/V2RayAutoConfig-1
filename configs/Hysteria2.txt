@@ -527,6 +527,7 @@ hysteria2://MxiGoEDnLJELZicwCXwsADPdF4@43.201.45.216:29609?security=tls&insecure
 hysteria2://SNItest@37.18.14.169:443/?insecure=1&sni=megafon.ru#%F0%9F%8E%B542%40oneclickvpnkeys✔️@oneclickvpnkeys
 hysteria2://SNItest@37.18.14.169:443?insecure=1&sni=megafon.ru#%40Daily_Configs%20%231
 hysteria2://SNItest@37.18.14.169:443?insecure=1&sni=megafon.ru#9%2C10%7C%40Daily_Configs%20%231
+hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#%40Daily_Configs
 hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#%F0%9F%8E%B542%40oneclickvpnkeys
 hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#@Daily_Configs
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray#%F0%9F%8C%8F19%40oneclickvpnkeys
