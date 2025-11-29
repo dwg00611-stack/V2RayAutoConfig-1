@@ -38,6 +38,7 @@ ss://755592c6-eae3-4100-a8d8-81cdd845c6d7@che-0001-xr.packet-drop-society.net:44
 ss://7711fc80-c163-4f35-80c4-d5e61c69659d@104.16.112.97:80?encryption=none&security=none&type=ws&host=icy-bar-399d-ppal03.pomoyes509.workers.dev&path=/?ed=2560#👕Ch:
 ss://7711fc80-c163-4f35-80c4-d5e61c69659d@104.24.47.130:80?encryption=none&security=none&type=ws&host=icy-bar-399d-ppal03.pomoyes509.workers.dev&path=/?ed=2560#👕Ch:
 ss://77a07419-394a-4e46-b64b-a4ca2bd295f4@1margate.superip.ir:28157?security=reality&encryption=none&pbk=uHj-YSliobSCte9w83Jm1VWpOnXl64sKghSSNVdFvVw&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=4c14#REALITY|CH🇨🇭
+ss://7aae7d90-0b37-421e-834a-502ea15f43df@208.69.78.142:443/?type=grpc&encryption=none&flow=&serviceName=t.me/entryNET&sni=www.microsoft.com&fp=chrome&security=reality&pbk=eV7nN5zQA1ecRLyt2u1ChDrl5LU832tCySZOrWoiVXo&sid=91fbf6164cb2bc53#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Zurich🅿️ping:186ms
 ss://7aae7d90-0b37-421e-834a-502ea15f43df@208.69.78.142:443?type=grpc&encryption=none&flow=&serviceName=dcfc23920fc8a07991dda30d&sni=www.microsoft.com&fp=chrome&security=reality&pbk=eV7nN5zQA1ecRLyt2u1ChDrl5LU832tCySZOrWoiVXo&sid=91fbf6164cb2bc53#REALITY|CH🇨🇭
 ss://7aae7d90-0b37-421e-834a-502ea15f43df@208.69.78.142:443?type=grpc&encryption=none&flow=&serviceName=dcfc23920fc8a07991dda30d&sni=www.microsoft.com&fp=safari&security=reality&pbk=eV7nN5zQA1ecRLyt2u1ChDrl5LU832tCySZOrWoiVXo&sid=91fbf6164cb2bc53#REALITY|CH🇨🇭
 ss://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.16.52.89:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#😛Ch:
@@ -79,6 +80,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZeWJyR2IwQ043Y3NLSmdPMDMzcWg4U2JBZ0U5c0xyVQ3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphQW83aTdyQlRuU3BldU1rTDRaSlBs@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+163.94ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVTdZdUxma3pnc1dNRUQzWXVsRzZG@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+166.65ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoM3dCUzU5ckZmdFAyZWI3STVpVDNh@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+163.17ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptMW41cktlcFFjZEFpZ0FOSEZiT3l6@45.95.232.236:4248?note=--Telegram--NetifyVPN--#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Zurich🅿️ping:83ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptdndYZU9UMjhFeFdCSXhPelRiN1Ez@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+159.84ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#%F0%9F%87%A8%F0%9F%87%ADCH-204.136.10.115-1506
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#%F0%9F%87%A8%F0%9F%87%ADCH-204.136.10.115-1968
@@ -163,6 +165,7 @@ vless://755592c6-eae3-4100-a8d8-81cdd845c6d7@che-0001-xr.packet-drop-society.net
 vless://7711fc80-c163-4f35-80c4-d5e61c69659d@104.16.112.97:80?encryption=none&security=none&type=ws&host=icy-bar-399d-ppal03.pomoyes509.workers.dev&path=/?ed=2560#👕Ch:
 vless://7711fc80-c163-4f35-80c4-d5e61c69659d@104.24.47.130:80?encryption=none&security=none&type=ws&host=icy-bar-399d-ppal03.pomoyes509.workers.dev&path=/?ed=2560#👕Ch:
 vless://77a07419-394a-4e46-b64b-a4ca2bd295f4@1margate.superip.ir:28157?security=reality&encryption=none&pbk=uHj-YSliobSCte9w83Jm1VWpOnXl64sKghSSNVdFvVw&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=4c14#REALITY|CH🇨🇭
+vless://7aae7d90-0b37-421e-834a-502ea15f43df@208.69.78.142:443/?type=grpc&encryption=none&flow=&serviceName=t.me/entryNET&sni=www.microsoft.com&fp=chrome&security=reality&pbk=eV7nN5zQA1ecRLyt2u1ChDrl5LU832tCySZOrWoiVXo&sid=91fbf6164cb2bc53#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Zurich🅿️ping:186ms
 vless://7aae7d90-0b37-421e-834a-502ea15f43df@208.69.78.142:443?type=grpc&encryption=none&flow=&serviceName=dcfc23920fc8a07991dda30d&sni=www.microsoft.com&fp=chrome&security=reality&pbk=eV7nN5zQA1ecRLyt2u1ChDrl5LU832tCySZOrWoiVXo&sid=91fbf6164cb2bc53#REALITY|CH🇨🇭
 vless://7aae7d90-0b37-421e-834a-502ea15f43df@208.69.78.142:443?type=grpc&encryption=none&flow=&serviceName=dcfc23920fc8a07991dda30d&sni=www.microsoft.com&fp=safari&security=reality&pbk=eV7nN5zQA1ecRLyt2u1ChDrl5LU832tCySZOrWoiVXo&sid=91fbf6164cb2bc53#REALITY|CH🇨🇭
 vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.16.52.89:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#😛Ch:
