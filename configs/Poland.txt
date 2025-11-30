@@ -118,7 +118,6 @@ ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.68:9093#%F0%9F%87%B5%F0%
 ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.70:9093#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-6250
 ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA@217.30.10.70:9093#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-0290
 ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@217.30.10.68:9057#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-9717
-ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@217.30.10.70:9057#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40v2ray_free_conf%20%5B18%5D
 ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@217.30.10.18:9060#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.18-6251
 ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@217.30.10.18:9060#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.18-0298
 ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@217.30.10.18:9060#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.18-5402
@@ -163,6 +162,7 @@ ss://c9798bcb-59ca-4d2a-b858-d577405cdb8b@pugna.sligvpn.ru:443?type=tcp&encrypti
 ss://eb7c7631-6c7c-4f34-a65a-974b4565d01d@poland.geodema.network:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=music.yandex.ru&fp=chrome&security=reality&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&sid=5540e44a53c3d01c#REALITY|PL🇵🇱
 ss://turboo-server@jone1.fast-turbooserver.com:8880?path=%2FTurboo-Server&security=none&encryption=none&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40turboo_server%20%5B9%5D
 trojan://.%2BQAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#PL🇵🇱
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?allowInsecure=0&sni=runningshoes.purpletornado.click#PL-5.188.108.13-2925
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click#%F0%9F%87%B5%F0%9F%87%B1PL-5.188.108.13-0228
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?type=tcp&security=tls&sni=runningshoes.purpletornado.click&allowInsecure=1#PL🇵🇱
 trojan://422d402c-58f1-4473-abeb-fe6e69dc97ed@217.30.10.31:8443/?type=ws&path=%2FFree-VPN-CF-Geo-Project%2F217.30.10.31%3D8443&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.31-1524
