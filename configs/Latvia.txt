@@ -1,5 +1,6 @@
 ss://0fbf867a-812b-4c0b-89cd-01bcf2e4039a@46.32.186.65:8443?security=reality&encryption=none&pbk=Q7-sRiaAcmlJ_iwqiA46kDKso_r2kJ7X1mrVjL2illo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=6edd537cf27298d1#REALITY|LV🇱🇻
 ss://2dfa740c-8069-4993-8b96-c3e5dc540593@ru-cdn-cloud-2.ultima.foundation:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff#%253E%253E%2540oneclickvpnkeys%3A%3ALV
+ss://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?path=%2F&security=none&encryption=none&type=ws#%253E%253E%2540outline_vpn%3A%3ALV
 ss://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?path=/&security=none&encryption=none&type=ws#LV🇱🇻
 ss://5982634b-e9b1-4e1d-97cb-2780f3235718@latin.valorweb.tech:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&security=reality&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8#REALITY|LV🇱🇻
 ss://6184fcfb-52e0-40bb-a271-bbd097b70a8e@lv.monkeyisland.xyz:443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&headerType=none&fp=chrome&spx=%2F---&type=tcp&flow=xtls-rprx-vision&sni=lv.monkeyisland.xyz&sid=f66c289040d589ee#REALITY|LV🇱🇻
@@ -14,7 +15,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWZjNjMzZWI2MzIyN2U5@lv.vpnsparta.pro:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@46.183.217.204:990#Latvia%20SIA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ3D3A==@46.183.217.204:990#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+46.183.217.204-990+%7C+162.6ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#%F0%9F%87%B1%F0%9F%87%BBLV-46.183.217.204-0249
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#%F0%9F%87%B1%F0%9F%87%BBLV-46.183.217.204-0252
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+46.183.217.204-990+%7C+161.53ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990?note=@freeOnlineVPN#👉🆔@v2ray_configs_pool📡🇱🇻®️Latvia©️Riga🅿️ping:61.83ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@46.183.217.204:990#%F0%9F%87%B1%F0%9F%87%BBLV-46.183.217.204-0310
@@ -39,6 +39,7 @@ ss://d8dd94fd-540e-461d-b5d4-acebef02c22a@178.250.191.11:34045?security=reality&
 ss://id8127942053@s2.nodu10.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=edge&security=reality&pbk=BSLYXa-gOix_3BBelaROYqH4u_kAiyfcN5-VE9qkmHE&sid=a61d6960f49e#%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40prrofile_purple%20%5B130%5D
 vless://0fbf867a-812b-4c0b-89cd-01bcf2e4039a@46.32.186.65:8443?security=reality&encryption=none&pbk=Q7-sRiaAcmlJ_iwqiA46kDKso_r2kJ7X1mrVjL2illo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=6edd537cf27298d1#REALITY|LV🇱🇻
 vless://2dfa740c-8069-4993-8b96-c3e5dc540593@ru-cdn-cloud-2.ultima.foundation:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff#%253E%253E%2540oneclickvpnkeys%3A%3ALV
+vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?path=%2F&security=none&encryption=none&type=ws#%253E%253E%2540outline_vpn%3A%3ALV
 vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?path=/&security=none&encryption=none&type=ws#LV🇱🇻
 vless://5982634b-e9b1-4e1d-97cb-2780f3235718@latin.valorweb.tech:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&security=reality&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8#REALITY|LV🇱🇻
 vless://6184fcfb-52e0-40bb-a271-bbd097b70a8e@lv.monkeyisland.xyz:443?security=reality&encryption=none&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&headerType=none&fp=chrome&spx=%2F---&type=tcp&flow=xtls-rprx-vision&sni=lv.monkeyisland.xyz&sid=f66c289040d589ee#REALITY|LV🇱🇻
