@@ -15,7 +15,6 @@ ss://3b4d1c7f-4fd7-45bb-9251-79cd53a3e006@pol01-vlr01.tcp-reset-club.net:443?typ
 ss://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@pl.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=4c02bbbfa833b3b6#REALITY|PL🇵🇱
 ss://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@pl.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=c2a0b2d60a7fc300#REALITY|PL🇵🇱
 ss://755592c6-eae3-4100-a8d8-81cdd845c6d7@pol-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#🇵🇱|•Poland•|•
-ss://9036dc47-d0ec-4837-bf55-86f497937cff@144.31.1.122:8080?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%E6%B3%A2%E5%85%B0%20-%20%E5%8D%8E%E6%B2%99%20-%20H2nexus%20LTD%20-%201
 ss://9036dc47-d0ec-4837-bf55-86f497937cff@144.31.1.122:8080?security=&encryption=none&headerType=none&type=tcp#PL🇵🇱
 ss://9036dc47-d0ec-4837-bf55-86f497937cff@144.31.1.122:8080?security=none&encryption=none&headerType=none&type=tcp#%253E%253E%2540FreakConfig%3A%3APL
 ss://9036dc47-d0ec-4837-bf55-86f497937cff@144.31.1.122:8080?security=none&encryption=none&headerType=none&type=tcp#PL🇵🇱
@@ -174,7 +173,6 @@ ss://eb7c7631-6c7c-4f34-a65a-974b4565d01d@poland.geodema.network:8443?type=tcp&e
 ss://fe72c121-a889-4b0e-8906-afa8f9af0737@pol-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#REALITY|PL🇵🇱
 ss://turboo-server@jone1.fast-turbooserver.com:8880?path=%2FTurboo-Server&security=none&encryption=none&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40turboo_server%20%5B9%5D
 trojan://.%2BQAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#PL🇵🇱
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?allowInsecure=0&sni=runningshoes.purpletornado.click#PL-5.188.108.13-3357
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click#%F0%9F%87%B5%F0%9F%87%B1PL-5.188.108.13-0278
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&path=%2F#PL🇵🇱
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&type=tcp&headerType=none&path=%2F#PL🇵🇱
@@ -205,7 +203,6 @@ vless://3b4d1c7f-4fd7-45bb-9251-79cd53a3e006@pol01-vlr01.tcp-reset-club.net:443?
 vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@pl.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=4c02bbbfa833b3b6#REALITY|PL🇵🇱
 vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@pl.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=c2a0b2d60a7fc300#REALITY|PL🇵🇱
 vless://755592c6-eae3-4100-a8d8-81cdd845c6d7@pol-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#🇵🇱|•Poland•|•
-vless://9036dc47-d0ec-4837-bf55-86f497937cff@144.31.1.122:8080?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%E6%B3%A2%E5%85%B0%20-%20%E5%8D%8E%E6%B2%99%20-%20H2nexus%20LTD%20-%201
 vless://9036dc47-d0ec-4837-bf55-86f497937cff@144.31.1.122:8080?security=&encryption=none&headerType=none&type=tcp#PL🇵🇱
 vless://9036dc47-d0ec-4837-bf55-86f497937cff@144.31.1.122:8080?security=none&encryption=none&headerType=none&type=tcp#%253E%253E%2540FreakConfig%3A%3APL
 vless://9036dc47-d0ec-4837-bf55-86f497937cff@144.31.1.122:8080?security=none&encryption=none&headerType=none&type=tcp#PL🇵🇱
