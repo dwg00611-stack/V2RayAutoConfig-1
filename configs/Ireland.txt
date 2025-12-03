@@ -11,6 +11,7 @@ ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@52.31.78.198:59483?encryption=none&typ
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.154.43.193:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2045%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.194.146.219:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2028%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.216.171.95:59483?encryption=none&type=grpc#Ireland%2078%20dailyv2ry
+ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.220.129.240:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%203%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.229.66.89:59483?encryption=none&type=grpc#Ireland%2038%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.78.179.237:59483?encryption=none&type=grpc#Ireland%2012%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@63.32.106.92:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2024%20dailyv2ry
@@ -49,6 +50,7 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@52.31.78.198:59483?encryption=none&
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.154.43.193:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2045%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.194.146.219:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2028%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.216.171.95:59483?encryption=none&type=grpc#Ireland%2078%20dailyv2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.220.129.240:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%203%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.229.66.89:59483?encryption=none&type=grpc#Ireland%2038%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.78.179.237:59483?encryption=none&type=grpc#Ireland%2012%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@63.32.106.92:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2024%20dailyv2ry

@@ -597,7 +597,9 @@ ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.134.247.222:55605?encryption=none&ty
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.143.209.216:55605?encryption=none&type=tcp#United%20States%2052%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.92.50.95:55605?encryption=none&type=tcp#United%20States%2095%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@35.95.124.55:55605?encryption=none&type=tcp#United%20States%2072%20dailyv2ry
+ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@44.243.116.85:55605?encryption=none&type=tcp#United%20States%2014%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@44.249.39.114:55605?encryption=none&type=tcp#United%20States%2088%20dailyv2ry
+ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.218.98.225:55605?encryption=none&type=tcp#United%20States%2087%20dailyv2ry
 ss://47df6fe1-cc2a-4f26-b748-08d902272bde@172.67.201.123:443/?type=ws&encryption=none&host=PpAl03.arNULFO-KuNZe.worKErS.Dev&path=%2FTliEF3MtZCy15nxw%3Fed%3D2048&security=tls&sni=PpAL03.arNUlFo-kunZE.WORkerS.dEV#%40Hope_Net-join-us-on-Telegram
 ss://47e9a0db50c645228819502c55b06dde@159.112.235.174:2082#US%F0%9F%87%BA%F0%9F%87%B8+%7C+159.112.235.174-2082+%7C+35.23ms
 ss://48198295-b7ba-4b5c-8d85-085d55a6c869@104.24.88.100:443/?type=ws&encryption=none&host=ap.ylks.xyz&path=%2F%3Fed%3D2048&security=tls&sni=ap.ylks.xyz#%40Hope_Net-join-us-on-Telegram
@@ -6586,7 +6588,9 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.134.247.222:55605?encryption=none
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.143.209.216:55605?encryption=none&type=tcp#United%20States%2052%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.92.50.95:55605?encryption=none&type=tcp#United%20States%2095%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@35.95.124.55:55605?encryption=none&type=tcp#United%20States%2072%20dailyv2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@44.243.116.85:55605?encryption=none&type=tcp#United%20States%2014%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@44.249.39.114:55605?encryption=none&type=tcp#United%20States%2088%20dailyv2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.218.98.225:55605?encryption=none&type=tcp#United%20States%2087%20dailyv2ry
 vless://47df6fe1-cc2a-4f26-b748-08d902272bde@172.67.201.123:443/?type=ws&encryption=none&host=PpAl03.arNULFO-KuNZe.worKErS.Dev&path=%2FTliEF3MtZCy15nxw%3Fed%3D2048&security=tls&sni=PpAL03.arNUlFo-kunZE.WORkerS.dEV#%40Hope_Net-join-us-on-Telegram
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@104.24.88.100:443/?type=ws&encryption=none&host=ap.ylks.xyz&path=%2F%3Fed%3D2048&security=tls&sni=ap.ylks.xyz#%40Hope_Net-join-us-on-Telegram
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@108.162.194.50:443/?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=ay.ylks.xyz#%40Hope_Net-join-us-on-Telegram
