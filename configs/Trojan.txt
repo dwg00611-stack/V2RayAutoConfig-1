@@ -5143,8 +5143,9 @@ trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3,h2,http/1.1&headerTyp
 trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&headerType=&type=tcp&sni=🔒
 trojan://FodSUXysuS@180.131.145.161:23274/?type=grpc&sni=🔒
+trojan://FodSUXysuS@180.131.145.161:23274?security=reality&pbk=iX_s_-F07vtmJa8t81J6OBiVksCy0ZHRmXUMyw3l4Vw&fp=chrome&type=grpc&sni=cloudflare.com&sid=14#🇺🇸[openproxylist.com]
+trojan://FodSUXysuS@180.131.145.161:23274?security=reality&pbk=iX_s_-F07vtmJa8t81J6OBiVksCy0ZHRmXUMyw3l4Vw&fp=chrome&type=grpc&sni=🔒
 trojan://FodSUXysuS@180.131.145.161:23274?security=reality&sni=cloudflare.com&fp=chrome&pbk=iX_s_-F07vtmJa8t81J6OBiVksCy0ZHRmXUMyw3l4Vw&sid=14&spx=/&allowInsecure=1&type=grpc#t.me/v2Line
-trojan://FodSUXysuS@180.131.145.161:23274?security=reality&sni=cloudflare.com&fp=chrome&pbk=iX_s_-F07vtmJa8t81J6OBiVksCy0ZHRmXUMyw3l4Vw&sid=14&spx=/&allowInsecure=1&type=grpc#🇺🇸[openproxylist.com]
 trojan://FodSUXysuS@180.131.145.161:23274?security=reality&sni=cloudflare.com&fp=chrome&pbk=iX_s_-F07vtmJa8t81J6OBiVksCy0ZHRmXUMyw3l4Vw&sid=14&spx=/&allowInsecure=1&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
 trojan://FodSUXysuS@180.131.145.161:23274?security=reality&sni=🔒
 trojan://Fv7ogJ6vfz@209.200.246.53:36774/?type=grpc&sni=cloudflare.com&fp=chrome&security=reality&pbk=QX1ITiHw0tTKi5ouMn-6mE2-Hb0-gk25N67gP2sQ-nU&sid=3e#🔥96@oneclickvpnkeys
@@ -9114,7 +9115,6 @@ trojan://eDHWaPzxcl@145.223.70.115:25365/?type=grpc&sni=cloudflare.com&security=
 trojan://eDHWaPzxcl@145.223.70.115:25365/?type=grpc&sni=cloudflare.com&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&sid=d9#🪝7@oneclickvpnkeys
 trojan://eDHWaPzxcl@145.223.70.115:25365/?type=grpc&sni=🔒
 trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&spx=/&type=grpc&sni=cloudflare.com&sid=d9#🇫🇷AZARBAYJAB1
-trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&spx=/&type=grpc&sni=cloudflare.com&sid=d9#🇫🇷[openproxylist.com]
 trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&spx=/&type=grpc&sni=cloudflare.com&sid=d9#🔥Join+Telegram:@Farah_VPN🟣
 trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&spx=/&type=grpc&sni=🔒
 trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&type=grpc&sni=cloudflare.com&sid=d9#I%201232%20%28%40Outline_Vpn%29%20free
@@ -10438,6 +10438,7 @@ trojan://telegram-id-privatevpns@3.123.22.69:22222?security=tls&sni=trj.rollingn
 trojan://telegram-id-privatevpns@3.123.22.69:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-3.123.22.69-9785
 trojan://telegram-id-privatevpns@3.123.22.69:22222?security=tls&sni=trj.rollingnext.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@3.123.22.69:22222?security=tls&sni=🔒
+trojan://telegram-id-privatevpns@3.123.51.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@3.123.67.61:22222?security=tls&sni=🔒
 trojan://telegram-id-privatevpns@3.124.16.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@3.124.179.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
