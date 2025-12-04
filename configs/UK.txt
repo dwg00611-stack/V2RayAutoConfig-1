@@ -203,7 +203,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=non
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819106.dezful-drc-tusaas.info:8880/?type=grpc&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40free1_vpn%20%5B5%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880/?type=grpc&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpn_ioss%20%5B16%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929373584.rasht-drc-tusaas.info:8880/?type=grpc&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40father_vpn%20%5B4%5D
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929373584.rasht-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40father_vpn%20%5B4%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.18.181:8880/?type=grpc&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2aryng_vpn%20%5B13%5D
 ss://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nv137.momdping.com#GB🇬🇧
 ss://e4b8df56-b680-4a34-ab47-5bf5738ed718@5.181.21.72:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&security=reality&pbk=v9CxKfIPtkKH1cTGKEer-1i-3JL31vZPpPl2Ujnbjh8&sid=85225c27630d023f#REALITY|GB🇬🇧
@@ -316,7 +315,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819106.dezful-drc-tusaas.info:8880/?type=grpc&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40free1_vpn%20%5B5%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880/?type=grpc&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpn_ioss%20%5B16%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929373584.rasht-drc-tusaas.info:8880/?type=grpc&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40father_vpn%20%5B4%5D
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638961293929373584.rasht-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40father_vpn%20%5B4%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.18.181:8880/?type=grpc&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2aryng_vpn%20%5B13%5D
 vless://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nv137.momdping.com#GB🇬🇧
 vless://e4b8df56-b680-4a34-ab47-5bf5738ed718@5.181.21.72:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&security=reality&pbk=v9CxKfIPtkKH1cTGKEer-1i-3JL31vZPpPl2Ujnbjh8&sid=85225c27630d023f#REALITY|GB🇬🇧
