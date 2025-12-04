@@ -7,7 +7,7 @@ ss://4964de22-405c-533f-9c41-354c2395cd3c@207.148.77.62:443?encryption=none&flow
 ss://6f99505678024a1dbff761678e626c3fOg==@52.187.36.104:443#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+52.187.36.104-443+%7C+183.42ms
 ss://817be0562afc43589b8d5dbe836251f3Og==@139.180.156.132:443#REALITY%7CSG%F0%9F%87%B8%F0%9F%87%AC+%7C+139.180.156.132-443+%7C+178.78ms
 ss://817be0562afc43589b8d5dbe836251f3Og==@149.28.154.109:443#REALITY%7CSG%F0%9F%87%B8%F0%9F%87%AC+%7C+149.28.154.109-443+%7C+178.78ms
-ss://8e2da759-bd9f-457b-c4b8-2ba1bab65002@103.229.96.181:8443?&security=false&fp=chrome&type=ws&headerType=none&path=%2Fadmin#SG%20VLESS-25%20%7C%20free-nodes
+ss://8e2da759-bd9f-457b-c4b8-2ba1bab65002@103.229.96.181:8443?&type=ws&headerType=none&path=%2Fadmin#SG%20VLESS-23%20%7C%20free-nodes
 ss://8e2da759-bd9f-457b-c4b8-2ba1bab65002@103.229.96.181:8443?&type=ws&headerType=none&path=%2Fadmin#SG%20VLESS-25%20%7C%20free-nodes
 ss://8e2da759-bd9f-457b-c4b8-2ba1bab65002@103.229.96.181:8443?type=ws&headerType=none&path=%2Fadmin#SG🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0SHViMmY5SnloRUN5QXEyT3BtME5T@51.79.161.232:443#%F0%9F%87%B8%F0%9F%87%ACSG-51.79.161.232-9635
@@ -165,7 +165,7 @@ trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-1
 trojan://G9CHhXltVx@96.9.213.108:12646/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-96.9.213.108-5464
 trojan://a3fa58b581353bb375d2ddad0f327938@184.168.127.50:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-184.168.127.50-0051
 trojan://aWgKDJmn2q.hv%3D51@139.180.143.191:10293?type=tcp&security=tls&sni=zmbvgixwdqusy.advudjng.click#SG🇸🇬
-trojan://aWgKDJmn2q.hv=51@139.180.143.191:10293?allowInsecure=0&sni=zmbvgixwdqusy.advudjng.click#SG-139.180.143.191-1907
+trojan://aWgKDJmn2q.hv=51@139.180.143.191:10293?allowInsecure=0&sni=zmbvgixwdqusy.advudjng.click#SG-139.180.143.191-1720
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-5792
 trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-7106
 trojan://cd39f62aed7b90f6@5.44.249.43:3389?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-5.44.249.43-7230
@@ -184,7 +184,7 @@ vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegra
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.16.33.150:2096?path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#Singapore%20cloudflare
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
 vless://4964de22-405c-533f-9c41-354c2395cd3c@207.148.77.62:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&security=reality&type=tcp&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com#REALITY|SG🇸🇬
-vless://8e2da759-bd9f-457b-c4b8-2ba1bab65002@103.229.96.181:8443?&security=false&fp=chrome&type=ws&headerType=none&path=%2Fadmin#SG%20VLESS-25%20%7C%20free-nodes
+vless://8e2da759-bd9f-457b-c4b8-2ba1bab65002@103.229.96.181:8443?&type=ws&headerType=none&path=%2Fadmin#SG%20VLESS-23%20%7C%20free-nodes
 vless://8e2da759-bd9f-457b-c4b8-2ba1bab65002@103.229.96.181:8443?&type=ws&headerType=none&path=%2Fadmin#SG%20VLESS-25%20%7C%20free-nodes
 vless://8e2da759-bd9f-457b-c4b8-2ba1bab65002@103.229.96.181:8443?type=ws&headerType=none&path=%2Fadmin#SG🇸🇬
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#%253E%253E%2540ShadowsocksM%3A%3ASG
