@@ -2,6 +2,7 @@ ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@108.129.229.120:59483?security=&encryp
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@108.130.156.153:59483?encryption=none&type=grpc#Ireland%2057%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.249.117.78:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2035%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.252.245.111:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2031%20dailyv2ry
+ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.255.137.54:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2044%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.245.32.122:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2044%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.154.43.193:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2045%20dailyv2ry
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.194.146.219:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2028%20dailyv2ry
@@ -32,6 +33,7 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@108.129.229.120:59483?security=&enc
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@108.130.156.153:59483?encryption=none&type=grpc#Ireland%2057%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.249.117.78:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2035%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.252.245.111:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2031%20dailyv2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@3.255.137.54:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2044%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.245.32.122:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2044%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.154.43.193:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2045%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@54.194.146.219:59483?security=&encryption=none&pbk=&headerType=none&fp=&type=grpc&sni=&sid=#Ireland%2028%20dailyv2ry
