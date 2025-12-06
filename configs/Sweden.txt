@@ -33,6 +33,7 @@ ss://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.209.207:443?type=grpc&encryption
 ss://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.210.47:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%2015%20dailyv2ry
 ss://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.211.114:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%2044%20dailyv2ry
 ss://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.213.196:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%2013%20dailyv2ry
+ss://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.222.65:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%2094%20dailyv2ry
 ss://74c0af7c-8482-4b4e-b067-ea456a80cdb7@se.monkeyisland.life:443?security=reality&encryption=none&pbk=NvdLgcQKj0XeAmqIpCEdvcsgfNrtSyfGnQYNdZ7eTFE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=se.monkeyisland.life&sid=08aa0813199a4c38#REALITY|SE🇸🇪
 ss://755592c6-eae3-4100-a8d8-81cdd845c6d7@swe-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#🇸🇪|•Sweden•|•
 ss://879bba99-edb8-4a82-a00b-f671283f0ef2@46.253.4.248:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#REALITY|SE🇸🇪
@@ -123,6 +124,7 @@ vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.208.153:443?type=grpc&encrypt
 vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.209.207:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%2051%20dailyv2ry
 vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.210.47:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%2015%20dailyv2ry
 vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.213.196:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%2013%20dailyv2ry
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.222.65:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Sweden%2094%20dailyv2ry
 vless://74c0af7c-8482-4b4e-b067-ea456a80cdb7@se.monkeyisland.life:443?security=reality&encryption=none&pbk=NvdLgcQKj0XeAmqIpCEdvcsgfNrtSyfGnQYNdZ7eTFE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=se.monkeyisland.life&sid=08aa0813199a4c38#REALITY|SE🇸🇪
 vless://755592c6-eae3-4100-a8d8-81cdd845c6d7@swe-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#🇸🇪|•Sweden•|•
 vless://879bba99-edb8-4a82-a00b-f671283f0ef2@46.253.4.248:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#REALITY|SE🇸🇪
