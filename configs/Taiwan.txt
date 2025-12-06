@@ -1,4 +1,5 @@
 ss://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=msk.capybara.press&fp=random&security=reality&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&sid=9c2378562188c3cb#REALITY|TW🇹🇼
+ss://693396aa-4a97-7463-a242-64d39d7c31f2@203.69.248.40:10443?encryption=none&security=tls&sni=s3.sni2010.netlib.re&fp=random&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=s3.sni2010.netlib.re&path=%2Fproxyip%3Dtw.sni2025.netlib.re#%F0%9F%91%89%F0%9F%86%94%20%40freenettir%20%F0%9F%93%A1%20%F0%9F%87%B9%F0%9F%87%BCTW%20%F0%9F%A7%AD%202.4MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%A8%F0%9F%87%B3%20TW%E5%8F%B0%E6%B9%BE%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@118.163.198.43:2377#%F0%9F%87%B9%F0%9F%87%BCTW-118.163.198.43-0854
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@125.227.86.44:2377#%F0%9F%87%B9%F0%9F%87%BCTW-125.227.86.44-0898
@@ -31,7 +32,6 @@ trojan://7ac49a893e0bd10c@60.249.3.227:3389?security=tls#%F0%9F%87%B9%F0%9F%87%B
 trojan://7ac49a893e0bd10c@60.249.3.228:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.3.228-1313
 trojan://7b06d22a8a7c764f@211.72.35.153:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.153-1316
 trojan://7b06d22a8a7c764f@211.72.35.154:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.154-1357
-trojan://7b06d22a8a7c764f@211.72.35.154:3389?security=tls#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Taipei🅿️ping:22ms
 trojan://7b06d22a8a7c764f@211.72.35.156:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.156-1384
 trojan://7b06d22a8a7c764f@211.72.35.158:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.158-1649
 trojan://7d6a40d5-782d-4363-bc84-4ce56b8d903d@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.138-1508
@@ -42,7 +42,6 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cher
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.98.208-1586
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.209-2832
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.99.159-1803
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Taipei🅿️ping:74ms
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.248.240.223-3181
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.99.159-1632
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.20.245.139-2636
@@ -70,6 +69,7 @@ trojan://vip@www.visa.com.tw:443?security=tls&sni=heihu880.pages.dev&type=ws&pat
 trojan://vip@www.visa.com.tw:443?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#TW%20TROJAN-459%20%7C%20free-nodes
 trojan://vip@www.visa.com.tw:443?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#TW%20TROJAN-524%20%7C%20free-nodes
 vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=msk.capybara.press&fp=random&security=reality&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&sid=9c2378562188c3cb#REALITY|TW🇹🇼
+vless://693396aa-4a97-7463-a242-64d39d7c31f2@203.69.248.40:10443?encryption=none&security=tls&sni=s3.sni2010.netlib.re&fp=random&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=s3.sni2010.netlib.re&path=%2Fproxyip%3Dtw.sni2025.netlib.re#%F0%9F%91%89%F0%9F%86%94%20%40freenettir%20%F0%9F%93%A1%20%F0%9F%87%B9%F0%9F%87%BCTW%20%F0%9F%A7%AD%202.4MB%2Fs
 vmess://ewogICAgImFkZCI6ICI0NS4xMjEuNTEuMTAzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJmNjQwNmI2ZC01NDg3LTQ2ZGEtZjc5My00NjYxMTI2OWEzMDYiLAogICAgIm5ldCI6ICJodHRwIiwKICAgICJwYXRoIjogIiIsCiAgICAicG9ydCI6IDIwNzE1LAogICAgInBzIjogIvCfh7nwn4e8VFctNDUuMTIxLjUxLjEwMy0zMjI4IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICI2MS4yMTYuODUuNjgiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAid3d3Ljg4NjEyODYwLnh5eiIsCiAgICAiaWQiOiAiNWJhNzM4ZTctMGFiZi00OTM1LWI2N2UtZDQwNGEwODNkNmE2IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMjQzNTM1MzIyOTA2IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7nwn4e8VFctNjEuMjE2Ljg1LjY4LTY4MTciLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICI2MS4yMjIuMjAyLjE0MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZTU1Y2QxODItMDFiMC00ZmI3LWE1MTAtMzYzNzAxYTQ5MWM1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDMzNzkyLAogICAgInBzIjogIvCfh7nwn4e8VFctNjEuMjIyLjIwMi4xNDAtNDM0MyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
