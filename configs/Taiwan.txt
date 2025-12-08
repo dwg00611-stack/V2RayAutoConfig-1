@@ -3,7 +3,7 @@ hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&sni=bing
 hysteria2://84123645-b62d-4a3b-bd74-d58ea4023c65@tw2.jueduibupao.top:30078?insecure=1&sni=tw2.jueduibupao.top#%F0%9F%87%B9%F0%9F%87%BCTW
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
 ss://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@hinet2.gzcloud.shop:20519/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=buylite.music.apple.com&fp=chrome&security=reality&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735#🇨🇳TW
-ss://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?security=reality&type=tcp&sni=msk.capybara.press&fp=chrome&flow=xtls-rprx-vision&sid=9c2378562188c3cb&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B9%F0%9F%87%BCTW%20%F0%9F%A7%AD%203.2MB%2Fs
+ss://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?security=reality&type=tcp&sni=msk.capybara.press&fp=chrome&flow=xtls-rprx-vision&sid=9c2378562188c3cb&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B9%F0%9F%87%BCTW%20%F0%9F%A7%AD%205.5MB%2Fs
 ss://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=msk.capybara.press&fp=chrome&security=reality&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&sid=9c2378562188c3cb#REALITY|TW🇹🇼
 ss://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=msk.capybara.press&fp=random&security=reality&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&sid=9c2378562188c3cb#REALITY|TW🇹🇼
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TmpWaE1XRTJZbVZtTnpnNE1UY3dNQT09Ok9EUXhNak0yTkRVdFlqWXlaQzAwWVE9PQ@hzhz2.sssyun.xyz:40017#🇹🇼TW
@@ -16,6 +16,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@125.227.86.46:2377#%F0%9F%87%B9%F0%9F%87%BCTW-125.227.86.46-2554
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@3ce8ee8.b5.gladns.com:2377#%F0%9F%87%B9%F0%9F%87%BCTW-211.75.210.24-0217
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@59.125.62.188:2377#%F0%9F%87%B9%F0%9F%87%BCTW-59.125.62.188-1163
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@59.125.62.188:2377#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Taipei🅿️ping:294ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.14.38:2377#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.14.38-1865
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.37:2377#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.35.37-1642
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.38:2377#%F0%9F%87%B9%F0%9F%87%BCTW-60.249.35.38-0881
@@ -65,9 +66,6 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.248.240.223-4929
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.67.155-1712
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-61.228.98.208-1686
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Taipei🅿️ping:297.59ms
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Taipei🅿️ping:298.21ms
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#👉🆔@v2ray_configs_pool📡🇹🇼®️Taiwan©️Taipei🅿️ping:304.84ms
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-59.125.131.163-1263
 trojan://ED177480-E516-11EA-8B44-BBC4E882BA0B@tw01.balala2016.xyz:20261?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-1.162.143.108-8442
 trojan://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT@2.58.242.43:443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-2.58.242.43-2420
@@ -76,12 +74,10 @@ trojan://b09d2aaa443af97a@211.72.35.152:3389?security=tls#%F0%9F%87%B9%F0%9F%87%
 trojan://b09d2aaa443af97a@211.72.35.155:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.155-1455
 trojan://b09d2aaa443af97a@211.72.35.157:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.157-1478
 trojan://b09d2aaa443af97a@211.72.35.157:3389?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-211.72.35.157-5926
-trojan://vip@www.visa.com.tw:443?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#TW%20TROJAN-1767%20%7C%20free-nodes
 trojan://vip@www.visa.com.tw:443?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#TW%20TROJAN-603%20%7C%20free-nodes
 trojan://vip@www.visa.com.tw:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560#TW
-trojan://vip@www.visa.com.tw:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560#TW%20TROJAN-271%20%7C%20free-nodes
 vless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@hinet2.gzcloud.shop:20519/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=buylite.music.apple.com&fp=chrome&security=reality&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735#🇨🇳TW
-vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?security=reality&type=tcp&sni=msk.capybara.press&fp=chrome&flow=xtls-rprx-vision&sid=9c2378562188c3cb&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B9%F0%9F%87%BCTW%20%F0%9F%A7%AD%203.2MB%2Fs
+vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?security=reality&type=tcp&sni=msk.capybara.press&fp=chrome&flow=xtls-rprx-vision&sid=9c2378562188c3cb&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B9%F0%9F%87%BCTW%20%F0%9F%A7%AD%205.5MB%2Fs
 vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=msk.capybara.press&fp=chrome&security=reality&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&sid=9c2378562188c3cb#REALITY|TW🇹🇼
 vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=msk.capybara.press&fp=random&security=reality&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&sid=9c2378562188c3cb#REALITY|TW🇹🇼
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@wetest.xn--vip-ob6fs36j.cloudflare.182682.xyz:443/?type=ws&encryption=none&flow=&host=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&path=/snippets/ip=tw.tp81.netlib.re:81?ed=2560&security=tls&sni=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&allowInsecure=1&packetEncoding=xudp#🇹🇼TW
