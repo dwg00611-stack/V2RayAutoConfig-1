@@ -158,7 +158,6 @@ ss://e258977b-e413-4718-a3af-02d75492c349@20.247.137.183:443?&security=tls&fp=ch
 ss://e258977b-e413-4718-a3af-02d75492c349@20.247.137.183:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=www.x-aniu----sg.netlib.re&fp=chrome&type=ws&allowInsecure=0&sni=www.x-aniu----sg.netlib.re#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:174ms
 ss://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 ss://ef4d7a6a-a7f0-48e1-8c77-cd305fdca732@38.134.189.186:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=F4KWtAmQsQrJ0AyVED81hZQq5GQL64pXHG2SWBEpfFg&sid=b2580c3d0fae6019&type=grpc&serviceName=8959780c31813fd40c6beecf#SG%20VLESS-32%20%7C%20free-nodes
-ss://ef4d7a6a-a7f0-48e1-8c77-cd305fdca732@38.134.189.186:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=F4KWtAmQsQrJ0AyVED81hZQq5GQL64pXHG2SWBEpfFg&sid=b2580c3d0fae6019&type=grpc&serviceName=8959780c31813fd40c6beecf#SG%20VLESS-35%20%7C%20free-nodes
 ss://ef4d7a6a-a7f0-48e1-8c77-cd305fdca732@38.134.189.186:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=F4KWtAmQsQrJ0AyVED81hZQq5GQL64pXHG2SWBEpfFg&sid=b2580c3d0fae6019&type=grpc&serviceName=8959780c31813fd40c6beecf#Singapore%2065%20dailyv2ry
 ss://f8f192d7-44df-477c-b1f5-76e77a42f511@news.zoom.us:2096?path=%2Fadmin%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=shalana.onhit.xyz&fp=chrome&type=ws&sni=shalana.onhit.xyz#SG🇸🇬
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@27.50.48.29:8880#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+27.50.48.29-8880+%7C+3.85ms
@@ -180,7 +179,6 @@ trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.233.76:507?allowInsecure=0&sni=
 trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.233.76:507?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.233.76:507?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
 trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.233.76:507?allowInsecure=0&sni=www.nintendogames.net#SG%20TROJAN-83%20%7C%20free-nodes
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.233.76:507?allowInsecure=0&sni=www.nintendogames.net#SG%20TROJAN-87%20%7C%20free-nodes
 trojan://76d630f2af6619c4a5de0ef953df3c6a@202.181.103.246:2760?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://76d630f2af6619c4a5de0ef953df3c6a@202.181.103.246:2760?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://76d630f2af6619c4a5de0ef953df3c6a@202.181.103.246:2760?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
@@ -193,11 +191,9 @@ trojan://Aimer@206.238.236.216:2083/?type=tcp&security=tls&sni=agepy.aimercc.fil
 trojan://Aimer@206.238.236.252:2096/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-206.238.236.252-1495
 trojan://Aimer@206.238.236.252:2096/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG-206.238.236.252-1495
 trojan://Aimer@43.156.116.194:443/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-43.156.116.194-1320
-trojan://BxceQaOe@13.231.156.35:968?allowInsecure=1&sni=t.me%2Fripaojiedian#SG%20TROJAN-13%20%7C%20free-nodes
 trojan://BxceQaOe@3.112.225.115:804?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@3.112.225.115:804?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@3.112.225.115:804?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40stairnode
-trojan://BxceQaOe@3.112.225.115:804?allowInsecure=1&sni=t.me%2Fripaojiedian#SG%20TROJAN-14%20%7C%20free-nodes
 trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-139.162.45.139-1383
 trojan://G9CHhXltVx@96.9.213.108:12646/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-96.9.213.108-5464
 trojan://a3fa58b581353bb375d2ddad0f327938@184.168.127.50:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-184.168.127.50-0051
@@ -218,8 +214,6 @@ trojan://iyinglong@13.213.69.245:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-13.
 trojan://iyinglong@18.140.67.76:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.140.67.76-1808
 trojan://iyinglong@18.141.8.87:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-18.141.8.87-1821
 trojan://oZAugtgF5T@146.190.87.238:443/?type=ws&host=aka.ms&path=%2F&security=tls&sni=aka.ms#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40mpmehi%20%5B1%5D
-trojan://trojan@www.visa.com.sg:8443?security=tls&sni=pangpi.pages.dev&type=ws&path=/?ed=2560&Host=pangpi.pages.dev#SG%20TROJAN-155%20%7C%20free-nodes
-trojan://trojan@www.visa.com.sg:8443?security=tls&sni=pangpi.pages.dev&type=ws&path=/?ed=2560&Host=pangpi.pages.dev#SG%20TROJAN-268%20%7C%20free-nodes
 trojan://trojan@www.visa.com.sg:8443?security=tls&sni=pangpi.pages.dev&type=ws&path=/?ed=2560&Host=pangpi.pages.dev#SG%20TROJAN-503%20%7C%20free-nodes
 vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.16.33.150:2096?path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#Singapore%20cloudflare
@@ -239,7 +233,6 @@ vless://e258977b-e413-4718-a3af-02d75492c349@20.247.137.183:443?&security=tls&fp
 vless://e258977b-e413-4718-a3af-02d75492c349@20.247.137.183:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=www.x-aniu----sg.netlib.re&fp=chrome&type=ws&allowInsecure=0&sni=www.x-aniu----sg.netlib.re#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:174ms
 vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://ef4d7a6a-a7f0-48e1-8c77-cd305fdca732@38.134.189.186:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=F4KWtAmQsQrJ0AyVED81hZQq5GQL64pXHG2SWBEpfFg&sid=b2580c3d0fae6019&type=grpc&serviceName=8959780c31813fd40c6beecf#SG%20VLESS-32%20%7C%20free-nodes
-vless://ef4d7a6a-a7f0-48e1-8c77-cd305fdca732@38.134.189.186:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=F4KWtAmQsQrJ0AyVED81hZQq5GQL64pXHG2SWBEpfFg&sid=b2580c3d0fae6019&type=grpc&serviceName=8959780c31813fd40c6beecf#SG%20VLESS-35%20%7C%20free-nodes
 vless://ef4d7a6a-a7f0-48e1-8c77-cd305fdca732@38.134.189.186:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=F4KWtAmQsQrJ0AyVED81hZQq5GQL64pXHG2SWBEpfFg&sid=b2580c3d0fae6019&type=grpc&serviceName=8959780c31813fd40c6beecf#Singapore%2065%20dailyv2ry
 vless://f8f192d7-44df-477c-b1f5-76e77a42f511@news.zoom.us:2096?path=%2Fadmin%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=shalana.onhit.xyz&fp=chrome&type=ws&sni=shalana.onhit.xyz#SG🇸🇬
 vmess://ewogICAgImFkZCI6ICI0NS43Ni4xODEuMjQ2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI1MjI2MzkwMS1iM2NmLTRkN2QtYjRmZC1hMTJmZTE3OGVmMmEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMTIzNDUsCiAgICAicHMiOiAi8J+HuPCfh6xTRy00NS43Ni4xODEuMjQ2LTk2OTgiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
