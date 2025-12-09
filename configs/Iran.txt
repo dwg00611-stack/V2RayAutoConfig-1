@@ -136,11 +136,10 @@ ss://2be75101-78cd-4519-9f2c-de286d0815eb@89.106.69.224:19129?security=none&encr
 ss://2c649958-a029-431a-920b-94e87ccbc715@dwarvensniper.fonixapp.org:54226?security=reality&encryption=none&pbk=Mhw0szMuy7R0U89Vm0bf-hF0DQ5pEWYdgdPF6UWLRXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=49eb#@IRAN_V2RAY1--MCI
 ss://2d29bc24-aaf2-4e48-b0c1-ec6d625f8271@benefits.by:80/?type=httpupgrade&encryption=none&host=dadashi.ir&path=%2Fdabadoo#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40iranbfilter%20%5B7%5D
 ss://2d29bc24-aaf2-4e48-b0c1-ec6d625f8271@benefits.by:80?type=httpupgrade&path=%2Fdabadoo&host=dadashi.ir&security=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40iranbfilter%20%5B7%5D
-ss://2ee2a715-d541-416a-8713-d66567448c2e@91.99.113.207:443?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran🅿️ping:26ms
 ss://2efbb638-c1ae-46bd-b418-b1f9c265e2d1@lifestealer.fonixapp.org:36134?security=reality&encryption=none&pbk=6-45Hxz3UsSI3vDzHSGGuDqqEzqwFxEQyl_0sZoMejs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=86e86c#IR-@V2rayAlpha--13
 ss://3034752b-a7bd-4562-ad0b-6f7f4d7e2aad@65.109.194.11:8080?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#IR🇮🇷
 ss://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80/?type=tcp&encryption=none#%40v2rayfree_iran%F0%9F%87%AE%F0%9F%87%B7
-ss://316d6b8c-9848-4856-b679-3608a58a2546@185.143.234.46:443?security=tls&type=ws&headerType=&path=%2F&host=marz-vip.nikatel.store&sni=marz-vip.nikatel.store&fp=#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:66ms
+ss://316d6b8c-9848-4856-b679-3608a58a2546@185.143.234.46:443?security=tls&type=ws&headerType=&path=%2F&host=marz-vip.nikatel.store&sni=marz-vip.nikatel.store&fp=#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:62ms
 ss://32895c66-fe57-49ad-ba5a-1936f2d5a7a8@m1.darkkabir.site:8080?path=%2F&security=none&encryption=none&type=ws#IR🇮🇷
 ss://33a0c07b-82c7-40c8-aac7-4ab2071bcc03@43.160.246.221:46920?security=reality&encryption=none&pbk=26jcWQerQE3ryBAm1OCcC7MrgGlI5I-gpdel1xf2Hx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#All--@IRAN_V2RAY1
 ss://3460022e-866b-46ac-8679-ae2796b4e30a@151.101.3.8:80?path=%2Fdownload%3Fed%3D2048&security=none&encryption=none&host=barghchi.com&type=ws#IR🇮🇷
@@ -218,7 +217,7 @@ ss://677615f7-87d5-5019-a44d-4fc3ff8d59d7@45.140.167.141:443?security=reality&en
 ss://677615f7-87d5-5019-a44d-4fc3ff8d59d7@45.84.0.57:443?security=reality&encryption=none&pbk=8_J_8yfLVU1f6cHdGR35rnf_Zc4k9C_XMPCdH1qAtmU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=a29977bd#MTN--@IRAN_V2RAY1
 ss://677615f7-87d5-5019-a44d-4fc3ff8d59d7@89.150.48.178:443?security=reality&encryption=none&pbk=QW6neBOeONEjuXRaJE5T07gNWbYY2blQa81hurOUth8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=cff81baa#MTN--@IRAN_V2RAY1
 ss://677615f7-87d5-5019-a44d-4fc3ff8d59d7@94.131.9.77:443?security=reality&encryption=none&pbk=MThDM457eKp5ak4_L_l38GvDoS80fXDqTxqOZb81uEc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=34e2ce36#All--@IRAN_V2RAY1
-ss://692cb76f-674d-4d3e-852a-d2ed274d1501@78.109.198.25:80?security=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:96ms
+ss://692cb76f-674d-4d3e-852a-d2ed274d1501@78.109.198.25:80?security=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:104ms
 ss://692ece70-c136-4f77-8921-1e99091b9987@ssssssss.zabc.net:8443?path=/&security=tls&encryption=none&host=ssssssss.zabc.net&fp=chrome&type=ws&sni=ssssssss.zabc.net#MCI--@IRAN_V2RAY1
 ss://69394f3f-e84c-44b3-96ae-46000130cf2b@5.189.190.60:34704?security=reality&encryption=none&pbk=Yl_Un-j1bd9icfC153HCUY_uRKWdj4D_PxHTQ59q5m4&headerType=none&fp=chrome&type=tcp&sni=ava.game.naver.com.lsvly.qzz.io&sid=11c996b441cf6c#MTN--@IRAN_V2RAY1
 ss://6967a7f2-e8a7-497e-f72e-c989e9f896d7@91.98.137.244:443?mode=gun&security=none&encryption=none&type=grpc#All--@IRAN_V2RAY1
@@ -501,11 +500,10 @@ vless://2be75101-78cd-4519-9f2c-de286d0815eb@89.106.69.224:19129?security=none&e
 vless://2c649958-a029-431a-920b-94e87ccbc715@dwarvensniper.fonixapp.org:54226?security=reality&encryption=none&pbk=Mhw0szMuy7R0U89Vm0bf-hF0DQ5pEWYdgdPF6UWLRXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=49eb#@IRAN_V2RAY1--MCI
 vless://2d29bc24-aaf2-4e48-b0c1-ec6d625f8271@benefits.by:80/?type=httpupgrade&encryption=none&host=dadashi.ir&path=%2Fdabadoo#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40iranbfilter%20%5B7%5D
 vless://2d29bc24-aaf2-4e48-b0c1-ec6d625f8271@benefits.by:80?type=httpupgrade&path=%2Fdabadoo&host=dadashi.ir&security=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40iranbfilter%20%5B7%5D
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.113.207:443?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran🅿️ping:26ms
 vless://2efbb638-c1ae-46bd-b418-b1f9c265e2d1@lifestealer.fonixapp.org:36134?security=reality&encryption=none&pbk=6-45Hxz3UsSI3vDzHSGGuDqqEzqwFxEQyl_0sZoMejs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=86e86c#IR-@V2rayAlpha--13
 vless://3034752b-a7bd-4562-ad0b-6f7f4d7e2aad@65.109.194.11:8080?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#IR🇮🇷
 vless://30678ab8-5d17-464e-8820-fc1b1dfe5f7b@iza5.lalash.ir:80/?type=tcp&encryption=none#%40v2rayfree_iran%F0%9F%87%AE%F0%9F%87%B7
-vless://316d6b8c-9848-4856-b679-3608a58a2546@185.143.234.46:443?security=tls&type=ws&headerType=&path=%2F&host=marz-vip.nikatel.store&sni=marz-vip.nikatel.store&fp=#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:66ms
+vless://316d6b8c-9848-4856-b679-3608a58a2546@185.143.234.46:443?security=tls&type=ws&headerType=&path=%2F&host=marz-vip.nikatel.store&sni=marz-vip.nikatel.store&fp=#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:62ms
 vless://32895c66-fe57-49ad-ba5a-1936f2d5a7a8@m1.darkkabir.site:8080?path=%2F&security=none&encryption=none&type=ws#IR🇮🇷
 vless://33a0c07b-82c7-40c8-aac7-4ab2071bcc03@43.160.246.221:46920?security=reality&encryption=none&pbk=26jcWQerQE3ryBAm1OCcC7MrgGlI5I-gpdel1xf2Hx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#All--@IRAN_V2RAY1
 vless://3460022e-866b-46ac-8679-ae2796b4e30a@151.101.3.8:80?path=%2Fdownload%3Fed%3D2048&security=none&encryption=none&host=barghchi.com&type=ws#IR🇮🇷
@@ -583,7 +581,7 @@ vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@45.140.167.141:443?security=reality
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@45.84.0.57:443?security=reality&encryption=none&pbk=8_J_8yfLVU1f6cHdGR35rnf_Zc4k9C_XMPCdH1qAtmU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=a29977bd#MTN--@IRAN_V2RAY1
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@89.150.48.178:443?security=reality&encryption=none&pbk=QW6neBOeONEjuXRaJE5T07gNWbYY2blQa81hurOUth8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=cff81baa#MTN--@IRAN_V2RAY1
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@94.131.9.77:443?security=reality&encryption=none&pbk=MThDM457eKp5ak4_L_l38GvDoS80fXDqTxqOZb81uEc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=34e2ce36#All--@IRAN_V2RAY1
-vless://692cb76f-674d-4d3e-852a-d2ed274d1501@78.109.198.25:80?security=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:96ms
+vless://692cb76f-674d-4d3e-852a-d2ed274d1501@78.109.198.25:80?security=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehrān🅿️ping:104ms
 vless://692ece70-c136-4f77-8921-1e99091b9987@ssssssss.zabc.net:8443?path=/&security=tls&encryption=none&host=ssssssss.zabc.net&fp=chrome&type=ws&sni=ssssssss.zabc.net#MCI--@IRAN_V2RAY1
 vless://69394f3f-e84c-44b3-96ae-46000130cf2b@5.189.190.60:34704?security=reality&encryption=none&pbk=Yl_Un-j1bd9icfC153HCUY_uRKWdj4D_PxHTQ59q5m4&headerType=none&fp=chrome&type=tcp&sni=ava.game.naver.com.lsvly.qzz.io&sid=11c996b441cf6c#MTN--@IRAN_V2RAY1
 vless://6967a7f2-e8a7-497e-f72e-c989e9f896d7@91.98.137.244:443?mode=gun&security=none&encryption=none&type=grpc#All--@IRAN_V2RAY1

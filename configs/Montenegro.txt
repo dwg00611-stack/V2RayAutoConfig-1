@@ -24,7 +24,6 @@ ss://12345678-1234-1234-1234-123456789123@160.153.0.61:2096?path=%2Fsnippets&sec
 ss://134563d7-f835-4110-a36b-e0db5d262ae0@delilah.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639003456253079909.defender-amsis.info&path=%2Fdupbatws&security=tls&sni=639003456253079909.defender-amsis.info&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 ss://13c72182-9869-4956-83bb-f8ec486e0a1b@usaa.fastlynew.hosting-ip.com:80?path=%2F&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#[🇨🇦]t.me/ConfigsHub
 ss://1a2880c5-c4dc-42df-8013-627584af81f4@77.72.80.143:8080?path=/&security=none&encryption=none&type=ws#https://t.me/v2raynplus
-ss://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws%3Fed%3D2048&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=terazhedi.info#[🇨🇦]t.me/ConfigsHub
 ss://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&fp=chrome&type=ws&sni=terazhedi.info#[🇨🇦]t.me/ConfigsHub
 ss://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=terazhedi.info#[🇨🇦]t.me/ConfigsHub
 ss://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws?ed=2048&security=tls&encryption=none&type=ws&sni=terazhedi.info#[🇺🇸]t.me/ConfigsHub
@@ -55,7 +54,6 @@ ss://2a2a6062-003c-0012-b293-ee0d0416afee@87.242.103.47:8443?security=reality&en
 ss://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
 ss://2b434c56-8390-4f84-add3-eebd18743f8d@www.rexo.online:8880?type=grpc&encryption=none&serviceName=t.me/entryNET&authority=t.me/entryNET&security=none#[🇺🇸]t.me/ConfigsHub
 ss://2b686eab-2b2d-42c1-be27-8e87efe1a188@46.243.235.119:8443/?type=t.me/entryNET&encryption=none&flow=&serviceName=t.me/entryNET&sni=sun6-22.userapi.com&fp=chrome&security=reality&pbk=H0pKWuImigVROJhbHUdUIk3VPbuvRfI5ruiFnl7f-kY&sid=24b5316e#t.me/entryNET/config=1851031936252591
-ss://2ca07504-c06a-41a4-b26b-99807a7d24cf@185.234.59.74:8443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&host=Join---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=e499f276e7bd6420#[🇷🇺]t.me/ConfigsHub
 ss://2ca07504-c06a-41a4-b26b-99807a7d24cf@185.234.59.74:8443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&host=Join---nitruStore---Join---nitruStoreJoin---nitruStore---Join---nitruStoreJoin---nitruStore---Join---nitruStoreJoin---nitruStore---Join---nitruStoreJoin---nitruStore---Join---nitruStoreJoin---nitruStore---Join---nitruStore&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=e499f276e7bd6420#t.me/entryNET/config=1850973417995967
 ss://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.174.138.243:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#[🇷🇺]t.me/ConfigsHub
 ss://2dac3536-244a-4558-9ab9-ab9ae34638c1@speedtest.net:80?type=xhttp&path=/&host=p30download.ir&mode=auto&security=none#https://t.me/v2raynplus
@@ -247,6 +245,7 @@ ss://98170725-364d-4c0f-be18-16945dec0fed@Evay-vpn.octacityroleplay.ir:1122?encr
 ss://990f5f4d-5568-4e0a-96bf-2d86270d8fbf@65.109.241.111:443?type=tcp&path=%2F&host=zula.ir&headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-%DA%86%D9%86%D9%84%20%D9%85%D8%A7https%3A%2F%2Ft.me%2Fcustom_14
 ss://9926ee97-4398-48dd-b263-2863c62f5c41@COnFIDeNt-CLUb.SeoTooLsforYoU.CO.uK:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
 ss://9a37131b-2b68-427f-a2fc-cc7381c2d575@glEefUL-ERror.sEoTOoLSfOrYou.cO.UK:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
+ss://9a5f5f37-14e9-496e-862d-255d3691a1f4@91.107.149.83:8443?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 ss://9bd6b7dd-dd73-49f2-b866-781dac373d16@94.141.123.233:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&security=reality&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=82c8140feb118043#[🇩🇪]t.me/ConfigsHub
 ss://9c5a73b8-c4f9-4309-87a2-4e07470553bf@test2.amin8263.ir:2095?path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048%40XpnTeam%3Fed%3D2048%40XpnTeam%3Fed%3D2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#[🇨🇦]t.me/ConfigsHub
 ss://9d3e7537-b583-493a-8548-851b2bf1a47e@v7.vipfast1.shop:8080?flow=&type=tcp&headerType=http&host=anten.ir&path=&security=none#[🇮🇷]t.me/ConfigsHub
@@ -567,7 +566,6 @@ trojan://telegram-id-privatevpns@15.188.244.192:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@15.188.255.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@15.188.34.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.34.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
-trojan://telegram-id-privatevpns@15.188.7.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.7.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@15.236.106.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@15.236.12.230:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%28S104%29%F0%9F%87%A8%F0%9F%87%B5t.me%2FPrivateVPNs
@@ -616,11 +614,12 @@ trojan://telegram-id-privatevpns@35.181.213.121:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@51.21.27.7:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.44.100.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@51.44.125.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
-trojan://telegram-id-privatevpns@51.44.190.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.44.190.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.44.191.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش
+trojan://telegram-id-privatevpns@51.44.38.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.44.45.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@51.45.33.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@51.45.34.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.45.54.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.29.105.145:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.29.139.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش
@@ -641,11 +640,9 @@ trojan://telegram-id-privatevpns@63.178.210.181:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@63.178.60.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش
 trojan://telegram-id-privatevpns@63.178.60.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs🤯
 trojan://telegram-id-privatevpns@63.178.74.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش
-trojan://telegram-id-privatevpns@63.180.105.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.180.105.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@63.180.131.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.180.131.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@63.180.136.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.181.53.216:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%28S101%29%F0%9F%87%A9%F0%9F%87%AAt.me%2FPrivateVPNs
 trojan://tg-dns68@162.159.152.133:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#t.me/entryNET/config=1850979705652114
 trojan://tg-dns68@162.159.152.145:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#[🇨🇦]t.me/ConfigsHub
@@ -681,7 +678,6 @@ vless://12345678-1234-1234-1234-123456789123@160.153.0.61:2096?path=%2Fsnippets&
 vless://134563d7-f835-4110-a36b-e0db5d262ae0@delilah.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639003456253079909.defender-amsis.info&path=%2Fdupbatws&security=tls&sni=639003456253079909.defender-amsis.info&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 vless://13c72182-9869-4956-83bb-f8ec486e0a1b@usaa.fastlynew.hosting-ip.com:80?path=%2F&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://1a2880c5-c4dc-42df-8013-627584af81f4@77.72.80.143:8080?path=/&security=none&encryption=none&type=ws#https://t.me/v2raynplus
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws%3Fed%3D2048&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=terazhedi.info#[🇨🇦]t.me/ConfigsHub
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&fp=chrome&type=ws&sni=terazhedi.info#[🇨🇦]t.me/ConfigsHub
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=terazhedi.info#[🇨🇦]t.me/ConfigsHub
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws?ed=2048&security=tls&encryption=none&type=ws&sni=terazhedi.info#[🇺🇸]t.me/ConfigsHub
@@ -712,7 +708,6 @@ vless://2a2a6062-003c-0012-b293-ee0d0416afee@87.242.103.47:8443?security=reality
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
 vless://2b434c56-8390-4f84-add3-eebd18743f8d@www.rexo.online:8880?type=grpc&encryption=none&serviceName=t.me/entryNET&authority=t.me/entryNET&security=none#[🇺🇸]t.me/ConfigsHub
 vless://2b686eab-2b2d-42c1-be27-8e87efe1a188@46.243.235.119:8443/?type=t.me/entryNET&encryption=none&flow=&serviceName=t.me/entryNET&sni=sun6-22.userapi.com&fp=chrome&security=reality&pbk=H0pKWuImigVROJhbHUdUIk3VPbuvRfI5ruiFnl7f-kY&sid=24b5316e#t.me/entryNET/config=1851031936252591
-vless://2ca07504-c06a-41a4-b26b-99807a7d24cf@185.234.59.74:8443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&host=Join---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=e499f276e7bd6420#[🇷🇺]t.me/ConfigsHub
 vless://2ca07504-c06a-41a4-b26b-99807a7d24cf@185.234.59.74:8443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&host=Join---nitruStore---Join---nitruStoreJoin---nitruStore---Join---nitruStoreJoin---nitruStore---Join---nitruStoreJoin---nitruStore---Join---nitruStoreJoin---nitruStore---Join---nitruStoreJoin---nitruStore---Join---nitruStore&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=e499f276e7bd6420#t.me/entryNET/config=1850973417995967
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.174.138.243:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#[🇷🇺]t.me/ConfigsHub
 vless://2dac3536-244a-4558-9ab9-ab9ae34638c1@speedtest.net:80?type=xhttp&path=/&host=p30download.ir&mode=auto&security=none#https://t.me/v2raynplus
@@ -904,6 +899,7 @@ vless://98170725-364d-4c0f-be18-16945dec0fed@Evay-vpn.octacityroleplay.ir:1122?e
 vless://990f5f4d-5568-4e0a-96bf-2d86270d8fbf@65.109.241.111:443?type=tcp&path=%2F&host=zula.ir&headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-%DA%86%D9%86%D9%84%20%D9%85%D8%A7https%3A%2F%2Ft.me%2Fcustom_14
 vless://9926ee97-4398-48dd-b263-2863c62f5c41@COnFIDeNt-CLUb.SeoTooLsforYoU.CO.uK:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
 vless://9a37131b-2b68-427f-a2fc-cc7381c2d575@glEefUL-ERror.sEoTOoLSfOrYou.cO.UK:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
+vless://9a5f5f37-14e9-496e-862d-255d3691a1f4@91.107.149.83:8443?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://9bd6b7dd-dd73-49f2-b866-781dac373d16@94.141.123.233:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&security=reality&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=82c8140feb118043#[🇩🇪]t.me/ConfigsHub
 vless://9c5a73b8-c4f9-4309-87a2-4e07470553bf@test2.amin8263.ir:2095?path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048%40XpnTeam%3Fed%3D2048%40XpnTeam%3Fed%3D2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://9d3e7537-b583-493a-8548-851b2bf1a47e@v7.vipfast1.shop:8080?flow=&type=tcp&headerType=http&host=anten.ir&path=&security=none#[🇮🇷]t.me/ConfigsHub
