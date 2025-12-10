@@ -34,7 +34,6 @@ ss://6ff4726f-3650-4803-95eb-50b240f6ac75@104.24.186.156:80?encryption=none&secu
 ss://701c0432-aecc-4aa6-b461-20d3db19bdf3@che-0001-xr.packet-drop-society.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=e499f276e7bd6420#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2ray_sub%20%5B32%5D
 ss://7711fc80-c163-4f35-80c4-d5e61c69659d@104.16.112.97:80?encryption=none&security=none&type=ws&host=icy-bar-399d-ppal03.pomoyes509.workers.dev&path=/?ed=2560#👕Ch:
 ss://7711fc80-c163-4f35-80c4-d5e61c69659d@104.24.47.130:80?encryption=none&security=none&type=ws&host=icy-bar-399d-ppal03.pomoyes509.workers.dev&path=/?ed=2560#👕Ch:
-ss://7aae7d90-0b37-421e-834a-502ea15f43df@208.69.78.142:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=eV7nN5zQA1ecRLyt2u1ChDrl5LU832tCySZOrWoiVXo&sid=91fbf6164cb2bc53&type=grpc&serviceName=dcfc23920fc8a07991dda30d#Switzerland%2069%20dailyv2ry
 ss://7aae7d90-0b37-421e-834a-502ea15f43df@208.69.78.142:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=eV7nN5zQA1ecRLyt2u1ChDrl5LU832tCySZOrWoiVXo&sid=91fbf6164cb2bc53&type=grpc&serviceName=dcfc23920fc8a07991dda30d#Switzerland%2083%20dailyv2ry
 ss://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.16.52.89:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#😛Ch:
 ss://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.24.248.85:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#😛Ch:
@@ -72,8 +71,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJeklyTG9nQ1JiRFFtRU1rQVZ3ektw@45.95.232.236:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVTdZdUxma3pnc1dNRUQzWXVsRzZG@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+163.07ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoM3dCUzU5ckZmdFAyZWI3STVpVDNh@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+163.05ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNEN1TmpRbWVRazRVUEZjTm9LVWNp@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+163.49ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNEN1TmpRbWVRazRVUEZjTm9LVWNp@45.95.232.236:4248#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Zurich🅿️ping:30.63ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNEN1TmpRbWVRazRVUEZjTm9LVWNp@45.95.232.236:4248#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Zurich🅿️ping:30ms
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.160-6297
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443?prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%A8%F0%9F%87%ADCH%20%7C%20@OutlineReleasedKey
 ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@185.126.116.125:9098#%F0%9F%87%A8%F0%9F%87%ADCH-185.126.116.125-0120
@@ -148,7 +145,6 @@ vless://6ff4726f-3650-4803-95eb-50b240f6ac75@104.24.186.156:80?encryption=none&s
 vless://701c0432-aecc-4aa6-b461-20d3db19bdf3@che-0001-xr.packet-drop-society.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=e499f276e7bd6420#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2ray_sub%20%5B32%5D
 vless://7711fc80-c163-4f35-80c4-d5e61c69659d@104.16.112.97:80?encryption=none&security=none&type=ws&host=icy-bar-399d-ppal03.pomoyes509.workers.dev&path=/?ed=2560#👕Ch:
 vless://7711fc80-c163-4f35-80c4-d5e61c69659d@104.24.47.130:80?encryption=none&security=none&type=ws&host=icy-bar-399d-ppal03.pomoyes509.workers.dev&path=/?ed=2560#👕Ch:
-vless://7aae7d90-0b37-421e-834a-502ea15f43df@208.69.78.142:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=eV7nN5zQA1ecRLyt2u1ChDrl5LU832tCySZOrWoiVXo&sid=91fbf6164cb2bc53&type=grpc&serviceName=dcfc23920fc8a07991dda30d#Switzerland%2069%20dailyv2ry
 vless://7aae7d90-0b37-421e-834a-502ea15f43df@208.69.78.142:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=eV7nN5zQA1ecRLyt2u1ChDrl5LU832tCySZOrWoiVXo&sid=91fbf6164cb2bc53&type=grpc&serviceName=dcfc23920fc8a07991dda30d#Switzerland%2083%20dailyv2ry
 vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.16.52.89:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#😛Ch:
 vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.24.248.85:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#😛Ch:
