@@ -424,6 +424,7 @@ ss://a410ee53-3189-8de8-5b2f-f141e719e335@dl-01.chapjavan.ir:45555/?type=http&en
 ss://a91e64f0-9295-499d-bf4a-661ad99d4938@2-germany.geodema.network:8443?security=reality&encryption=none&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=5540e44a53c3d01c#REALITY|DE🇩🇪
 ss://a91e64f0-9295-499d-bf4a-661ad99d4938@2-germany.geodema.network:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&sid=5540e44a53c3d01c#REALITY|DE🇩🇪
 ss://a959f004-f691-4a6a-80e8-d1b5d4d85e12@m35a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#DE%20VLESS-54%20%7C%20free-nodes
+ss://a9c5ad15-776d-45b8-b853-c20a92084f27@usaa.fastlynew.hosting-ip.com:80?security=none&type=ws&path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&host=mojhsjd.global.ssl.fastly.net&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE%20%F0%9F%A7%AD%207.2MB%2Fs#کانفیگ_پرسرعت
 ss://abc36e38-0813-486a-a61f-89d85f8eb3f0@91.107.248.175:443?path=%2Fwe&security=none&encryption=none&type=ws#DE🇩🇪
 ss://ac1edaf9-37c2-4d92-9d29-9ad759127206@138.197.185.218:443?type=grpc&encryption=none&serviceName=&authority=&security=none#DE🇩🇪
 ss://ac1edaf9-37c2-4d92-9d29-9ad759127206@207.154.192.115:443?type=grpc&encryption=none&serviceName=&authority=&security=none#DE🇩🇪
@@ -901,6 +902,7 @@ vless://a410ee53-3189-8de8-5b2f-f141e719e335@dl-01.chapjavan.ir:45555/?type=http
 vless://a91e64f0-9295-499d-bf4a-661ad99d4938@2-germany.geodema.network:8443?security=reality&encryption=none&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=5540e44a53c3d01c#REALITY|DE🇩🇪
 vless://a91e64f0-9295-499d-bf4a-661ad99d4938@2-germany.geodema.network:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&sid=5540e44a53c3d01c#REALITY|DE🇩🇪
 vless://a959f004-f691-4a6a-80e8-d1b5d4d85e12@m35a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#DE%20VLESS-54%20%7C%20free-nodes
+vless://a9c5ad15-776d-45b8-b853-c20a92084f27@usaa.fastlynew.hosting-ip.com:80?security=none&type=ws&path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&host=mojhsjd.global.ssl.fastly.net&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE%20%F0%9F%A7%AD%207.2MB%2Fs#کانفیگ_پرسرعت
 vless://abc36e38-0813-486a-a61f-89d85f8eb3f0@91.107.248.175:443?path=%2Fwe&security=none&encryption=none&type=ws#DE🇩🇪
 vless://ac1edaf9-37c2-4d92-9d29-9ad759127206@138.197.185.218:443?type=grpc&encryption=none&serviceName=&authority=&security=none#DE🇩🇪
 vless://ac1edaf9-37c2-4d92-9d29-9ad759127206@207.154.192.115:443?type=grpc&encryption=none&serviceName=&authority=&security=none#DE🇩🇪
