@@ -72,7 +72,6 @@ ss://e94ad226-4aa4-451e-84b3-ee728ac9f8c4@65.109.230.46:16553?type=grpc&encrypti
 ss://e9abd893-b044-4051-bdc6-c98faf140e82@65.109.209.95:443?type=xhttp&encryption=none&security=&host=&path=&sni=#FI🇫🇮
 ss://f03f6ac6-8f00-44e7-b3ff-af05cb6dfcca@65.109.177.74:443?security=tls&encryption=none&headerType=none&type=tcp&sni=dmt.app-browser.org#FI🇫🇮
 ss://f05b0ab2-800c-4964-8474-fa394004ccfe@axe.soyet2j.ir:443?security=tls&type=ws&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&host=menu.gejeh683bm.ir&alpn=h2&sni=menu.gejeh683bm.ir&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8A%AC%E5%85%B0%2001
-ss://f0ee92ea-68ac-4c13-8529-d302baaa9f0d@m57a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40orange_vpns%20%5B16%5D
 ss://f0ee92ea-68ac-4c13-8529-d302baaa9f0d@m57a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:47.24ms
 ss://f5f7ee52-aa8f-4415-b2f3-90a0153e3820@65.109.230.46:52186?mode=gun&security=reality&encryption=none&pbk=qbnOCNfgeXJh8ovE6FfFNKt4em77iI-oxsQLhuiYqGI&fp=chrome&spx=%2F&type=grpc&sni=google.com&sid=ef1866c1#REALITY|FI🇫🇮
 ss://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=app.chandplus.com#FI🇫🇮
@@ -134,7 +133,6 @@ vless://e94ad226-4aa4-451e-84b3-ee728ac9f8c4@65.109.230.46:16553?type=grpc&encry
 vless://e9abd893-b044-4051-bdc6-c98faf140e82@65.109.209.95:443?type=xhttp&encryption=none&security=&host=&path=&sni=#FI🇫🇮
 vless://f03f6ac6-8f00-44e7-b3ff-af05cb6dfcca@65.109.177.74:443?security=tls&encryption=none&headerType=none&type=tcp&sni=dmt.app-browser.org#FI🇫🇮
 vless://f05b0ab2-800c-4964-8474-fa394004ccfe@axe.soyet2j.ir:443?security=tls&type=ws&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&host=menu.gejeh683bm.ir&alpn=h2&sni=menu.gejeh683bm.ir&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8A%AC%E5%85%B0%2001
-vless://f0ee92ea-68ac-4c13-8529-d302baaa9f0d@m57a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40orange_vpns%20%5B16%5D
 vless://f0ee92ea-68ac-4c13-8529-d302baaa9f0d@m57a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:47.24ms
 vless://f5f7ee52-aa8f-4415-b2f3-90a0153e3820@65.109.230.46:52186?mode=gun&security=reality&encryption=none&pbk=qbnOCNfgeXJh8ovE6FfFNKt4em77iI-oxsQLhuiYqGI&fp=chrome&spx=%2F&type=grpc&sni=google.com&sid=ef1866c1#REALITY|FI🇫🇮
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=app.chandplus.com#FI🇫🇮
