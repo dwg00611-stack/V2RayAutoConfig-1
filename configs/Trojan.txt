@@ -12173,6 +12173,7 @@ trojan://telegram-id-privatevpns@52.47.206.247:22222?security=tls&sni=trojan.bur
 trojan://telegram-id-privatevpns@52.47.206.247:22222?security=tls&sni=🔒
 trojan://telegram-id-privatevpns@52.47.67.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=🔒
 trojan://telegram-id-privatevpns@52.48.207.242:22222?security=tls&sni=🔒
+trojan://telegram-id-privatevpns@52.57.200.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@52.57.238.174:22222?security=tls
 trojan://telegram-id-privatevpns@52.57.238.174:22222?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-180%20%7C%20free-nodes
 trojan://telegram-id-privatevpns@52.57.238.174:22222?security=tls#%E6%9C%AA%E7%9F%A5%20TROJAN-2037%20%7C%20free-nodes
