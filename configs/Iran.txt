@@ -186,6 +186,7 @@ ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.147:80/?type=ws&encryption=n
 ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?path=%2Fnews%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=cdn.ir&type=ws#IR🇮🇷
 ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?path=%2Fnews&security=none&encryption=none&host=cdn.ir&type=ws#IR🇮🇷
 ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?path=/news#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=cdn.ir&type=ws#@MARAMBASHI
+ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?path=/news#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=cdn.ir&type=ws#[🇩🇪]t.me/ConfigsHub
 ss://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414/?encryption=none&host=varzesh3.com&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxycrone%20%5B5%5D
 ss://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&encryption=none&host=varzesh3.com&headerType=http&fp=chrome&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxycrone%20%5B4%5D
 ss://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.135.5:80/?type=ws&encryption=none&host=abcd.taraneh.dpdns.org&path=%2F%3Fed%3D2560#Bya%20To%20%40Iran_V2ray1
@@ -537,6 +538,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.147:80/?type=ws&encryptio
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?path=%2Fnews%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=cdn.ir&type=ws#IR🇮🇷
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?path=%2Fnews&security=none&encryption=none&host=cdn.ir&type=ws#IR🇮🇷
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?path=/news#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=cdn.ir&type=ws#@MARAMBASHI
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?path=/news#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=cdn.ir&type=ws#[🇩🇪]t.me/ConfigsHub
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414/?encryption=none&host=varzesh3.com&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxycrone%20%5B5%5D
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&encryption=none&host=varzesh3.com&headerType=http&fp=chrome&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxycrone%20%5B4%5D
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.135.5:80/?type=ws&encryption=none&host=abcd.taraneh.dpdns.org&path=%2F%3Fed%3D2560#Bya%20To%20%40Iran_V2ray1
