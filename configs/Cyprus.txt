@@ -45,7 +45,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpueGdzbUhrUDNKVTdoYlFrSmZ4Z3BYaDV0bHZYZTFlbg=
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#%F0%9F%87%A8%F0%9F%87%BECY-213.169.137.221-4123
 ss://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&sid=816473be23c2#REALITY|CY🇨🇾
 ss://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.69:27774?security=none&encryption=none&headerType=none&type=tcp#CY🇨🇾
-ss://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.184.66:80?&security=false&fp=chrome&type=ws&headerType=none&host=hello.96xckkzx.workers.dev&path=%2F%F0%9F%94%92%20%5BBy%20EbraSha%5D#_%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF
 ss://d3m1xvk50k@d3m1xvk50k-525340173-direct.bahame.co:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=d3m1xvk50k-525340173-direct.bahame.co#CY🇨🇾
 ss://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.161:2095/?type=ws&encryption=none&host=0221.enedrehd.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%87%A8%F0%9F%87%BE%20CY-195.85.59.161%3A2095
 ss://dbf403f4b87144468712675562dbbb7b@195.85.59.161:2095#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+195.85.59.161-2095+%7C+18.49ms
@@ -87,7 +86,6 @@ vless://9dc11620-987c-4344-9088-f46fdfae4054@92.118.232.161:8080?path=%2F%3Fed&s
 vless://SayferVPN_311950_399850197@45.15.160.183:443?security=reality&encryption=none&pbk=KqFueUU8WsHt_PRDxcdygYGoQyGwIaKZRA7hUhxMdEc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=ff730c385102#REALITY|CY🇨🇾
 vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&sid=816473be23c2#REALITY|CY🇨🇾
 vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.69:27774?security=none&encryption=none&headerType=none&type=tcp#CY🇨🇾
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.184.66:80?&security=false&fp=chrome&type=ws&headerType=none&host=hello.96xckkzx.workers.dev&path=%2F%F0%9F%94%92%20%5BBy%20EbraSha%5D#_%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF
 vless://d3m1xvk50k@d3m1xvk50k-525340173-direct.bahame.co:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=d3m1xvk50k-525340173-direct.bahame.co#CY🇨🇾
 vless://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.161:2095/?type=ws&encryption=none&host=0221.enedrehd.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%87%A8%F0%9F%87%BE%20CY-195.85.59.161%3A2095
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc#CY🇨🇾
