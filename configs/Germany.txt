@@ -509,7 +509,6 @@ trojan://telegram-id-privatevpns@52.214.235.82:22222?security=tls&sni=trojan.bur
 trojan://telegram-id-privatevpns@52.29.174.57:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B16%5D
 trojan://telegram-id-privatevpns@54.93.240.151:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AADE-54.93.240.151-1513
 trojan://telegram-id-privatevpns@63.178.33.36:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B16%5D
-trojan://telegram-id-privatevpns@63.180.216.181:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B14%5D
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443/?type=xhttp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40manstervpn%20%5B65%5D
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40manstervpn%20%5B65%5D
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=/xhttp&security=none&encryption=none&host=Join---PLANB-PROXY&type=xhttp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Falkenstein🅿️ping:28ms
