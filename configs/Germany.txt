@@ -130,6 +130,7 @@ ss://2ee2a715-d541-416a-8713-d66567448c2e@91.99.27.92:443?mode=gun&security=none
 ss://2ee2a715-d541-416a-8713-d66567448c2e@91.99.27.92:443?mode=gun&security=none&encryption=none&authority=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:25ms
 ss://2ee2a715-d541-416a-8713-d66567448c2e@91.99.27.92:443?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
 ss://2ee2a715-d541-416a-8713-d66567448c2e@91.99.27.92:443?type=grpc&encryption=none&flow=#DE🇩🇪
+ss://2ee2a715-d541-416a-8713-d66567448c2e@91.99.82.11:443?mode=gun&security=none&encryption=none&type=grpc#Germany%20Hetzner
 ss://2ee2a715-d541-416a-8713-d66567448c2e@91.99.82.11:443?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Falkenstein🅿️ping:26.24ms
 ss://2ee2a715-d541-416a-8713-d66567448c2e@91.99.82.11:443?type=grpc&encryption=none&flow=#DE🇩🇪
 ss://3121850a-24aa-41f9-936d-dbdf10a3b31f@94.141.161.204:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#REALITY|DE🇩🇪
@@ -740,6 +741,7 @@ vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.27.92:443?mode=gun&security=n
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.27.92:443?mode=gun&security=none&encryption=none&authority=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:25ms
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.27.92:443?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.27.92:443?type=grpc&encryption=none&flow=#DE🇩🇪
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.82.11:443?mode=gun&security=none&encryption=none&type=grpc#Germany%20Hetzner
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.82.11:443?mode=gun&security=none&encryption=none&type=grpc#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Falkenstein🅿️ping:26.24ms
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.82.11:443?type=grpc&encryption=none&flow=#DE🇩🇪
 vless://3121850a-24aa-41f9-936d-dbdf10a3b31f@94.141.161.204:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#REALITY|DE🇩🇪
