@@ -68,7 +68,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDc1NjAyMzA3@clr.ducks.tel:17844#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+clr.ducks.tel-17844+%7C+1404ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDc1NjAyMzA=@clr.ducks.tel:17847#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+clr.ducks.tel-17847+%7C+975.31ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MkpIQ3JmZURyOVBRa0l3bHJJdldV@45.151.62.132:58010#RU%F0%9F%87%B7%F0%9F%87%BA+%7C+45.151.62.132-58010+%7C+168.04ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN1pET1JXSWxpUUh1TzZXUkdIQ2hYWU16ZFJ0QVlWUA@45.14.245.2:443#%F0%9F%87%B7%F0%9F%87%BA%20RU%E4%BF%84%E7%BD%97%E6%96%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN1pET1JXSWxpUUh1TzZXUkdIQ2hYWU16ZFJ0QVlWUA@45.14.245.2:443#%F0%9F%87%B7%F0%9F%87%BA%20_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZnd1Zk9tSjlFTGZONHVtemNIQmZWQDE5NC44Ny44Mi4yODoxMjIyNA==#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
@@ -187,11 +186,9 @@ trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.88.148.234:28443?security=tls#%
 trojan://E2hGw3bUIJidlFx#.O@159.69.125.188:21648/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅12@oneclickvpnkeys
 trojan://E2hGw3bUIJidlFx#.O@159.69.125.188:21648?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#WiFi_10--@V2rayAlpha
 trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.88.148.237:28443?security=tls&sni=sbank.ir#%F0%9F%87%B7%F0%9F%87%BARU-45.88.148.237-2310
-trojan://ab47264dad8b0fbe@51aa8f7.p6.glados-config.net:443?allowInsecure=0&sni=n2.gladns.com#%F0%9F%87%B7%F0%9F%87%BA%20RU%E4%BF%84%E7%BD%97%E6%96%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://ab47264dad8b0fbe@51aa8f7.p6.glados-config.net:443?sni=n2.gladns.com#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
 trojan://af4b064a9c39472fb34ad8b113acdc6b@46.29.161.237:443/?type=tcp&security=tls&sni=46.29.161.237#%F0%9F%87%B7%F0%9F%87%BARU-46.29.161.237-0726
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
-trojan://de24be07de746f4f@3348107.p3.glados-config.net:443?allowInsecure=0&sni=n2.gladns.com#%F0%9F%87%B7%F0%9F%87%BA%20RU%E4%BF%84%E7%BD%97%E6%96%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://de24be07de746f4f@3348107.p3.glados-config.net:443?sni=n2.gladns.com#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF3
 trojan://fapgdGnC=-b#6BEwUSNsI@70.34.221.95:29730/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅36@oneclickvpnkeys
 trojan://fapgdGnC=-b#6BEwUSNsI@70.34.223.58:29730/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅65@oneclickvpnkeys
