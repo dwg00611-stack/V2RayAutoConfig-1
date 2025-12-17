@@ -11,8 +11,6 @@ hysteria2://qq4Wc9UakExypzw4Jd00fWqrDTY@8.209.223.212:22712?insecure=1&sni=bing.
 hysteria2://yD0mxkCA18WgPD1uVGd3Eu1dc@47.245.0.72:27789?insecure=1&sni=bing.com#JP%20%234
 ss://43135731-165e-4064-872e-7e9447fbebfb@188.253.16.31:443?&security=reality&flow=xtls-rprx-vision&pbk=KX1PfrASrflF1Ra1TcjujnOAK-4sPiEVDSfAPS1DAl8&sid=e33013f4&fp=chrome&sni=yahoo.com&type=tcp&headerType=none&path=%2F#_%E6%97%A5%E6%9C%AC%207
 ss://456c916d-1241-4a5a-bd2b-c4abc69fd9ed@45.83.22.118:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20JP%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-ss://46620819-3467-4757-adfa-9c7f141f007f@45.77.15.170:52516?security=tls&type=none&sni=john996.win&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AF%F0%9F%87%B5JP%20%F0%9F%A7%AD%202.3MB%2Fs
-ss://46620819-3467-4757-adfa-9c7f141f007f@45.77.15.170:52516?security=tls&type=none&sni=john996.win&fp=chrome#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Matsudo🅿️ping:266ms
 ss://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@138.2.16.61:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1&fp=random#%3E%3E%40oneclickvpnkeys%3A%3AJP
 ss://86b414b6-966e-4f6d-ab16-32049ef732d3@47.245.38.111:443?type=tcp&encryption=none&flow=&sni=www.autodesk.com&fp=chrome&security=reality&pbk=y167aJhpgWWjltY4UCir_uu8Mj__Hkc1W4etD0QXYH4&sid=860705e716cbe6ed#REALITY|JP🇯🇵
 ss://89a62b16-a3c3-4ad7-be18-6f0266f7a2c5@cf.090227.xyz:80/?type=ws&encryption=none&flow=&host=xn--wgv71a.xn--4gqza090la383cba657a9rw23a362bz35amu9c.site&path=/#🇯🇵日本
@@ -82,11 +80,11 @@ ss://YWVzLTI1Ni1nY206YlRhQXc5RFpyc253bDl3bg@185.141.219.112:8388#Japan
 ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.021.node-for-bigairport.win:15199#%F0%9F%87%AF%F0%9F%87%B5JP-35.77.106.216-5684
 ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.021.node-for-bigairport.win:15199#%F0%9F%87%AF%F0%9F%87%B5JP-54.178.27.67-4781
 ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.022.node-for-bigairport.win:15099#%F0%9F%87%AF%F0%9F%87%B5%20_JP_%E6%97%A5%E6%9C%AC
-ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.022.node-for-bigairport.win:15099#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
+ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.022.node-for-bigairport.win:15099#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.022.node-for-bigairport.win:15099#%F0%9F%87%AF%F0%9F%87%B5JP-13.158.73.220-0837
 ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.022.node-for-bigairport.win:15099#%F0%9F%87%AF%F0%9F%87%B5JP-35.78.174.43-5435
 ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.025.node-for-bigairport.win:19690#%F0%9F%87%AF%F0%9F%87%B5%20_JP_%E6%97%A5%E6%9C%AC
-ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.025.node-for-bigairport.win:19690#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC5
+ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.025.node-for-bigairport.win:19690#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.025.node-for-bigairport.win:19690#%F0%9F%87%AF%F0%9F%87%B5JP-13.113.233.230-1274
 ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.025.node-for-bigairport.win:19690#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.2.116-0838
 ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.026.node-for-bigairport.win:15099#%F0%9F%87%AF%F0%9F%87%B5JP-13.158.28.22-5483
@@ -254,7 +252,6 @@ trojan://e2722c0fb503f8a592436c12bce0509a@160.16.63.16:4054?security=tls&sni=www
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.72.33:3093?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.33-0303
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.87.174:3169?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.87.174-0291
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.87.174:3169?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.87.174-0291
-trojan://e2722c0fb503f8a592436c12bce0509a@160.16.87.174:3169?sni=www.nintendogames.net&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AF%F0%9F%87%B5JP%20%F0%9F%A7%AD%202.3MB%2Fs
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.89.176:2890?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.89.176-1752
 trojan://e2722c0fb503f8a592436c12bce0509a@18.179.119.5:3145?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-18.179.119.5-0874
 trojan://e2722c0fb503f8a592436c12bce0509a@202.181.103.246:4054?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-0877
@@ -262,8 +259,6 @@ trojan://f42e1a2e-e650-44f4-8d17-bcb68663da18@150.230.201.192:443?security=tls&s
 trojan://juzi@140.83.57.183:22735/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=juzi8186-sr1.pages.dev#%F0%9F%87%AF%F0%9F%87%B5JP-140.83.57.183-0578
 vless://43135731-165e-4064-872e-7e9447fbebfb@188.253.16.31:443?&security=reality&flow=xtls-rprx-vision&pbk=KX1PfrASrflF1Ra1TcjujnOAK-4sPiEVDSfAPS1DAl8&sid=e33013f4&fp=chrome&sni=yahoo.com&type=tcp&headerType=none&path=%2F#_%E6%97%A5%E6%9C%AC%207
 vless://456c916d-1241-4a5a-bd2b-c4abc69fd9ed@45.83.22.118:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20JP%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://46620819-3467-4757-adfa-9c7f141f007f@45.77.15.170:52516?security=tls&type=none&sni=john996.win&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AF%F0%9F%87%B5JP%20%F0%9F%A7%AD%202.3MB%2Fs
-vless://46620819-3467-4757-adfa-9c7f141f007f@45.77.15.170:52516?security=tls&type=none&sni=john996.win&fp=chrome#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Matsudo🅿️ping:266ms
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@138.2.16.61:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1&fp=random#%3E%3E%40oneclickvpnkeys%3A%3AJP
 vless://86b414b6-966e-4f6d-ab16-32049ef732d3@47.245.38.111:443?type=tcp&encryption=none&flow=&sni=www.autodesk.com&fp=chrome&security=reality&pbk=y167aJhpgWWjltY4UCir_uu8Mj__Hkc1W4etD0QXYH4&sid=860705e716cbe6ed#REALITY|JP🇯🇵
 vless://89a62b16-a3c3-4ad7-be18-6f0266f7a2c5@cf.090227.xyz:80/?type=ws&encryption=none&flow=&host=xn--wgv71a.xn--4gqza090la383cba657a9rw23a362bz35amu9c.site&path=/#🇯🇵日本
