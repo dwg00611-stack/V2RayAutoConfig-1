@@ -1,6 +1,7 @@
 ss://1a79d43fb41c496ba241dcbeefa81f0eOg==@185.114.72.31:2053#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+185.114.72.31-2053+%7C+127.24ms
 ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096/?type=ws&encryption=none&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=fast01.0860852.xyz#%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40flyv2ray%20%5B14%5D
 ss://7392bb3b-7b2c-4eba-b399-b5e9534c12b0@bountyhunter.fonixapp.org:443?security=reality&encryption=none&pbk=HO6w1kV0-nVwjEbAsPFfzRc_plvZjIXB9Ut11owI3Ec&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fonts.gstatic.com&sid=066b#REALITY|ES🇪🇸
+ss://77-977-9WmnWnu-_vca177-977-9H--fm9GtPu-_vde5e38577-977-977-9Ou-_ve-_vVpp1p7vv73Gte-_ve-_vR_vn5vRrT7vv73XuXt_Oe-_ve-_ve-_vQ@185.18.250.117:443#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:22ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4RnBnTFhGcXpHRGt2STFjM0ZhaW1a@45.86.229.239:24894#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.86.229.239-24894+%7C+121.96ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#%F0%9F%87%AA%F0%9F%87%B8ES-37.143.130.203-0408
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.143.130.203:990#%F0%9F%87%AA%F0%9F%87%B8ES-37.143.130.203-5380
@@ -45,7 +46,6 @@ ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@5.188.181.201:9040#%F0%9F%87%AA%F0%9
 ss://d03e4b60-435d-4fc9-acd6-b63cff37b6eb@tunnyl.ru:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=llUN5iiAQwwKwiAp7zCwfU8wNz7F4lg__e9Qdv_gkWs&sid=0f1d6a#REALITY|ES🇪🇸
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@185.238.228.29:8880#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+185.238.228.29-8880+%7C+8.74ms
 trojan://be94cd60-8e91-4cd6-9c53-26ee1314edfd@178.33.161.196:2053/?type=ws&path=%2FFree-VPN-CF-Geo-Project%2F178.33.161.196%3D2053&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%AA%F0%9F%87%B8ES-178.33.161.196-1436
-trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&ws=1&wspath=%2F#%F0%9F%87%AA%F0%9F%87%B8%20_ES_%E8%A5%BF%E7%8F%AD%E7%89%99
 trojan://trojan@109.234.211.66:8443?sni=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8ES%E8%A5%BF%E7%8F%AD%E7%89%99
 vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096/?type=ws&encryption=none&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=fast01.0860852.xyz#%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40flyv2ray%20%5B14%5D
 vless://7392bb3b-7b2c-4eba-b399-b5e9534c12b0@bountyhunter.fonixapp.org:443?security=reality&encryption=none&pbk=HO6w1kV0-nVwjEbAsPFfzRc_plvZjIXB9Ut11owI3Ec&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fonts.gstatic.com&sid=066b#REALITY|ES🇪🇸
