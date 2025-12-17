@@ -16,6 +16,7 @@ ss://3121850a-24aa-41f9-936d-dbdf10a3b31f@45.15.127.139:4443?security=reality&en
 ss://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&host=%2F%3FBIA_CHANEL%40JOKERRVPN&headerType=none&fp=random&spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&type=tcp&sni=www.speedtest.net&sid=cbfe#REALITY|FI🇫🇮
 ss://414733b8-79dd-4951-81fb-aaa6b147c987@65.109.205.214:443?type=ws&encryption=none&path=%2F&host=&security=none#FI🇫🇮
 ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=none#FI🇫🇮
+ss://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?&security=false&fp=chrome&type=ws&headerType=none&host=cloudflare.com&path=%2F#_%E8%8A%AC%E5%85%B0
 ss://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&type=ws&host=cloudflare.com&path=/&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AFI
 ss://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=none&encryption=none&host=cloudflare.com&type=ws#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:90ms
 ss://4addd685-9b26-4bd0-8a1e-d81eca5c879e@91.186.213.137:8443?mode=gun&security=reality&encryption=none&pbk=M3dLa85Wf1BZXWDmubGiwKq6H_ALmeMDT5oSvStmZVw&fp=chrome&spx=%2F&type=grpc&serviceName=Tel%3A%40%40vpnclashfa+-+862#REALITY|FI🇫🇮
@@ -94,6 +95,7 @@ vless://3121850a-24aa-41f9-936d-dbdf10a3b31f@45.15.127.139:4443?security=reality
 vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&host=%2F%3FBIA_CHANEL%40JOKERRVPN&headerType=none&fp=random&spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&type=tcp&sni=www.speedtest.net&sid=cbfe#REALITY|FI🇫🇮
 vless://414733b8-79dd-4951-81fb-aaa6b147c987@65.109.205.214:443?type=ws&encryption=none&path=%2F&host=&security=none#FI🇫🇮
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?encryption=none&security=tls&sni=local.rogsoftwaregroup.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=none#FI🇫🇮
+vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?&security=false&fp=chrome&type=ws&headerType=none&host=cloudflare.com&path=%2F#_%E8%8A%AC%E5%85%B0
 vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&type=ws&host=cloudflare.com&path=/&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AFI
 vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=none&encryption=none&host=cloudflare.com&type=ws#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:90ms
 vless://4addd685-9b26-4bd0-8a1e-d81eca5c879e@91.186.213.137:8443?mode=gun&security=reality&encryption=none&pbk=M3dLa85Wf1BZXWDmubGiwKq6H_ALmeMDT5oSvStmZVw&fp=chrome&spx=%2F&type=grpc&serviceName=Tel%3A%40%40vpnclashfa+-+862#REALITY|FI🇫🇮
