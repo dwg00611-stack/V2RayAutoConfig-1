@@ -284,7 +284,6 @@ trojan://fab16fff-d149-417c-bdef-4bfcf2333bbe@hkt.iamnotagoodman.com:443#%F0%9F%
 trojan://telegram-id-privatevpns@52.57.81.66:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD-%3E%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
 trojan://trojan@45.192.222.112:8443?allowInsecure=0&sni=store.timimi.dpdns.org&ws=1&wspath=%2F%3Fed%3D2560#_CN_%E4%B8%AD%E5%9B%BD
 trojan://trojan@45.192.222.112:8443?sni=store.timimi.dpdns.org#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD
-trojan://trojan@45.192.222.112:8443?sni=store.timimi.dpdns.org#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD3
 vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@114.32.9.249:16443?&security=tls&fp=chrome&sni=stall.saass.ccwu.cc&type=ws&headerType=none&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#_%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9C%81%205
 vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@114.32.9.249:51443?&security=tls&fp=chrome&sni=stall.saass.ccwu.cc&type=ws&headerType=none&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#_%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9C%81%206
 vless://6943fe4d-0a5e-0543-d402-0e5cf7fe7af0@122.117.179.125:10909?&security=tls&fp=chrome&sni=stall.saass.ccwu.cc&type=ws&headerType=none&host=stall.saass.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#_%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9C%81%204
