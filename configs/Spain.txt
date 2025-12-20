@@ -22,8 +22,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#%F0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.154.206.192-990+%7C+171.02ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqc3NTcDdYelBramdHNGlqREZuS1J6@194.87.45.189:443#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+194.87.45.189-443+%7C+161.11ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbVNNZlI5anFMZ01rSHVRdHhTSVdo@145.249.109.121:25512#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Córdoba🅿️ping:49ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbVNNZlI5anFMZ01rSHVRdHhTSVdo@145.249.109.121:25512#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Córdoba🅿️ping:54.96ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbVNNZlI5anFMZ01rSHVRdHhTSVdo@145.249.109.121:25512?note=@freeOnlineVPN#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Córdoba🅿️ping:54.96ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbVNNZlI5anFMZ01rSHVRdHhTSVdo@145.249.109.121:25512?note=@freeOnlineVPN#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Córdoba🅿️ping:48.01ms
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-8386
 ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-8387
 ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg@5.188.181.201:9030#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-10282
@@ -47,10 +46,9 @@ ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#%F0%9F%87%AA%F0
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@5.188.181.201:9040#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-8825
 ss://d03e4b60-435d-4fc9-acd6-b63cff37b6eb@tunnyl.ru:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=llUN5iiAQwwKwiAp7zCwfU8wNz7F4lg__e9Qdv_gkWs&sid=0f1d6a#REALITY|ES🇪🇸
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@185.238.228.29:8880#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+185.238.228.29-8880+%7C+1.76ms
-trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&fp=chrome&type=tcp&sni=io.ozone.ru#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Barcelona🅿️ping:46ms
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls&sni=io.ozone.ru&allowInsecure=1&fp=chrome&note=@freeOnlineVPN#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Barcelona🅿️ping:39.83ms
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls&sni=io.ozone.ru&allowInsecure=1&note=@freeOnlineVPN#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Barcelona🅿️ping:39.83ms
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?sni=io.ozone.ru&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AA%F0%9F%87%B8ES%20%F0%9F%A7%AD%203.4MB%2Fs
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls&sni=io.ozone.ru&allowInsecure=1&fp=chrome&note=@freeOnlineVPN#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Barcelona🅿️ping:39.75ms
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls&sni=io.ozone.ru&allowInsecure=1&note=@freeOnlineVPN#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Barcelona🅿️ping:39.75ms
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?sni=io.ozone.ru&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AA%F0%9F%87%B8ES%20%F0%9F%A7%AD%204.4MB%2Fs
 trojan://be94cd60-8e91-4cd6-9c53-26ee1314edfd@178.33.161.196:2053/?type=ws&path=%2FFree-VPN-CF-Geo-Project%2F178.33.161.196%3D2053&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%AA%F0%9F%87%B8ES-178.33.161.196-1436
 vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096/?type=ws&encryption=none&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=fast01.0860852.xyz#%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40flyv2ray%20%5B14%5D
 vless://72615705-3061-4f03-9389-01369d9c67a4@154.58.204.51:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msn.com#REALITY|ES🇪🇸
