@@ -42,7 +42,11 @@ ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#%F0%9F%87%AA%F0
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@5.188.181.201:9040#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-8825
 ss://d03e4b60-435d-4fc9-acd6-b63cff37b6eb@tunnyl.ru:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=llUN5iiAQwwKwiAp7zCwfU8wNz7F4lg__e9Qdv_gkWs&sid=0f1d6a#REALITY|ES🇪🇸
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@185.238.228.29:8880#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+185.238.228.29-8880+%7C+14.86ms
+trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=io.ozone.ru#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Barcelona🅿️ping:42.91ms
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls&sni=io.ozone.ru&allowInsecure=1&fp=chrome&note=@freeOnlineVPN#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Barcelona🅿️ping:42.91ms
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls&sni=io.ozone.ru&allowInsecure=1&note=@freeOnlineVPN#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Barcelona🅿️ping:42.91ms
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&sni=io.ozone.ru&allowInsecure=true&fp=chrome#🇪🇸[openproxylist.com]trojan-ES
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?sni=io.ozone.ru&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AA%F0%9F%87%B8ES%20%F0%9F%A7%AD%203.5MB%2Fs
 trojan://be94cd60-8e91-4cd6-9c53-26ee1314edfd@178.33.161.196:2053/?type=ws&path=%2FFree-VPN-CF-Geo-Project%2F178.33.161.196%3D2053&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%AA%F0%9F%87%B8ES-178.33.161.196-1436
 vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096/?type=ws&encryption=none&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=fast01.0860852.xyz#%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40flyv2ray%20%5B14%5D
 vless://d03e4b60-435d-4fc9-acd6-b63cff37b6eb@tunnyl.ru:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=llUN5iiAQwwKwiAp7zCwfU8wNz7F4lg__e9Qdv_gkWs&sid=0f1d6a#REALITY|ES🇪🇸
