@@ -97,8 +97,6 @@ ss://8ec48ed8-cc7c-4cc6-a69a-c95adfe4c371@188.166.150.79:443?path=%2Famuggqws&se
 ss://8ec48ed8-cc7c-4cc6-a69a-c95adfe4c371@188.166.150.79:443?path=%2Famuggqws&security=tls&encryption=none&type=ws&sni=ozon.ru#RU🇷🇺
 ss://8ec48ed8-cc7c-4cc6-a69a-c95adfe4c371@188.166.150.79:443?type=ws&encryption=none&flow=&path=%2Famuggqws&security=tls&sni=ozon.ru&allowInsecure=1#RU🇷🇺
 ss://8f631f3f-5854-4d77-961a-ad33e10e29bb@51.250.47.231:443?flow=xtls-rprx-vision&type=tcp&security=reality&sni=m.vk.com&pbk=jCx5_z80X_VVRXLp82uwOKgNJ7z5zh6_JXOvofyQmEo&sid=a8e8df4f1fb3e3f8&spx=%2Fsinavm#REALITY|RU🇷🇺
-ss://8f631f3f-5854-4d77-961a-ad33e10e29bb@51.250.47.231:443?flow=xtls-rprx-vision&type=tcp&security=reality&sni=m.vk.com&pbk=jCx5_z80X_VVRXLp82uwOKgNJ7z5zh6_JXOvofyQmEo&sid=a8e8df4f1fb3e3f8&spx=/sinavm#RU🇷🇺
-ss://8f631f3f-5854-4d77-961a-ad33e10e29bb@yt2.mcqueenconnection.ru:443?flow=xtls-rprx-vision&type=tcp&security=reality&sni=yt2.mcqueenconnection.ru&pbk=eXeP2FDXVR_WKCjX6QyiBjIAsfwcf_LNpz0hHjs63Rs&sid=f5390f7c74c4ea5c&spx=/sinavm#RU🇷🇺
 ss://9113f495-b6be-4002-ad3c-098996fc8875@165.232.98.129:443?type=ws&encryption=none&flow=&path=%2Fgjqezzws&security=tls&sni=www.vk.com&allowInsecure=1#RU🇷🇺
 ss://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443?path=%2Fulptgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#RU🇷🇺
 ss://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443?path=/ulptgqws#/@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=api.avito.ru#🇬🇧TM
@@ -383,8 +381,6 @@ vless://8ec48ed8-cc7c-4cc6-a69a-c95adfe4c371@188.166.150.79:443?path=%2Famuggqws
 vless://8ec48ed8-cc7c-4cc6-a69a-c95adfe4c371@188.166.150.79:443?path=%2Famuggqws&security=tls&encryption=none&type=ws&sni=ozon.ru#RU🇷🇺
 vless://8ec48ed8-cc7c-4cc6-a69a-c95adfe4c371@188.166.150.79:443?type=ws&encryption=none&flow=&path=%2Famuggqws&security=tls&sni=ozon.ru&allowInsecure=1#RU🇷🇺
 vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@51.250.47.231:443?flow=xtls-rprx-vision&type=tcp&security=reality&sni=m.vk.com&pbk=jCx5_z80X_VVRXLp82uwOKgNJ7z5zh6_JXOvofyQmEo&sid=a8e8df4f1fb3e3f8&spx=%2Fsinavm#REALITY|RU🇷🇺
-vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@51.250.47.231:443?flow=xtls-rprx-vision&type=tcp&security=reality&sni=m.vk.com&pbk=jCx5_z80X_VVRXLp82uwOKgNJ7z5zh6_JXOvofyQmEo&sid=a8e8df4f1fb3e3f8&spx=/sinavm#RU🇷🇺
-vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@yt2.mcqueenconnection.ru:443?flow=xtls-rprx-vision&type=tcp&security=reality&sni=yt2.mcqueenconnection.ru&pbk=eXeP2FDXVR_WKCjX6QyiBjIAsfwcf_LNpz0hHjs63Rs&sid=f5390f7c74c4ea5c&spx=/sinavm#RU🇷🇺
 vless://9113f495-b6be-4002-ad3c-098996fc8875@165.232.98.129:443?type=ws&encryption=none&flow=&path=%2Fgjqezzws&security=tls&sni=www.vk.com&allowInsecure=1#RU🇷🇺
 vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443?path=%2Fulptgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#RU🇷🇺
 vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443?path=/ulptgqws#/@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=api.avito.ru#🇬🇧TM

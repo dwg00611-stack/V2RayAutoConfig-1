@@ -15,7 +15,6 @@ ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&secu
 ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20OVH
 ss://2a325803-9458-455d-ad20-e51fab100145@51.68.198.51:8080?path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#FR🇫🇷
 ss://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@46.226.166.12:2087?encryption=none&type=tcp&headerType=none&security=reality&fp=firefox&sni=tgju.org&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&sid=6ba85179e30d4fc2&spx=%2Fsinavm-sinavm#REALITY|FR🇫🇷
-ss://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@46.226.166.12:2087?encryption=none&type=tcp&headerType=none&security=reality&fp=firefox&sni=tgju.org&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&sid=6ba85179e30d4fc2&spx=/sinavm-sinavm#FR🇫🇷
 ss://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@fra.germany-14.com:2087?encryption=none&type=tcp&headerType=none&security=reality&fp=firefox&sni=tgju.org&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&sid=6ba85179e30d4fc2#REALITY|FR🇫🇷
 ss://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@fra.germany-14.com:2087?security=reality&encryption=none&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=6ba85179e30d4fc2#REALITY|FR🇫🇷
 ss://2c3e2c41-4395-4df3-e788-cb9cc82beceb@81.12.27.93:52722?security=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7_IR_%E4%BC%8A%E6%9C%97-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
@@ -206,7 +205,6 @@ vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&s
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@ov-france2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20OVH
 vless://2a325803-9458-455d-ad20-e51fab100145@51.68.198.51:8080?path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#FR🇫🇷
 vless://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@46.226.166.12:2087?encryption=none&type=tcp&headerType=none&security=reality&fp=firefox&sni=tgju.org&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&sid=6ba85179e30d4fc2&spx=%2Fsinavm-sinavm#REALITY|FR🇫🇷
-vless://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@46.226.166.12:2087?encryption=none&type=tcp&headerType=none&security=reality&fp=firefox&sni=tgju.org&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&sid=6ba85179e30d4fc2&spx=/sinavm-sinavm#FR🇫🇷
 vless://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@fra.germany-14.com:2087?encryption=none&type=tcp&headerType=none&security=reality&fp=firefox&sni=tgju.org&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&sid=6ba85179e30d4fc2#REALITY|FR🇫🇷
 vless://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@fra.germany-14.com:2087?security=reality&encryption=none&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=6ba85179e30d4fc2#REALITY|FR🇫🇷
 vless://2c3e2c41-4395-4df3-e788-cb9cc82beceb@81.12.27.93:52722?security=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7_IR_%E4%BC%8A%E6%9C%97-%3E%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
