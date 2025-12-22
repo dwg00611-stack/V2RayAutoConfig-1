@@ -1,3 +1,4 @@
+ss://0a0d846f-8f54-4db4-940b-b373b1b02e4c@94.131.100.173:443?path=/coxzfsws&security=tls&encryption=none&host=639010645287857140.accord-lmnxa.info&type=ws&sni=www.vk.com#FI🇫🇮
 ss://0f3c5d1e-21e7-4f5d-b57e-a308686e22f3@185.42.163.177:1888?security=reality&encryption=none&pbk=GaVpyGU5Xqyd5SYmchrCIajjTiXF69bmCnUdftmrwTM&headerType=none&spx=%2F---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=tcp&flow=xtls-rprx-vision&sni=www.kernel.org&sid=16b7f8a207cda6e3#REALITY|FI🇫🇮
 ss://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&encryption=none&headerType=none&type=tcp&sni=cdn.chandplus.com#FI🇫🇮
 ss://15f64399-ebb4-4b82-9b9f-33b09638bc7f@65.109.209.95:443?mode=auto&path=%2F%40MaxFree---%40MaxFree---%40MaxFree---%40MaxFree---%40MaxFree&security=none&encryption=none&host=65.109.209.95&type=xhttp#FI🇫🇮
@@ -54,7 +55,6 @@ ss://e79c5771-9940-4907-b1c7-6388ee75a08a@85.192.49.156:443?encryption=none&flow
 ss://eea96ff1-ce17-4c8c-964c-fa774ecb84f2@94.131.100.164:443?path=/gfvfgzws&security=tls&encryption=none&type=ws&sni=www.vk.com#FI🇫🇮
 ss://eea96ff1-ce17-4c8c-964c-fa774ecb84f2@94.131.100.164:443?security=tls&type=ws&path=%2Fgfvfgzws&host=www.vk.com&allowInsecure=1&sni=www.vk.com#%F0%9F%87%AB%F0%9F%87%AE%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8A%AC%E5%85%B0%2001
 ss://f07b43a2-cb90-4bfb-b5d8-ff40e49eb40a@hy6awiaa3c2e.dopweed.com:2053?mode=gun&security=reality&encryption=none&pbk=MT9ODgKq9ix6fkp2zsyNcV8Os9FTOXKGKp_6NAoA0Ac&fp=firefox&spx=%2F&type=grpc&serviceName=Tel%3A%40%40vpnclashfa+-+2920#REALITY|FI🇫🇮
-ss://f4e6e061-2a5b-41c4-b244-2f9202f05b43@141.98.169.102:443?path=/tmvocqws&security=tls&encryption=none&type=ws&sni=www.vk.com#FI🇫🇮
 ss://f8633e30-f8d7-4e6a-9204-e7f512b7124e@135.181.62.183:443?security=tls&encryption=none&headerType=none&type=tcp&sni=service.rogsoftwaregroup.com#FI🇫🇮
 ss://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=app.chandplus.com#FI🇫🇮
 ss://fae6fb04-146d-47d6-9407-115297441a21@65.21.132.249:443?mode=gun&security=reality&encryption=none&pbk=GWyNYY_GyqTTu5ocCV9mv4dNibVXbgM1HTxSzM9ZnXU&fp=random&spx=%2F&type=grpc&serviceName=%40UnlimitedDev&sni=ftp.debian.org&sid=97bef998#REALITY|FI🇫🇮
@@ -63,6 +63,7 @@ trojan://62b78c9b-16cb-4ee6-824b-a4f856cf18f3@tr04.kaochangonline.online:443?all
 trojan://62b78c9b-16cb-4ee6-824b-a4f856cf18f3@transfer01.kaochangonline.online:443?allowInsecure=1#FI🇫🇮
 trojan://7d82af32-915f-4619-aa9c-7d3b612d33ff@65.109.227.138:2053/?type=ws&path=%2FFree-VPN-CF-Geo-Project%2F65.109.227.138%3D2053&security=tls&sni=joss.dus.biz.id#%F0%9F%87%AB%F0%9F%87%AEFI-65.109.227.138-1401
 trojan://88939272-790a-441f-b12b-8ce531aca810@polo01.kctr2038.icu:443/?type=tcp&security=tls&sni=polo01.kctr2038.icu#%F0%9F%87%AB%F0%9F%87%AEFI-65.108.205.61-0049
+vless://0a0d846f-8f54-4db4-940b-b373b1b02e4c@94.131.100.173:443?path=/coxzfsws&security=tls&encryption=none&host=639010645287857140.accord-lmnxa.info&type=ws&sni=www.vk.com#FI🇫🇮
 vless://0f3c5d1e-21e7-4f5d-b57e-a308686e22f3@185.42.163.177:1888?security=reality&encryption=none&pbk=GaVpyGU5Xqyd5SYmchrCIajjTiXF69bmCnUdftmrwTM&headerType=none&spx=%2F---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=tcp&flow=xtls-rprx-vision&sni=www.kernel.org&sid=16b7f8a207cda6e3#REALITY|FI🇫🇮
 vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&encryption=none&headerType=none&type=tcp&sni=cdn.chandplus.com#FI🇫🇮
 vless://15f64399-ebb4-4b82-9b9f-33b09638bc7f@65.109.209.95:443?mode=auto&path=%2F%40MaxFree---%40MaxFree---%40MaxFree---%40MaxFree---%40MaxFree&security=none&encryption=none&host=65.109.209.95&type=xhttp#FI🇫🇮
@@ -106,7 +107,6 @@ vless://e79c5771-9940-4907-b1c7-6388ee75a08a@85.192.49.156:443?encryption=none&f
 vless://eea96ff1-ce17-4c8c-964c-fa774ecb84f2@94.131.100.164:443?path=/gfvfgzws&security=tls&encryption=none&type=ws&sni=www.vk.com#FI🇫🇮
 vless://eea96ff1-ce17-4c8c-964c-fa774ecb84f2@94.131.100.164:443?security=tls&type=ws&path=%2Fgfvfgzws&host=www.vk.com&allowInsecure=1&sni=www.vk.com#%F0%9F%87%AB%F0%9F%87%AE%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8A%AC%E5%85%B0%2001
 vless://f07b43a2-cb90-4bfb-b5d8-ff40e49eb40a@hy6awiaa3c2e.dopweed.com:2053?mode=gun&security=reality&encryption=none&pbk=MT9ODgKq9ix6fkp2zsyNcV8Os9FTOXKGKp_6NAoA0Ac&fp=firefox&spx=%2F&type=grpc&serviceName=Tel%3A%40%40vpnclashfa+-+2920#REALITY|FI🇫🇮
-vless://f4e6e061-2a5b-41c4-b244-2f9202f05b43@141.98.169.102:443?path=/tmvocqws&security=tls&encryption=none&type=ws&sni=www.vk.com#FI🇫🇮
 vless://f8633e30-f8d7-4e6a-9204-e7f512b7124e@135.181.62.183:443?security=tls&encryption=none&headerType=none&type=tcp&sni=service.rogsoftwaregroup.com#FI🇫🇮
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=app.chandplus.com#FI🇫🇮
 vless://fae6fb04-146d-47d6-9407-115297441a21@65.21.132.249:443?mode=gun&security=reality&encryption=none&pbk=GWyNYY_GyqTTu5ocCV9mv4dNibVXbgM1HTxSzM9ZnXU&fp=random&spx=%2F&type=grpc&serviceName=%40UnlimitedDev&sni=ftp.debian.org&sid=97bef998#REALITY|FI🇫🇮
