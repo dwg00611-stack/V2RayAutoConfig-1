@@ -67,6 +67,7 @@ ss://9f0eae34-97c1-4c07-8a55-438379981334@104.16.86.2:80?encryption=none&securit
 ss://9f0eae34-97c1-4c07-8a55-438379981334@104.24.148.115:80?encryption=none&security=none&type=ws&host=snowy-bush-4df8-ppal03.toxebex651.workers.dev&path=/?ed=2560#📐Ch:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozdkI2UU5rbExOV3ZsVWY2c0phNUVQ@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+274.34ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckhSbFZwTnNFT0xqNTVJT0FpRUx3@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+260.07ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckhSbFZwTnNFT0xqNTVJT0FpRUx3@45.95.232.236:4248#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Zurich🅿️ping:31.0ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4VGc1ODN5bzFRZDRmUEszWWdVME9S@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+250.57ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4VGc1ODN5bzFRZDRmUEszWWdVME9S@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+266.49ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBV1RKalljZXVSS3lQZE1ldVl0YXh4@45.95.232.236:4248#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.236-4248+%7C+255.06ms
@@ -104,6 +105,8 @@ ss://c09d51b8-25c5-4eaf-98bc-ef40c807de84@104.16.65.193:80?encryption=none&secur
 ss://c09d51b8-25c5-4eaf-98bc-ef40c807de84@104.24.157.37:80?encryption=none&security=none&type=ws&host=dawn-mountain-d79f-ppal03.doniji1519.workers.dev&path=/?ed=2560#⏺️Ch:
 ss://c1659206-d827-41f6-9f73-f18ca30102d3@103.21.244.73:80?encryption=none&security=none&type=ws&host=still-forest-e3e8-ppal03.mekah93880.workers.dev&path=/?ed=2560#🎵Ch:
 ss://c1659206-d827-41f6-9f73-f18ca30102d3@104.16.53.48:80?encryption=none&security=none&type=ws&host=still-forest-e3e8-ppal03.mekah93880.workers.dev&path=/?ed=2560#🎵Ch:
+ss://c51fac89-9c57-4416-b48b-c780d6710605@ch.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Bern🅿️ping:64.0ms
+ss://c667498a-24d0-41f6-9b13-1429bab5f362@84.234.28.119:51912?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Geneva🅿️ping:34.76ms
 ss://ca68a029-971c-4ea4-8c1d-411cb7adc474@104.16.164.195:80?encryption=none&security=none&type=ws&host=patient-sunset-f000-ppal03.cijej53213.workers.dev&path=/?ed=2560#👡Ch:
 ss://ca68a029-971c-4ea4-8c1d-411cb7adc474@104.24.9.204:80?encryption=none&security=none&type=ws&host=patient-sunset-f000-ppal03.cijej53213.workers.dev&path=/?ed=2560#👡Ch:
 ss://d342d11ed4244583b36e524ab1f0afa4Og==@185.18.250.121:2095#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+185.18.250.121-2095+%7C+10.3ms
@@ -207,6 +210,8 @@ vless://c09d51b8-25c5-4eaf-98bc-ef40c807de84@104.16.65.193:80?encryption=none&se
 vless://c09d51b8-25c5-4eaf-98bc-ef40c807de84@104.24.157.37:80?encryption=none&security=none&type=ws&host=dawn-mountain-d79f-ppal03.doniji1519.workers.dev&path=/?ed=2560#⏺️Ch:
 vless://c1659206-d827-41f6-9f73-f18ca30102d3@103.21.244.73:80?encryption=none&security=none&type=ws&host=still-forest-e3e8-ppal03.mekah93880.workers.dev&path=/?ed=2560#🎵Ch:
 vless://c1659206-d827-41f6-9f73-f18ca30102d3@104.16.53.48:80?encryption=none&security=none&type=ws&host=still-forest-e3e8-ppal03.mekah93880.workers.dev&path=/?ed=2560#🎵Ch:
+vless://c51fac89-9c57-4416-b48b-c780d6710605@ch.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Bern🅿️ping:64.0ms
+vless://c667498a-24d0-41f6-9b13-1429bab5f362@84.234.28.119:51912?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Geneva🅿️ping:34.76ms
 vless://ca68a029-971c-4ea4-8c1d-411cb7adc474@104.16.164.195:80?encryption=none&security=none&type=ws&host=patient-sunset-f000-ppal03.cijej53213.workers.dev&path=/?ed=2560#👡Ch:
 vless://ca68a029-971c-4ea4-8c1d-411cb7adc474@104.24.9.204:80?encryption=none&security=none&type=ws&host=patient-sunset-f000-ppal03.cijej53213.workers.dev&path=/?ed=2560#👡Ch:
 vless://d4eddaf9-a660-4905-b835-cad98677b380@104.16.178.238:80?encryption=none&security=none&type=ws&host=little-bird-a235-ppal03.fosawaw121.workers.dev&path=/?ed=2560#😟Ch:
