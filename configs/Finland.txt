@@ -12,7 +12,6 @@ ss://3116cc23-0c39-4bb6-8154-d3f332e9017e@fi4.srv.oplcdn.link:7443?security=real
 ss://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&headerType=none&fp=random&type=tcp&sni=www.speedtest.net&sid=cbfe#REALITY|FI🇫🇮
 ss://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&host=%2F%3FBIA_CHANEL%40JOKERRVPN&headerType=none&fp=random&spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&type=tcp&sni=www.speedtest.net&sid=cbfe#REALITY|FI🇫🇮
 ss://3d617588-ae06-4379-bed9-60b6bac8dbdc@141.98.169.100:443?path=/oyoelzws&security=tls&encryption=none&type=ws&sni=www.vk.com#FI🇫🇮
-ss://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&headerType=none&type=tcp&sni=api.avito.ru#🇫🇮Finland
 ss://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=api.avito.ru#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:41.75ms
 ss://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&type=ws&host=cloudflare.com&path=/&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AFI
 ss://669be00c-67b4-4b87-b08f-311c45abced2@178.17.53.248:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#REALITY|FI🇫🇮
@@ -38,12 +37,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEt
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWUF0ODVTRkdWNTY=@185.77.217.217:443#%F0%9F%87%AB%F0%9F%87%AEFI-185.77.217.217-5948
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaUY5OHhCTDJ2MWk=@135.181.114.242:8478#%F0%9F%87%AB%F0%9F%87%AEFI-135.181.114.242-4015
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#%F0%9F%87%AB%F0%9F%87%AEFI-37.143.129.230-0311
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#%F0%9F%87%AB%F0%9F%87%AEFI-37.143.129.230-0355
 ss://YWVzLTI1Ni1nY206M2MwNjQ3ZjQtYjJhNC00NGVlLWFkOWQtYzQ4OTRhMDgxYzZi@38.244.209.215:443#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+38.244.209.215-443+%7C+156.35ms
 ss://a730dc53-5ff7-4dfc-9a90-a58dca829ab0@94.131.100.162:443?path=%2Fvirwsmws&security=tls&encryption=none&insecure=1&host=console.firebase.google.com&type=ws&allowInsecure=1&sni=console.firebase.google.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:59.58ms
 ss://ae21b3e7-1694-4efe-bb21-69497843142f@65.109.182.239:443/?type=ws&encryption=none&path=%2F#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40iranbfilter%20%5B6%5D
 ss://ae21b3e7-1694-4efe-bb21-69497843142f@65.109.182.239:443?type=ws&path=%2F&host=&security=none#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40iranbfilter%20%5B6%5D
-ss://bef46be4-a5f3-4e4c-b6fb-c4d38b3dba50@141.98.169.96:443?path=%2Fiixmriws&security=tls&encryption=none&type=ws&sni=api.avito.ru#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vmesc%20%5B20%5D
 ss://bf92bdef-ab8d-4481-8798-2d39023357b2@45.144.53.113:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#REALITY|FI🇫🇮
 ss://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?security=reality&encryption=none&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru&sid=9d36b8589fa524fd#REALITY|FI🇫🇮
 ss://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&allowInsecure=1&fp=chrome&security=reality&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&sid=9d36b8589fa524fd#REALITY|FI🇫🇮
@@ -77,7 +74,6 @@ vless://3116cc23-0c39-4bb6-8154-d3f332e9017e@fi4.srv.oplcdn.link:7443?security=r
 vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&headerType=none&fp=random&type=tcp&sni=www.speedtest.net&sid=cbfe#REALITY|FI🇫🇮
 vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&host=%2F%3FBIA_CHANEL%40JOKERRVPN&headerType=none&fp=random&spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&type=tcp&sni=www.speedtest.net&sid=cbfe#REALITY|FI🇫🇮
 vless://3d617588-ae06-4379-bed9-60b6bac8dbdc@141.98.169.100:443?path=/oyoelzws&security=tls&encryption=none&type=ws&sni=www.vk.com#FI🇫🇮
-vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&headerType=none&type=tcp&sni=api.avito.ru#🇫🇮Finland
 vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=api.avito.ru#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:41.75ms
 vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&type=ws&host=cloudflare.com&path=/&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AFI
 vless://669be00c-67b4-4b87-b08f-311c45abced2@178.17.53.248:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#REALITY|FI🇫🇮
@@ -95,7 +91,6 @@ vless://98635c25-7ce5-416e-9a45-3fcadc878f93@46.62.139.178:1111?mode=gun&securit
 vless://a730dc53-5ff7-4dfc-9a90-a58dca829ab0@94.131.100.162:443?path=%2Fvirwsmws&security=tls&encryption=none&insecure=1&host=console.firebase.google.com&type=ws&allowInsecure=1&sni=console.firebase.google.com#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:59.58ms
 vless://ae21b3e7-1694-4efe-bb21-69497843142f@65.109.182.239:443/?type=ws&encryption=none&path=%2F#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40iranbfilter%20%5B6%5D
 vless://ae21b3e7-1694-4efe-bb21-69497843142f@65.109.182.239:443?type=ws&path=%2F&host=&security=none#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40iranbfilter%20%5B6%5D
-vless://bef46be4-a5f3-4e4c-b6fb-c4d38b3dba50@141.98.169.96:443?path=%2Fiixmriws&security=tls&encryption=none&type=ws&sni=api.avito.ru#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vmesc%20%5B20%5D
 vless://bf92bdef-ab8d-4481-8798-2d39023357b2@45.144.53.113:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#REALITY|FI🇫🇮
 vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?security=reality&encryption=none&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru&sid=9d36b8589fa524fd#REALITY|FI🇫🇮
 vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&allowInsecure=1&fp=chrome&security=reality&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&sid=9d36b8589fa524fd#REALITY|FI🇫🇮
