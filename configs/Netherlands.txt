@@ -55,8 +55,6 @@ ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&e
 ss://4914cac8-d4f7-4ffe-9c58-1117c9cb1887@192.142.53.38:37321?mode=multi&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
 ss://4a3ece53-6000-4ba3-a9fa-fd0d7ba61cf3@185.82.73.212:8443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=d3b13f31#REALITY|NL🇳🇱
 ss://4ea87116-fb13-4f71-a217-4fd8e9c0e0d8@103.137.193.27:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=netherlands90.clearorbitllc.com&pbk=_PPghOWRgzW0AWBUAv7gU7Nb1vu9aBRBDn4MoBNz6Hs&spx=%2Fsinavm_sinavm#REALITY|NL🇳🇱
-ss://5050e255-4919-4d7f-96c8-30b13d06fdf6@188.114.96.7:443?&security=tls&fp=chrome&sni=1mcijea74uykccq2mzrx-mnghducyf0b.damav48375.workers.dev&type=ws&headerType=none&host=1mcijea74uykccq2mzrx-mnghducyf0b.damav48375.workers.dev&path=%2FnXWz3i2XoxHvOGI4%3Fed#_%E8%8D%B7%E5%85%B0%203
-ss://50c2354a-442a-4dd4-b8b5-9b47ae4c5165@45.131.4.11:80?&security=false&fp=chrome&type=ws&headerType=none&host=icy-block-acf1.exhume-skirt-smirk.workers.dev&path=%2FHLW3JoJi6BADhOry16#_%E8%8D%B7%E5%85%B0%202
 ss://53958b8e-8fa9-4566-a7d4-0f81611d7dbf@46.151.26.197:443?encryption=none&type=xhttp&mode=auto&host=newser3.ultimateserv.ru&path=%2F&security=tls&sni=newser3.ultimateserv.ru&alpn=h2%2Chttp%2F1.1#NL🇳🇱
 ss://55975415-43c0-461c-8752-d5b8013364e3@167.17.70.16:8443?security=reality&encryption=none&pbk=8W9r2aXGhKNtvPxnL6EiPpQuSm9OJT17x2xyxwxIo30&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=84f70f1177981563#REALITY|NL🇳🇱
 ss://55fdba7f-8ae4-47f3-ad23-86b25c049b0d@172.67.136.244:2053/?type=ws&encryption=none&flow=&host=full.app-browser.org&path=%2FR8aKBOK1R7OBYYMZ&ed=8787&eh=Sec-WebSocket-Protocol&security=tls&sni=full.app-browser.org&allowInsecure=1#NL
@@ -377,14 +375,16 @@ trojan://3690911436885991424@careful-platypus.opossum872.cfd:443?allowInsecure=1
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443/?type=tcp&security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-212.32.255.111-4999
 trojan://5ad5fe82-6b60-4f59-977b-93910ef7a9ca@86.107.197.239:443/?type=ws&path=%2FFree-VPN-CF-Geo-Project%2F86.107.197.239%3D443&security=tls&sni=joss.dus.biz.id#%F0%9F%87%B3%F0%9F%87%B1NL-86.107.197.239-1405
 trojan://7418004a-0ecd-41c0-a062-42bf966d3fb2@cf.0sm.com:443?allowInsecure=0&sni=vd.vmy2024.dpdns.org&ws=1&wspath=%2F#%F0%9F%87%B3%F0%9F%87%B1%20NL%E8%8D%B7%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://7418004a-0ecd-41c0-a062-42bf966d3fb2@cf.0sm.com:443?sni=vd.vmy2024.dpdns.org#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0
 trojan://7418004a-0ecd-41c0-a062-42bf966d3fb2@cf.0sm.com:443?sni=vd.vmy2024.dpdns.org#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B02
 trojan://8d16a256-42d7-4431-8039-da1eb06cafbc@it-full.privateip.net:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-5.253.43.181-4902
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?allowInsecure=0&sni=mfyousheng.nl.eu.org&ws=1&wspath=%2FtjwsLhx0SFASG4l9FERJ1g#%F0%9F%87%B3%F0%9F%87%B1%20NL%E8%8D%B7%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?sni=mfyousheng.nl.eu.org#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?sni=mfyousheng.nl.eu.org#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B02
 trojan://Szb%3D-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345/?type=tcp&security=tls&sni=infiniteinjera.semanticstrainer.click&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://Szb%3D-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345?type=tcp&security=tls&sni=infiniteinjera.semanticstrainer.click&allowInsecure=1#NL🇳🇱
-trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345?allowInsecure=0&sni=infiniteinjera.semanticstrainer.click#NL-95.179.183.126-1529
-trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@95.179.184.71:13345?allowInsecure=0&sni=infiniteinjera.semanticstrainer.click#NL-95.179.184.71-1536
+trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@95.179.183.126:13345?allowInsecure=0&sni=infiniteinjera.semanticstrainer.click#NL-95.179.183.126-1665
+trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@95.179.184.71:13345?allowInsecure=0&sni=infiniteinjera.semanticstrainer.click#NL-95.179.184.71-1668
 trojan://TestingServer@@@94.102.53.19:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-94.102.53.19-0711
 trojan://ee339912-0c35-4fac-8d85-180b65bcd49c@81.22.132.183:443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%B3%F0%9F%87%B1NL-81.22.132.183-1210
 trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443/?type=tcp&security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-8988
@@ -446,8 +446,6 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=realit
 vless://4914cac8-d4f7-4ffe-9c58-1117c9cb1887@192.142.53.38:37321?mode=multi&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
 vless://4a3ece53-6000-4ba3-a9fa-fd0d7ba61cf3@185.82.73.212:8443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=d3b13f31#REALITY|NL🇳🇱
 vless://4ea87116-fb13-4f71-a217-4fd8e9c0e0d8@103.137.193.27:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=netherlands90.clearorbitllc.com&pbk=_PPghOWRgzW0AWBUAv7gU7Nb1vu9aBRBDn4MoBNz6Hs&spx=%2Fsinavm_sinavm#REALITY|NL🇳🇱
-vless://5050e255-4919-4d7f-96c8-30b13d06fdf6@188.114.96.7:443?&security=tls&fp=chrome&sni=1mcijea74uykccq2mzrx-mnghducyf0b.damav48375.workers.dev&type=ws&headerType=none&host=1mcijea74uykccq2mzrx-mnghducyf0b.damav48375.workers.dev&path=%2FnXWz3i2XoxHvOGI4%3Fed#_%E8%8D%B7%E5%85%B0%203
-vless://50c2354a-442a-4dd4-b8b5-9b47ae4c5165@45.131.4.11:80?&security=false&fp=chrome&type=ws&headerType=none&host=icy-block-acf1.exhume-skirt-smirk.workers.dev&path=%2FHLW3JoJi6BADhOry16#_%E8%8D%B7%E5%85%B0%202
 vless://53958b8e-8fa9-4566-a7d4-0f81611d7dbf@46.151.26.197:443?encryption=none&type=xhttp&mode=auto&host=newser3.ultimateserv.ru&path=%2F&security=tls&sni=newser3.ultimateserv.ru&alpn=h2%2Chttp%2F1.1#NL🇳🇱
 vless://55975415-43c0-461c-8752-d5b8013364e3@167.17.70.16:8443?security=reality&encryption=none&pbk=8W9r2aXGhKNtvPxnL6EiPpQuSm9OJT17x2xyxwxIo30&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=84f70f1177981563#REALITY|NL🇳🇱
 vless://55fdba7f-8ae4-47f3-ad23-86b25c049b0d@172.67.136.244:2053/?type=ws&encryption=none&flow=&host=full.app-browser.org&path=%2FR8aKBOK1R7OBYYMZ&ed=8787&eh=Sec-WebSocket-Protocol&security=tls&sni=full.app-browser.org&allowInsecure=1#NL
