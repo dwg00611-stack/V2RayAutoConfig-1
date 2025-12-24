@@ -2,9 +2,9 @@ ss://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?&security=false&fp=
 ss://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?&security=false&fp=chrome&type=ws&headerType=none&host=cloudflare.com&path=%2F#%5B%F0%9F%87%AB%F0%9F%87%AE%5D%20%5Bvl-no-ws%5D%20%5B251224-011613.395%5D
 ss://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?&security=false&fp=chrome&type=ws&headerType=none&host=google.com&path=%2Fvless%2F#%5B%F0%9F%87%AC%F0%9F%87%A7%5D%20%5Bvl-no-ws%5D%20%5B251224-011806.668%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA%3D%3D@107.174.114.71:443#%3E%3E%40DailyV2RY%3A%3ANO
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA3D3A==@107.174.114.71:443#NO%F0%9F%87%B3%F0%9F%87%B4+%7C+107.174.114.71-443+%7C+151.97ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA3D3A==@107.174.114.71:443#NO%F0%9F%87%B3%F0%9F%87%B4+%7C+107.174.114.71-443+%7C+120.5ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#%F0%9F%87%B3%F0%9F%87%B4NO-107.174.114.71-0402
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#NO%F0%9F%87%B3%F0%9F%87%B4+%7C+107.174.114.71-443+%7C+153.3ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#NO%F0%9F%87%B3%F0%9F%87%B4+%7C+107.174.114.71-443+%7C+114.69ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#%F0%9F%87%B3%F0%9F%87%B4NO-185.213.23.63-0327
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#%F0%9F%87%B3%F0%9F%87%B4NO-185.213.23.63-0359
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.90.61.153:989#%F0%9F%87%B3%F0%9F%87%B4NO-185.90.61.153-8656
@@ -14,9 +14,8 @@ ss://dd0f3ac0-98db-4ad0-9ac4-a3db5b6aa18e@104.26.6.89:80?&security=false&fp=chro
 ss://df54e90b-a045-489e-8666-d77a73e4effe@fastly.extvay.ir:80/?type=ws&encryption=none&host=External_Net.org&path=%3Fed%3D9090#%F0%9F%87%B9%F0%9F%87%B7%20%7C%20Fastly%20no%20tls%20%E2%9A%A1%F0%9F%9A%A8
 ss://efedc1df-739e-4869-b41c-558f3b9fc53f@172.66.156.81:80?&security=false&fp=chrome&type=ws&headerType=none&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%20%5Bvl-no-ws%5D%20%5B251224-012006.091%5D
 ss://id6856346113@s5.nodu8.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.vk.com&fp=random&security=reality&pbk=HS3ZBNzmMlUxTJIzQdYfS-_WbGJ2mwMINU3A1iwLxw8&sid=a79e1dd256#3%20%7C%20%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F%20%F0%9F%87%B3%F0%9F%87%B4
+trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&allowInsecure=true#NO🇳🇴
 trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&headerType=none&type=tcp#NO🇳🇴
-trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#NO🇳🇴
-trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?sni=83.143.87.9&allowInsecure=1&fp=chrome#NO🇳🇴
 trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?type=tcp&security=tls&allowInsecure=1#NO🇳🇴
 trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?security=tls&headerType=none&type=tcp&sni=bldgmy.nejzftlubrig.click#NO🇳🇴
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?&security=false&fp=chrome&type=ws&headerType=none&path=%2Fpanika#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-no-ws%5D%20%5B251224-011511.882%5D
