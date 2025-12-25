@@ -384,7 +384,6 @@ ss://e34465f1-f5ae-433f-8cc7-75aa4ff4d2fe@tttt1.hennessypro.site:4001/?encryptio
 ss://e4b8df56-b680-4a34-ab47-5bf5738ed718@5.181.21.72:443?security=reality&encryption=none&pbk=v9CxKfIPtkKH1cTGKEer-1i-3JL31vZPpPl2Ujnbjh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=85225c27630d023f#@IRAN_V2RAY1
 ss://e4c339d7-cbdc-41a6-98ab-a0ca04bac5ab@irlast.adkoino.com:443/?encryption=none&host=iranserver.com&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40irlast%20%5B1%5D
 ss://e4ceb917-3020-4486-a1ab-36534aed11de@s16.leader21.top:5053/?type=ws&encryption=none&host=s16.leader21.top&path=%2Fhttp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40golf_vpn%20%5B14%5D
-ss://e78a4c35-b1ce-43c5-9a1c-7e120b6bf16c@91.98.232.80:8880?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#_%E4%BC%8A%E6%9C%97
 ss://e7f80705-a246-42b0-9b18-802d125aedc3@104.24.40.146:443?path=/index.html?ed&security=tls&encryption=none&host=revest.maketunnelim.lat&fp=chrome&type=ws&sni=revest.maketunnelim.lat#@FrewIranWeb
 ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@92.118.232.28:443?path=/&security=tls&encryption=none&fp=chrome&type=ws#MCI--@IRAN_V2RAY1
 ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=smart.trevanda.info#@IRAN_V2RAY1
@@ -692,7 +691,6 @@ vless://e34465f1-f5ae-433f-8cc7-75aa4ff4d2fe@tttt1.hennessypro.site:4001/?encryp
 vless://e4b8df56-b680-4a34-ab47-5bf5738ed718@5.181.21.72:443?security=reality&encryption=none&pbk=v9CxKfIPtkKH1cTGKEer-1i-3JL31vZPpPl2Ujnbjh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=85225c27630d023f#@IRAN_V2RAY1
 vless://e4c339d7-cbdc-41a6-98ab-a0ca04bac5ab@irlast.adkoino.com:443/?encryption=none&host=iranserver.com&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40irlast%20%5B1%5D
 vless://e4ceb917-3020-4486-a1ab-36534aed11de@s16.leader21.top:5053/?type=ws&encryption=none&host=s16.leader21.top&path=%2Fhttp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40golf_vpn%20%5B14%5D
-vless://e78a4c35-b1ce-43c5-9a1c-7e120b6bf16c@91.98.232.80:8880?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#_%E4%BC%8A%E6%9C%97
 vless://e7f80705-a246-42b0-9b18-802d125aedc3@104.24.40.146:443?path=/index.html?ed&security=tls&encryption=none&host=revest.maketunnelim.lat&fp=chrome&type=ws&sni=revest.maketunnelim.lat#@FrewIranWeb
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@92.118.232.28:443?path=/&security=tls&encryption=none&fp=chrome&type=ws#MCI--@IRAN_V2RAY1
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=smart.trevanda.info#@IRAN_V2RAY1
