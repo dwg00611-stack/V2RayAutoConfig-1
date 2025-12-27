@@ -94,6 +94,7 @@ trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3093?security=tls&sni=ww
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3093?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.107.37-5085
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3093?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3%205.2MB%2Fs
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Japan%20NTT%20Pc
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:240ms
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.107.37-0340
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.107.37-5082
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2%203.1MB%2Fs
@@ -108,6 +109,8 @@ trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.242.183:3093?security=tls&sni=w
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.242.183:3093?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.242.183-5088
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.70.180:3093?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.70.180-1324
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.70.180:3093?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.70.180-0901
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.81.84:2760/?type=tcp&security=tls&sni=t.me%2Foneclickvpnkeys#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:243.94ms
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.81.84:2760/?type=tcp&security=tls&sni=t.me%2Foneclickvpnkeys#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:246.49ms
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.87.174:3093?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.87.174:3093?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40stairnode
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.87.174:3093?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.87.174-1760
