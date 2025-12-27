@@ -115,7 +115,6 @@ ss://YWVzLTI1Ni1nY206NWYwMGU4ODAtNDVkOS00NDRjLWFmMTMtMTI4MjBlYjEzZmZj@ss.037.nod
 ss://YWVzLTI1Ni1nY206NWYwMGU4ODAtNDVkOS00NDRjLWFmMTMtMTI4MjBlYjEzZmZj@ss.040.node-for-bigairport.win:11689#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.170.211-1795
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@139.99.68.21:6379#%F0%9F%87%B8%F0%9F%87%ACSG-139.99.68.21-5835
 ss://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443?&security=tls&fp=chrome&type=tcp&headerType=none&host=free-server.techsonic.cloud&path=%2F#_%E6%96%B0%E5%8A%A0%E5%9D%A1
-ss://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443?type=tcp&encryption=none&flow=&security=tls#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:252.75ms
 ss://bb6e0719-3d1a-4896-bddc-ddc86d682609@104.16.122.4:8080?path=%2F&security=none&encryption=none&host=support.sslzoom.us&type=ws#SG🇸🇬
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%ACSG-68.183.227.4-0315
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%ACSG-68.183.227.4-0359
@@ -145,7 +144,6 @@ trojan://Aimer@150.109.11.223:443/?type=tcp&security=tls&sni=agepy.aimercc.fileg
 trojan://Aimer@206.238.236.216:2083/?type=tcp&security=tls&sni=agepy.aimercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-206.238.236.216-1376
 trojan://Aimer@206.238.236.216:2083/?type=tcp&security=tls&sni=agepy.aimercc.filegear-sg.me&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACSG-206.238.236.216-1376
 trojan://Aimer@206.238.236.252:2096/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-206.238.236.252-1495
-trojan://Aimer@206.238.237.86:2087/?type=tcp&security=tls&sni=agepy.ambercc.filegear-sg.me&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:22ms
 trojan://Aimer@43.156.116.194:443/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-43.156.116.194-1320
 trojan://BxceQaOe@18.167.99.12:3579?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@18.167.99.12:3579?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
@@ -183,7 +181,6 @@ vless://39eb8c33-ee7f-4980-b3e5-684aaf390f56@ev.zoom.us:8443?path=%2F&security=t
 vless://39eb8c33-ee7f-4980-b3e5-684aaf390f56@partner.zoom.us:8443?security=tls&type=ws&path=%2F&host=darknet-free.alexid.org&alpn=h2%2Chttp%2F1.1&sni=darknet-free.alexid.org&fp=chrome&encryption=none#SG🇸🇬
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
 vless://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443?&security=tls&fp=chrome&type=tcp&headerType=none&host=free-server.techsonic.cloud&path=%2F#_%E6%96%B0%E5%8A%A0%E5%9D%A1
-vless://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443?type=tcp&encryption=none&flow=&security=tls#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:252.75ms
 vless://bb6e0719-3d1a-4896-bddc-ddc86d682609@104.16.122.4:8080?path=%2F&security=none&encryption=none&host=support.sslzoom.us&type=ws#SG🇸🇬
 vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://f8f192d7-44df-477c-b1f5-76e77a42f511@news.zoom.us:2096?path=%2Fadmin%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=shalana.onhit.xyz&fp=chrome&type=ws&sni=shalana.onhit.xyz#SG🇸🇬
