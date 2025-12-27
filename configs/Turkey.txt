@@ -1,5 +1,4 @@
 ss://0182e7fb-802a-4578-95cf-ec1dbfe0b0f3@br.michelstore.shop:49720?type=tcp&encryption=none&security=none#TR🇹🇷
-ss://19ce4cff-f1f9-495c-adc3-f992659e379e@br.michelstore.shop:49720/?type=tcp&encryption=none&security=none#TR-Test-30G
 ss://40730d97-ffa7-1108-2c53-761516eb5fda@155.212.110.3:443?security=reality&encryption=none&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|TR🇹🇷
 ss://4f09c421-f289-4e4e-8d70-a96582376011@62.60.233.181:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=stackoverflow.com&fp=chrome&security=reality&pbk=n-jengMmQUhis2zhigHO-o51vL_59JLh2_WuG8v6TxU&sid=21aeac0f2a#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayngseven%20%5B10%5D
 ss://50897f87-f946-41f8-a709-48c3e588686f@tr.gpairnetwork369.de:3060?security=reality&encryption=none&pbk=NVjEaDFrdzaFQHvMt8BPORsLFR3iD8NA31Dpn-1HRFk&headerType=none&fp=chrome&type=tcp&sni=www.refersion.com&sid=ecd8d10c1518fb7b#REALITY|TR🇹🇷
@@ -42,7 +41,6 @@ ss://id7396444759@103.231.75.115:443/?type=tcp&encryption=none&flow=xtls-rprx-vi
 trojan://4d5cc30d-df0f-4d9a-ab3c-6a70ab0ce361@tr-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR-94.131.123.236-4853
 trojan://4d5cc30d-df0f-4d9a-ab3c-6a70ab0ce361@tr-full.privateip.net:443?security=tls#%F0%9F%87%B9%F0%9F%87%B7TR-94.131.123.236-4899
 vless://0182e7fb-802a-4578-95cf-ec1dbfe0b0f3@br.michelstore.shop:49720?type=tcp&encryption=none&security=none#TR🇹🇷
-vless://19ce4cff-f1f9-495c-adc3-f992659e379e@br.michelstore.shop:49720/?type=tcp&encryption=none&security=none#TR-Test-30G
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@155.212.110.3:443?security=reality&encryption=none&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|TR🇹🇷
 vless://4f09c421-f289-4e4e-8d70-a96582376011@62.60.233.181:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=stackoverflow.com&fp=chrome&security=reality&pbk=n-jengMmQUhis2zhigHO-o51vL_59JLh2_WuG8v6TxU&sid=21aeac0f2a#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayngseven%20%5B10%5D
 vless://50897f87-f946-41f8-a709-48c3e588686f@tr.gpairnetwork369.de:3060?security=reality&encryption=none&pbk=NVjEaDFrdzaFQHvMt8BPORsLFR3iD8NA31Dpn-1HRFk&headerType=none&fp=chrome&type=tcp&sni=www.refersion.com&sid=ecd8d10c1518fb7b#REALITY|TR🇹🇷
