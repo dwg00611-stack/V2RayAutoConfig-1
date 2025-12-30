@@ -55,7 +55,7 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a14:3f87:f001:1a::a]:35000?se
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@dir.cybsecguru.com:35000?insecure=0&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%94%B8%40IRAN_V2RAY1%F0%9F%92%98%20%2310
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@dir.cybsecguru.com:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🔸@IRAN_V2RAY1💘
 hysteria2://be8cc8f6-0c6a-11f0-a5a3-f23c93141fad@ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk:1743?insecure=0&sni=ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk#%F0%9F%94%B8%40IRAN_V2RAY1%F0%9F%92%98%20%2311
-hysteria2://be8cc8f6-0c6a-11f0-a5a3-f23c93141fad@ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk:1743?insecure=0&sni=ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk#10%7C%F0%9F%94%B8%40IRAN_V2RAY1%F0%9F%92%98%20%239
+hysteria2://be8cc8f6-0c6a-11f0-a5a3-f23c93141fad@ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk:1743?insecure=0&sni=ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk#10%7C%F0%9F%94%B8%40IRAN_V2RAY1%F0%9F%92%98%20%238
 hysteria2://be8cc8f6-0c6a-11f0-a5a3-f23c93141fad@ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk:1743?security=tls&insecure=0&sni=ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk#🔸@IRAN_V2RAY1💘
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&insecure=1&sni=hl01.mistea.top#All-@IRAN_V2RAY1
 hysteria2://da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d@hk.xn--gmq00sc0nuve.shop:21268?insecure=0#%F0%9F%94%B8%40IRAN_V2RAY1%F0%9F%92%98%20%2312
@@ -277,6 +277,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWE9WakVNc3gwMGplT1F6SHNRcmtM@213.176.16.71:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsa3dxbGE3QjdJMXpQMUJadDlIOUZC@78.157.48.148:443#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+78.157.48.148-443+%7C+163.79ms
 ss://YWVzLTI1Ni1nY206ZDNkMDYwMDktNTgwYy1kMGY1LWVlMGUtNjg0NGU4MTU1NTQy@93343878961078676381579883502615.international-ixp.com:11305#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+93343878961078676381579883502615.international-ixp.com-11305+%7C+256.23ms
 ss://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@colin.ns.cloudflare.com:443?path=/fiedpnws&security=tls&encryption=none&host=638971674693810969.brussels-prmpl-aaaad.com&type=ws&sni=638971674693810969.brussels-prmpl-aaaad.com#MTN--@IRAN_V2RAY1
+ss://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#_%E4%BC%8A%E6%9C%97%202
 ss://a75bdccd-fc01-49ae-9a5b-2962b8da40e2@vngir.venusconnection.online:8443?path=%2Fnetherlands&security=none&encryption=none&type=ws#IR🇮🇷
 ss://a7c7966a-82ea-45f8-bb32-5d80e6caf320@graygoat.fonixapp.org:45846?security=reality&encryption=none&pbk=17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=ac#@IRAN_V2RAY1--All
 ss://a9457db5-e0b8-4a86-bb33-957c99b235c0@185.243.99.104:29453?security=reality&encryption=none&pbk=cXsw864RT4iYYUdUe02MPtYLYjantGqOSSQjc5Y8mCY&headerType=none&fp=chrome&type=tcp&sni=zhaket.com&sid=850a5cbb81#All--@IRAN_V2RAY1
@@ -369,8 +370,7 @@ ss://fea633c3-cacf-41d7-951a-a04b578b0dcf@bountyhunter.fonixapp.org:18092?securi
 ss://ff84dbed-bbfb-42d8-b397-b0ec025fb570@nodegcf.azurka.org:443?path=/ws&security=tls&encryption=none&host=nodegcf.azurka.org&fp=chrome&type=ws&sni=nodegcf.azurka.org#All-@IRAN_V2RAY1
 ss://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443/?type=ws&encryption=none&host=www.dns-shop.ir&path=%2F%3Fed%3D2048&security=tls&sni=www.dns-shop.ir&alpn=h2%2Chttp%2F1.1&fp=chrome#Bya%20To%20%3A%20%40Iran_V2ray1
 ss://narcod_ping@85.133.228.198:41546/?encryption=none&host=varzesh3.com&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40narcod_ping%20%5B14%5D
-trojan://09e71e3b-1f9f-44ab-9a10-02e0e10e2f05@37.202.200.19:25010?sni=37.202.200.19#%E4%BC%8A%E6%9C%97+V2CROSS.COM
-trojan://09e71e3b-1f9f-44ab-9a10-02e0e10e2f05@37.202.200.19:25010?sni=37.202.200.19#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%97
+trojan://09e71e3b-1f9f-44ab-9a10-02e0e10e2f05@37.202.200.19:25010?allowInsecure=1&sni=37.202.200.19#%5BTrojan%5D%20%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20V2CROSS.COM
 trojan://BxceQaOe@153.121.51.221:1821?security=tls&headerType=none&type=tcp&sni=t.me/ripaojiedian#@IRAN_V2RAY1
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@IRAN_V2RAY1
 trojan://Xa4%5El(%3B.%3BB%23a@104.18.26.90:443/?type=ws&host=s1.mitivpn.workers.dev&path=%2FtrUXByA1rnbs4YQ1Xw%3Fed%3D2560&security=tls&sni=S1.mitivpN.wOrKeRS.DEV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized#Join%20To%20%40IRAN_V2RAY1
@@ -555,6 +555,7 @@ vless://Warpi-Free-Vpn-In-GooglePlay@78.47.80.152:443?security=none&encryption=n
 vless://Warpi-Free-Vpn-In-GooglePlay@91.98.153.140:443?security=none&encryption=none&headerType=none&type=tcp#MCI--@IRAN_V2RAY1
 vless://Warpi-Free-Vpn-In-GooglePlay@vp9.myphotomoments.ir:443?security=none&encryption=none&headerType=none&type=tcp#All--@IRAN_V2RAY1🇩🇪
 vless://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@colin.ns.cloudflare.com:443?path=/fiedpnws&security=tls&encryption=none&host=638971674693810969.brussels-prmpl-aaaad.com&type=ws&sni=638971674693810969.brussels-prmpl-aaaad.com#MTN--@IRAN_V2RAY1
+vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#_%E4%BC%8A%E6%9C%97%202
 vless://a75bdccd-fc01-49ae-9a5b-2962b8da40e2@vngir.venusconnection.online:8443?path=%2Fnetherlands&security=none&encryption=none&type=ws#IR🇮🇷
 vless://a7c7966a-82ea-45f8-bb32-5d80e6caf320@graygoat.fonixapp.org:45846?security=reality&encryption=none&pbk=17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=ac#@IRAN_V2RAY1--All
 vless://a9457db5-e0b8-4a86-bb33-957c99b235c0@185.243.99.104:29453?security=reality&encryption=none&pbk=cXsw864RT4iYYUdUe02MPtYLYjantGqOSSQjc5Y8mCY&headerType=none&fp=chrome&type=tcp&sni=zhaket.com&sid=850a5cbb81#All--@IRAN_V2RAY1

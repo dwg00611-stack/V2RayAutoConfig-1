@@ -1,6 +1,5 @@
 ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net#%3E%3E%40oneclickvpnkeys%3A%3AES
 ss://1a79d43fb41c496ba241dcbeefa81f0eOg==@185.114.72.31:2053#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+185.114.72.31-2053+%7C+74.09ms
-ss://23d94ce7-81fe-4a37-935d-0fa980485c51@nl1.jugploer.icu:443?&security=reality&flow=xtls-rprx-vision&pbk=do5W1A_cUiSkYzmQK1xCcky0LZEU6UQh9eSnz-LyJ0o&fp=chrome&sni=nl1.jugploer.icu&type=tcp&headerType=none&host=nl1.jugploer.icu&path=%2F#_%E8%A5%BF%E7%8F%AD%E7%89%99%202
 ss://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096/?type=ws&encryption=none&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=fast01.0860852.xyz#%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40flyv2ray%20%5B14%5D
 ss://72615705-3061-4f03-9389-01369d9c67a4@154.58.204.51:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msn.com#REALITY|ES🇪🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4RnBnTFhGcXpHRGt2STFjM0ZhaW1a@45.86.229.239:24894#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.86.229.239-24894+%7C+74.16ms
@@ -54,7 +53,6 @@ ss://d03e4b60-435d-4fc9-acd6-b63cff37b6eb@tunnyl.ru:443?type=tcp&encryption=none
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@185.238.228.29:8880#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+185.238.228.29-8880+%7C+6.21ms
 trojan://be94cd60-8e91-4cd6-9c53-26ee1314edfd@178.33.161.196:2053/?type=ws&path=%2FFree-VPN-CF-Geo-Project%2F178.33.161.196%3D2053&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%AA%F0%9F%87%B8ES-178.33.161.196-1436
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net#%3E%3E%40oneclickvpnkeys%3A%3AES
-vless://23d94ce7-81fe-4a37-935d-0fa980485c51@nl1.jugploer.icu:443?&security=reality&flow=xtls-rprx-vision&pbk=do5W1A_cUiSkYzmQK1xCcky0LZEU6UQh9eSnz-LyJ0o&fp=chrome&sni=nl1.jugploer.icu&type=tcp&headerType=none&host=nl1.jugploer.icu&path=%2F#_%E8%A5%BF%E7%8F%AD%E7%89%99%202
 vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096/?type=ws&encryption=none&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=fast01.0860852.xyz#%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40flyv2ray%20%5B14%5D
 vless://72615705-3061-4f03-9389-01369d9c67a4@154.58.204.51:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msn.com#REALITY|ES🇪🇸
 vless://bcfd2b93-4dfd-42b5-9001-11e14c255761@es2.tunnely.ru:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=es2.tunnely.ru&fp=chrome&security=reality&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sid=2e40144ddc07e8e1#REALITY|ES🇪🇸
