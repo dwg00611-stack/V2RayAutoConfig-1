@@ -1,11 +1,9 @@
 ss://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=plb.tunnelguard.ru#PL🇵🇱
-ss://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=plb.tunnelguard.ru#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:215ms
 ss://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#%3E%3E%40flyv2ray%3A%3APL
 ss://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#PL🇵🇱
 ss://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&allowinsecure=0&type=xhttp&sni=plb.tunnelguard.ru#PL🇵🇱
 ss://30dd2eea-fe78-4660-a04f-096a7dac41e3@tiktok.ducks.tel:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mirror.yandex.ru&fp=chrome&security=reality&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&sid=916a#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40orange_vpns%20%5B18%5D
 ss://37e7881f-ff59-4858-83cd-c6b4b03cba4a@77.83.246.235:443?security=reality&encryption=none&pbk=8B1aKLm3jBQ_yf3aUvdagWwxkXHrlRyrzdQVoq17yXI&headerType=none&fp=chrome&spx=%2FbQl6HfpT0Ua2ko9&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=698295d180#REALITY|PL🇵🇱
-ss://3ee58d3a-7469-4557-b2f9-0d1d85c3a6fa@144.31.5.142:443?security=reality&encryption=none&pbk=ZqNF3CGI5QqAm5huC9sByjwxYd-6l5Pxc9-njmqqdl0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=d4d39c5f8688dfe2#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:41ms
 ss://3ee58d3a-7469-4557-b2f9-0d1d85c3a6fa@144.31.5.142:443?security=reality&encryption=none&pbk=ZqNF3CGI5QqAm5huC9sByjwxYd-6l5Pxc9-njmqqdl0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=d4d39c5f8688dfe2#REALITY|PL🇵🇱
 ss://3ee58d3a-7469-4557-b2f9-0d1d85c3a6fa@144.31.5.142:443?security=reality&type=tcp&sni=google.com&fp=qq&flow=xtls-rprx-vision&sid=d4d39c5f8688dfe2&pbk=ZqNF3CGI5QqAm5huC9sByjwxYd-6l5Pxc9-njmqqdl0&encryption=none#REALITY|PL🇵🇱
 ss://3ee58d3a-7469-4557-b2f9-0d1d85c3a6fa@144.31.5.142:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=qq&security=reality&pbk=ZqNF3CGI5QqAm5huC9sByjwxYd-6l5Pxc9-njmqqdl0&sid=d4d39c5f8688dfe2#REALITY|PL🇵🇱
@@ -54,12 +52,10 @@ ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ@217.30.10.70:9044#%F0%9F%87%B5%F0%9F
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@217.30.10.68:9014#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8540
 ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@217.30.10.63:9043#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.63-4201
 ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@217.30.10.68:9043#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8536
-ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@217.30.10.18:9003#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:40ms
 ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@217.30.10.63:9003#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.63-4204
 ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@217.30.10.68:9045#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8532
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.18:9011#PL%F0%9F%87%B5%F0%9F%87%B1+%7C+217.30.10.18-9011+%7C+103.09ms
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.68:9011#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8533
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@217.30.10.18:9011#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:43ms
 ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@217.30.10.63:9046#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.63-4196
 ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@217.30.10.70:9046#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-5047
 ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA@217.30.10.70:9046#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-0335
@@ -87,6 +83,7 @@ ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@217.30.10.70:9001#PL%F0%9F%87%B5%F
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@217.30.10.63:9025#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.63-4206
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@217.30.10.70:9025#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-5051
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw@217.30.10.70:9025#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-5088
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA@217.30.10.18:9064#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:54ms
 ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA@217.30.10.70:9064#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-5580
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.68:9000#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.68-8528
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.70:9000#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-5050
@@ -184,13 +181,11 @@ trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80/?type=tcp&security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-3816
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-3681
 vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=plb.tunnelguard.ru#PL🇵🇱
-vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=plb.tunnelguard.ru#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:215ms
 vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#%3E%3E%40flyv2ray%3A%3APL
 vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#PL🇵🇱
 vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&allowinsecure=0&type=xhttp&sni=plb.tunnelguard.ru#PL🇵🇱
 vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@tiktok.ducks.tel:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mirror.yandex.ru&fp=chrome&security=reality&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&sid=916a#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40orange_vpns%20%5B18%5D
 vless://37e7881f-ff59-4858-83cd-c6b4b03cba4a@77.83.246.235:443?security=reality&encryption=none&pbk=8B1aKLm3jBQ_yf3aUvdagWwxkXHrlRyrzdQVoq17yXI&headerType=none&fp=chrome&spx=%2FbQl6HfpT0Ua2ko9&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=698295d180#REALITY|PL🇵🇱
-vless://3ee58d3a-7469-4557-b2f9-0d1d85c3a6fa@144.31.5.142:443?security=reality&encryption=none&pbk=ZqNF3CGI5QqAm5huC9sByjwxYd-6l5Pxc9-njmqqdl0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=d4d39c5f8688dfe2#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:41ms
 vless://3ee58d3a-7469-4557-b2f9-0d1d85c3a6fa@144.31.5.142:443?security=reality&encryption=none&pbk=ZqNF3CGI5QqAm5huC9sByjwxYd-6l5Pxc9-njmqqdl0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=d4d39c5f8688dfe2#REALITY|PL🇵🇱
 vless://3ee58d3a-7469-4557-b2f9-0d1d85c3a6fa@144.31.5.142:443?security=reality&type=tcp&sni=google.com&fp=qq&flow=xtls-rprx-vision&sid=d4d39c5f8688dfe2&pbk=ZqNF3CGI5QqAm5huC9sByjwxYd-6l5Pxc9-njmqqdl0&encryption=none#REALITY|PL🇵🇱
 vless://3ee58d3a-7469-4557-b2f9-0d1d85c3a6fa@144.31.5.142:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=qq&security=reality&pbk=ZqNF3CGI5QqAm5huC9sByjwxYd-6l5Pxc9-njmqqdl0&sid=d4d39c5f8688dfe2#REALITY|PL🇵🇱
