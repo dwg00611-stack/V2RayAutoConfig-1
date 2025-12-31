@@ -269,6 +269,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWE9WakVNc3gwMGplT1F6SHNRcmtM@213.176.16.71:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsa3dxbGE3QjdJMXpQMUJadDlIOUZC@78.157.48.148:443#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+78.157.48.148-443+%7C+160.67ms
 ss://YWVzLTI1Ni1nY206ZDNkMDYwMDktNTgwYy1kMGY1LWVlMGUtNjg0NGU4MTU1NTQy@93343878961078676381579883502615.international-ixp.com:11305#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+93343878961078676381579883502615.international-ixp.com-11305+%7C+257.12ms
 ss://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@colin.ns.cloudflare.com:443?path=/fiedpnws&security=tls&encryption=none&host=638971674693810969.brussels-prmpl-aaaad.com&type=ws&sni=638971674693810969.brussels-prmpl-aaaad.com#MTN--@IRAN_V2RAY1
+ss://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?allowInsecure=0#%E4%BC%8A%E6%9C%97+V2CROSS.COM
 ss://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?encryption=none&security=none&type=tcp&headerType=none#IR🇮🇷
 ss://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 ss://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran🅿️ping:100ms
@@ -353,6 +354,7 @@ ss://f8f192d7-44df-477c-b1f5-76e77a42f511@news.zoom.us:2096?path=/admin#TELEGRAM
 ss://fea633c3-cacf-41d7-951a-a04b578b0dcf@bountyhunter.fonixapp.org:18092?security=reality&encryption=none&pbk=MJ40ajh3_flpAxxkkNgKzvaYqM8E5c9qBRPb-41arVI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=13ec7fe402#IR-@V2rayAlpha--11
 ss://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443/?type=ws&encryption=none&host=www.dns-shop.ir&path=%2F%3Fed%3D2048&security=tls&sni=www.dns-shop.ir&alpn=h2%2Chttp%2F1.1&fp=chrome#Bya%20To%20%3A%20%40Iran_V2ray1
 ss://narcod_ping@85.133.228.198:41546/?encryption=none&host=varzesh3.com&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40narcod_ping%20%5B14%5D
+trojan://09e71e3b-1f9f-44ab-9a10-02e0e10e2f05@37.202.200.19:25010?sni=37.202.200.19#%E4%BC%8A%E6%9C%97+V2CROSS.COM
 trojan://BxceQaOe@153.121.51.221:1821?security=tls&headerType=none&type=tcp&sni=t.me/ripaojiedian#@IRAN_V2RAY1
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@IRAN_V2RAY1
 trojan://Xa4%5El(%3B.%3BB%23a@104.18.26.90:443/?type=ws&host=s1.mitivpn.workers.dev&path=%2FtrUXByA1rnbs4YQ1Xw%3Fed%3D2560&security=tls&sni=S1.mitivpN.wOrKeRS.DEV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized#Join%20To%20%40IRAN_V2RAY1
@@ -530,6 +532,7 @@ vless://Warpi-Free-Vpn-In-GooglePlay@78.47.80.152:443?security=none&encryption=n
 vless://Warpi-Free-Vpn-In-GooglePlay@91.98.153.140:443?security=none&encryption=none&headerType=none&type=tcp#MCI--@IRAN_V2RAY1
 vless://Warpi-Free-Vpn-In-GooglePlay@vp9.myphotomoments.ir:443?security=none&encryption=none&headerType=none&type=tcp#All--@IRAN_V2RAY1🇩🇪
 vless://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@colin.ns.cloudflare.com:443?path=/fiedpnws&security=tls&encryption=none&host=638971674693810969.brussels-prmpl-aaaad.com&type=ws&sni=638971674693810969.brussels-prmpl-aaaad.com#MTN--@IRAN_V2RAY1
+vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?allowInsecure=0#%E4%BC%8A%E6%9C%97+V2CROSS.COM
 vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?encryption=none&security=none&type=tcp&headerType=none#IR🇮🇷
 vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?security=none&encryption=none&headerType=none&type=tcp#IR🇮🇷
 vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Tehran🅿️ping:100ms
