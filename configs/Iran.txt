@@ -355,7 +355,6 @@ ss://fea633c3-cacf-41d7-951a-a04b578b0dcf@bountyhunter.fonixapp.org:18092?securi
 ss://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443/?type=ws&encryption=none&host=www.dns-shop.ir&path=%2F%3Fed%3D2048&security=tls&sni=www.dns-shop.ir&alpn=h2%2Chttp%2F1.1&fp=chrome#Bya%20To%20%3A%20%40Iran_V2ray1
 ss://narcod_ping@85.133.228.198:41546/?encryption=none&host=varzesh3.com&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40narcod_ping%20%5B14%5D
 trojan://09e71e3b-1f9f-44ab-9a10-02e0e10e2f05@37.202.200.19:25010?allowInsecure=0&sni=37.202.200.19#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20V2CROSS.COM
-trojan://09e71e3b-1f9f-44ab-9a10-02e0e10e2f05@37.202.200.19:25010?allowInsecure=1&sni=37.202.200.19#%E4%BC%8A%E6%9C%97+V2CROSS.COM
 trojan://09e71e3b-1f9f-44ab-9a10-02e0e10e2f05@37.202.200.19:25010?sni=37.202.200.19#%F0%9F%87%AE%F0%9F%87%B7IR%E4%BC%8A%E6%9C%972
 trojan://BxceQaOe@153.121.51.221:1821?security=tls&headerType=none&type=tcp&sni=t.me/ripaojiedian#@IRAN_V2RAY1
 trojan://T@_WvT8Ho@LW%w_,@172.66.47.42:2053?path=/trGPZDfetEwuO25SAs?ed=2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@IRAN_V2RAY1
